@@ -36,6 +36,7 @@ jobs:
           node-version: "22"
           cache: npm
           registry-url: https://registry.npmjs.org
+      - run: npm install -g npm@11.19.0
       - run: npm ci
       - name: Check package version matches release tag
         run: |
