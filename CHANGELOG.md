@@ -7,9 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] - 2026-09-19
+
+### Added
+
+- `url` on the record returned by `resolveFootballLogo()`, matching the hashed PNG from `getFootballLogoUrl()`
+
 ### Changed
 
-- `resolveFootballLogo()` now includes the hashed PNG `url` on the record; framework wrappers use that instead of a second lookup
+- Framework wrappers resolve the catalog once and use `record.url`
+- Docs homepage shows the package version beside the title
 
 ## [0.1.0] - 2026-09-19
 
@@ -23,5 +30,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Listing helpers: `hasLogo`, `listCountries`, `listLeagues`, `listLogos`, `getCatalog`, `setCatalog`, and `setCatalogBaseUrl`
 - Docs catalog pages that list slugs and link to football-logos.cc
 
-[Unreleased]: https://github.com/julianYaman/football-logos/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/julianYaman/football-logos/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/julianYaman/football-logos/releases/tag/v0.2.0
 [0.1.0]: https://github.com/julianYaman/football-logos/releases/tag/v0.1.0
