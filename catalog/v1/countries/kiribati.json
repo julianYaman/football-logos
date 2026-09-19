@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "kiribati",
+    "iso2": "KI",
+    "name": "Kiribati",
+    "defaultLeague": "kiribati-national-team",
+    "leagues": {
+      "kiribati-national-team": {
+        "slug": "kiribati-national-team",
+        "name": "Kiribati National Team",
+        "hash": "d22badfc",
+        "kind": "league",
+        "code": "KI"
+      }
+    },
+    "clubs": {}
+  }
+}

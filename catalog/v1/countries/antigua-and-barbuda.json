@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "antigua-and-barbuda",
+    "iso2": "AG",
+    "name": "Antigua and Barbuda",
+    "defaultLeague": "antigua-and-barbuda-national-team",
+    "leagues": {
+      "antigua-and-barbuda-national-team": {
+        "slug": "antigua-and-barbuda-national-team",
+        "name": "Antigua and Barbuda National Team",
+        "hash": "008f7036",
+        "kind": "league",
+        "code": "AG"
+      }
+    },
+    "clubs": {}
+  }
+}

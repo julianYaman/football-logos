@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "ghana",
+    "iso2": "GH",
+    "name": "Ghana",
+    "defaultLeague": "ghana-premier-league",
+    "leagues": {
+      "ghana-premier-league": {
+        "slug": "ghana-premier-league",
+        "name": "Ghana Premier League",
+        "hash": "f3a68714",
+        "kind": "league",
+        "code": "GH"
+      },
+      "ghana-national-team": {
+        "slug": "ghana-national-team",
+        "name": "Ghana National Team",
+        "hash": "15f1ed45",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "hearts-of-oak": {
+        "slug": "hearts-of-oak",
+        "name": "Hearts of Oak",
+        "hash": "7fb81644",
+        "league": "ghana-premier-league"
+      },
+      "vision-fc": {
+        "slug": "vision-fc",
+        "name": "Vision FC",
+        "hash": "c98fdc89",
+        "league": "ghana-premier-league"
+      },
+      "samartex": {
+        "slug": "samartex",
+        "name": "Samartex",
+        "hash": "4ad5fd43",
+        "league": "ghana-premier-league"
+      },
+      "bechem-united": {
+        "slug": "bechem-united",
+        "name": "Bechem United",
+        "hash": "72bae4f7",
+        "league": "ghana-premier-league"
+      },
+      "basake-holy-stars": {
+        "slug": "basake-holy-stars",
+        "name": "Basake Holy Stars",
+        "hash": "4e42801b",
+        "league": "ghana-premier-league"
+      },
+      "asante-kotoko": {
+        "slug": "asante-kotoko",
+        "name": "Asante Kotoko",
+        "hash": "75ebb87f",
+        "league": "ghana-premier-league"
+      },
+      "debibi-united": {
+        "slug": "debibi-united",
+        "name": "Debibi United",
+        "hash": "747beffa",
+        "league": "ghana-premier-league"
+      },
+      "ashantigold-04": {
+        "slug": "ashantigold-04",
+        "name": "FC AshantiGold 04",
+        "hash": "32d82742",
+        "league": "ghana-premier-league"
+      },
+      "port-city-fc": {
+        "slug": "port-city-fc",
+        "name": "Port City FC",
+        "hash": "73f03df8",
+        "league": "ghana-premier-league"
+      },
+      "aduana-stars": {
+        "slug": "aduana-stars",
+        "name": "Aduana Stars",
+        "hash": "f8355761",
+        "league": "ghana-premier-league"
+      },
+      "heart-of-lions": {
+        "slug": "heart-of-lions",
+        "name": "Heart of Lions",
+        "hash": "0d8fd340",
+        "league": "ghana-premier-league"
+      },
+      "dreams-fc": {
+        "slug": "dreams-fc",
+        "name": "Dreams FC",
+        "hash": "0845e033",
+        "league": "ghana-premier-league"
+      },
+      "medeama-sc": {
+        "slug": "medeama-sc",
+        "name": "Medeama SC",
+        "hash": "c744069f",
+        "league": "ghana-premier-league"
+      },
+      "swedru-all-blacks": {
+        "slug": "swedru-all-blacks",
+        "name": "Swedru All Blacks",
+        "hash": "ab1ca8bc",
+        "league": "ghana-premier-league"
+      },
+      "bibiani-gold-stars": {
+        "slug": "bibiani-gold-stars",
+        "name": "Bibiani Gold Stars",
+        "hash": "b7a1ac94",
+        "league": "ghana-premier-league"
+      },
+      "karela-united": {
+        "slug": "karela-united",
+        "name": "Karela United",
+        "hash": "cb1a4a76",
+        "league": "ghana-premier-league"
+      },
+      "young-apostles": {
+        "slug": "young-apostles",
+        "name": "Young Apostles",
+        "hash": "67fcf716",
+        "league": "ghana-premier-league"
+      },
+      "berekum-chelsea": {
+        "slug": "berekum-chelsea",
+        "name": "Berekum Chelsea",
+        "hash": "e0bd8fc6",
+        "league": "ghana-premier-league"
+      }
+    }
+  }
+}

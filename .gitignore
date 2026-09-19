@@ -1,0 +1,14 @@
+node_modules
+dist
+.DS_Store
+*.log
+.vitepress/cache
+docs/.vitepress/cache
+docs/.vitepress/dist
+coverage
+.turbo
+*.tsbuildinfo
+.env
+.idea
+.vscode
+scripts/.extract

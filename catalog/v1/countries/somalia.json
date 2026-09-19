@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "somalia",
+    "iso2": "SO",
+    "name": "Somalia",
+    "defaultLeague": "somalia-national-team",
+    "leagues": {
+      "somalia-national-team": {
+        "slug": "somalia-national-team",
+        "name": "Somalia National Team",
+        "hash": "0a679912",
+        "kind": "league",
+        "code": "SO"
+      }
+    },
+    "clubs": {}
+  }
+}

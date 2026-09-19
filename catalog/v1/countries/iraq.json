@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "iraq",
+    "iso2": "IQ",
+    "name": "Iraq",
+    "defaultLeague": "iraq-stars-league",
+    "leagues": {
+      "iraq-stars-league": {
+        "slug": "iraq-stars-league",
+        "name": "Iraq Stars League",
+        "hash": "40518707",
+        "kind": "league",
+        "code": "IQ"
+      },
+      "iraq-national-team": {
+        "slug": "iraq-national-team",
+        "name": "Iraq National Team",
+        "hash": "c6540c39",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "al-quwa-al-jawiya": {
+        "slug": "al-quwa-al-jawiya",
+        "name": "Al-Quwa Al-Jawiya",
+        "hash": "12d186a2",
+        "league": "iraq-stars-league"
+      },
+      "al-shorta": {
+        "slug": "al-shorta",
+        "name": "Al-Shorta",
+        "hash": "6dc54934",
+        "league": "iraq-stars-league"
+      },
+      "erbil-sc": {
+        "slug": "erbil-sc",
+        "name": "Erbil SC",
+        "hash": "f64af79c",
+        "league": "iraq-stars-league"
+      },
+      "al-zawraa": {
+        "slug": "al-zawraa",
+        "name": "Al-Zawraa SC",
+        "hash": "0f9a7968",
+        "league": "iraq-stars-league"
+      },
+      "al-talaba": {
+        "slug": "al-talaba",
+        "name": "Al-Talaba SC",
+        "hash": "65890aa8",
+        "league": "iraq-stars-league"
+      },
+      "al-karma": {
+        "slug": "al-karma",
+        "name": "Al-Karma SC",
+        "hash": "66b5f0ec",
+        "league": "iraq-stars-league"
+      },
+      "al-karkh": {
+        "slug": "al-karkh",
+        "name": "Al-Karkh SC",
+        "hash": "acd23374",
+        "league": "iraq-stars-league"
+      },
+      "newroz-sc": {
+        "slug": "newroz-sc",
+        "name": "Newroz SC",
+        "hash": "5067d91f",
+        "league": "iraq-stars-league"
+      },
+      "zakho-sc": {
+        "slug": "zakho-sc",
+        "name": "Zakho SC",
+        "hash": "8de0705e",
+        "league": "iraq-stars-league"
+      },
+      "duhok-sc": {
+        "slug": "duhok-sc",
+        "name": "Duhok SC",
+        "hash": "e5053b23",
+        "league": "iraq-stars-league"
+      },
+      "diyala-sc": {
+        "slug": "diyala-sc",
+        "name": "Diyala SC",
+        "hash": "8665d2d2",
+        "league": "iraq-stars-league"
+      },
+      "al-naft": {
+        "slug": "al-naft",
+        "name": "Al-Naft SC",
+        "hash": "b5d9d2a2",
+        "league": "iraq-stars-league"
+      },
+      "al-mosul": {
+        "slug": "al-mosul",
+        "name": "Al-Mosul SC",
+        "hash": "5e2ebc8b",
+        "league": "iraq-stars-league"
+      },
+      "al-gharraf": {
+        "slug": "al-gharraf",
+        "name": "Al-Gharraf SC",
+        "hash": "ce6122c0",
+        "league": "iraq-stars-league"
+      },
+      "naft-maysan": {
+        "slug": "naft-maysan",
+        "name": "Naft Maysan SC",
+        "hash": "f52438e0",
+        "league": "iraq-stars-league"
+      },
+      "al-minaa": {
+        "slug": "al-minaa",
+        "name": "Al-Minaa SC",
+        "hash": "a5950bd9",
+        "league": "iraq-stars-league"
+      },
+      "al-kahrabaa": {
+        "slug": "al-kahrabaa",
+        "name": "Al-Kahrabaa SC",
+        "hash": "c4178c80",
+        "league": "iraq-stars-league"
+      },
+      "ghaz-al-shamal": {
+        "slug": "ghaz-al-shamal",
+        "name": "Ghaz Al-Shamal",
+        "hash": "ed3dcff6",
+        "league": "iraq-stars-league"
+      },
+      "al-jolan": {
+        "slug": "al-jolan",
+        "name": "Al-Jolan SC",
+        "hash": "4337e33a",
+        "league": "iraq-stars-league"
+      },
+      "karbala-sc": {
+        "slug": "karbala-sc",
+        "name": "Karbala SC",
+        "hash": "65e58209",
+        "league": "iraq-stars-league"
+      },
+      "amanat-baghdad": {
+        "slug": "amanat-baghdad",
+        "name": "Amanat Baghdad SC",
+        "hash": "20d99c14",
+        "league": ""
+      },
+      "al-najaf": {
+        "slug": "al-najaf",
+        "name": "Al-Najaf SC",
+        "hash": "a25998ec",
+        "league": ""
+      },
+      "al-qasim": {
+        "slug": "al-qasim",
+        "name": "Al-Qasim SC",
+        "hash": "cc37a8b6",
+        "league": ""
+      }
+    }
+  }
+}

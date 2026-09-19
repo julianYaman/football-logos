@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "venezuela",
+    "iso2": "VE",
+    "name": "Venezuela",
+    "defaultLeague": "primera-division-de-venezuela",
+    "leagues": {
+      "primera-division-de-venezuela": {
+        "slug": "primera-division-de-venezuela",
+        "name": "Primera División de Venezuela",
+        "hash": "343b6a0c",
+        "kind": "league",
+        "code": "VE"
+      },
+      "venezuela-national-team": {
+        "slug": "venezuela-national-team",
+        "name": "Venezuela National Team",
+        "hash": "8df14fc6",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "deportivo-la-guaira": {
+        "slug": "deportivo-la-guaira",
+        "name": "Deportivo La Guaira",
+        "hash": "5ac33f81",
+        "league": "primera-division-de-venezuela"
+      },
+      "deportivo-tachira": {
+        "slug": "deportivo-tachira",
+        "name": "Deportivo Táchira",
+        "hash": "875cf12a",
+        "league": "primera-division-de-venezuela"
+      },
+      "carabobo": {
+        "slug": "carabobo",
+        "name": "Carabobo FC",
+        "hash": "afbd03f4",
+        "league": "primera-division-de-venezuela"
+      },
+      "monagas": {
+        "slug": "monagas",
+        "name": "Monagas SC",
+        "hash": "5a36d16b",
+        "league": "primera-division-de-venezuela"
+      },
+      "caracas": {
+        "slug": "caracas",
+        "name": "Caracas",
+        "hash": "0cdab12b",
+        "league": "primera-division-de-venezuela"
+      },
+      "zamora": {
+        "slug": "zamora",
+        "name": "Zamora FC",
+        "hash": "a92c4827",
+        "league": "primera-division-de-venezuela"
+      },
+      "academia-puerto-cabello": {
+        "slug": "academia-puerto-cabello",
+        "name": "Academia Puerto Cabello",
+        "hash": "42baa9bd",
+        "league": "primera-division-de-venezuela"
+      },
+      "metropolitanos": {
+        "slug": "metropolitanos",
+        "name": "Metropolitanos FC",
+        "hash": "f8c930fd",
+        "league": "primera-division-de-venezuela"
+      },
+      "universidad-central": {
+        "slug": "universidad-central",
+        "name": "Universidad Central",
+        "hash": "da9a3446",
+        "league": "primera-division-de-venezuela"
+      },
+      "estudiantes-merida": {
+        "slug": "estudiantes-merida",
+        "name": "Estudiantes Mérida",
+        "hash": "831cdf02",
+        "league": "primera-division-de-venezuela"
+      },
+      "rayo-zuliano": {
+        "slug": "rayo-zuliano",
+        "name": "Rayo Zuliano",
+        "hash": "b092031c",
+        "league": "primera-division-de-venezuela"
+      },
+      "academia-anzoategui": {
+        "slug": "academia-anzoategui",
+        "name": "Academia Anzoátegui",
+        "hash": "6a8b87c4",
+        "league": "primera-division-de-venezuela"
+      },
+      "portuguesa": {
+        "slug": "portuguesa",
+        "name": "Portuguesa FC",
+        "hash": "3ad79760",
+        "league": "primera-division-de-venezuela"
+      },
+      "trujillanos-fc": {
+        "slug": "trujillanos-fc",
+        "name": "Trujillanos FC",
+        "hash": "898294aa",
+        "league": "primera-division-de-venezuela"
+      },
+      "yaracuyanos": {
+        "slug": "yaracuyanos",
+        "name": "Yaracuyanos FC",
+        "hash": "efe7f179",
+        "league": ""
+      },
+      "mineros-de-guayana": {
+        "slug": "mineros-de-guayana",
+        "name": "Mineros de Guayana",
+        "hash": "228db831",
+        "league": ""
+      }
+    }
+  }
+}

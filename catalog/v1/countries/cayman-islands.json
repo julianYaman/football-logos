@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "cayman-islands",
+    "iso2": "KY",
+    "name": "Cayman Islands",
+    "defaultLeague": "cayman-islands-national-team",
+    "leagues": {
+      "cayman-islands-national-team": {
+        "slug": "cayman-islands-national-team",
+        "name": "Cayman Islands National Team",
+        "hash": "fbbf105b",
+        "kind": "league",
+        "code": "KY"
+      }
+    },
+    "clubs": {}
+  }
+}

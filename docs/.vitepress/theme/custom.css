@@ -1,0 +1,325 @@
+.VPHero.has-image .image-bg {
+  display: none;
+}
+
+.VPHero.has-image .image-container {
+  width: 100%;
+  height: auto;
+  transform: none;
+}
+
+.VPHero.has-image .image {
+  order: 2;
+  margin: 24px 0 0;
+}
+
+.VPHero.has-image .main {
+  order: 1;
+}
+
+.VPHero:has(.hero-install) .main {
+  text-align: center;
+}
+
+.VPHero:has(.hero-install) .name,
+.VPHero:has(.hero-install) .text,
+.VPHero:has(.hero-install) .tagline {
+  margin-inline: auto;
+}
+
+.VPHero:has(.hero-install) .actions {
+  justify-content: center;
+}
+
+.VPHero:has(.hero-install) .hero-install {
+  margin-inline: auto;
+}
+
+.hero-version {
+  display: inline-flex;
+  align-items: center;
+  align-self: flex-start;
+  width: max-content;
+  margin: 0.35rem 0 0.85rem;
+  padding: 0.15rem 0.6rem;
+  color: var(--vp-c-brand-1);
+  font-size: 0.8125rem;
+  font-weight: 600;
+  font-family: var(--vp-font-family-mono);
+  line-height: 1.6;
+  text-decoration: none;
+  background: var(--vp-c-brand-soft);
+  border-radius: 999px;
+}
+
+.hero-version:hover {
+  color: var(--vp-c-brand-2);
+}
+
+@media (min-width: 960px) {
+  .VPHero.has-image .image {
+    margin: 0;
+    align-self: center;
+  }
+
+  .VPHero:has(.hero-install) .main {
+    text-align: left;
+  }
+
+  .VPHero:has(.hero-install) .name,
+  .VPHero:has(.hero-install) .text,
+  .VPHero:has(.hero-install) .tagline {
+    margin-inline: 0;
+  }
+
+  .VPHero:has(.hero-install) .actions {
+    justify-content: flex-start;
+  }
+
+  .VPHero:has(.hero-install) .hero-install {
+    margin-inline: 0;
+    max-width: none;
+  }
+
+  .hero-version {
+    margin-inline: 0;
+  }
+}
+
+.vp-doc [class*="language-"] pre,
+.vp-doc [class*="language-"] code,
+.vp-doc [class*="language-"] .highlight pre,
+.vp-doc [class*="language-"] .highlight code {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+.vp-doc [class*="language-"] pre,
+.vp-doc [class*="language-"] .highlight pre {
+  overflow-x: hidden;
+}
+
+.vp-doc div[class*="language-"] {
+  position: relative;
+}
+
+.vp-doc .catalog-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(7rem, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.vp-doc .catalog-grid-wide {
+  grid-template-columns: repeat(auto-fill, minmax(9.5rem, 1fr));
+}
+
+.vp-doc .catalog-section {
+  margin-top: 2.5rem;
+}
+
+.vp-doc .catalog-section h2 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5rem 0.75rem;
+  margin-bottom: 0.5rem;
+  border-top: none;
+  padding-top: 0;
+}
+
+.vp-doc .catalog-heading-slug {
+  color: var(--vp-c-text-2);
+  font-size: 0.95rem;
+  font-weight: 500;
+  font-family: var(--vp-font-family-mono);
+}
+
+.vp-doc .catalog-section h3 {
+  margin-top: 1.75rem;
+  margin-bottom: 0.25rem;
+  font-size: 1.05rem;
+  border-top: none;
+  padding-top: 0;
+}
+
+.vp-doc .catalog-card {
+  margin: 0;
+  text-align: center;
+}
+
+.vp-doc .catalog-card img {
+  display: inline-block;
+  padding: 0.4rem;
+  background: #fff;
+  border-radius: 0.5rem;
+}
+
+.vp-doc .catalog-card figcaption {
+  margin-top: 0.4rem;
+  font-size: 0.75rem;
+  line-height: 1.3;
+}
+
+.vp-doc .catalog-card .catalog-slug {
+  display: block;
+  margin-top: 0.15rem;
+  color: var(--vp-c-text-3);
+  font-size: 0.6875rem;
+}
+
+.vp-doc .catalog-card .catalog-ids {
+  display: grid;
+  gap: 0.2rem;
+  margin-top: 0.3rem;
+  text-align: left;
+}
+
+.vp-doc .catalog-card .catalog-id {
+  display: grid;
+  grid-template-columns: 3.25rem minmax(0, 1fr);
+  align-items: start;
+  column-gap: 0.35rem;
+  font-size: 0.6875rem;
+  line-height: 1.25;
+}
+
+.vp-doc .catalog-card .catalog-id-label {
+  color: var(--vp-c-text-3);
+  font-size: 0.625rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.vp-doc .catalog-card .catalog-id-value {
+  overflow-wrap: anywhere;
+  color: var(--vp-c-text-2);
+  font-family: var(--vp-font-family-mono);
+}
+
+.vp-doc .catalog-browse {
+  margin: 0.25rem 0 0.75rem;
+  font-size: 0.9rem;
+}
+
+.vp-doc .catalog-slug-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+  gap: 0.15rem 1.25rem;
+  margin: 0.5rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.vp-doc .catalog-slug-list li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem 0.6rem;
+  margin: 0;
+  padding: 0.2rem 0;
+}
+
+.vp-doc .catalog-slug-list a {
+  font-weight: 500;
+}
+
+.vp-doc .catalog-slug-list .catalog-slug {
+  color: var(--vp-c-text-3);
+  font-size: 0.75rem;
+  font-family: var(--vp-font-family-mono);
+}
+
+.vp-doc .catalog-table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  margin-top: 1.5rem;
+  border-collapse: collapse;
+}
+
+.vp-doc .catalog-table th,
+.vp-doc .catalog-table td {
+  padding: 0.45rem 0.75rem 0.45rem 0.85rem;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.vp-doc .catalog-table th {
+  color: var(--vp-c-text-2);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.vp-doc .catalog-table code {
+  font-size: 0.8rem;
+}
+
+.catalog-slug-copy {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  max-width: 100%;
+}
+
+.catalog-slug-copy code {
+  overflow-wrap: anywhere;
+}
+
+.catalog-slug-copy-btn {
+  display: inline-flex;
+  flex: none;
+  align-items: center;
+  justify-content: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  margin: 0;
+  padding: 0;
+  color: var(--vp-c-text-3);
+  background: transparent;
+  border: 0;
+  border-radius: 0.3rem;
+  opacity: 0;
+  cursor: pointer;
+  transition: opacity 0.12s ease, color 0.12s ease, background 0.12s ease;
+}
+
+.catalog-slug-copy:hover .catalog-slug-copy-btn,
+.catalog-slug-copy:focus-within .catalog-slug-copy-btn,
+.catalog-table td:hover .catalog-slug-copy-btn,
+.catalog-slug-copy.copied .catalog-slug-copy-btn {
+  opacity: 1;
+}
+
+.catalog-slug-copy-btn:hover,
+.catalog-slug-copy-btn:focus-visible {
+  color: var(--vp-c-text-1);
+  background: var(--vp-c-default-soft);
+}
+
+.catalog-slug-copy.copied .catalog-slug-copy-btn {
+  color: var(--vp-c-brand-1);
+}
+
+.catalog-slug-copy-icon {
+  width: 0.9rem;
+  height: 0.9rem;
+}
+
+@media (hover: none) {
+  .catalog-slug-copy-btn {
+    opacity: 0.55;
+  }
+}
+
+.VPFooter.has-sidebar {
+  display: block;
+}
+
+.VPFooter .message {
+  text-wrap: balance;
+}

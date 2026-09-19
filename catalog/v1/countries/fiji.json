@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "fiji",
+    "iso2": "FJ",
+    "name": "Fiji",
+    "defaultLeague": "fiji-national-team",
+    "leagues": {
+      "fiji-national-team": {
+        "slug": "fiji-national-team",
+        "name": "Fiji National Team",
+        "hash": "a32fc16f",
+        "kind": "league",
+        "code": "FJ"
+      }
+    },
+    "clubs": {}
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "china",
+    "iso2": "CN",
+    "name": "China",
+    "defaultLeague": "chinese-super-league",
+    "leagues": {
+      "chinese-super-league": {
+        "slug": "chinese-super-league",
+        "name": "Chinese Super League",
+        "hash": "13e4c13a",
+        "kind": "league",
+        "code": "CN"
+      },
+      "china-national-team": {
+        "slug": "china-national-team",
+        "name": "China National Team",
+        "hash": "676b7c09",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "shanghai-shenhua": {
+        "slug": "shanghai-shenhua",
+        "name": "Shanghai Shenhua",
+        "hash": "cbc94596",
+        "league": "chinese-super-league"
+      },
+      "chengdu-rongcheng": {
+        "slug": "chengdu-rongcheng",
+        "name": "Chengdu Rongcheng",
+        "hash": "2bc45ba4",
+        "league": "chinese-super-league"
+      },
+      "chongqing-tonglianglong": {
+        "slug": "chongqing-tonglianglong",
+        "name": "Chongqing Tonglianglong",
+        "hash": "53547953",
+        "league": "chinese-super-league"
+      },
+      "shanghai-port": {
+        "slug": "shanghai-port",
+        "name": "Shanghai Port",
+        "hash": "0aa038ca",
+        "league": "chinese-super-league"
+      },
+      "beijing-guoan": {
+        "slug": "beijing-guoan",
+        "name": "Beijing Guoan",
+        "hash": "1df87f4d",
+        "league": "chinese-super-league"
+      },
+      "zhejiang-professional": {
+        "slug": "zhejiang-professional",
+        "name": "Zhejiang Professional FC",
+        "hash": "4f74e6f0",
+        "league": "chinese-super-league"
+      },
+      "tianjin-jinmen-tiger": {
+        "slug": "tianjin-jinmen-tiger",
+        "name": "Tianjin Jinmen Tiger",
+        "hash": "0607a525",
+        "league": "chinese-super-league"
+      },
+      "dalian-yingbo": {
+        "slug": "dalian-yingbo",
+        "name": "Dalian Yingbo",
+        "hash": "69d1000a",
+        "league": "chinese-super-league"
+      },
+      "shandong-taishan": {
+        "slug": "shandong-taishan",
+        "name": "Shandong Taishan",
+        "hash": "a66e8c94",
+        "league": "chinese-super-league"
+      },
+      "yunnan-yukun": {
+        "slug": "yunnan-yukun",
+        "name": "Yunnan Yukun",
+        "hash": "1030dde0",
+        "league": "chinese-super-league"
+      },
+      "qingdao-west-coast": {
+        "slug": "qingdao-west-coast",
+        "name": "Qingdao West Coast",
+        "hash": "6d386f2c",
+        "league": "chinese-super-league"
+      },
+      "wuhan-three-towns": {
+        "slug": "wuhan-three-towns",
+        "name": "Wuhan Three Towns",
+        "hash": "6be65d9a",
+        "league": "chinese-super-league"
+      },
+      "henan-songshan-longmen": {
+        "slug": "henan-songshan-longmen",
+        "name": "Henan Songshan Longmen",
+        "hash": "3cd0d41d",
+        "league": "chinese-super-league"
+      },
+      "shenzhen-xinpengcheng": {
+        "slug": "shenzhen-xinpengcheng",
+        "name": "Shenzhen Xinpengcheng",
+        "hash": "adc9e767",
+        "league": "chinese-super-league"
+      },
+      "qingdao-hainiu": {
+        "slug": "qingdao-hainiu",
+        "name": "Qingdao Hainiu",
+        "hash": "c30126cd",
+        "league": "chinese-super-league"
+      },
+      "liaoning-tiening": {
+        "slug": "liaoning-tiening",
+        "name": "Liaoning Tiening",
+        "hash": "2898060b",
+        "league": "chinese-super-league"
+      },
+      "meizhou-hakka": {
+        "slug": "meizhou-hakka",
+        "name": "Meizhou Hakka",
+        "hash": "2e5499a2",
+        "league": ""
+      },
+      "changchun-yatai": {
+        "slug": "changchun-yatai",
+        "name": "Changchun Yatai",
+        "hash": "73366586",
+        "league": ""
+      },
+      "jiangsu-fc": {
+        "slug": "jiangsu-fc",
+        "name": "Jiangsu FC",
+        "hash": "fd55b0f9",
+        "league": ""
+      }
+    }
+  }
+}

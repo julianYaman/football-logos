@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "angola",
+    "iso2": "AO",
+    "name": "Angola",
+    "defaultLeague": "angola-national-team",
+    "leagues": {
+      "angola-national-team": {
+        "slug": "angola-national-team",
+        "name": "Angola National Team",
+        "hash": "89bda365",
+        "kind": "league",
+        "code": "AO"
+      }
+    },
+    "clubs": {}
+  }
+}

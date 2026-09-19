@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "bahrain",
+    "iso2": "BH",
+    "name": "Bahrain",
+    "defaultLeague": "bahrain-national-team",
+    "leagues": {
+      "bahrain-national-team": {
+        "slug": "bahrain-national-team",
+        "name": "Bahrain National Team",
+        "hash": "b6c0e7ab",
+        "kind": "league",
+        "code": "BH"
+      }
+    },
+    "clubs": {}
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "south-sudan",
+    "iso2": "SS",
+    "name": "South Sudan",
+    "defaultLeague": "south-sudan-national-team",
+    "leagues": {
+      "south-sudan-national-team": {
+        "slug": "south-sudan-national-team",
+        "name": "South Sudan National Team",
+        "hash": "e630285c",
+        "kind": "league",
+        "code": "SS"
+      }
+    },
+    "clubs": {}
+  }
+}

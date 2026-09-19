@@ -1,0 +1,381 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "wales",
+    "iso2": "WAL",
+    "name": "Wales",
+    "defaultLeague": "cymru-premier",
+    "leagues": {
+      "cymru-premier": {
+        "slug": "cymru-premier",
+        "name": "Cymru Premier",
+        "hash": "26097fd1",
+        "kind": "league",
+        "code": "WAL"
+      },
+      "cymru-north": {
+        "slug": "cymru-north",
+        "name": "Cymru North",
+        "hash": "facab449",
+        "kind": "league"
+      },
+      "cymru-south": {
+        "slug": "cymru-south",
+        "name": "Cymru South",
+        "hash": "2272e9ab",
+        "kind": "league"
+      },
+      "wales-national-team": {
+        "slug": "wales-national-team",
+        "name": "Wales National Team",
+        "hash": "71fe1f6e",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "the-new-saints": {
+        "slug": "the-new-saints",
+        "name": "The New Saints",
+        "hash": "912ab0d0",
+        "league": "cymru-premier"
+      },
+      "penybont": {
+        "slug": "penybont",
+        "name": "Penybont",
+        "hash": "bcbbf065",
+        "league": "cymru-premier"
+      },
+      "haverfordwest-county": {
+        "slug": "haverfordwest-county",
+        "name": "Haverfordwest County",
+        "hash": "ae4840c1",
+        "league": "cymru-premier"
+      },
+      "caernarfon-town": {
+        "slug": "caernarfon-town",
+        "name": "Caernarfon Town",
+        "hash": "12aeda12",
+        "league": "cymru-premier"
+      },
+      "cardiff-metropolitan-university": {
+        "slug": "cardiff-metropolitan-university",
+        "name": "Cardiff Metropolitan University",
+        "hash": "c882f268",
+        "league": "cymru-premier"
+      },
+      "barry-town-united": {
+        "slug": "barry-town-united",
+        "name": "Barry Town United",
+        "hash": "80fe6caa",
+        "league": "cymru-premier"
+      },
+      "connahs-quay-nomads": {
+        "slug": "connahs-quay-nomads",
+        "name": "Connah&#39;s Quay Nomads",
+        "hash": "efbec69d",
+        "league": "cymru-premier"
+      },
+      "flint-town-united": {
+        "slug": "flint-town-united",
+        "name": "Flint Town United",
+        "hash": "789adc26",
+        "league": "cymru-premier"
+      },
+      "briton-ferry-llansawel": {
+        "slug": "briton-ferry-llansawel",
+        "name": "Briton Ferry Llansawel",
+        "hash": "06c803d4",
+        "league": "cymru-premier"
+      },
+      "broughton": {
+        "slug": "broughton",
+        "name": "Airbus UK Broughton",
+        "hash": "73e1eefb",
+        "league": "cymru-premier"
+      },
+      "colwyn-bay": {
+        "slug": "colwyn-bay",
+        "name": "Colwyn Bay",
+        "hash": "1bb2822f",
+        "league": "cymru-premier"
+      },
+      "holywell-town": {
+        "slug": "holywell-town",
+        "name": "Holywell Town",
+        "hash": "db944467",
+        "league": "cymru-premier"
+      },
+      "llandudno": {
+        "slug": "llandudno",
+        "name": "Llandudno",
+        "hash": "e861064f",
+        "league": "cymru-premier"
+      },
+      "ammanford-afc": {
+        "slug": "ammanford-afc",
+        "name": "Ammanford AFC",
+        "hash": "cfca94cc",
+        "league": "cymru-premier"
+      },
+      "cambrian-united": {
+        "slug": "cambrian-united",
+        "name": "Cambrian United",
+        "hash": "c3dcaaa8",
+        "league": "cymru-premier"
+      },
+      "trefelin-bgc": {
+        "slug": "trefelin-bgc",
+        "name": "Trefelin BGC",
+        "hash": "d317a47e",
+        "league": "cymru-premier"
+      },
+      "bala-town-fc": {
+        "slug": "bala-town-fc",
+        "name": "Bala Town FC",
+        "hash": "a35958c7",
+        "league": "cymru-north"
+      },
+      "newtown-afc": {
+        "slug": "newtown-afc",
+        "name": "Newtown AFC",
+        "hash": "67dbdbc5",
+        "league": "cymru-north"
+      },
+      "bangor-1876": {
+        "slug": "bangor-1876",
+        "name": "Bangor 1876",
+        "hash": "77f85832",
+        "league": "cymru-north"
+      },
+      "buckley-town": {
+        "slug": "buckley-town",
+        "name": "Buckley Town",
+        "hash": "96bc25e1",
+        "league": "cymru-north"
+      },
+      "caersws": {
+        "slug": "caersws",
+        "name": "Caersws",
+        "hash": "90956ae0",
+        "league": "cymru-north"
+      },
+      "gresford-athletic": {
+        "slug": "gresford-athletic",
+        "name": "CPD Gresford Athletic",
+        "hash": "a3e3a82b",
+        "league": "cymru-north"
+      },
+      "guilsfield-fc": {
+        "slug": "guilsfield-fc",
+        "name": "Guilsfield FC",
+        "hash": "a606420c",
+        "league": "cymru-north"
+      },
+      "holyhead-hotspur": {
+        "slug": "holyhead-hotspur",
+        "name": "Holyhead Hotspur",
+        "hash": "2aa838ce",
+        "league": "cymru-north"
+      },
+      "mold-alexandra": {
+        "slug": "mold-alexandra",
+        "name": "Mold Alexandra",
+        "hash": "d09c2bfc",
+        "league": "cymru-north"
+      },
+      "penrhyncoch": {
+        "slug": "penrhyncoch",
+        "name": "Penrhyncoch",
+        "hash": "8e96cd64",
+        "league": "cymru-north"
+      },
+      "porthmadog": {
+        "slug": "porthmadog",
+        "name": "Porthmadog",
+        "hash": "4e14d243",
+        "league": "cymru-north"
+      },
+      "ruthin-town": {
+        "slug": "ruthin-town",
+        "name": "Ruthin Town",
+        "hash": "1e9e91fb",
+        "league": "cymru-north"
+      },
+      "brickfield-rangers": {
+        "slug": "brickfield-rangers",
+        "name": "Brickfield Rangers",
+        "hash": "652bd3f8",
+        "league": "cymru-north"
+      },
+      "llanuwchllyn-fc": {
+        "slug": "llanuwchllyn-fc",
+        "name": "Llanuwchllyn FC",
+        "hash": "1731cac0",
+        "league": "cymru-north"
+      },
+      "rhyl-1879": {
+        "slug": "rhyl-1879",
+        "name": "CPD Y Rhyl 1879",
+        "hash": "bc80c623",
+        "league": "cymru-north"
+      },
+      "denbigh-town": {
+        "slug": "denbigh-town",
+        "name": "Denbigh Town",
+        "hash": "35758f80",
+        "league": "cymru-north"
+      },
+      "aberystwyth-town": {
+        "slug": "aberystwyth-town",
+        "name": "Aberystwyth Town",
+        "hash": "081a99c5",
+        "league": "cymru-south"
+      },
+      "afan-lido": {
+        "slug": "afan-lido",
+        "name": "Afan Lido",
+        "hash": "17e36ddf",
+        "league": "cymru-south"
+      },
+      "caerau-ely": {
+        "slug": "caerau-ely",
+        "name": "Caerau Ely",
+        "hash": "616ebd7e",
+        "league": "cymru-south"
+      },
+      "carmarthen": {
+        "slug": "carmarthen",
+        "name": "Carmarthen",
+        "hash": "56f96ef5",
+        "league": "cymru-south"
+      },
+      "llanelli-town": {
+        "slug": "llanelli-town",
+        "name": "Llanelli Town",
+        "hash": "5a6563de",
+        "league": "cymru-south"
+      },
+      "llantwit-major-fc": {
+        "slug": "llantwit-major-fc",
+        "name": "Llantwit Major FC",
+        "hash": "9f6b8a94",
+        "league": "cymru-south"
+      },
+      "pontypridd-united": {
+        "slug": "pontypridd-united",
+        "name": "Pontypridd United",
+        "hash": "6cb040f4",
+        "league": "cymru-south"
+      },
+      "baglan-dragons": {
+        "slug": "baglan-dragons",
+        "name": "Baglan Dragons",
+        "hash": "4956d103",
+        "league": "cymru-south"
+      },
+      "caerphilly-athletic": {
+        "slug": "caerphilly-athletic",
+        "name": "Caerphilly Athletic",
+        "hash": "9413c56a",
+        "league": "cymru-south"
+      },
+      "cardiff-draconians": {
+        "slug": "cardiff-draconians",
+        "name": "Cardiff Draconians",
+        "hash": "52252ea8",
+        "league": "cymru-south"
+      },
+      "newport-city": {
+        "slug": "newport-city",
+        "name": "Newport City",
+        "hash": "45997b86",
+        "league": "cymru-south"
+      },
+      "pontardawe-town": {
+        "slug": "pontardawe-town",
+        "name": "Pontardawe Town",
+        "hash": "a193e329",
+        "league": "cymru-south"
+      },
+      "pure-swansea": {
+        "slug": "pure-swansea",
+        "name": "Pure Swansea",
+        "hash": "70ef881f",
+        "league": "cymru-south"
+      },
+      "treowen-stars": {
+        "slug": "treowen-stars",
+        "name": "Treowen Stars",
+        "hash": "40f999e0",
+        "league": "cymru-south"
+      },
+      "trethomas-bluebirds": {
+        "slug": "trethomas-bluebirds",
+        "name": "Trethomas Bluebirds",
+        "hash": "3434973d",
+        "league": "cymru-south"
+      },
+      "ynyshir-albions": {
+        "slug": "ynyshir-albions",
+        "name": "Ynyshir Albions",
+        "hash": "b53c42ea",
+        "league": "cymru-south"
+      },
+      "corwen": {
+        "slug": "corwen",
+        "name": "Corwen",
+        "hash": "a932d7f0",
+        "league": ""
+      },
+      "cwmbran-town": {
+        "slug": "cwmbran-town",
+        "name": "Cwmbran Town",
+        "hash": "c3acfffc",
+        "league": ""
+      },
+      "cwmbran-celtic": {
+        "slug": "cwmbran-celtic",
+        "name": "Cwmbran Celtic",
+        "hash": "bbe63fa0",
+        "league": ""
+      },
+      "goytre-united": {
+        "slug": "goytre-united",
+        "name": "Goytre United",
+        "hash": "8d076216",
+        "league": ""
+      },
+      "llangefni": {
+        "slug": "llangefni",
+        "name": "Llangefni",
+        "hash": "4a04677a",
+        "league": ""
+      },
+      "monmouth-town": {
+        "slug": "monmouth-town",
+        "name": "Monmouth Town",
+        "hash": "e34819a5",
+        "league": ""
+      },
+      "prestatyn-town": {
+        "slug": "prestatyn-town",
+        "name": "Prestatyn Town",
+        "hash": "ece19d32",
+        "league": ""
+      },
+      "merthyr-town": {
+        "slug": "merthyr-town",
+        "name": "Merthyr Town",
+        "hash": "ef1676b7",
+        "league": ""
+      },
+      "chirk-aaa": {
+        "slug": "chirk-aaa",
+        "name": "Chirk AAA FC",
+        "hash": "3fd3df84",
+        "league": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "central-african-republic",
+    "iso2": "CF",
+    "name": "Central African Republic",
+    "defaultLeague": "central-african-republic-national-team",
+    "leagues": {
+      "central-african-republic-national-team": {
+        "slug": "central-african-republic-national-team",
+        "name": "Central African Republic National Team",
+        "hash": "d4477448",
+        "kind": "league",
+        "code": "CF"
+      }
+    },
+    "clubs": {}
+  }
+}

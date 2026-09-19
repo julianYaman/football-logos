@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "singapore",
+    "iso2": "SG",
+    "name": "Singapore",
+    "defaultLeague": "singapore-premier-league",
+    "leagues": {
+      "singapore-premier-league": {
+        "slug": "singapore-premier-league",
+        "name": "Singapore Premier League",
+        "hash": "5b4c37e8",
+        "kind": "league",
+        "code": "SG"
+      },
+      "singapore-national-team": {
+        "slug": "singapore-national-team",
+        "name": "Singapore National Team",
+        "hash": "0e49dca0",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "lion-city-sailors": {
+        "slug": "lion-city-sailors",
+        "name": "Lion City Sailors FC",
+        "hash": "8067531e",
+        "league": "singapore-premier-league"
+      },
+      "tampines-rovers": {
+        "slug": "tampines-rovers",
+        "name": "Tampines Rovers FC",
+        "hash": "72d8e682",
+        "league": "singapore-premier-league"
+      },
+      "fc-jurong": {
+        "slug": "fc-jurong",
+        "name": "FC Jurong",
+        "hash": "e7e6c333",
+        "league": "singapore-premier-league"
+      },
+      "balestier-khalsa": {
+        "slug": "balestier-khalsa",
+        "name": "Balestier Khalsa FC",
+        "hash": "70b455b9",
+        "league": "singapore-premier-league"
+      },
+      "hougang-united": {
+        "slug": "hougang-united",
+        "name": "Hougang United FC",
+        "hash": "c90f956a",
+        "league": "singapore-premier-league"
+      },
+      "geylang-international": {
+        "slug": "geylang-international",
+        "name": "Geylang International FC",
+        "hash": "bf1eec94",
+        "league": "singapore-premier-league"
+      },
+      "tanjong-pagar-united": {
+        "slug": "tanjong-pagar-united",
+        "name": "Tanjong Pagar United FC",
+        "hash": "4c2ca0dc",
+        "league": "singapore-premier-league"
+      },
+      "young-lions": {
+        "slug": "young-lions",
+        "name": "Young Lions",
+        "hash": "18f71a8e",
+        "league": "singapore-premier-league"
+      }
+    }
+  }
+}

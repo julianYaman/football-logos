@@ -1,0 +1,399 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "japan",
+    "iso2": "JP",
+    "name": "Japan",
+    "defaultLeague": "j-league",
+    "leagues": {
+      "j-league": {
+        "slug": "j-league",
+        "name": "J1 League",
+        "hash": "337e64b4",
+        "kind": "league",
+        "code": "JP"
+      },
+      "j2-league": {
+        "slug": "j2-league",
+        "name": "J2 League",
+        "hash": "89069c7e",
+        "kind": "league"
+      },
+      "j3-league": {
+        "slug": "j3-league",
+        "name": "J3 League",
+        "hash": "20fb8229",
+        "kind": "league"
+      },
+      "japan-national-team": {
+        "slug": "japan-national-team",
+        "name": "Japan National Team",
+        "hash": "2aebfdef",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "kashima-antlers": {
+        "slug": "kashima-antlers",
+        "name": "Kashima Antlers",
+        "hash": "8a7ef9b6",
+        "league": "j-league"
+      },
+      "kashiwa-reysol": {
+        "slug": "kashiwa-reysol",
+        "name": "Kashiwa Reysol",
+        "hash": "4e97ae65",
+        "league": "j-league"
+      },
+      "kyoto-sanga": {
+        "slug": "kyoto-sanga",
+        "name": "Kyoto Sanga",
+        "hash": "52b9c7e9",
+        "league": "j-league"
+      },
+      "urawa-reds": {
+        "slug": "urawa-reds",
+        "name": "Urawa Reds",
+        "hash": "255e38d4",
+        "league": "j-league"
+      },
+      "sanfrecce-hiroshima": {
+        "slug": "sanfrecce-hiroshima",
+        "name": "Sanfrecce Hiroshima",
+        "hash": "58899603",
+        "league": "j-league"
+      },
+      "vissel-kobe": {
+        "slug": "vissel-kobe",
+        "name": "Vissel Kobe",
+        "hash": "c4083472",
+        "league": "j-league"
+      },
+      "kawasaki-frontale": {
+        "slug": "kawasaki-frontale",
+        "name": "Kawasaki Frontale",
+        "hash": "e6589bb5",
+        "league": "j-league"
+      },
+      "cerezo-osaka": {
+        "slug": "cerezo-osaka",
+        "name": "Cerezo Osaka",
+        "hash": "9d03f592",
+        "league": "j-league"
+      },
+      "machida-zelvia": {
+        "slug": "machida-zelvia",
+        "name": "Machida Zelvia",
+        "hash": "8c1d555c",
+        "league": "j-league"
+      },
+      "shimizu-s-pulse": {
+        "slug": "shimizu-s-pulse",
+        "name": "Shimizu S-Pulse",
+        "hash": "603b19ef",
+        "league": "j-league"
+      },
+      "avispa-fukuoka": {
+        "slug": "avispa-fukuoka",
+        "name": "Avispa Fukuoka",
+        "hash": "62b97f21",
+        "league": "j-league"
+      },
+      "gamba-osaka": {
+        "slug": "gamba-osaka",
+        "name": "Gamba Osaka",
+        "hash": "9d303e05",
+        "league": "j-league"
+      },
+      "fagiano-okayama": {
+        "slug": "fagiano-okayama",
+        "name": "Fagiano Okayama",
+        "hash": "7b703037",
+        "league": "j-league"
+      },
+      "tokyo-verdy": {
+        "slug": "tokyo-verdy",
+        "name": "Tokyo Verdy",
+        "hash": "76aa8899",
+        "league": "j-league"
+      },
+      "nagoya-grampus": {
+        "slug": "nagoya-grampus",
+        "name": "Nagoya Grampus",
+        "hash": "627e921e",
+        "league": "j-league"
+      },
+      "fc-tokyo": {
+        "slug": "fc-tokyo",
+        "name": "FC Tokyo",
+        "hash": "ed5e5480",
+        "league": "j-league"
+      },
+      "yokohama-f-marinos": {
+        "slug": "yokohama-f-marinos",
+        "name": "Yokohama F. Marinos",
+        "hash": "85e43725",
+        "league": "j-league"
+      },
+      "mito-hollyhock": {
+        "slug": "mito-hollyhock",
+        "name": "Mito HollyHock",
+        "hash": "ee62dfd7",
+        "league": "j-league"
+      },
+      "jef-united-chiba": {
+        "slug": "jef-united-chiba",
+        "name": "JEF United Chiba",
+        "hash": "e9853e90",
+        "league": "j-league"
+      },
+      "v-varen-nagasaki": {
+        "slug": "v-varen-nagasaki",
+        "name": "V-Varen Nagasaki",
+        "hash": "561bc3bc",
+        "league": "j-league"
+      },
+      "tokushima-vortis": {
+        "slug": "tokushima-vortis",
+        "name": "Tokushima Vortis",
+        "hash": "3fc226c4",
+        "league": "j2-league"
+      },
+      "oita-trinita": {
+        "slug": "oita-trinita",
+        "name": "Oita Trinita",
+        "hash": "5936eb5a",
+        "league": "j2-league"
+      },
+      "shonan-bellmare": {
+        "slug": "shonan-bellmare",
+        "name": "Shonan Bellmare",
+        "hash": "b81c4e13",
+        "league": "j2-league"
+      },
+      "albirex-niigata": {
+        "slug": "albirex-niigata",
+        "name": "Albirex Niigata",
+        "hash": "c76b3101",
+        "league": "j2-league"
+      },
+      "yokohama-fc": {
+        "slug": "yokohama-fc",
+        "name": "Yokohama FC",
+        "hash": "71c92da8",
+        "league": "j2-league"
+      },
+      "hokkaido-consadole-sapporo": {
+        "slug": "hokkaido-consadole-sapporo",
+        "name": "Hokkaido Consadole Sapporo",
+        "hash": "4ab71df9",
+        "league": "j2-league"
+      },
+      "vanraure-hachinohe": {
+        "slug": "vanraure-hachinohe",
+        "name": "Vanraure Hachinohe",
+        "hash": "1d2b8e63",
+        "league": "j2-league"
+      },
+      "vegalta-sendai": {
+        "slug": "vegalta-sendai",
+        "name": "Vegalta Sendai",
+        "hash": "1b77749f",
+        "league": "j2-league"
+      },
+      "blaublitz-akita": {
+        "slug": "blaublitz-akita",
+        "name": "Blaublitz Akita",
+        "hash": "07e389d9",
+        "league": "j2-league"
+      },
+      "montedio-yamagata": {
+        "slug": "montedio-yamagata",
+        "name": "Montedio Yamagata",
+        "hash": "b9f9ac60",
+        "league": "j2-league"
+      },
+      "iwaki-fc": {
+        "slug": "iwaki-fc",
+        "name": "Iwaki FC",
+        "hash": "67aeb2a1",
+        "league": "j2-league"
+      },
+      "tochigi-city": {
+        "slug": "tochigi-city",
+        "name": "Tochigi City",
+        "hash": "f9c8d448",
+        "league": "j2-league"
+      },
+      "rb-omiya-ardija": {
+        "slug": "rb-omiya-ardija",
+        "name": "RB Omiya Ardija",
+        "hash": "7566a859",
+        "league": "j2-league"
+      },
+      "ventforet-kofu": {
+        "slug": "ventforet-kofu",
+        "name": "Ventforet Kofu",
+        "hash": "36f8e096",
+        "league": "j2-league"
+      },
+      "kataller-toyama": {
+        "slug": "kataller-toyama",
+        "name": "Kataller Toyama",
+        "hash": "a6d66404",
+        "league": "j2-league"
+      },
+      "jubilo-iwata": {
+        "slug": "jubilo-iwata",
+        "name": "Jubilo Iwata",
+        "hash": "1479db89",
+        "league": "j2-league"
+      },
+      "fujieda-myfc": {
+        "slug": "fujieda-myfc",
+        "name": "Fujieda MYFC",
+        "hash": "3bfe1b70",
+        "league": "j2-league"
+      },
+      "fc-imabari": {
+        "slug": "fc-imabari",
+        "name": "FC Imabari",
+        "hash": "58917656",
+        "league": "j2-league"
+      },
+      "sagan-tosu": {
+        "slug": "sagan-tosu",
+        "name": "Sagan Tosu",
+        "hash": "59e9afd8",
+        "league": "j2-league"
+      },
+      "tegevajaro-miyazaki": {
+        "slug": "tegevajaro-miyazaki",
+        "name": "Tegevajaro Miyazaki",
+        "hash": "3050de72",
+        "league": "j2-league"
+      },
+      "fukushima-united": {
+        "slug": "fukushima-united",
+        "name": "Fukushima United FC",
+        "hash": "c940277d",
+        "league": "j3-league"
+      },
+      "tochigi-sc": {
+        "slug": "tochigi-sc",
+        "name": "Tochigi SC",
+        "hash": "c93f604b",
+        "league": "j3-league"
+      },
+      "thespa-gunma": {
+        "slug": "thespa-gunma",
+        "name": "Thespa Gunma",
+        "hash": "599942df",
+        "league": "j3-league"
+      },
+      "sc-sagamihara": {
+        "slug": "sc-sagamihara",
+        "name": "SC Sagamihara",
+        "hash": "4b85b946",
+        "league": "j3-league"
+      },
+      "matsumoto-yamaga": {
+        "slug": "matsumoto-yamaga",
+        "name": "Matsumoto Yamaga FC",
+        "hash": "988e5f1b",
+        "league": "j3-league"
+      },
+      "ac-nagano-parceiro": {
+        "slug": "ac-nagano-parceiro",
+        "name": "AC Nagano Parceiro",
+        "hash": "0f2e76ec",
+        "league": "j3-league"
+      },
+      "zweigen-kanazawa": {
+        "slug": "zweigen-kanazawa",
+        "name": "Zweigen Kanazawa",
+        "hash": "d91a67ec",
+        "league": "j3-league"
+      },
+      "fc-gifu": {
+        "slug": "fc-gifu",
+        "name": "FC Gifu",
+        "hash": "a14dc6ea",
+        "league": "j3-league"
+      },
+      "reilac-shiga": {
+        "slug": "reilac-shiga",
+        "name": "Reilac Shiga FC",
+        "hash": "e46dadfe",
+        "league": "j3-league"
+      },
+      "fc-osaka": {
+        "slug": "fc-osaka",
+        "name": "FC Osaka",
+        "hash": "5d28b235",
+        "league": "j3-league"
+      },
+      "nara-club": {
+        "slug": "nara-club",
+        "name": "Nara Club",
+        "hash": "e69c6844",
+        "league": "j3-league"
+      },
+      "gainare-tottori": {
+        "slug": "gainare-tottori",
+        "name": "Gainare Tottori",
+        "hash": "30a50907",
+        "league": "j3-league"
+      },
+      "renofa-yamaguchi": {
+        "slug": "renofa-yamaguchi",
+        "name": "Renofa Yamaguchi FC",
+        "hash": "d9cd2247",
+        "league": "j3-league"
+      },
+      "kamatamare-sanuki": {
+        "slug": "kamatamare-sanuki",
+        "name": "Kamatamare Sanuki",
+        "hash": "5744522d",
+        "league": "j3-league"
+      },
+      "ehime-fc": {
+        "slug": "ehime-fc",
+        "name": "Ehime FC",
+        "hash": "e0b76c0b",
+        "league": "j3-league"
+      },
+      "kochi-united": {
+        "slug": "kochi-united",
+        "name": "Kochi United SC",
+        "hash": "85602c04",
+        "league": "j3-league"
+      },
+      "giravanz-kitakyushu": {
+        "slug": "giravanz-kitakyushu",
+        "name": "Giravanz Kitakyushu",
+        "hash": "6e50a6f6",
+        "league": "j3-league"
+      },
+      "roasso-kumamoto": {
+        "slug": "roasso-kumamoto",
+        "name": "Roasso Kumamoto",
+        "hash": "867ed3a1",
+        "league": "j3-league"
+      },
+      "kagoshima-united": {
+        "slug": "kagoshima-united",
+        "name": "Kagoshima United FC",
+        "hash": "f977c2d8",
+        "league": "j3-league"
+      },
+      "fc-ryukyu": {
+        "slug": "fc-ryukyu",
+        "name": "FC Ryukyu",
+        "hash": "b182db78",
+        "league": "j3-league"
+      }
+    }
+  }
+}

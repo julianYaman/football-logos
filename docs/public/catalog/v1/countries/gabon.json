@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "gabon",
+    "iso2": "GA",
+    "name": "Gabon",
+    "defaultLeague": "gabon-national-team",
+    "leagues": {
+      "gabon-national-team": {
+        "slug": "gabon-national-team",
+        "name": "Gabon National Team",
+        "hash": "d849c1aa",
+        "kind": "league",
+        "code": "GA"
+      }
+    },
+    "clubs": {}
+  }
+}

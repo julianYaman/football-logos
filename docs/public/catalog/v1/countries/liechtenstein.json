@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "liechtenstein",
+    "iso2": "LI",
+    "name": "Liechtenstein",
+    "defaultLeague": "liechtenstein-national-team",
+    "leagues": {
+      "liechtenstein-national-team": {
+        "slug": "liechtenstein-national-team",
+        "name": "Liechtenstein National Team",
+        "hash": "1a5ddf05",
+        "kind": "league",
+        "code": "LI"
+      }
+    },
+    "clubs": {
+      "eschen-mauren": {
+        "slug": "eschen-mauren",
+        "name": "Eschen/Mauren",
+        "hash": "aabfed22",
+        "league": ""
+      },
+      "triesen": {
+        "slug": "triesen",
+        "name": "Triesen",
+        "hash": "dcc4dcd0",
+        "league": ""
+      },
+      "vaduz": {
+        "slug": "vaduz",
+        "name": "Vaduz",
+        "hash": "19641ce5",
+        "league": ""
+      }
+    }
+  }
+}

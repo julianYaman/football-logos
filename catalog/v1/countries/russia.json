@@ -1,0 +1,285 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "russia",
+    "iso2": "RU",
+    "name": "Russia",
+    "defaultLeague": "russian-premier-league",
+    "leagues": {
+      "russian-premier-league": {
+        "slug": "russian-premier-league",
+        "name": "Russian Premier League",
+        "hash": "02e3c017",
+        "kind": "league",
+        "code": "RU"
+      },
+      "russian-first-league": {
+        "slug": "russian-first-league",
+        "name": "Russian First League",
+        "hash": "959433eb",
+        "kind": "league"
+      },
+      "russia-national-team": {
+        "slug": "russia-national-team",
+        "name": "Russia National Team",
+        "hash": "7ce0f003",
+        "kind": "league"
+      },
+      "soviet-union-national-team": {
+        "slug": "soviet-union-national-team",
+        "name": "Soviet Union National Team",
+        "hash": "745a8272",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "krasnodar": {
+        "slug": "krasnodar",
+        "name": "Krasnodar",
+        "hash": "456d3f20",
+        "league": "russian-premier-league"
+      },
+      "lokomotiv-moskva": {
+        "slug": "lokomotiv-moskva",
+        "name": "Lokomotiv Moscow",
+        "hash": "6c418b83",
+        "league": "russian-premier-league"
+      },
+      "rubin": {
+        "slug": "rubin",
+        "name": "Rubin Kazan",
+        "hash": "5e0bdfea",
+        "league": "russian-premier-league"
+      },
+      "zenit": {
+        "slug": "zenit",
+        "name": "Zenit",
+        "hash": "b4ad3d67",
+        "league": "russian-premier-league"
+      },
+      "spartak-moskva": {
+        "slug": "spartak-moskva",
+        "name": "Spartak Moscow",
+        "hash": "03315ea0",
+        "league": "russian-premier-league"
+      },
+      "krylya-sovetov": {
+        "slug": "krylya-sovetov",
+        "name": "Krylya Sovetov",
+        "hash": "e06f4509",
+        "league": "russian-premier-league"
+      },
+      "baltika": {
+        "slug": "baltika",
+        "name": "Baltika",
+        "hash": "e4775f5c",
+        "league": "russian-premier-league"
+      },
+      "akron": {
+        "slug": "akron",
+        "name": "Akron",
+        "hash": "af6d0b95",
+        "league": "russian-premier-league"
+      },
+      "dynamo-moscow": {
+        "slug": "dynamo-moscow",
+        "name": "Dynamo Moscow",
+        "hash": "93ae424c",
+        "league": "russian-premier-league"
+      },
+      "orenburg": {
+        "slug": "orenburg",
+        "name": "Orenburg",
+        "hash": "9a729fc3",
+        "league": "russian-premier-league"
+      },
+      "cska-moskva": {
+        "slug": "cska-moskva",
+        "name": "CSKA Moscow",
+        "hash": "5af855e7",
+        "league": "russian-premier-league"
+      },
+      "rostov": {
+        "slug": "rostov",
+        "name": "Rostov",
+        "hash": "3daf7859",
+        "league": "russian-premier-league"
+      },
+      "dynamo-makhachkala": {
+        "slug": "dynamo-makhachkala",
+        "name": "Dynamo Makhachkala",
+        "hash": "b461a46c",
+        "league": "russian-premier-league"
+      },
+      "akhmat": {
+        "slug": "akhmat",
+        "name": "Akhmat",
+        "hash": "a34a21ce",
+        "league": "russian-premier-league"
+      },
+      "fakel": {
+        "slug": "fakel",
+        "name": "Fakel",
+        "hash": "69e98ccd",
+        "league": "russian-premier-league"
+      },
+      "rodina-moscow": {
+        "slug": "rodina-moscow",
+        "name": "Rodina Moscow",
+        "hash": "a43eba08",
+        "league": "russian-premier-league"
+      },
+      "sochi": {
+        "slug": "sochi",
+        "name": "Sochi",
+        "hash": "7e7c2887",
+        "league": "russian-first-league"
+      },
+      "pari-nn": {
+        "slug": "pari-nn",
+        "name": "Pari NN",
+        "hash": "0ea76368",
+        "league": "russian-first-league"
+      },
+      "arsenal-tula": {
+        "slug": "arsenal-tula",
+        "name": "Arsenal Tula",
+        "hash": "4d73d3b3",
+        "league": "russian-first-league"
+      },
+      "kamaz": {
+        "slug": "kamaz",
+        "name": "Kamaz",
+        "hash": "531096ff",
+        "league": "russian-first-league"
+      },
+      "rotor": {
+        "slug": "rotor",
+        "name": "Rotor",
+        "hash": "ed269937",
+        "league": "russian-first-league"
+      },
+      "shinnik": {
+        "slug": "shinnik",
+        "name": "Shinnik",
+        "hash": "8c14f6a2",
+        "league": "russian-first-league"
+      },
+      "ska-khabarovsk": {
+        "slug": "ska-khabarovsk",
+        "name": "SKA Khabarovsk",
+        "hash": "7f7c3ea7",
+        "league": "russian-first-league"
+      },
+      "torpedo-moskva": {
+        "slug": "torpedo-moskva",
+        "name": "Torpedo Moscow",
+        "hash": "fe4ec62e",
+        "league": "russian-first-league"
+      },
+      "ufa": {
+        "slug": "ufa",
+        "name": "Ufa",
+        "hash": "5248cef8",
+        "league": "russian-first-league"
+      },
+      "ural": {
+        "slug": "ural",
+        "name": "Ural",
+        "hash": "db3aec1c",
+        "league": "russian-first-league"
+      },
+      "yenisey": {
+        "slug": "yenisey",
+        "name": "Yenisey",
+        "hash": "fb4d4ed2",
+        "league": "russian-first-league"
+      },
+      "spartak-kostroma": {
+        "slug": "spartak-kostroma",
+        "name": "Spartak Kostroma",
+        "hash": "537d58f1",
+        "league": "russian-first-league"
+      },
+      "veles-moscow": {
+        "slug": "veles-moscow",
+        "name": "Veles Moscow",
+        "hash": "cc63dbf6",
+        "league": "russian-first-league"
+      },
+      "neftekhimik-nizhnekamsk": {
+        "slug": "neftekhimik-nizhnekamsk",
+        "name": "Neftekhimik Nizhnekamsk",
+        "hash": "7bd32241",
+        "league": "russian-first-league"
+      },
+      "chelyabinsk": {
+        "slug": "chelyabinsk",
+        "name": "Chelyabinsk",
+        "hash": "def29484",
+        "league": "russian-first-league"
+      },
+      "tekstilshchik-ivanovo": {
+        "slug": "tekstilshchik-ivanovo",
+        "name": "Tekstilshchik Ivanovo",
+        "hash": "a77433b5",
+        "league": "russian-first-league"
+      },
+      "volga-ulyanovsk": {
+        "slug": "volga-ulyanovsk",
+        "name": "Volga Ulyanovsk",
+        "hash": "0f1dd098",
+        "league": "russian-first-league"
+      },
+      "leningradets": {
+        "slug": "leningradets",
+        "name": "Leningradets",
+        "hash": "95a22fd2",
+        "league": "russian-first-league"
+      },
+      "amkar": {
+        "slug": "amkar",
+        "name": "Amkar",
+        "hash": "4ed3b2b4",
+        "league": ""
+      },
+      "chayka-peschanokopskoye": {
+        "slug": "chayka-peschanokopskoye",
+        "name": "Chayka Peschanokopskoye",
+        "hash": "744980cb",
+        "league": ""
+      },
+      "chertanovo": {
+        "slug": "chertanovo",
+        "name": "Chertanovo",
+        "hash": "20e21916",
+        "league": ""
+      },
+      "khimik-dzerzhinsk": {
+        "slug": "khimik-dzerzhinsk",
+        "name": "Khimik Dzerzhinsk",
+        "hash": "9cf71a46",
+        "league": ""
+      },
+      "khimki": {
+        "slug": "khimki",
+        "name": "Khimki",
+        "hash": "e72e70cf",
+        "league": ""
+      },
+      "chernomorets-novorossiisk": {
+        "slug": "chernomorets-novorossiisk",
+        "name": "Chernomorets Novorossiisk",
+        "hash": "7265676f",
+        "league": ""
+      },
+      "spartak-nalchik": {
+        "slug": "spartak-nalchik",
+        "name": "Spartak Nalchik",
+        "hash": "7f1c019b",
+        "league": ""
+      }
+    }
+  }
+}

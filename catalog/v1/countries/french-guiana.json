@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "french-guiana",
+    "iso2": "GF",
+    "name": "French Guiana",
+    "defaultLeague": "french-guiana-national-team",
+    "leagues": {
+      "french-guiana-national-team": {
+        "slug": "french-guiana-national-team",
+        "name": "French Guiana National Team",
+        "hash": "ffb2cb13",
+        "kind": "league",
+        "code": "GF"
+      }
+    },
+    "clubs": {}
+  }
+}

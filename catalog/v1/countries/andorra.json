@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "andorra",
+    "iso2": "AD",
+    "name": "Andorra",
+    "defaultLeague": "andorra-national-team",
+    "leagues": {
+      "andorra-national-team": {
+        "slug": "andorra-national-team",
+        "name": "Andorra National Team",
+        "hash": "929205ce",
+        "kind": "league",
+        "code": "AD"
+      }
+    },
+    "clubs": {
+      "atletic-escaldes": {
+        "slug": "atletic-escaldes",
+        "name": "Atlètic Escaldes",
+        "hash": "49f22b58",
+        "league": ""
+      },
+      "ce-carroi": {
+        "slug": "ce-carroi",
+        "name": "CE Carroi",
+        "hash": "a517a1a9",
+        "league": ""
+      },
+      "fc-santa-coloma": {
+        "slug": "fc-santa-coloma",
+        "name": "FC Santa Coloma",
+        "hash": "27c03494",
+        "league": ""
+      },
+      "inter-escaldes": {
+        "slug": "inter-escaldes",
+        "name": "Inter Escaldes",
+        "hash": "7c078c8c",
+        "league": ""
+      },
+      "ordino": {
+        "slug": "ordino",
+        "name": "Ordino",
+        "hash": "5a84c98e",
+        "league": ""
+      },
+      "penya-encarnada": {
+        "slug": "penya-encarnada",
+        "name": "Penya Encarnada",
+        "hash": "c04f1d64",
+        "league": ""
+      },
+      "ranger-s": {
+        "slug": "ranger-s",
+        "name": "Rànger&#39;s",
+        "hash": "902f9e60",
+        "league": ""
+      },
+      "ue-santa-coloma": {
+        "slug": "ue-santa-coloma",
+        "name": "UE Santa Coloma",
+        "hash": "31ac6eb2",
+        "league": ""
+      }
+    }
+  }
+}

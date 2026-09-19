@@ -1,0 +1,1029 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "spain",
+    "iso2": "ES",
+    "name": "Spain",
+    "defaultLeague": "la-liga",
+    "leagues": {
+      "la-liga": {
+        "slug": "la-liga",
+        "name": "La Liga",
+        "hash": "0ea0b0c5",
+        "kind": "league",
+        "code": "ES"
+      },
+      "la-liga-2": {
+        "slug": "la-liga-2",
+        "name": "La Liga 2",
+        "hash": "c56096b7",
+        "kind": "league"
+      },
+      "primera-federacion": {
+        "slug": "primera-federacion",
+        "name": "Primera Federación",
+        "hash": "8fd8615f",
+        "kind": "league"
+      },
+      "segunda-federacion": {
+        "slug": "segunda-federacion",
+        "name": "Segunda Federación",
+        "hash": "4885e0a8",
+        "kind": "league"
+      },
+      "spain-national-team": {
+        "slug": "spain-national-team",
+        "name": "Spain National Team",
+        "hash": "4ad85efc",
+        "kind": "league"
+      },
+      "tercera-federacion": {
+        "slug": "tercera-federacion",
+        "name": "Tercera Federación",
+        "hash": "db8e4bd2",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "barcelona": {
+        "slug": "barcelona",
+        "name": "Barcelona",
+        "hash": "9ee7ed85",
+        "league": "la-liga"
+      },
+      "real-madrid": {
+        "slug": "real-madrid",
+        "name": "Real Madrid",
+        "hash": "c97a476c",
+        "league": "la-liga"
+      },
+      "atletico-madrid": {
+        "slug": "atletico-madrid",
+        "name": "Atletico Madrid",
+        "hash": "0e6714cc",
+        "league": "la-liga"
+      },
+      "sevilla": {
+        "slug": "sevilla",
+        "name": "Sevilla",
+        "hash": "19d97463",
+        "league": "la-liga"
+      },
+      "valencia": {
+        "slug": "valencia",
+        "name": "Valencia",
+        "hash": "e7b59fb6",
+        "league": "la-liga"
+      },
+      "villarreal": {
+        "slug": "villarreal",
+        "name": "Villarreal",
+        "hash": "dca647c8",
+        "league": "la-liga"
+      },
+      "real-betis": {
+        "slug": "real-betis",
+        "name": "Real Betis",
+        "hash": "ff95aa03",
+        "league": "la-liga"
+      },
+      "real-sociedad": {
+        "slug": "real-sociedad",
+        "name": "Real Sociedad",
+        "hash": "1fc4678b",
+        "league": "la-liga"
+      },
+      "athletic-club": {
+        "slug": "athletic-club",
+        "name": "Athletic Club Bilbao",
+        "hash": "7902b314",
+        "league": "la-liga"
+      },
+      "espanyol": {
+        "slug": "espanyol",
+        "name": "Espanyol",
+        "hash": "4b49196a",
+        "league": "la-liga"
+      },
+      "celta": {
+        "slug": "celta",
+        "name": "Celta",
+        "hash": "6e3dfd7a",
+        "league": "la-liga"
+      },
+      "deportivo": {
+        "slug": "deportivo",
+        "name": "Deportivo Alavés",
+        "hash": "3159aed6",
+        "league": "la-liga"
+      },
+      "deportivo-la-coruna": {
+        "slug": "deportivo-la-coruna",
+        "name": "Deportivo La Coruña",
+        "hash": "2a147b0c",
+        "league": "la-liga"
+      },
+      "elche": {
+        "slug": "elche",
+        "name": "Elche",
+        "hash": "544fba10",
+        "league": "la-liga"
+      },
+      "getafe": {
+        "slug": "getafe",
+        "name": "Getafe",
+        "hash": "8b79883e",
+        "league": "la-liga"
+      },
+      "levante": {
+        "slug": "levante",
+        "name": "Levante",
+        "hash": "1732f29f",
+        "league": "la-liga"
+      },
+      "malaga": {
+        "slug": "malaga",
+        "name": "Málaga",
+        "hash": "b2a849e1",
+        "league": "la-liga"
+      },
+      "osasuna": {
+        "slug": "osasuna",
+        "name": "Osasuna",
+        "hash": "44c61200",
+        "league": "la-liga"
+      },
+      "racing": {
+        "slug": "racing",
+        "name": "Racing Santander",
+        "hash": "0dcda955",
+        "league": "la-liga"
+      },
+      "rayo-vallecano": {
+        "slug": "rayo-vallecano",
+        "name": "Rayo Vallecano",
+        "hash": "81658ded",
+        "league": "la-liga"
+      },
+      "albacete": {
+        "slug": "albacete",
+        "name": "Albacete",
+        "hash": "335c5ae5",
+        "league": "la-liga-2"
+      },
+      "almeria": {
+        "slug": "almeria",
+        "name": "Almería",
+        "hash": "e5122b03",
+        "league": "la-liga-2"
+      },
+      "burgos": {
+        "slug": "burgos",
+        "name": "Burgos CF",
+        "hash": "64e32f72",
+        "league": "la-liga-2"
+      },
+      "cadiz": {
+        "slug": "cadiz",
+        "name": "Cádiz CF",
+        "hash": "cb405cb2",
+        "league": "la-liga-2"
+      },
+      "castellon": {
+        "slug": "castellon",
+        "name": "Castellón",
+        "hash": "f3b2d32f",
+        "league": "la-liga-2"
+      },
+      "ceuta": {
+        "slug": "ceuta",
+        "name": "Ceuta",
+        "hash": "f3027f8d",
+        "league": "la-liga-2"
+      },
+      "cordoba": {
+        "slug": "cordoba",
+        "name": "Córdoba",
+        "hash": "33ef49b8",
+        "league": "la-liga-2"
+      },
+      "eibar": {
+        "slug": "eibar",
+        "name": "Eibar",
+        "hash": "a2adb79a",
+        "league": "la-liga-2"
+      },
+      "fc-andorra": {
+        "slug": "fc-andorra",
+        "name": "FC Andorra",
+        "hash": "ad6f34ea",
+        "league": "la-liga-2"
+      },
+      "girona": {
+        "slug": "girona",
+        "name": "Girona",
+        "hash": "b8c3c83a",
+        "league": "la-liga-2"
+      },
+      "granada": {
+        "slug": "granada",
+        "name": "Granada",
+        "hash": "68131c14",
+        "league": "la-liga-2"
+      },
+      "las-palmas": {
+        "slug": "las-palmas",
+        "name": "Las Palmas",
+        "hash": "4dc6ab53",
+        "league": "la-liga-2"
+      },
+      "leganes": {
+        "slug": "leganes",
+        "name": "Leganés",
+        "hash": "994c6e1e",
+        "league": "la-liga-2"
+      },
+      "mallorca": {
+        "slug": "mallorca",
+        "name": "Mallorca",
+        "hash": "0dc0d2c6",
+        "league": "la-liga-2"
+      },
+      "oviedo": {
+        "slug": "oviedo",
+        "name": "Oviedo",
+        "hash": "201fb999",
+        "league": "la-liga-2"
+      },
+      "sporting-gijon": {
+        "slug": "sporting-gijon",
+        "name": "Sporting Gijón",
+        "hash": "f20304c6",
+        "league": "la-liga-2"
+      },
+      "tenerife": {
+        "slug": "tenerife",
+        "name": "Tenerife",
+        "hash": "21185f77",
+        "league": "la-liga-2"
+      },
+      "valladolid": {
+        "slug": "valladolid",
+        "name": "Real Valladolid",
+        "hash": "9953d522",
+        "league": "la-liga-2"
+      },
+      "sabadell": {
+        "slug": "sabadell",
+        "name": "Sabadell",
+        "hash": "7d6c0d34",
+        "league": "la-liga-2"
+      },
+      "eldense": {
+        "slug": "eldense",
+        "name": "CD Eldense",
+        "hash": "4806e787",
+        "league": "la-liga-2"
+      },
+      "alcorcon": {
+        "slug": "alcorcon",
+        "name": "Alcorcón",
+        "hash": "f216ddad",
+        "league": "primera-federacion"
+      },
+      "barakaldo": {
+        "slug": "barakaldo",
+        "name": "Barakaldo",
+        "hash": "6dde9afa",
+        "league": "primera-federacion"
+      },
+      "cacereno": {
+        "slug": "cacereno",
+        "name": "Cacereño",
+        "hash": "63027a75",
+        "league": "primera-federacion"
+      },
+      "cultural-leonesa": {
+        "slug": "cultural-leonesa",
+        "name": "Cultural Leonesa",
+        "hash": "1d712ee5",
+        "league": "primera-federacion"
+      },
+      "hercules": {
+        "slug": "hercules",
+        "name": "Hércules",
+        "hash": "70820446",
+        "league": "primera-federacion"
+      },
+      "huesca": {
+        "slug": "huesca",
+        "name": "Huesca",
+        "hash": "24001649",
+        "league": "primera-federacion"
+      },
+      "lugo": {
+        "slug": "lugo",
+        "name": "Lugo",
+        "hash": "2825f6dd",
+        "league": "primera-federacion"
+      },
+      "mirandes": {
+        "slug": "mirandes",
+        "name": "Mirandés",
+        "hash": "4ee1f0f3",
+        "league": "primera-federacion"
+      },
+      "ponferradina": {
+        "slug": "ponferradina",
+        "name": "Ponferradina",
+        "hash": "6b49fa83",
+        "league": "primera-federacion"
+      },
+      "pontevedra-cf": {
+        "slug": "pontevedra-cf",
+        "name": "Pontevedra CF",
+        "hash": "c9ed0335",
+        "league": "primera-federacion"
+      },
+      "racing-club-ferrol": {
+        "slug": "racing-club-ferrol",
+        "name": "Racing Club Ferrol",
+        "hash": "2fd51ace",
+        "league": "primera-federacion"
+      },
+      "real-aviles-industrial": {
+        "slug": "real-aviles-industrial",
+        "name": "Real Avilés Industrial",
+        "hash": "d3368032",
+        "league": "primera-federacion"
+      },
+      "ad-merida": {
+        "slug": "ad-merida",
+        "name": "AD Mérida",
+        "hash": "2fa2c784",
+        "league": "primera-federacion"
+      },
+      "arenas-club": {
+        "slug": "arenas-club",
+        "name": "Arenas Club",
+        "hash": "41e8daa8",
+        "league": "primera-federacion"
+      },
+      "unionistas-de-salamanca": {
+        "slug": "unionistas-de-salamanca",
+        "name": "Unionistas de Salamanca CF",
+        "hash": "b5046006",
+        "league": "primera-federacion"
+      },
+      "real-jaen-cf": {
+        "slug": "real-jaen-cf",
+        "name": "Real Jaén CF",
+        "hash": "74578e9d",
+        "league": "primera-federacion"
+      },
+      "zamora": {
+        "slug": "zamora",
+        "name": "Zamora",
+        "hash": "b13494e3",
+        "league": "primera-federacion"
+      },
+      "zaragoza": {
+        "slug": "zaragoza",
+        "name": "Real Zaragoza",
+        "hash": "966d5396",
+        "league": "primera-federacion"
+      },
+      "ce-europa": {
+        "slug": "ce-europa",
+        "name": "CE Europa",
+        "hash": "0cd7fddd",
+        "league": "primera-federacion"
+      },
+      "murcia": {
+        "slug": "murcia",
+        "name": "Real Murcia",
+        "hash": "3adcc9f0",
+        "league": "primera-federacion"
+      },
+      "teruel": {
+        "slug": "teruel",
+        "name": "Teruel",
+        "hash": "37ed2893",
+        "league": "primera-federacion"
+      },
+      "fc-cartagena": {
+        "slug": "fc-cartagena",
+        "name": "FC Cartagena",
+        "hash": "55c34435",
+        "league": "primera-federacion"
+      },
+      "algeciras": {
+        "slug": "algeciras",
+        "name": "Algeciras",
+        "hash": "9bb2744d",
+        "league": "primera-federacion"
+      },
+      "antequera": {
+        "slug": "antequera",
+        "name": "Antequera",
+        "hash": "7983c299",
+        "league": "primera-federacion"
+      },
+      "gimnastic-de-tarragona": {
+        "slug": "gimnastic-de-tarragona",
+        "name": "Gimnàstic de Tarragona",
+        "hash": "678219bf",
+        "league": "primera-federacion"
+      },
+      "ud-ibiza": {
+        "slug": "ud-ibiza",
+        "name": "UD Ibiza",
+        "hash": "00658e46",
+        "league": "primera-federacion"
+      },
+      "juventud-torremolinos": {
+        "slug": "juventud-torremolinos",
+        "name": "Juventud Torremolinos",
+        "hash": "dce27490",
+        "league": "primera-federacion"
+      },
+      "ud-ourense": {
+        "slug": "ud-ourense",
+        "name": "UD Ourense",
+        "hash": "d7044740",
+        "league": "primera-federacion"
+      },
+      "real-union": {
+        "slug": "real-union",
+        "name": "Real Unión",
+        "hash": "acbfb81d",
+        "league": "primera-federacion"
+      },
+      "ud-logrones": {
+        "slug": "ud-logrones",
+        "name": "UD Logroñés",
+        "hash": "3a7b958c",
+        "league": "primera-federacion"
+      },
+      "cd-coria": {
+        "slug": "cd-coria",
+        "name": "CD Coria",
+        "hash": "f0ad828d",
+        "league": "primera-federacion"
+      },
+      "cd-extremadura": {
+        "slug": "cd-extremadura",
+        "name": "CD Extremadura",
+        "hash": "acfdc3e0",
+        "league": "primera-federacion"
+      },
+      "aguilas-fc": {
+        "slug": "aguilas-fc",
+        "name": "Águilas FC",
+        "hash": "1a2727aa",
+        "league": "primera-federacion"
+      },
+      "rayo-majadahonda": {
+        "slug": "rayo-majadahonda",
+        "name": "Rayo Majadahonda",
+        "hash": "d26fb41f",
+        "league": "primera-federacion"
+      },
+      "sant-andreu": {
+        "slug": "sant-andreu",
+        "name": "UE Sant Andreu",
+        "hash": "53cb0765",
+        "league": "primera-federacion"
+      },
+      "sevilla-atletico": {
+        "slug": "sevilla-atletico",
+        "name": "Sevilla Atletico",
+        "hash": "b963afff",
+        "league": "segunda-federacion"
+      },
+      "amorebieta": {
+        "slug": "amorebieta",
+        "name": "Amorebieta",
+        "hash": "aed6d36b",
+        "league": "segunda-federacion"
+      },
+      "cd-tudelano": {
+        "slug": "cd-tudelano",
+        "name": "CD Tudelano",
+        "hash": "daf4d92c",
+        "league": "segunda-federacion"
+      },
+      "logrones": {
+        "slug": "logrones",
+        "name": "SD Logroñés",
+        "hash": "e5808368",
+        "league": "segunda-federacion"
+      },
+      "numancia": {
+        "slug": "numancia",
+        "name": "Numancia",
+        "hash": "9a2bb2ce",
+        "league": "segunda-federacion"
+      },
+      "orihuela-cf": {
+        "slug": "orihuela-cf",
+        "name": "Orihuela CF",
+        "hash": "1284206c",
+        "league": "segunda-federacion"
+      },
+      "ourense-cf": {
+        "slug": "ourense-cf",
+        "name": "Ourense CF",
+        "hash": "e6bf824a",
+        "league": "segunda-federacion"
+      },
+      "cf-talavera-de-la-reina": {
+        "slug": "cf-talavera-de-la-reina",
+        "name": "CF Talavera de la Reina",
+        "hash": "b645a4b5",
+        "league": "segunda-federacion"
+      },
+      "cd-arenteiro": {
+        "slug": "cd-arenteiro",
+        "name": "CD Arenteiro",
+        "hash": "76a45c80",
+        "league": "segunda-federacion"
+      },
+      "cd-guadalajara": {
+        "slug": "cd-guadalajara",
+        "name": "CD Guadalajara",
+        "hash": "80eeccc8",
+        "league": "segunda-federacion"
+      },
+      "ud-marbella": {
+        "slug": "ud-marbella",
+        "name": "UD Marbella",
+        "hash": "913560fa",
+        "league": "segunda-federacion"
+      },
+      "yeclano": {
+        "slug": "yeclano",
+        "name": "Yeclano",
+        "hash": "50a2a087",
+        "league": "segunda-federacion"
+      },
+      "tarazona": {
+        "slug": "tarazona",
+        "name": "Tarazona",
+        "hash": "c3dd6668",
+        "league": "segunda-federacion"
+      },
+      "atletico-sanluqueno": {
+        "slug": "atletico-sanluqueno",
+        "name": "Atlético Sanluqueño",
+        "hash": "9ecaf593",
+        "league": "segunda-federacion"
+      },
+      "coruxo": {
+        "slug": "coruxo",
+        "name": "Coruxo",
+        "hash": "1623b26a",
+        "league": "segunda-federacion"
+      },
+      "atletico-astorga": {
+        "slug": "atletico-astorga",
+        "name": "Atlético Astorga",
+        "hash": "033adf6d",
+        "league": "segunda-federacion"
+      },
+      "gimnastica-segoviana": {
+        "slug": "gimnastica-segoviana",
+        "name": "Gimnástica Segoviana",
+        "hash": "4c082921",
+        "league": "segunda-federacion"
+      },
+      "marino-de-luanco": {
+        "slug": "marino-de-luanco",
+        "name": "Marino de Luanco",
+        "hash": "5f8e23f8",
+        "league": "segunda-federacion"
+      },
+      "real-avila": {
+        "slug": "real-avila",
+        "name": "Real Ávila",
+        "hash": "04db9a53",
+        "league": "segunda-federacion"
+      },
+      "bergantinos-cf": {
+        "slug": "bergantinos-cf",
+        "name": "Bergantiños CF",
+        "hash": "ac8e868d",
+        "league": "segunda-federacion"
+      },
+      "cd-basconia": {
+        "slug": "cd-basconia",
+        "name": "CD Basconia",
+        "hash": "c4e55ccc",
+        "league": "segunda-federacion"
+      },
+      "utebo": {
+        "slug": "utebo",
+        "name": "Utebo",
+        "hash": "628e054d",
+        "league": "segunda-federacion"
+      },
+      "sd-gernika": {
+        "slug": "sd-gernika",
+        "name": "SD Gernika",
+        "hash": "0b35b83f",
+        "league": "segunda-federacion"
+      },
+      "cd-ebro": {
+        "slug": "cd-ebro",
+        "name": "CD Ebro",
+        "hash": "0409453d",
+        "league": "segunda-federacion"
+      },
+      "naxara": {
+        "slug": "naxara",
+        "name": "Náxara CD",
+        "hash": "2fc99758",
+        "league": "segunda-federacion"
+      },
+      "sestao-river": {
+        "slug": "sestao-river",
+        "name": "Sestao River",
+        "hash": "b15bc703",
+        "league": "segunda-federacion"
+      },
+      "portugalete": {
+        "slug": "portugalete",
+        "name": "Portugalete",
+        "hash": "d5af92a3",
+        "league": "segunda-federacion"
+      },
+      "sd-compostela": {
+        "slug": "sd-compostela",
+        "name": "SD Compostela",
+        "hash": "1cdca830",
+        "league": "segunda-federacion"
+      },
+      "gimnastica-torrelavega": {
+        "slug": "gimnastica-torrelavega",
+        "name": "Gimnástica Torrelavega",
+        "hash": "afb2254e",
+        "league": "segunda-federacion"
+      },
+      "arosa-sc": {
+        "slug": "arosa-sc",
+        "name": "Arosa SC",
+        "hash": "b926a628",
+        "league": "segunda-federacion"
+      },
+      "ud-llanera": {
+        "slug": "ud-llanera",
+        "name": "UD Llanera",
+        "hash": "4671031e",
+        "league": "segunda-federacion"
+      },
+      "terrassa": {
+        "slug": "terrassa",
+        "name": "Terrassa",
+        "hash": "642f729c",
+        "league": "segunda-federacion"
+      },
+      "reus-fc-reddis": {
+        "slug": "reus-fc-reddis",
+        "name": "Reus FC Reddis",
+        "hash": "0310e42f",
+        "league": "segunda-federacion"
+      },
+      "pena-sport": {
+        "slug": "pena-sport",
+        "name": "Peña Sport",
+        "hash": "568b3cbe",
+        "league": "segunda-federacion"
+      },
+      "barbastro": {
+        "slug": "barbastro",
+        "name": "Barbastro",
+        "hash": "5b183fdd",
+        "league": "segunda-federacion"
+      },
+      "olot": {
+        "slug": "olot",
+        "name": "Olot",
+        "hash": "5d487ea0",
+        "league": "segunda-federacion"
+      },
+      "arnedo": {
+        "slug": "arnedo",
+        "name": "Arnedo",
+        "hash": "36c4df66",
+        "league": "segunda-federacion"
+      },
+      "manresa": {
+        "slug": "manresa",
+        "name": "Manresa",
+        "hash": "9304d111",
+        "league": "segunda-federacion"
+      },
+      "alcoyano": {
+        "slug": "alcoyano",
+        "name": "Alcoyano",
+        "hash": "bd440fdf",
+        "league": "segunda-federacion"
+      },
+      "atletico-baleares": {
+        "slug": "atletico-baleares",
+        "name": "Atlético Baleares",
+        "hash": "117ab4e5",
+        "league": "segunda-federacion"
+      },
+      "cf-intercity": {
+        "slug": "cf-intercity",
+        "name": "CF Intercity",
+        "hash": "abb3cdc0",
+        "league": "segunda-federacion"
+      },
+      "castellonense": {
+        "slug": "castellonense",
+        "name": "Castellonense",
+        "hash": "f79df499",
+        "league": "segunda-federacion"
+      },
+      "cd-cieza": {
+        "slug": "cd-cieza",
+        "name": "CD Cieza",
+        "hash": "d6605b83",
+        "league": "segunda-federacion"
+      },
+      "deportiva-minera": {
+        "slug": "deportiva-minera",
+        "name": "Deportiva Minera",
+        "hash": "d89f147c",
+        "league": "segunda-federacion"
+      },
+      "la-nucia": {
+        "slug": "la-nucia",
+        "name": "La Nucía",
+        "hash": "0f3b146f",
+        "league": "segunda-federacion"
+      },
+      "la-union": {
+        "slug": "la-union",
+        "name": "La Unión",
+        "hash": "57111ef0",
+        "league": "segunda-federacion"
+      },
+      "lorca-deportiva": {
+        "slug": "lorca-deportiva",
+        "name": "Lorca Deportiva",
+        "hash": "11f63c18",
+        "league": "segunda-federacion"
+      },
+      "pena-deportiva": {
+        "slug": "pena-deportiva",
+        "name": "Peña Deportiva",
+        "hash": "b574baf9",
+        "league": "segunda-federacion"
+      },
+      "poblense": {
+        "slug": "poblense",
+        "name": "Poblense",
+        "hash": "57ac760b",
+        "league": "segunda-federacion"
+      },
+      "ucam-murcia": {
+        "slug": "ucam-murcia",
+        "name": "UCAM Murcia",
+        "hash": "1dfa5923",
+        "league": "segunda-federacion"
+      },
+      "atletico-central": {
+        "slug": "atletico-central",
+        "name": "Atlético Central",
+        "hash": "2ae274ca",
+        "league": "segunda-federacion"
+      },
+      "atletico-antoniano": {
+        "slug": "atletico-antoniano",
+        "name": "Atlético Antoniano",
+        "hash": "3421e493",
+        "league": "segunda-federacion"
+      },
+      "cd-atletico-paso": {
+        "slug": "cd-atletico-paso",
+        "name": "CD Atlético Paso",
+        "hash": "0151909e",
+        "league": "segunda-federacion"
+      },
+      "cd-badajoz": {
+        "slug": "cd-badajoz",
+        "name": "CD Badajoz",
+        "hash": "a05dbc8b",
+        "league": "segunda-federacion"
+      },
+      "cd-estepona": {
+        "slug": "cd-estepona",
+        "name": "CD Estepona",
+        "hash": "a7dc7d72",
+        "league": "segunda-federacion"
+      },
+      "cd-ciudad-de-lucena": {
+        "slug": "cd-ciudad-de-lucena",
+        "name": "CD Ciudad de Lucena",
+        "hash": "b461b002",
+        "league": "segunda-federacion"
+      },
+      "cd-don-benito": {
+        "slug": "cd-don-benito",
+        "name": "CD Don Benito",
+        "hash": "367329d6",
+        "league": "segunda-federacion"
+      },
+      "linares-deportivo": {
+        "slug": "linares-deportivo",
+        "name": "Linares Deportivo",
+        "hash": "f50950e7",
+        "league": "segunda-federacion"
+      },
+      "mijas-las-lagunas": {
+        "slug": "mijas-las-lagunas",
+        "name": "Mijas-Las Lagunas",
+        "hash": "6f5489e7",
+        "league": "segunda-federacion"
+      },
+      "recreativo-huelva": {
+        "slug": "recreativo-huelva",
+        "name": "Recreativo de Huelva",
+        "hash": "809e29b3",
+        "league": "segunda-federacion"
+      },
+      "ud-tamaraceite": {
+        "slug": "ud-tamaraceite",
+        "name": "UD Tamaraceite",
+        "hash": "ed55cf49",
+        "league": "segunda-federacion"
+      },
+      "xerez-cd": {
+        "slug": "xerez-cd",
+        "name": "Xerez CD",
+        "hash": "d2280e86",
+        "league": "segunda-federacion"
+      },
+      "atletico-tordesillas": {
+        "slug": "atletico-tordesillas",
+        "name": "Atlético Tordesillas",
+        "hash": "49130cea",
+        "league": "segunda-federacion"
+      },
+      "cf-calamocha": {
+        "slug": "cf-calamocha",
+        "name": "CF Calamocha",
+        "hash": "1a6c22f7",
+        "league": "segunda-federacion"
+      },
+      "calvo-sotelo-puertollano-cf": {
+        "slug": "calvo-sotelo-puertollano-cf",
+        "name": "Calvo Sotelo Puertollano CF",
+        "hash": "0f0db5a5",
+        "league": "segunda-federacion"
+      },
+      "ub-conquense": {
+        "slug": "ub-conquense",
+        "name": "UB Conquense",
+        "hash": "2b7d4882",
+        "league": "segunda-federacion"
+      },
+      "cda-navalcarnero": {
+        "slug": "cda-navalcarnero",
+        "name": "CDA Navalcarnero",
+        "hash": "2569f699",
+        "league": "segunda-federacion"
+      },
+      "rsd-alcala": {
+        "slug": "rsd-alcala",
+        "name": "RSD Alcalá",
+        "hash": "7dec50ea",
+        "league": "segunda-federacion"
+      },
+      "ud-san-sebastian-de-los-reyes": {
+        "slug": "ud-san-sebastian-de-los-reyes",
+        "name": "UD San Sebastián de los Reyes",
+        "hash": "79a394b4",
+        "league": "segunda-federacion"
+      },
+      "copa-del-rey": {
+        "slug": "copa-del-rey",
+        "name": "Copa del Rey",
+        "hash": "d48736b4",
+        "league": ""
+      },
+      "supercopa-de-espana": {
+        "slug": "supercopa-de-espana",
+        "name": "Supercopa de España",
+        "hash": "1b9709b2",
+        "league": ""
+      },
+      "badalona": {
+        "slug": "badalona",
+        "name": "Badalona",
+        "hash": "09866a8a",
+        "league": ""
+      },
+      "club-lleida-esportiu": {
+        "slug": "club-lleida-esportiu",
+        "name": "Club Lleida Esportiu",
+        "hash": "27fd891c",
+        "league": ""
+      },
+      "guijuelo": {
+        "slug": "guijuelo",
+        "name": "Guijuelo",
+        "hash": "28c2de4a",
+        "league": ""
+      },
+      "l-hospitalet": {
+        "slug": "l-hospitalet",
+        "name": "L'Hospitalet",
+        "hash": "57ce2606",
+        "league": ""
+      },
+      "salamanca-cf-uds-b": {
+        "slug": "salamanca-cf-uds-b",
+        "name": "Salamanca CF UDS B",
+        "hash": "f0ee8c8f",
+        "league": ""
+      },
+      "cd-lealtad": {
+        "slug": "cd-lealtad",
+        "name": "CD Lealtad",
+        "hash": "6b4b19f7",
+        "league": ""
+      },
+      "up-langreo": {
+        "slug": "up-langreo",
+        "name": "UP Langreo",
+        "hash": "fbe6188c",
+        "league": ""
+      },
+      "sd-sarriana": {
+        "slug": "sd-sarriana",
+        "name": "SD Sarriana",
+        "hash": "5d31030c",
+        "league": ""
+      },
+      "ud-samano": {
+        "slug": "ud-samano",
+        "name": "UD Sámano",
+        "hash": "523e2b6e",
+        "league": ""
+      },
+      "beasain": {
+        "slug": "beasain",
+        "name": "Beasain",
+        "hash": "cf87475a",
+        "league": ""
+      },
+      "sd-ejea": {
+        "slug": "sd-ejea",
+        "name": "SD Ejea",
+        "hash": "f051a0aa",
+        "league": ""
+      },
+      "u-mutilvera": {
+        "slug": "u-mutilvera",
+        "name": "U. Mutilvera",
+        "hash": "04b7ab1c",
+        "league": ""
+      },
+      "cd-alfaro": {
+        "slug": "cd-alfaro",
+        "name": "CD Alfaro",
+        "hash": "efaa92f4",
+        "league": ""
+      },
+      "cf-fuenlabrada": {
+        "slug": "cf-fuenlabrada",
+        "name": "CF Fuenlabrada",
+        "hash": "8fce6faf",
+        "league": ""
+      },
+      "sd-erandio-club": {
+        "slug": "sd-erandio-club",
+        "name": "SD Erandio Club",
+        "hash": "c555667a",
+        "league": ""
+      },
+      "ue-cornella": {
+        "slug": "ue-cornella",
+        "name": "UE Cornellà",
+        "hash": "a6d3a541",
+        "league": ""
+      },
+      "puente-genil": {
+        "slug": "puente-genil",
+        "name": "Puente Genil",
+        "hash": "2128815b",
+        "league": ""
+      }
+    }
+  }
+}

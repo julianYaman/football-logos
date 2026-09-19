@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "ethiopia",
+    "iso2": "ET",
+    "name": "Ethiopia",
+    "defaultLeague": "ethiopia-national-team",
+    "leagues": {
+      "ethiopia-national-team": {
+        "slug": "ethiopia-national-team",
+        "name": "Ethiopia National Team",
+        "hash": "c0ba820f",
+        "kind": "league",
+        "code": "ET"
+      }
+    },
+    "clubs": {}
+  }
+}

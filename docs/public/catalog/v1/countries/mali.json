@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "mali",
+    "iso2": "ML",
+    "name": "Mali",
+    "defaultLeague": "mali-national-team",
+    "leagues": {
+      "mali-national-team": {
+        "slug": "mali-national-team",
+        "name": "Mali National Team",
+        "hash": "7e4d33be",
+        "kind": "league",
+        "code": "ML"
+      }
+    },
+    "clubs": {}
+  }
+}

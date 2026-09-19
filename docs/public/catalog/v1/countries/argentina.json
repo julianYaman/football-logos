@@ -1,0 +1,807 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "argentina",
+    "iso2": "AR",
+    "name": "Argentina",
+    "defaultLeague": "argentina-primera-division",
+    "leagues": {
+      "argentina-primera-division": {
+        "slug": "argentina-primera-division",
+        "name": "Argentina Primera Division",
+        "hash": "98bf8e3e",
+        "kind": "league",
+        "code": "AR"
+      },
+      "primera-nacional": {
+        "slug": "primera-nacional",
+        "name": "Primera Nacional",
+        "hash": "47bfedd8",
+        "kind": "league"
+      },
+      "primera-b-metropolitana": {
+        "slug": "primera-b-metropolitana",
+        "name": "Primera B Metropolitana",
+        "hash": "5e0da685",
+        "kind": "league"
+      },
+      "primera-c-metropolitana": {
+        "slug": "primera-c-metropolitana",
+        "name": "Primera C Metropolitana",
+        "hash": "7e3f390a",
+        "kind": "league"
+      },
+      "argentina-national-team": {
+        "slug": "argentina-national-team",
+        "name": "Argentina National Team",
+        "hash": "5c235057",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "aldosivi": {
+        "slug": "aldosivi",
+        "name": "Aldosivi",
+        "hash": "6a2fb242",
+        "league": "argentina-primera-division"
+      },
+      "argeninos-juniors": {
+        "slug": "argeninos-juniors",
+        "name": "Argeninos Juniors",
+        "hash": "b2780d67",
+        "league": "argentina-primera-division"
+      },
+      "atletico-tucuman": {
+        "slug": "atletico-tucuman",
+        "name": "Atlético Tucumán",
+        "hash": "10ddf6b8",
+        "league": "argentina-primera-division"
+      },
+      "banfield": {
+        "slug": "banfield",
+        "name": "Banfield",
+        "hash": "b34d0f03",
+        "league": "argentina-primera-division"
+      },
+      "barracas-central": {
+        "slug": "barracas-central",
+        "name": "Barracas Central",
+        "hash": "20586205",
+        "league": "argentina-primera-division"
+      },
+      "belgrano": {
+        "slug": "belgrano",
+        "name": "Belgrano",
+        "hash": "6b246ab5",
+        "league": "argentina-primera-division"
+      },
+      "boca-juniors": {
+        "slug": "boca-juniors",
+        "name": "Boca Juniors",
+        "hash": "ea01d4a3",
+        "league": "argentina-primera-division"
+      },
+      "ca-huracan": {
+        "slug": "ca-huracan",
+        "name": "CA Huracán",
+        "hash": "97fa4461",
+        "league": "argentina-primera-division"
+      },
+      "central-cordoba": {
+        "slug": "central-cordoba",
+        "name": "Central Córdoba",
+        "hash": "2ebcc2c9",
+        "league": "argentina-primera-division"
+      },
+      "club-atletico-platanense": {
+        "slug": "club-atletico-platanense",
+        "name": "Club Atlético Platanense",
+        "hash": "cb5c762c",
+        "league": "argentina-primera-division"
+      },
+      "defensa-y-justicia": {
+        "slug": "defensa-y-justicia",
+        "name": "Defensa y Justicia",
+        "hash": "1a8311a2",
+        "league": "argentina-primera-division"
+      },
+      "deportivo-riestra": {
+        "slug": "deportivo-riestra",
+        "name": "Deportivo Riestra",
+        "hash": "b03ac726",
+        "league": "argentina-primera-division"
+      },
+      "estudiantes-de-la-plata": {
+        "slug": "estudiantes-de-la-plata",
+        "name": "Estudiantes de La Plata",
+        "hash": "51f54156",
+        "league": "argentina-primera-division"
+      },
+      "gimnasia-lp": {
+        "slug": "gimnasia-lp",
+        "name": "Gimnasia LP",
+        "hash": "953a0a50",
+        "league": "argentina-primera-division"
+      },
+      "independiente": {
+        "slug": "independiente",
+        "name": "Independiente",
+        "hash": "fd959dab",
+        "league": "argentina-primera-division"
+      },
+      "independiente-rivadavia": {
+        "slug": "independiente-rivadavia",
+        "name": "Independiente Rivadavia",
+        "hash": "55b639a5",
+        "league": "argentina-primera-division"
+      },
+      "instituto-cordoba": {
+        "slug": "instituto-cordoba",
+        "name": "Instituto Córdoba",
+        "hash": "186b2667",
+        "league": "argentina-primera-division"
+      },
+      "lanus": {
+        "slug": "lanus",
+        "name": "Lanús",
+        "hash": "479fce96",
+        "league": "argentina-primera-division"
+      },
+      "newells-old-boys": {
+        "slug": "newells-old-boys",
+        "name": "Newell&#39;s Old Boys",
+        "hash": "b60acb78",
+        "league": "argentina-primera-division"
+      },
+      "racing-club": {
+        "slug": "racing-club",
+        "name": "Racing Club",
+        "hash": "b31447c6",
+        "league": "argentina-primera-division"
+      },
+      "river-plate": {
+        "slug": "river-plate",
+        "name": "River Plate",
+        "hash": "01acb6fc",
+        "league": "argentina-primera-division"
+      },
+      "rosario-central": {
+        "slug": "rosario-central",
+        "name": "Rosario Central",
+        "hash": "028c4599",
+        "league": "argentina-primera-division"
+      },
+      "san-lorenzo-de-almagro": {
+        "slug": "san-lorenzo-de-almagro",
+        "name": "San Lorenzo de Almagro",
+        "hash": "55e6a0bf",
+        "league": "argentina-primera-division"
+      },
+      "sarmiento": {
+        "slug": "sarmiento",
+        "name": "Sarmiento",
+        "hash": "cce0f83b",
+        "league": "argentina-primera-division"
+      },
+      "talleres": {
+        "slug": "talleres",
+        "name": "Talleres",
+        "hash": "d1c887d7",
+        "league": "argentina-primera-division"
+      },
+      "tigre": {
+        "slug": "tigre",
+        "name": "Tigre",
+        "hash": "c5af188f",
+        "league": "argentina-primera-division"
+      },
+      "union": {
+        "slug": "union",
+        "name": "Union",
+        "hash": "4d3d12f2",
+        "league": "argentina-primera-division"
+      },
+      "velez-sarsfield": {
+        "slug": "velez-sarsfield",
+        "name": "Vélez Sarsfield",
+        "hash": "1f962690",
+        "league": "argentina-primera-division"
+      },
+      "gimnasia-y-esgrima": {
+        "slug": "gimnasia-y-esgrima",
+        "name": "Gimnasia y Esgrima",
+        "hash": "841ab8fe",
+        "league": "argentina-primera-division"
+      },
+      "estudiantes-de-rio-cuarto": {
+        "slug": "estudiantes-de-rio-cuarto",
+        "name": "Estudiantes de Rio Cuarto",
+        "hash": "93c28336",
+        "league": "argentina-primera-division"
+      },
+      "almagro": {
+        "slug": "almagro",
+        "name": "Almagro",
+        "hash": "4ec97b42",
+        "league": "primera-nacional"
+      },
+      "alvarado": {
+        "slug": "alvarado",
+        "name": "Alvarado",
+        "hash": "3c7b8015",
+        "league": "primera-nacional"
+      },
+      "arsenal-de-sarandi": {
+        "slug": "arsenal-de-sarandi",
+        "name": "Arsenal de Sarandí",
+        "hash": "eae57217",
+        "league": "primera-nacional"
+      },
+      "all-boys": {
+        "slug": "all-boys",
+        "name": "All Boys",
+        "hash": "13643ea9",
+        "league": "primera-nacional"
+      },
+      "atletico-atlanta": {
+        "slug": "atletico-atlanta",
+        "name": "Atlético Atlanta",
+        "hash": "92f4aacb",
+        "league": "primera-nacional"
+      },
+      "colegiales": {
+        "slug": "colegiales",
+        "name": "Colegiales",
+        "hash": "dc0cfc45",
+        "league": "primera-nacional"
+      },
+      "deportivo-madryn": {
+        "slug": "deportivo-madryn",
+        "name": "Deportivo Madryn",
+        "hash": "30c14e40",
+        "league": "primera-nacional"
+      },
+      "deportivo-maipu": {
+        "slug": "deportivo-maipu",
+        "name": "Deportivo Maipú",
+        "hash": "21fa1e4a",
+        "league": "primera-nacional"
+      },
+      "ferro-carril-oeste": {
+        "slug": "ferro-carril-oeste",
+        "name": "Ferro Carril Oeste",
+        "hash": "d4d6b6cc",
+        "league": "primera-nacional"
+      },
+      "gimnasia-y-tiro": {
+        "slug": "gimnasia-y-tiro",
+        "name": "Gimnasia y Tiro",
+        "hash": "ba950f5e",
+        "league": "primera-nacional"
+      },
+      "guemes": {
+        "slug": "guemes",
+        "name": "Güemes",
+        "hash": "860bd3bd",
+        "league": "primera-nacional"
+      },
+      "los-andes": {
+        "slug": "los-andes",
+        "name": "Los Andes",
+        "hash": "459b6614",
+        "league": "primera-nacional"
+      },
+      "patronato": {
+        "slug": "patronato",
+        "name": "Patronato",
+        "hash": "c3f5b2a1",
+        "league": "primera-nacional"
+      },
+      "quilmes": {
+        "slug": "quilmes",
+        "name": "Quilmes",
+        "hash": "33acc51d",
+        "league": "primera-nacional"
+      },
+      "racing": {
+        "slug": "racing",
+        "name": "Racing",
+        "hash": "4fb4d130",
+        "league": "primera-nacional"
+      },
+      "san-martin-tucuman": {
+        "slug": "san-martin-tucuman",
+        "name": "San Martín",
+        "hash": "300635a1",
+        "league": "primera-nacional"
+      },
+      "san-miguel": {
+        "slug": "san-miguel",
+        "name": "San Miguel",
+        "hash": "d5956b30",
+        "league": "primera-nacional"
+      },
+      "tristan-suarez": {
+        "slug": "tristan-suarez",
+        "name": "Tristán Suárez",
+        "hash": "e5100087",
+        "league": "primera-nacional"
+      },
+      "estudiantes-de-buenos-aires": {
+        "slug": "estudiantes-de-buenos-aires",
+        "name": "Estudiantes de Buenos Aires",
+        "hash": "4cf99d13",
+        "league": "primera-nacional"
+      },
+      "deportivo-moron": {
+        "slug": "deportivo-moron",
+        "name": "Deportivo Morón",
+        "hash": "b187b2e0",
+        "league": "primera-nacional"
+      },
+      "gimnasia-de-jujuy": {
+        "slug": "gimnasia-de-jujuy",
+        "name": "Gimnasia y Esgrima de Jujuy",
+        "hash": "b4f39e70",
+        "league": "primera-nacional"
+      },
+      "temperley": {
+        "slug": "temperley",
+        "name": "Club Atlético Temperley",
+        "hash": "dae6515f",
+        "league": "primera-nacional"
+      },
+      "agropecuario-argentino": {
+        "slug": "agropecuario-argentino",
+        "name": "Agropecuario Argentino",
+        "hash": "eac2abf6",
+        "league": "primera-nacional"
+      },
+      "chaco-for-ever": {
+        "slug": "chaco-for-ever",
+        "name": "Chaco For Ever",
+        "hash": "7de99c10",
+        "league": "primera-nacional"
+      },
+      "chacarita-juniors": {
+        "slug": "chacarita-juniors",
+        "name": "Chacarita Juniors",
+        "hash": "c054d4a4",
+        "league": "primera-nacional"
+      },
+      "defensores-de-belgrano": {
+        "slug": "defensores-de-belgrano",
+        "name": "Defensores de Belgrano",
+        "hash": "65718377",
+        "league": "primera-nacional"
+      },
+      "nueva-chicago": {
+        "slug": "nueva-chicago",
+        "name": "Nueva Chicago",
+        "hash": "33b88f77",
+        "league": "primera-nacional"
+      },
+      "san-telmo": {
+        "slug": "san-telmo",
+        "name": "San Telmo",
+        "hash": "1a51ea75",
+        "league": "primera-nacional"
+      },
+      "mitre-santiago-del-estero": {
+        "slug": "mitre-santiago-del-estero",
+        "name": "Club Atlético Mitre",
+        "hash": "014c8395",
+        "league": "primera-nacional"
+      },
+      "almirante-brown": {
+        "slug": "almirante-brown",
+        "name": "Almirante Brown",
+        "hash": "d4e65053",
+        "league": "primera-nacional"
+      },
+      "central-norte": {
+        "slug": "central-norte",
+        "name": "Central Norte",
+        "hash": "43901b4a",
+        "league": "primera-nacional"
+      },
+      "colon-santa-fe": {
+        "slug": "colon-santa-fe",
+        "name": "Club Atlético Colón",
+        "hash": "c7a7bb17",
+        "league": "primera-nacional"
+      },
+      "talleres-remedios-de-escalada": {
+        "slug": "talleres-remedios-de-escalada",
+        "name": "Talleres de Remedios de Escalada",
+        "hash": "40f831e6",
+        "league": "primera-nacional"
+      },
+      "defensores-unidos": {
+        "slug": "defensores-unidos",
+        "name": "Defensores Unidos",
+        "hash": "5eaac10c",
+        "league": "primera-nacional"
+      },
+      "deportivo-merlo": {
+        "slug": "deportivo-merlo",
+        "name": "Deportivo Merlo",
+        "hash": "abae3eb7",
+        "league": "primera-b-metropolitana"
+      },
+      "excursionistas": {
+        "slug": "excursionistas",
+        "name": "Excursionistas",
+        "hash": "0dab1f1b",
+        "league": "primera-b-metropolitana"
+      },
+      "villa-dalmine": {
+        "slug": "villa-dalmine",
+        "name": "Villa Dálmine",
+        "hash": "58c8260f",
+        "league": "primera-b-metropolitana"
+      },
+      "villa-san-carlos": {
+        "slug": "villa-san-carlos",
+        "name": "Villa San Carlos",
+        "hash": "358ba800",
+        "league": "primera-b-metropolitana"
+      },
+      "brown-de-adrogue": {
+        "slug": "brown-de-adrogue",
+        "name": "Brown de Adrogué",
+        "hash": "e0670647",
+        "league": "primera-b-metropolitana"
+      },
+      "deportivo-camioneros": {
+        "slug": "deportivo-camioneros",
+        "name": "Deportivo Camioneros",
+        "hash": "f4cbb71b",
+        "league": "primera-b-metropolitana"
+      },
+      "sportivo-italiano": {
+        "slug": "sportivo-italiano",
+        "name": "Sportivo Italiano",
+        "hash": "bc379f4b",
+        "league": "primera-b-metropolitana"
+      },
+      "real-pilar": {
+        "slug": "real-pilar",
+        "name": "Real Pilar",
+        "hash": "00083614",
+        "league": "primera-b-metropolitana"
+      },
+      "comunicaciones": {
+        "slug": "comunicaciones",
+        "name": "Comunicaciones",
+        "hash": "5601078c",
+        "league": "primera-b-metropolitana"
+      },
+      "deportivo-armenio": {
+        "slug": "deportivo-armenio",
+        "name": "Deportivo Armenio",
+        "hash": "7e6000b1",
+        "league": "primera-b-metropolitana"
+      },
+      "deportivo-laferrere": {
+        "slug": "deportivo-laferrere",
+        "name": "Deportivo Laferrere",
+        "hash": "14e2abcd",
+        "league": "primera-b-metropolitana"
+      },
+      "dock-sud": {
+        "slug": "dock-sud",
+        "name": "Dock Sud",
+        "hash": "59cfc4a2",
+        "league": "primera-b-metropolitana"
+      },
+      "argentino-de-merlo": {
+        "slug": "argentino-de-merlo",
+        "name": "Argentino de Merlo",
+        "hash": "512b1c99",
+        "league": "primera-b-metropolitana"
+      },
+      "san-martin-de-burzaco": {
+        "slug": "san-martin-de-burzaco",
+        "name": "San Martín de Burzaco",
+        "hash": "7f54ecc0",
+        "league": "primera-b-metropolitana"
+      },
+      "argentino-de-quilmes": {
+        "slug": "argentino-de-quilmes",
+        "name": "Argentino de Quilmes",
+        "hash": "755b5a15",
+        "league": "primera-b-metropolitana"
+      },
+      "liniers": {
+        "slug": "liniers",
+        "name": "Liniers",
+        "hash": "ff890e66",
+        "league": "primera-b-metropolitana"
+      },
+      "flandria": {
+        "slug": "flandria",
+        "name": "Flandria",
+        "hash": "bc3190c7",
+        "league": "primera-b-metropolitana"
+      },
+      "uai-urquiza": {
+        "slug": "uai-urquiza",
+        "name": "UAI Urquiza",
+        "hash": "6eb0822c",
+        "league": "primera-b-metropolitana"
+      },
+      "ituzaingo": {
+        "slug": "ituzaingo",
+        "name": "Ituzaingó",
+        "hash": "30e64825",
+        "league": "primera-b-metropolitana"
+      },
+      "sacachispas": {
+        "slug": "sacachispas",
+        "name": "Sacachispas",
+        "hash": "1bbe11b8",
+        "league": "primera-c-metropolitana"
+      },
+      "canuelas": {
+        "slug": "canuelas",
+        "name": "Cañuelas",
+        "hash": "a1471f55",
+        "league": "primera-c-metropolitana"
+      },
+      "central-cordoba-rosario": {
+        "slug": "central-cordoba-rosario",
+        "name": "Central Córdoba de Rosario",
+        "hash": "5cedad90",
+        "league": "primera-c-metropolitana"
+      },
+      "lujan": {
+        "slug": "lujan",
+        "name": "Luján",
+        "hash": "595d5e90",
+        "league": "primera-c-metropolitana"
+      },
+      "deportivo-espanol": {
+        "slug": "deportivo-espanol",
+        "name": "Deportivo Español",
+        "hash": "e94ff578",
+        "league": "primera-c-metropolitana"
+      },
+      "berazategui": {
+        "slug": "berazategui",
+        "name": "Berazategui",
+        "hash": "6c8982ac",
+        "league": "primera-c-metropolitana"
+      },
+      "lugano": {
+        "slug": "lugano",
+        "name": "Lugano",
+        "hash": "2d3fa94a",
+        "league": "primera-c-metropolitana"
+      },
+      "centro-espanol": {
+        "slug": "centro-espanol",
+        "name": "Centro Español",
+        "hash": "e4edd2cc",
+        "league": "primera-c-metropolitana"
+      },
+      "estrella-del-sur": {
+        "slug": "estrella-del-sur",
+        "name": "Estrella del Sur",
+        "hash": "73ba0737",
+        "league": "primera-c-metropolitana"
+      },
+      "juventud-unida-san-miguel": {
+        "slug": "juventud-unida-san-miguel",
+        "name": "Juventud Unida",
+        "hash": "5151c879",
+        "league": "primera-c-metropolitana"
+      },
+      "puerto-nuevo": {
+        "slug": "puerto-nuevo",
+        "name": "Puerto Nuevo",
+        "hash": "189c5d07",
+        "league": "primera-c-metropolitana"
+      },
+      "club-mercedes": {
+        "slug": "club-mercedes",
+        "name": "Club Mercedes",
+        "hash": "2c6dbc92",
+        "league": "primera-c-metropolitana"
+      },
+      "victoriano-arenas": {
+        "slug": "victoriano-arenas",
+        "name": "Victoriano Arenas",
+        "hash": "752f223c",
+        "league": "primera-c-metropolitana"
+      },
+      "defensores-de-cambaceres": {
+        "slug": "defensores-de-cambaceres",
+        "name": "Defensores de Cambaceres",
+        "hash": "7860174e",
+        "league": "primera-c-metropolitana"
+      },
+      "leandro-n-alem": {
+        "slug": "leandro-n-alem",
+        "name": "Leandro N. Alem",
+        "hash": "b9ca0bc4",
+        "league": "primera-c-metropolitana"
+      },
+      "justo-jose-de-urquiza": {
+        "slug": "justo-jose-de-urquiza",
+        "name": "J.J. Urquiza",
+        "hash": "a3df973e",
+        "league": "primera-c-metropolitana"
+      },
+      "deportivo-paraguayo": {
+        "slug": "deportivo-paraguayo",
+        "name": "Deportivo Paraguayo",
+        "hash": "b5e5beed",
+        "league": "primera-c-metropolitana"
+      },
+      "argentino-de-rosario": {
+        "slug": "argentino-de-rosario",
+        "name": "Argentino de Rosario",
+        "hash": "5df69e4d",
+        "league": "primera-c-metropolitana"
+      },
+      "leones-de-rosario": {
+        "slug": "leones-de-rosario",
+        "name": "Leones de Rosario",
+        "hash": "bb76b5df",
+        "league": "primera-c-metropolitana"
+      },
+      "sportivo-barracas": {
+        "slug": "sportivo-barracas",
+        "name": "Sportivo Barracas",
+        "hash": "397f81d4",
+        "league": "primera-c-metropolitana"
+      },
+      "central-ballester": {
+        "slug": "central-ballester",
+        "name": "Central Ballester",
+        "hash": "38b92656",
+        "league": "primera-c-metropolitana"
+      },
+      "general-lamadrid": {
+        "slug": "general-lamadrid",
+        "name": "General Lamadrid",
+        "hash": "3a59b22e",
+        "league": "primera-c-metropolitana"
+      },
+      "el-porvenir": {
+        "slug": "el-porvenir",
+        "name": "El Porvenir",
+        "hash": "b6352c17",
+        "league": "primera-c-metropolitana"
+      },
+      "atlas": {
+        "slug": "atlas",
+        "name": "Atlas",
+        "hash": "34a728ea",
+        "league": "primera-c-metropolitana"
+      },
+      "yupanqui": {
+        "slug": "yupanqui",
+        "name": "Yupanqui",
+        "hash": "ede9fb41",
+        "league": "primera-c-metropolitana"
+      },
+      "fenix": {
+        "slug": "fenix",
+        "name": "Fénix",
+        "hash": "0c044309",
+        "league": "primera-c-metropolitana"
+      },
+      "claypole": {
+        "slug": "claypole",
+        "name": "Claypole",
+        "hash": "1cee6c83",
+        "league": "primera-c-metropolitana"
+      },
+      "deportivo-muniz": {
+        "slug": "deportivo-muniz",
+        "name": "Deportivo Muñiz",
+        "hash": "ea44738b",
+        "league": "primera-c-metropolitana"
+      },
+      "godoy-cruz": {
+        "slug": "godoy-cruz",
+        "name": "Godoy Cruz",
+        "hash": "fb265467",
+        "league": ""
+      },
+      "san-martin-san-juan": {
+        "slug": "san-martin-san-juan",
+        "name": "San Martín San Juan",
+        "hash": "1da5bb39",
+        "league": ""
+      },
+      "platense": {
+        "slug": "platense",
+        "name": "Platense",
+        "hash": "4062422d",
+        "league": ""
+      },
+      "douglas-haig": {
+        "slug": "douglas-haig",
+        "name": "Douglas Haig",
+        "hash": "aa833ddc",
+        "league": ""
+      },
+      "villa-mitre": {
+        "slug": "villa-mitre",
+        "name": "Villa Mitre",
+        "hash": "9ecc2760",
+        "league": ""
+      },
+      "germinal": {
+        "slug": "germinal",
+        "name": "Germinal",
+        "hash": "448cbb67",
+        "league": ""
+      },
+      "guillermo-brown": {
+        "slug": "guillermo-brown",
+        "name": "Guillermo Brown",
+        "hash": "de4eaed4",
+        "league": ""
+      },
+      "juventud-unida-universitario": {
+        "slug": "juventud-unida-universitario",
+        "name": "Juventud Unida Universitario",
+        "hash": "e799b67e",
+        "league": ""
+      },
+      "tucuman-central": {
+        "slug": "tucuman-central",
+        "name": "Tucumán Central",
+        "hash": "3bc4044f",
+        "league": ""
+      },
+      "libertad-sunchales": {
+        "slug": "libertad-sunchales",
+        "name": "Libertad de Sunchales",
+        "hash": "10105f40",
+        "league": ""
+      },
+      "sportivo-desamparados": {
+        "slug": "sportivo-desamparados",
+        "name": "Sportivo Desamparados",
+        "hash": "4cc05397",
+        "league": ""
+      },
+      "racing-de-olavarria": {
+        "slug": "racing-de-olavarria",
+        "name": "Racing de Olavarría",
+        "hash": "2d33dabb",
+        "league": ""
+      },
+      "general-paz-juniors": {
+        "slug": "general-paz-juniors",
+        "name": "General Paz Juniors",
+        "hash": "14a6722f",
+        "league": ""
+      },
+      "gutierrez-sc": {
+        "slug": "gutierrez-sc",
+        "name": "Gutiérrez SC",
+        "hash": "c5e743ee",
+        "league": ""
+      },
+      "sportivo-ben-hur": {
+        "slug": "sportivo-ben-hur",
+        "name": "Sportivo Ben Hur",
+        "hash": "5ee666cb",
+        "league": ""
+      },
+      "atletico-policial": {
+        "slug": "atletico-policial",
+        "name": "Atlético Policial",
+        "hash": "e699c36f",
+        "league": ""
+      }
+    }
+  }
+}

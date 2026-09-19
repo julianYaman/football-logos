@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "rwanda",
+    "iso2": "RW",
+    "name": "Rwanda",
+    "defaultLeague": "rwanda-national-team",
+    "leagues": {
+      "rwanda-national-team": {
+        "slug": "rwanda-national-team",
+        "name": "Rwanda National Team",
+        "hash": "4c662ba5",
+        "kind": "league",
+        "code": "RW"
+      }
+    },
+    "clubs": {}
+  }
+}

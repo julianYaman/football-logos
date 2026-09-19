@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "samoa",
+    "iso2": "WS",
+    "name": "Samoa",
+    "defaultLeague": "samoa-national-team",
+    "leagues": {
+      "samoa-national-team": {
+        "slug": "samoa-national-team",
+        "name": "Samoa National Team",
+        "hash": "4ac6f0fb",
+        "kind": "league",
+        "code": "WS"
+      }
+    },
+    "clubs": {}
+  }
+}

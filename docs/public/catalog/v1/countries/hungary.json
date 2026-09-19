@@ -1,0 +1,273 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "hungary",
+    "iso2": "HU",
+    "name": "Hungary",
+    "defaultLeague": "nemzeti-bajnoksag",
+    "leagues": {
+      "nemzeti-bajnoksag": {
+        "slug": "nemzeti-bajnoksag",
+        "name": "Nemzeti Bajnokság I",
+        "hash": "78ab7c27",
+        "kind": "league",
+        "code": "HU"
+      },
+      "nemzeti-bajnoksag-2": {
+        "slug": "nemzeti-bajnoksag-2",
+        "name": "Nemzeti Bajnokság II",
+        "hash": "13293d56",
+        "kind": "league"
+      },
+      "hungary-national-team": {
+        "slug": "hungary-national-team",
+        "name": "Hungary National Team",
+        "hash": "4e837a59",
+        "kind": "league"
+      },
+      "hungarian-football-federation": {
+        "slug": "hungarian-football-federation",
+        "name": "Hungarian Football Federation",
+        "hash": "f570e900",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "debrecen": {
+        "slug": "debrecen",
+        "name": "Debrecen",
+        "hash": "bfdbd9f8",
+        "league": "nemzeti-bajnoksag"
+      },
+      "ferencvaros": {
+        "slug": "ferencvaros",
+        "name": "Ferencváros",
+        "hash": "590de551",
+        "league": "nemzeti-bajnoksag"
+      },
+      "gyor": {
+        "slug": "gyor",
+        "name": "Győr",
+        "hash": "2dacc270",
+        "league": "nemzeti-bajnoksag"
+      },
+      "honved": {
+        "slug": "honved",
+        "name": "Honvéd",
+        "hash": "0146bf47",
+        "league": "nemzeti-bajnoksag"
+      },
+      "kisvarda": {
+        "slug": "kisvarda",
+        "name": "Kisvárda",
+        "hash": "8a8de73e",
+        "league": "nemzeti-bajnoksag"
+      },
+      "mtk": {
+        "slug": "mtk",
+        "name": "MTK",
+        "hash": "e3670d80",
+        "league": "nemzeti-bajnoksag"
+      },
+      "nyiregyhaza-spartacus": {
+        "slug": "nyiregyhaza-spartacus",
+        "name": "Nyíregyháza Spartacus",
+        "hash": "b3e61f4b",
+        "league": "nemzeti-bajnoksag"
+      },
+      "paksi": {
+        "slug": "paksi",
+        "name": "Paksi",
+        "hash": "48546c81",
+        "league": "nemzeti-bajnoksag"
+      },
+      "puskas-akademia": {
+        "slug": "puskas-akademia",
+        "name": "Puskás Akadémia",
+        "hash": "9e98bc49",
+        "league": "nemzeti-bajnoksag"
+      },
+      "ujpest": {
+        "slug": "ujpest",
+        "name": "Újpest",
+        "hash": "7d82e832",
+        "league": "nemzeti-bajnoksag"
+      },
+      "vasas": {
+        "slug": "vasas",
+        "name": "Vasas",
+        "hash": "b0e7d0bd",
+        "league": "nemzeti-bajnoksag"
+      },
+      "zte": {
+        "slug": "zte",
+        "name": "ZTE",
+        "hash": "99afe719",
+        "league": "nemzeti-bajnoksag"
+      },
+      "ajka-fc": {
+        "slug": "ajka-fc",
+        "name": "Ajka FC",
+        "hash": "5fc08d25",
+        "league": "nemzeti-bajnoksag-2"
+      },
+      "bekescsaba": {
+        "slug": "bekescsaba",
+        "name": "Békéscsaba",
+        "hash": "f18fc2ec",
+        "league": "nemzeti-bajnoksag-2"
+      },
+      "budafoki": {
+        "slug": "budafoki",
+        "name": "Budafoki",
+        "hash": "c60e3dab",
+        "league": "nemzeti-bajnoksag-2"
+      },
+      "gyirmot": {
+        "slug": "gyirmot",
+        "name": "Gyirmót",
+        "hash": "ec4e5172",
+        "league": "nemzeti-bajnoksag-2"
+      },
+      "kazincbarcikai": {
+        "slug": "kazincbarcikai",
+        "name": "Kazincbarcikai",
+        "hash": "27e2e533",
+        "league": "nemzeti-bajnoksag-2"
+      },
+      "mezokovesd": {
+        "slug": "mezokovesd",
+        "name": "Mezőkövesd",
+        "hash": "bb6a7282",
+        "league": "nemzeti-bajnoksag-2"
+      },
+      "soroksar-sc": {
+        "slug": "soroksar-sc",
+        "name": "Soroksár SC",
+        "hash": "34c42a1c",
+        "league": "nemzeti-bajnoksag-2"
+      },
+      "szentlorinc-se": {
+        "slug": "szentlorinc-se",
+        "name": "Szentlőrinc SE",
+        "hash": "34ee4b57",
+        "league": "nemzeti-bajnoksag-2"
+      },
+      "szeged-csanad-grosics-akademia": {
+        "slug": "szeged-csanad-grosics-akademia",
+        "name": "Szeged-Csanád Grosics Akadémia",
+        "hash": "9e51f24d",
+        "league": "nemzeti-bajnoksag-2"
+      },
+      "bvsc-zuglo": {
+        "slug": "bvsc-zuglo",
+        "name": "BVSC-Zugló",
+        "hash": "9bd3a373",
+        "league": "nemzeti-bajnoksag-2"
+      },
+      "aqvital-fc-csakvar": {
+        "slug": "aqvital-fc-csakvar",
+        "name": "Aqvital FC Csákvár",
+        "hash": "baf23825",
+        "league": "nemzeti-bajnoksag-2"
+      },
+      "kozarmisleny-fc": {
+        "slug": "kozarmisleny-fc",
+        "name": "Kozármisleny FC",
+        "hash": "c779690e",
+        "league": "nemzeti-bajnoksag-2"
+      },
+      "tatabanya": {
+        "slug": "tatabanya",
+        "name": "Tatabánya",
+        "hash": "7268d7a3",
+        "league": "nemzeti-bajnoksag-2"
+      },
+      "budaors": {
+        "slug": "budaors",
+        "name": "Budaors",
+        "hash": "d42b01d5",
+        "league": ""
+      },
+      "diosgyor": {
+        "slug": "diosgyor",
+        "name": "Diósgyőr VTK",
+        "hash": "c39c43f3",
+        "league": ""
+      },
+      "dorogi-fc": {
+        "slug": "dorogi-fc",
+        "name": "Dorogi FC",
+        "hash": "d1135031",
+        "league": ""
+      },
+      "eger": {
+        "slug": "eger",
+        "name": "Eger",
+        "hash": "0b090429",
+        "league": ""
+      },
+      "elore": {
+        "slug": "elore",
+        "name": "BKV Előre SC",
+        "hash": "0a829fc3",
+        "league": ""
+      },
+      "fehervar": {
+        "slug": "fehervar",
+        "name": "Fehérvár",
+        "hash": "1e3b4816",
+        "league": ""
+      },
+      "haladas": {
+        "slug": "haladas",
+        "name": "Haladás",
+        "hash": "32969cf6",
+        "league": ""
+      },
+      "kecskemet": {
+        "slug": "kecskemet",
+        "name": "Kecskemét",
+        "hash": "bed3e31e",
+        "league": ""
+      },
+      "pecsi": {
+        "slug": "pecsi",
+        "name": "Pécsi MFC",
+        "hash": "b6789309",
+        "league": ""
+      },
+      "rakoczi": {
+        "slug": "rakoczi",
+        "name": "Rákóczi",
+        "hash": "73a0f1eb",
+        "league": ""
+      },
+      "salgotarjan": {
+        "slug": "salgotarjan",
+        "name": "Salgótarján",
+        "hash": "c71f04a8",
+        "league": ""
+      },
+      "tiszakecskei-lc": {
+        "slug": "tiszakecskei-lc",
+        "name": "Tiszakécskei LC",
+        "hash": "21b7d669",
+        "league": ""
+      },
+      "fc-nagykanizsa": {
+        "slug": "fc-nagykanizsa",
+        "name": "FC Nagykanizsa",
+        "hash": "62b22931",
+        "league": ""
+      },
+      "karcagi-sc": {
+        "slug": "karcagi-sc",
+        "name": "Karcagi SC",
+        "hash": "e3edd2d7",
+        "league": ""
+      }
+    }
+  }
+}

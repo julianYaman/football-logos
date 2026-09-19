@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "zambia",
+    "iso2": "ZM",
+    "name": "Zambia",
+    "defaultLeague": "zambia-national-team",
+    "leagues": {
+      "zambia-national-team": {
+        "slug": "zambia-national-team",
+        "name": "Zambia National Team",
+        "hash": "c9663e30",
+        "kind": "league",
+        "code": "ZM"
+      }
+    },
+    "clubs": {}
+  }
+}

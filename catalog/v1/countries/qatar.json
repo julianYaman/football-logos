@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "qatar",
+    "iso2": "QA",
+    "name": "Qatar",
+    "defaultLeague": "qatar-stars-league",
+    "leagues": {
+      "qatar-stars-league": {
+        "slug": "qatar-stars-league",
+        "name": "Qatar Stars League",
+        "hash": "b9acaae6",
+        "kind": "league",
+        "code": "QA"
+      },
+      "qatar-national-team": {
+        "slug": "qatar-national-team",
+        "name": "Qatar National Team",
+        "hash": "990ed921",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "al-ahli": {
+        "slug": "al-ahli",
+        "name": "Al Ahli",
+        "hash": "6c27f0cc",
+        "league": "qatar-stars-league"
+      },
+      "al-shahania": {
+        "slug": "al-shahania",
+        "name": "Al Shahania",
+        "hash": "e806f5e7",
+        "league": "qatar-stars-league"
+      },
+      "al-arabi": {
+        "slug": "al-arabi",
+        "name": "Al Arabi",
+        "hash": "b3ad586d",
+        "league": "qatar-stars-league"
+      },
+      "al-wakrah": {
+        "slug": "al-wakrah",
+        "name": "Al Wakrah",
+        "hash": "4ff5210e",
+        "league": "qatar-stars-league"
+      },
+      "qatar-sc": {
+        "slug": "qatar-sc",
+        "name": "Qatar SC",
+        "hash": "0fc5b94e",
+        "league": "qatar-stars-league"
+      },
+      "al-rayyan": {
+        "slug": "al-rayyan",
+        "name": "Al Rayyan",
+        "hash": "e6d63cec",
+        "league": "qatar-stars-league"
+      },
+      "al-sadd": {
+        "slug": "al-sadd",
+        "name": "Al Sadd",
+        "hash": "50269de1",
+        "league": "qatar-stars-league"
+      },
+      "al-gharafa": {
+        "slug": "al-gharafa",
+        "name": "Al Gharafa",
+        "hash": "7c3be6ca",
+        "league": "qatar-stars-league"
+      },
+      "al-shamal": {
+        "slug": "al-shamal",
+        "name": "Al Shamal",
+        "hash": "924a8615",
+        "league": "qatar-stars-league"
+      },
+      "al-sailiya": {
+        "slug": "al-sailiya",
+        "name": "Al Sailiya",
+        "hash": "cec36de8",
+        "league": "qatar-stars-league"
+      },
+      "al-duhail": {
+        "slug": "al-duhail",
+        "name": "Al Duhail",
+        "hash": "674c0833",
+        "league": "qatar-stars-league"
+      },
+      "lusail": {
+        "slug": "lusail",
+        "name": "Lusail",
+        "hash": "c8e3434f",
+        "league": "qatar-stars-league"
+      },
+      "umm-salal": {
+        "slug": "umm-salal",
+        "name": "Umm Salal",
+        "hash": "2586684f",
+        "league": ""
+      },
+      "al-khuraitiat": {
+        "slug": "al-khuraitiat",
+        "name": "Al Khuraitiat SC",
+        "hash": "c4257e7b",
+        "league": ""
+      },
+      "al-markhiya": {
+        "slug": "al-markhiya",
+        "name": "Al Markhiya",
+        "hash": "af76a73f",
+        "league": ""
+      },
+      "mesaimeer": {
+        "slug": "mesaimeer",
+        "name": "Mesaimeer SC",
+        "hash": "56522563",
+        "league": ""
+      },
+      "al-muaidar": {
+        "slug": "al-muaidar",
+        "name": "Al Muaidar",
+        "hash": "3977ff61",
+        "league": ""
+      },
+      "al-bidda": {
+        "slug": "al-bidda",
+        "name": "Al Bidda",
+        "hash": "e2f87114",
+        "league": ""
+      },
+      "al-khor": {
+        "slug": "al-khor",
+        "name": "Al Khor SC",
+        "hash": "b41ee494",
+        "league": ""
+      },
+      "al-waab": {
+        "slug": "al-waab",
+        "name": "Al Waab",
+        "hash": "df9f146b",
+        "league": ""
+      }
+    }
+  }
+}

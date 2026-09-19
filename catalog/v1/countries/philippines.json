@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "philippines",
+    "iso2": "PH",
+    "name": "Philippines",
+    "defaultLeague": "philippines-national-team",
+    "leagues": {
+      "philippines-national-team": {
+        "slug": "philippines-national-team",
+        "name": "Philippines National Team",
+        "hash": "17ad18c8",
+        "kind": "league",
+        "code": "PH"
+      }
+    },
+    "clubs": {}
+  }
+}

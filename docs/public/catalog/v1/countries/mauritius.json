@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "mauritius",
+    "iso2": "MU",
+    "name": "Mauritius",
+    "defaultLeague": "mauritius-national-team",
+    "leagues": {
+      "mauritius-national-team": {
+        "slug": "mauritius-national-team",
+        "name": "Mauritius National Team",
+        "hash": "6a9f0407",
+        "kind": "league",
+        "code": "MU"
+      }
+    },
+    "clubs": {}
+  }
+}

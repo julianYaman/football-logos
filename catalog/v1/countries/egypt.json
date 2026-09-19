@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "egypt",
+    "iso2": "EG",
+    "name": "Egypt",
+    "defaultLeague": "egyptian-premier-league",
+    "leagues": {
+      "egyptian-premier-league": {
+        "slug": "egyptian-premier-league",
+        "name": "Egyptian Premier League",
+        "hash": "b2e98144",
+        "kind": "league",
+        "code": "EG"
+      },
+      "egypt-national-team": {
+        "slug": "egypt-national-team",
+        "name": "Egypt National Team",
+        "hash": "2ac3f46a",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "zamalek": {
+        "slug": "zamalek",
+        "name": "Zamalek SC",
+        "hash": "4fde1095",
+        "league": "egyptian-premier-league"
+      },
+      "al-masry": {
+        "slug": "al-masry",
+        "name": "Al-Masry SC",
+        "hash": "2a53269a",
+        "league": "egyptian-premier-league"
+      },
+      "pyramids": {
+        "slug": "pyramids",
+        "name": "Pyramids FC",
+        "hash": "ca754973",
+        "league": "egyptian-premier-league"
+      },
+      "wadi-degla": {
+        "slug": "wadi-degla",
+        "name": "Wadi Degla SC",
+        "hash": "a3e27add",
+        "league": "egyptian-premier-league"
+      },
+      "petrojet": {
+        "slug": "petrojet",
+        "name": "Petrojet FC",
+        "hash": "f2878056",
+        "league": "egyptian-premier-league"
+      },
+      "enppi": {
+        "slug": "enppi",
+        "name": "ENPPI SC",
+        "hash": "d59a88f3",
+        "league": "egyptian-premier-league"
+      },
+      "al-ahly": {
+        "slug": "al-ahly",
+        "name": "Al Ahly SC",
+        "hash": "807381aa",
+        "league": "egyptian-premier-league"
+      },
+      "zed-fc": {
+        "slug": "zed-fc",
+        "name": "ZED FC",
+        "hash": "6cd3fcc1",
+        "league": "egyptian-premier-league"
+      },
+      "ghazl-el-mahalla": {
+        "slug": "ghazl-el-mahalla",
+        "name": "Ghazl El Mahalla",
+        "hash": "df5e51d6",
+        "league": "egyptian-premier-league"
+      },
+      "el-gouna": {
+        "slug": "el-gouna",
+        "name": "El Gouna FC",
+        "hash": "d3d34663",
+        "league": "egyptian-premier-league"
+      },
+      "talaea-el-gaish": {
+        "slug": "talaea-el-gaish",
+        "name": "Tala&#39;ea El Gaish SC",
+        "hash": "0ff1284e",
+        "league": "egyptian-premier-league"
+      },
+      "national-bank": {
+        "slug": "national-bank",
+        "name": "National Bank of Egypt SC",
+        "hash": "470c646e",
+        "league": "egyptian-premier-league"
+      },
+      "al-ittihad-alexandria": {
+        "slug": "al-ittihad-alexandria",
+        "name": "Al Ittihad Alexandria Club",
+        "hash": "0010f4a2",
+        "league": "egyptian-premier-league"
+      },
+      "al-mokawloon-al-arab": {
+        "slug": "al-mokawloon-al-arab",
+        "name": "Al Mokawloon Al Arab SC",
+        "hash": "5ec478d0",
+        "league": "egyptian-premier-league"
+      },
+      "modern-sport": {
+        "slug": "modern-sport",
+        "name": "Modern Sport FC",
+        "hash": "42a3361c",
+        "league": "egyptian-premier-league"
+      },
+      "smouha": {
+        "slug": "smouha",
+        "name": "Smouha SC",
+        "hash": "77b26b9d",
+        "league": "egyptian-premier-league"
+      },
+      "ceramica-cleopatra": {
+        "slug": "ceramica-cleopatra",
+        "name": "Ceramica Cleopatra FC",
+        "hash": "7e6fd091",
+        "league": "egyptian-premier-league"
+      },
+      "abu-qir-semad": {
+        "slug": "abu-qir-semad",
+        "name": "Abu Qir Semad",
+        "hash": "14740956",
+        "league": "egyptian-premier-league"
+      },
+      "el-qanah": {
+        "slug": "el-qanah",
+        "name": "El Qanah FC",
+        "hash": "fcaec875",
+        "league": "egyptian-premier-league"
+      },
+      "asyut-petroleum": {
+        "slug": "asyut-petroleum",
+        "name": "Asyut Petroleum",
+        "hash": "1314c5e1",
+        "league": "egyptian-premier-league"
+      },
+      "ismaily": {
+        "slug": "ismaily",
+        "name": "Ismaily SC",
+        "hash": "a1243ea4",
+        "league": ""
+      },
+      "kahrabaa-ismailia": {
+        "slug": "kahrabaa-ismailia",
+        "name": "Kahrabaa Ismailia SC",
+        "hash": "f0304e2d",
+        "league": ""
+      },
+      "haras-el-hodoud": {
+        "slug": "haras-el-hodoud",
+        "name": "Haras El Hodoud SC",
+        "hash": "b6b3a8d4",
+        "league": ""
+      },
+      "pharco": {
+        "slug": "pharco",
+        "name": "Pharco FC",
+        "hash": "49e98d8a",
+        "league": ""
+      }
+    }
+  }
+}

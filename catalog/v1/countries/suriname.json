@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "suriname",
+    "iso2": "SR",
+    "name": "Suriname",
+    "defaultLeague": "suriname-national-team",
+    "leagues": {
+      "suriname-national-team": {
+        "slug": "suriname-national-team",
+        "name": "Suriname National Team",
+        "hash": "c2135482",
+        "kind": "league",
+        "code": "SR"
+      }
+    },
+    "clubs": {}
+  }
+}

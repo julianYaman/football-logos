@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "india",
+    "iso2": "IN",
+    "name": "India",
+    "defaultLeague": "indian-super-league",
+    "leagues": {
+      "indian-super-league": {
+        "slug": "indian-super-league",
+        "name": "Indian Super League",
+        "hash": "8fd5406f",
+        "kind": "league",
+        "code": "IN"
+      },
+      "i-league-2": {
+        "slug": "i-league-2",
+        "name": "I-League 2",
+        "hash": "bc02cdfd",
+        "kind": "league"
+      },
+      "india-national-team": {
+        "slug": "india-national-team",
+        "name": "India National Team",
+        "hash": "81575a29",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "mohun-bagan-super-giant": {
+        "slug": "mohun-bagan-super-giant",
+        "name": "Mohun Bagan Super Giant",
+        "hash": "c79a5217",
+        "league": "indian-super-league"
+      },
+      "fc-goa": {
+        "slug": "fc-goa",
+        "name": "FC Goa",
+        "hash": "85ad2136",
+        "league": "indian-super-league"
+      },
+      "bengaluru-fc": {
+        "slug": "bengaluru-fc",
+        "name": "Bengaluru FC",
+        "hash": "98dfa719",
+        "league": "indian-super-league"
+      },
+      "northeast-united-fc": {
+        "slug": "northeast-united-fc",
+        "name": "NorthEast United FC",
+        "hash": "edb37474",
+        "league": "indian-super-league"
+      },
+      "jamshedpur-fc": {
+        "slug": "jamshedpur-fc",
+        "name": "Jamshedpur FC",
+        "hash": "41ea10c0",
+        "league": "indian-super-league"
+      },
+      "mumbai-city-fc": {
+        "slug": "mumbai-city-fc",
+        "name": "Mumbai City FC",
+        "hash": "133b0e2c",
+        "league": "indian-super-league"
+      },
+      "odisha-fc": {
+        "slug": "odisha-fc",
+        "name": "Odisha FC",
+        "hash": "15af1992",
+        "league": "indian-super-league"
+      },
+      "kerala-blasters-fc": {
+        "slug": "kerala-blasters-fc",
+        "name": "Kerala Blasters FC",
+        "hash": "faeafcea",
+        "league": "indian-super-league"
+      },
+      "east-bengal-fc": {
+        "slug": "east-bengal-fc",
+        "name": "East Bengal FC",
+        "hash": "daff9cd4",
+        "league": "indian-super-league"
+      },
+      "punjab-fc": {
+        "slug": "punjab-fc",
+        "name": "Punjab FC",
+        "hash": "76cde997",
+        "league": "indian-super-league"
+      },
+      "chennaiyin-fc": {
+        "slug": "chennaiyin-fc",
+        "name": "Chennaiyin FC",
+        "hash": "faad9a3c",
+        "league": "indian-super-league"
+      },
+      "hyderabad-fc": {
+        "slug": "hyderabad-fc",
+        "name": "Hyderabad FC",
+        "hash": "d17e3253",
+        "league": "indian-super-league"
+      },
+      "mohammedan-sc": {
+        "slug": "mohammedan-sc",
+        "name": "Mohammedan SC",
+        "hash": "06beab7b",
+        "league": "indian-super-league"
+      },
+      "inter-kashi": {
+        "slug": "inter-kashi",
+        "name": "Inter Kashi",
+        "hash": "9aa08a88",
+        "league": "indian-super-league"
+      },
+      "delhi-fc": {
+        "slug": "delhi-fc",
+        "name": "Delhi FC",
+        "hash": "b102fe33",
+        "league": "i-league-2"
+      },
+      "fc-bengaluru-united": {
+        "slug": "fc-bengaluru-united",
+        "name": "FC Bengaluru United",
+        "hash": "45e3ec4a",
+        "league": "i-league-2"
+      },
+      "united-sc": {
+        "slug": "united-sc",
+        "name": "United SC",
+        "hash": "83ba4846",
+        "league": "i-league-2"
+      },
+      "sporting-club-bengaluru": {
+        "slug": "sporting-club-bengaluru",
+        "name": "Sporting Club Bengaluru",
+        "hash": "513e1103",
+        "league": "i-league-2"
+      },
+      "sporting-clube-de-goa": {
+        "slug": "sporting-clube-de-goa",
+        "name": "Sporting Clube de Goa",
+        "hash": "d3aa9780",
+        "league": "i-league-2"
+      },
+      "karbi-anglong-morning-star": {
+        "slug": "karbi-anglong-morning-star",
+        "name": "Karbi Anglong Morning Star FC",
+        "hash": "c30f548f",
+        "league": "i-league-2"
+      },
+      "sudeva-delhi": {
+        "slug": "sudeva-delhi",
+        "name": "Sudeva Delhi FC",
+        "hash": "35418872",
+        "league": "i-league-2"
+      },
+      "myj-gmsc": {
+        "slug": "myj-gmsc",
+        "name": "MYJ-GMSC",
+        "hash": "fb20f31f",
+        "league": "i-league-2"
+      },
+      "neroca-fc": {
+        "slug": "neroca-fc",
+        "name": "NEROCA FC",
+        "hash": "4107b030",
+        "league": "i-league-2"
+      }
+    }
+  }
+}

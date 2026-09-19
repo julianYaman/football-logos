@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "nepal",
+    "iso2": "NP",
+    "name": "Nepal",
+    "defaultLeague": "nepal-national-team",
+    "leagues": {
+      "nepal-national-team": {
+        "slug": "nepal-national-team",
+        "name": "Nepal National Team",
+        "hash": "f832f0ec",
+        "kind": "league",
+        "code": "NP"
+      }
+    },
+    "clubs": {}
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "sao-tome-and-principe",
+    "iso2": "ST",
+    "name": "Sao Tome and Principe",
+    "defaultLeague": "sao-tome-and-principe-national-team",
+    "leagues": {
+      "sao-tome-and-principe-national-team": {
+        "slug": "sao-tome-and-principe-national-team",
+        "name": "Sao Tome and Principe National Team",
+        "hash": "b406bf6d",
+        "kind": "league",
+        "code": "ST"
+      }
+    },
+    "clubs": {}
+  }
+}

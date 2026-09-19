@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "syria",
+    "iso2": "SY",
+    "name": "Syria",
+    "defaultLeague": "syria-national-team",
+    "leagues": {
+      "syria-national-team": {
+        "slug": "syria-national-team",
+        "name": "Syria National Team",
+        "hash": "47d97239",
+        "kind": "league",
+        "code": "SY"
+      }
+    },
+    "clubs": {}
+  }
+}

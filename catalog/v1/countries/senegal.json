@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "senegal",
+    "iso2": "SN",
+    "name": "Senegal",
+    "defaultLeague": "senegal-national-team",
+    "leagues": {
+      "senegal-national-team": {
+        "slug": "senegal-national-team",
+        "name": "Senegal National Team",
+        "hash": "47d196a4",
+        "kind": "league",
+        "code": "SN"
+      }
+    },
+    "clubs": {}
+  }
+}

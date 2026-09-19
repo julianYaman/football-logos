@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "bulgaria",
+    "iso2": "BG",
+    "name": "Bulgaria",
+    "defaultLeague": "parva-liga",
+    "leagues": {
+      "parva-liga": {
+        "slug": "parva-liga",
+        "name": "Parva Liga",
+        "hash": "3169d48a",
+        "kind": "league",
+        "code": "BG"
+      },
+      "bulgaria-national-team": {
+        "slug": "bulgaria-national-team",
+        "name": "Bulgaria National Team",
+        "hash": "98775b36",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "arda": {
+        "slug": "arda",
+        "name": "Arda",
+        "hash": "2c3e2f93",
+        "league": "parva-liga"
+      },
+      "botev-plovdiv": {
+        "slug": "botev-plovdiv",
+        "name": "Botev Plovdiv",
+        "hash": "1c47bda7",
+        "league": "parva-liga"
+      },
+      "botev-vratsa": {
+        "slug": "botev-vratsa",
+        "name": "Botev Vratsa",
+        "hash": "68cfe708",
+        "league": "parva-liga"
+      },
+      "cherno-more": {
+        "slug": "cherno-more",
+        "name": "Cherno More",
+        "hash": "b972aecb",
+        "league": "parva-liga"
+      },
+      "cska-1948": {
+        "slug": "cska-1948",
+        "name": "CSKA 1948",
+        "hash": "007a85e3",
+        "league": "parva-liga"
+      },
+      "cska-sofia": {
+        "slug": "cska-sofia",
+        "name": "CSKA-Sofia",
+        "hash": "fcd46a4f",
+        "league": "parva-liga"
+      },
+      "dunav": {
+        "slug": "dunav",
+        "name": "Dunav Ruse",
+        "hash": "5aa3567f",
+        "league": "parva-liga"
+      },
+      "levski": {
+        "slug": "levski",
+        "name": "Levski Sofia",
+        "hash": "d5c548b1",
+        "league": "parva-liga"
+      },
+      "lokomotiv-plovdiv": {
+        "slug": "lokomotiv-plovdiv",
+        "name": "Lokomotiv Plovdiv",
+        "hash": "46d4b550",
+        "league": "parva-liga"
+      },
+      "lokomotiv-sofia": {
+        "slug": "lokomotiv-sofia",
+        "name": "Lokomotiv Sofia",
+        "hash": "ac1fc6c6",
+        "league": "parva-liga"
+      },
+      "ludogorets": {
+        "slug": "ludogorets",
+        "name": "Ludogorets",
+        "hash": "ce1adba6",
+        "league": "parva-liga"
+      },
+      "septemvri": {
+        "slug": "septemvri",
+        "name": "Septemvri",
+        "hash": "302c74d0",
+        "league": "parva-liga"
+      },
+      "slavia-sofia": {
+        "slug": "slavia-sofia",
+        "name": "Slavia Sofia",
+        "hash": "82a4e44b",
+        "league": "parva-liga"
+      },
+      "spartak-varna": {
+        "slug": "spartak-varna",
+        "name": "Spartak Varna",
+        "hash": "4a8ba35d",
+        "league": "parva-liga"
+      },
+      "beroe": {
+        "slug": "beroe",
+        "name": "Beroe",
+        "hash": "2a923fba",
+        "league": ""
+      },
+      "etar": {
+        "slug": "etar",
+        "name": "Etar",
+        "hash": "695e629b",
+        "league": ""
+      },
+      "hebar": {
+        "slug": "hebar",
+        "name": "Hebar",
+        "hash": "1c81848d",
+        "league": ""
+      },
+      "litex": {
+        "slug": "litex",
+        "name": "Litex",
+        "hash": "65234bd6",
+        "league": ""
+      },
+      "lovech": {
+        "slug": "lovech",
+        "name": "Lovech",
+        "hash": "f15b9dad",
+        "league": ""
+      },
+      "marek": {
+        "slug": "marek",
+        "name": "Marek",
+        "hash": "c9274476",
+        "league": ""
+      },
+      "montana": {
+        "slug": "montana",
+        "name": "Montana",
+        "hash": "ce9f1eb9",
+        "league": ""
+      },
+      "neftochimic": {
+        "slug": "neftochimic",
+        "name": "Neftochimic",
+        "hash": "fceb8278",
+        "league": ""
+      },
+      "pfc-dobrudzha-dobrich": {
+        "slug": "pfc-dobrudzha-dobrich",
+        "name": "PFC Dobrudzha Dobrich",
+        "hash": "c6bccf0a",
+        "league": ""
+      },
+      "pirin": {
+        "slug": "pirin",
+        "name": "Pirin",
+        "hash": "ab2a6b2b",
+        "league": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "catalonia",
+    "iso2": "CAT",
+    "name": "Catalonia",
+    "defaultLeague": "catalonia-national-team",
+    "leagues": {
+      "catalonia-national-team": {
+        "slug": "catalonia-national-team",
+        "name": "Catalonia National Team",
+        "hash": "9c11d7f2",
+        "kind": "league",
+        "code": "CAT"
+      }
+    },
+    "clubs": {}
+  }
+}

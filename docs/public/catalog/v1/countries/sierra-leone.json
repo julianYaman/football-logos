@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "sierra-leone",
+    "iso2": "SL",
+    "name": "Sierra Leone",
+    "defaultLeague": "sierra-leone-national-team",
+    "leagues": {
+      "sierra-leone-national-team": {
+        "slug": "sierra-leone-national-team",
+        "name": "Sierra Leone National Team",
+        "hash": "27b8d15f",
+        "kind": "league",
+        "code": "SL"
+      }
+    },
+    "clubs": {}
+  }
+}

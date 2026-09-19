@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "new-caledonia",
+    "iso2": "NC",
+    "name": "New Caledonia",
+    "defaultLeague": "new-caledonia-national-team",
+    "leagues": {
+      "new-caledonia-national-team": {
+        "slug": "new-caledonia-national-team",
+        "name": "New Caledonia National Team",
+        "hash": "af032110",
+        "kind": "league",
+        "code": "NC"
+      }
+    },
+    "clubs": {}
+  }
+}

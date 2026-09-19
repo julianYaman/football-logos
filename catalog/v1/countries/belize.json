@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "belize",
+    "iso2": "BZ",
+    "name": "Belize",
+    "defaultLeague": "belize-national-team",
+    "leagues": {
+      "belize-national-team": {
+        "slug": "belize-national-team",
+        "name": "Belize National Team",
+        "hash": "daacd149",
+        "kind": "league",
+        "code": "BZ"
+      }
+    },
+    "clubs": {}
+  }
+}

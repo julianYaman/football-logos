@@ -1,0 +1,957 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "portugal",
+    "iso2": "PT",
+    "name": "Portugal",
+    "defaultLeague": "primeira-liga",
+    "leagues": {
+      "primeira-liga": {
+        "slug": "primeira-liga",
+        "name": "Primeira Liga",
+        "hash": "0c7575ca",
+        "kind": "league",
+        "code": "PT"
+      },
+      "liga-portugal-2": {
+        "slug": "liga-portugal-2",
+        "name": "Liga Portugal 2",
+        "hash": "90a1494e",
+        "kind": "league"
+      },
+      "liga-3": {
+        "slug": "liga-3",
+        "name": "Liga 3",
+        "hash": "d4aef233",
+        "kind": "league"
+      },
+      "campeonato-de-portugal": {
+        "slug": "campeonato-de-portugal",
+        "name": "Campeonato de Portugal",
+        "hash": "0ecf8213",
+        "kind": "league"
+      },
+      "portuguese-football-federation": {
+        "slug": "portuguese-football-federation",
+        "name": "Portuguese Football Federation",
+        "hash": "1a0b6707",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "sporting-cp": {
+        "slug": "sporting-cp",
+        "name": "Sporting CP",
+        "hash": "3a9545a0",
+        "league": "primeira-liga"
+      },
+      "benfica": {
+        "slug": "benfica",
+        "name": "Benfica",
+        "hash": "03d905e8",
+        "league": "primeira-liga"
+      },
+      "fc-porto": {
+        "slug": "fc-porto",
+        "name": "FC Porto",
+        "hash": "d0c18ed8",
+        "league": "primeira-liga"
+      },
+      "academico-de-viseu": {
+        "slug": "academico-de-viseu",
+        "name": "Académico de Viseu",
+        "hash": "c305b659",
+        "league": "primeira-liga"
+      },
+      "alverca": {
+        "slug": "alverca",
+        "name": "Alverca",
+        "hash": "c3276bbf",
+        "league": "primeira-liga"
+      },
+      "arouca": {
+        "slug": "arouca",
+        "name": "Arouca",
+        "hash": "6eb8456e",
+        "league": "primeira-liga"
+      },
+      "casa-pia-ac": {
+        "slug": "casa-pia-ac",
+        "name": "Casa Pia AC",
+        "hash": "ace42381",
+        "league": "primeira-liga"
+      },
+      "estrela-da-amadora": {
+        "slug": "estrela-da-amadora",
+        "name": "Estrela da Amadora",
+        "hash": "617ad3e7",
+        "league": "primeira-liga"
+      },
+      "estoril": {
+        "slug": "estoril",
+        "name": "Estoril",
+        "hash": "505ee106",
+        "league": "primeira-liga"
+      },
+      "famalicao": {
+        "slug": "famalicao",
+        "name": "Famalicao",
+        "hash": "d3b734ab",
+        "league": "primeira-liga"
+      },
+      "gil-vicente": {
+        "slug": "gil-vicente",
+        "name": "Gil Vicente",
+        "hash": "5ffd6f71",
+        "league": "primeira-liga"
+      },
+      "maritimo": {
+        "slug": "maritimo",
+        "name": "Marítimo",
+        "hash": "819ee072",
+        "league": "primeira-liga"
+      },
+      "moreirense": {
+        "slug": "moreirense",
+        "name": "Moreirense",
+        "hash": "9a455d5d",
+        "league": "primeira-liga"
+      },
+      "nacional-da-madeira": {
+        "slug": "nacional-da-madeira",
+        "name": "Nacional da Madeira",
+        "hash": "d753dfcd",
+        "league": "primeira-liga"
+      },
+      "rio-ave": {
+        "slug": "rio-ave",
+        "name": "Rio Ave",
+        "hash": "1a085e63",
+        "league": "primeira-liga"
+      },
+      "santa-clara": {
+        "slug": "santa-clara",
+        "name": "Santa Clara",
+        "hash": "759fee1e",
+        "league": "primeira-liga"
+      },
+      "sc-braga": {
+        "slug": "sc-braga",
+        "name": "SC Braga",
+        "hash": "e6c873a2",
+        "league": "primeira-liga"
+      },
+      "vitoria-de-guimaraes": {
+        "slug": "vitoria-de-guimaraes",
+        "name": "Vitória de Guimarães",
+        "hash": "eaa63361",
+        "league": "primeira-liga"
+      },
+      "academica-de-coimbra": {
+        "slug": "academica-de-coimbra",
+        "name": "Académica de Coimbra",
+        "hash": "ec457901",
+        "league": "liga-2"
+      },
+      "amarante": {
+        "slug": "amarante",
+        "name": "Amarante",
+        "hash": "513dc84a",
+        "league": "liga-2"
+      },
+      "avs-futebol-sad": {
+        "slug": "avs-futebol-sad",
+        "name": "AVS Futebol SAD",
+        "hash": "85fade6a",
+        "league": "liga-2"
+      },
+      "chaves": {
+        "slug": "chaves",
+        "name": "Grupo Desportivo de Chaves",
+        "hash": "e26e1200",
+        "league": "liga-2"
+      },
+      "farense": {
+        "slug": "farense",
+        "name": "Farense",
+        "hash": "435971af",
+        "league": "liga-2"
+      },
+      "feirense": {
+        "slug": "feirense",
+        "name": "Feirense",
+        "hash": "ebb76786",
+        "league": "liga-2"
+      },
+      "felgueiras": {
+        "slug": "felgueiras",
+        "name": "Felgueiras",
+        "hash": "1c8a7ea3",
+        "league": "liga-2"
+      },
+      "leiria": {
+        "slug": "leiria",
+        "name": "União de Leiria",
+        "hash": "b1713c87",
+        "league": "liga-2"
+      },
+      "leixoes": {
+        "slug": "leixoes",
+        "name": "Leixões",
+        "hash": "f73ab5b7",
+        "league": "liga-2"
+      },
+      "lusitania": {
+        "slug": "lusitania",
+        "name": "Lusitânia de Lourosa",
+        "hash": "3e8fc427",
+        "league": "liga-2"
+      },
+      "penafiel": {
+        "slug": "penafiel",
+        "name": "Penafiel",
+        "hash": "7a28d902",
+        "league": "liga-2"
+      },
+      "portimonense": {
+        "slug": "portimonense",
+        "name": "Portimonense",
+        "hash": "ea48aec4",
+        "league": "liga-2"
+      },
+      "tondela": {
+        "slug": "tondela",
+        "name": "Tondela",
+        "hash": "bf99e6f5",
+        "league": "liga-2"
+      },
+      "torreense": {
+        "slug": "torreense",
+        "name": "S.C.U. Torreense",
+        "hash": "fdcc5fe6",
+        "league": "liga-2"
+      },
+      "vizela": {
+        "slug": "vizela",
+        "name": "Vizela",
+        "hash": "619563e8",
+        "league": "liga-2"
+      },
+      "ad-fafe": {
+        "slug": "ad-fafe",
+        "name": "AD Fafe",
+        "hash": "48a470b7",
+        "league": "liga-3"
+      },
+      "atletico-clube-de-portugal": {
+        "slug": "atletico-clube-de-portugal",
+        "name": "Atlético Clube de Portugal",
+        "hash": "4a72f8ea",
+        "league": "liga-3"
+      },
+      "caldas": {
+        "slug": "caldas",
+        "name": "Caldas",
+        "hash": "6c403ab3",
+        "league": "liga-3"
+      },
+      "covilha": {
+        "slug": "covilha",
+        "name": "Covilha",
+        "hash": "a2df38d3",
+        "league": "liga-3"
+      },
+      "lusitano-ginasio-clube": {
+        "slug": "lusitano-ginasio-clube",
+        "name": "Lusitano Ginásio Clube",
+        "hash": "bf104e35",
+        "league": "liga-3"
+      },
+      "mafra": {
+        "slug": "mafra",
+        "name": "Mafra",
+        "hash": "a33eb282",
+        "league": "liga-3"
+      },
+      "oliveirense": {
+        "slug": "oliveirense",
+        "name": "Oliveirense",
+        "hash": "df4eede6",
+        "league": "liga-3"
+      },
+      "os-belenenses": {
+        "slug": "os-belenenses",
+        "name": "Os Belenenses",
+        "hash": "6995528b",
+        "league": "liga-3"
+      },
+      "pacos-ferreira": {
+        "slug": "pacos-ferreira",
+        "name": "Paços Ferreira",
+        "hash": "85d4df6c",
+        "league": "liga-3"
+      },
+      "paredes": {
+        "slug": "paredes",
+        "name": "Paredes",
+        "hash": "e25c76a8",
+        "league": "liga-3"
+      },
+      "leca": {
+        "slug": "leca",
+        "name": "Leça FC",
+        "hash": "90c32a62",
+        "league": "liga-3"
+      },
+      "santarem": {
+        "slug": "santarem",
+        "name": "Santarém",
+        "hash": "e6a654c1",
+        "league": "liga-3"
+      },
+      "sao-joao-ver": {
+        "slug": "sao-joao-ver",
+        "name": "São João Ver",
+        "hash": "7ab01384",
+        "league": "liga-3"
+      },
+      "trofense": {
+        "slug": "trofense",
+        "name": "Trofense",
+        "hash": "766405cc",
+        "league": "liga-3"
+      },
+      "varzim": {
+        "slug": "varzim",
+        "name": "Varzim",
+        "hash": "35d63a02",
+        "league": "liga-3"
+      },
+      "sc-vianense": {
+        "slug": "sc-vianense",
+        "name": "SC Vianense",
+        "hash": "769b2b59",
+        "league": "liga-3"
+      },
+      "louletano-dc": {
+        "slug": "louletano-dc",
+        "name": "Louletano DC",
+        "hash": "0c2c3b65",
+        "league": "liga-3"
+      },
+      "ad-marco-09": {
+        "slug": "ad-marco-09",
+        "name": "AD Marco 09",
+        "hash": "15dac64f",
+        "league": "liga-3"
+      },
+      "vitoria-de-sernache": {
+        "slug": "vitoria-de-sernache",
+        "name": "Grupo Desportivo Vitória de Sernache",
+        "hash": "1d2a27c4",
+        "league": "liga-3"
+      },
+      "alcochetense": {
+        "slug": "alcochetense",
+        "name": "Alcochetense",
+        "hash": "d2bad7c9",
+        "league": "campeonato-de-portugal"
+      },
+      "beira-mar": {
+        "slug": "beira-mar",
+        "name": "Beira-Mar",
+        "hash": "bf4c1dab",
+        "league": "campeonato-de-portugal"
+      },
+      "cd-gouveia": {
+        "slug": "cd-gouveia",
+        "name": "CD Gouveia",
+        "hash": "471ee092",
+        "league": "campeonato-de-portugal"
+      },
+      "cf-os-marialvas": {
+        "slug": "cf-os-marialvas",
+        "name": "C.F. Os Marialvas",
+        "hash": "648caae2",
+        "league": "campeonato-de-portugal"
+      },
+      "rebordosa-ac": {
+        "slug": "rebordosa-ac",
+        "name": "Rebordosa AC",
+        "hash": "3112a7f2",
+        "league": "campeonato-de-portugal"
+      },
+      "alpendorada": {
+        "slug": "alpendorada",
+        "name": "FC Alpendorada",
+        "hash": "d07fe8a5",
+        "league": "campeonato-de-portugal"
+      },
+      "florgrade": {
+        "slug": "florgrade",
+        "name": "Florgrade FC",
+        "hash": "922c1038",
+        "league": "campeonato-de-portugal"
+      },
+      "uniao-de-lamas": {
+        "slug": "uniao-de-lamas",
+        "name": "CF União de Lamas",
+        "hash": "a95c6d7b",
+        "league": "campeonato-de-portugal"
+      },
+      "cd-cinfaes": {
+        "slug": "cd-cinfaes",
+        "name": "CD Cinfães",
+        "hash": "d5c70b09",
+        "league": "campeonato-de-portugal"
+      },
+      "sc-vila-real": {
+        "slug": "sc-vila-real",
+        "name": "SC Vila Real",
+        "hash": "f2128f58",
+        "league": "campeonato-de-portugal"
+      },
+      "anadia": {
+        "slug": "anadia",
+        "name": "Anadia FC",
+        "hash": "2777a989",
+        "league": "campeonato-de-portugal"
+      },
+      "aparecida": {
+        "slug": "aparecida",
+        "name": "Aparecida FC",
+        "hash": "9ef18a1f",
+        "league": "campeonato-de-portugal"
+      },
+      "gd-resende": {
+        "slug": "gd-resende",
+        "name": "GD Resende",
+        "hash": "11cc66da",
+        "league": "campeonato-de-portugal"
+      },
+      "salgueiros": {
+        "slug": "salgueiros",
+        "name": "Salgueiros",
+        "hash": "b3404eef",
+        "league": "campeonato-de-portugal"
+      },
+      "vila-mea": {
+        "slug": "vila-mea",
+        "name": "Vila Meã",
+        "hash": "981c28a8",
+        "league": "campeonato-de-portugal"
+      },
+      "ad-limianos": {
+        "slug": "ad-limianos",
+        "name": "AD Limianos",
+        "hash": "5b13553b",
+        "league": "campeonato-de-portugal"
+      },
+      "braganca": {
+        "slug": "braganca",
+        "name": "Bragança",
+        "hash": "8254d5fe",
+        "league": "campeonato-de-portugal"
+      },
+      "tirsense": {
+        "slug": "tirsense",
+        "name": "Tirsense",
+        "hash": "546466e1",
+        "league": "campeonato-de-portugal"
+      },
+      "sc-mirandela": {
+        "slug": "sc-mirandela",
+        "name": "SC Mirandela",
+        "hash": "9fe28786",
+        "league": "campeonato-de-portugal"
+      },
+      "celoricense": {
+        "slug": "celoricense",
+        "name": "Celoricense",
+        "hash": "8702f531",
+        "league": "campeonato-de-portugal"
+      },
+      "camacha": {
+        "slug": "camacha",
+        "name": "Camacha",
+        "hash": "51b432cd",
+        "league": "campeonato-de-portugal"
+      },
+      "ars-martinho": {
+        "slug": "ars-martinho",
+        "name": "ARS Martinho",
+        "hash": "972a9b62",
+        "league": "campeonato-de-portugal"
+      },
+      "brito-fc": {
+        "slug": "brito-fc",
+        "name": "Brito FC",
+        "hash": "51bdd693",
+        "league": "campeonato-de-portugal"
+      },
+      "cd-ribeira-brava": {
+        "slug": "cd-ribeira-brava",
+        "name": "CD Ribeira Brava",
+        "hash": "90de788d",
+        "league": "campeonato-de-portugal"
+      },
+      "vilaverdense-fc": {
+        "slug": "vilaverdense-fc",
+        "name": "Vilaverdense FC",
+        "hash": "c2a1cbeb",
+        "league": "campeonato-de-portugal"
+      },
+      "ad-machico": {
+        "slug": "ad-machico",
+        "name": "AD Machico",
+        "hash": "56e94058",
+        "league": "campeonato-de-portugal"
+      },
+      "moncao": {
+        "slug": "moncao",
+        "name": "Monção",
+        "hash": "4857f06a",
+        "league": "campeonato-de-portugal"
+      },
+      "naval-1893": {
+        "slug": "naval-1893",
+        "name": "Associação Naval 1893",
+        "hash": "46d2860e",
+        "league": "campeonato-de-portugal"
+      },
+      "serpa": {
+        "slug": "serpa",
+        "name": "FC Serpa",
+        "hash": "f93e1d70",
+        "league": "campeonato-de-portugal"
+      },
+      "sc-lusitania-acores": {
+        "slug": "sc-lusitania-acores",
+        "name": "SC Lusitânia",
+        "hash": "1e302ded",
+        "league": "campeonato-de-portugal"
+      },
+      "mortagua": {
+        "slug": "mortagua",
+        "name": "Mortágua",
+        "hash": "b1996fbb",
+        "league": "campeonato-de-portugal"
+      },
+      "ac-marinhense": {
+        "slug": "ac-marinhense",
+        "name": "AC Marinhense",
+        "hash": "8b1e52f4",
+        "league": "campeonato-de-portugal"
+      },
+      "gd-lagoa": {
+        "slug": "gd-lagoa",
+        "name": "GD Lagoa",
+        "hash": "4271a1ce",
+        "league": "campeonato-de-portugal"
+      },
+      "gd-peniche": {
+        "slug": "gd-peniche",
+        "name": "GD Peniche",
+        "hash": "92bb7029",
+        "league": "campeonato-de-portugal"
+      },
+      "oriental-de-lisboa": {
+        "slug": "oriental-de-lisboa",
+        "name": "Clube Oriental de Lisboa",
+        "hash": "42ad3781",
+        "league": "campeonato-de-portugal"
+      },
+      "benfica-castelo-branco": {
+        "slug": "benfica-castelo-branco",
+        "name": "Sport Benfica e Castelo Branco",
+        "hash": "f4bd550a",
+        "league": "campeonato-de-portugal"
+      },
+      "uniao-da-serra": {
+        "slug": "uniao-da-serra",
+        "name": "União Desportiva da Serra",
+        "hash": "68193909",
+        "league": "campeonato-de-portugal"
+      },
+      "oliveira-hospital": {
+        "slug": "oliveira-hospital",
+        "name": "Futebol Clube de Oliveira do Hospital",
+        "hash": "622a6b34",
+        "league": "campeonato-de-portugal"
+      },
+      "jd-lajense": {
+        "slug": "jd-lajense",
+        "name": "Juventude Desportiva Lajense",
+        "hash": "454c6c11",
+        "league": "campeonato-de-portugal"
+      },
+      "fatima": {
+        "slug": "fatima",
+        "name": "Centro Desportivo de Fátima",
+        "hash": "5a766c11",
+        "league": "campeonato-de-portugal"
+      },
+      "samora-correia": {
+        "slug": "samora-correia",
+        "name": "Grupo Desportivo Samora Correia",
+        "hash": "f999d659",
+        "league": "campeonato-de-portugal"
+      },
+      "electrico-fc": {
+        "slug": "electrico-fc",
+        "name": "Eléctrico Futebol Clube",
+        "hash": "3e8cce99",
+        "league": "campeonato-de-portugal"
+      },
+      "atletico-malveira": {
+        "slug": "atletico-malveira",
+        "name": "Atlético Clube da Malveira",
+        "hash": "715473ed",
+        "league": "campeonato-de-portugal"
+      },
+      "juventude-evora": {
+        "slug": "juventude-evora",
+        "name": "Juventude de Évora",
+        "hash": "5fb4374a",
+        "league": "campeonato-de-portugal"
+      },
+      "sintrense": {
+        "slug": "sintrense",
+        "name": "Sport União Sintrense",
+        "hash": "0e33272f",
+        "league": "campeonato-de-portugal"
+      },
+      "o-elvas": {
+        "slug": "o-elvas",
+        "name": "O Elvas CAD",
+        "hash": "916cd552",
+        "league": "campeonato-de-portugal"
+      },
+      "moncarapachense": {
+        "slug": "moncarapachense",
+        "name": "Moncarapachense",
+        "hash": "0664bbf3",
+        "league": "campeonato-de-portugal"
+      },
+      "vasco-da-gama-vidigueira": {
+        "slug": "vasco-da-gama-vidigueira",
+        "name": "Vasco da Gama Vidigueira",
+        "hash": "c0890c87",
+        "league": "campeonato-de-portugal"
+      },
+      "uniao-futebol-comercio-e-industria": {
+        "slug": "uniao-futebol-comercio-e-industria",
+        "name": "União Futebol Comércio e Indústria",
+        "hash": "0fab0579",
+        "league": "campeonato-de-portugal"
+      },
+      "taca-de-portugal": {
+        "slug": "taca-de-portugal",
+        "name": "Taça de Portugal",
+        "hash": "7a663fe9",
+        "league": ""
+      },
+      "academico-do-fundao": {
+        "slug": "academico-do-fundao",
+        "name": "Académico do Fundão",
+        "hash": "f55b0fbc",
+        "league": ""
+      },
+      "aliados-lordelo": {
+        "slug": "aliados-lordelo",
+        "name": "Aliados Lordelo",
+        "hash": "734e6f3f",
+        "league": ""
+      },
+      "amora": {
+        "slug": "amora",
+        "name": "Amora",
+        "hash": "fd3b9abb",
+        "league": ""
+      },
+      "boavista": {
+        "slug": "boavista",
+        "name": "Boavista",
+        "hash": "988b84fa",
+        "league": ""
+      },
+      "olhanense": {
+        "slug": "olhanense",
+        "name": "Olhanense",
+        "hash": "9ae01761",
+        "league": ""
+      },
+      "sanjoanense": {
+        "slug": "sanjoanense",
+        "name": "Sanjoanense",
+        "hash": "71663f37",
+        "league": ""
+      },
+      "sc-regua": {
+        "slug": "sc-regua",
+        "name": "SC Régua",
+        "hash": "3eadb206",
+        "league": ""
+      },
+      "su-1o-dezembro": {
+        "slug": "su-1o-dezembro",
+        "name": "S.U. 1º Dezembro",
+        "hash": "915bb864",
+        "league": ""
+      },
+      "vitoria-de-setubal": {
+        "slug": "vitoria-de-setubal",
+        "name": "Vitória de Setúbal",
+        "hash": "edadc572",
+        "league": ""
+      },
+      "pescadores": {
+        "slug": "pescadores",
+        "name": "GD Pescadores Costa da Caparica",
+        "hash": "0380fb18",
+        "league": ""
+      },
+      "barreirense": {
+        "slug": "barreirense",
+        "name": "Barreirense",
+        "hash": "e972735b",
+        "league": ""
+      },
+      "gondomar-sc": {
+        "slug": "gondomar-sc",
+        "name": "Gondomar SC",
+        "hash": "0ebcce66",
+        "league": ""
+      },
+      "sc-espinho": {
+        "slug": "sc-espinho",
+        "name": "SC Espinho",
+        "hash": "ed9f04ab",
+        "league": ""
+      },
+      "cova-da-piedade": {
+        "slug": "cova-da-piedade",
+        "name": "Cova da Piedade",
+        "hash": "00cad99b",
+        "league": ""
+      },
+      "fabril-barreiro": {
+        "slug": "fabril-barreiro",
+        "name": "Fabril Barreiro",
+        "hash": "a961cdcf",
+        "league": ""
+      },
+      "sertanense": {
+        "slug": "sertanense",
+        "name": "Sertanense",
+        "hash": "bf655d09",
+        "league": ""
+      },
+      "olimpico-do-montijo": {
+        "slug": "olimpico-do-montijo",
+        "name": "Clube Olímpico do Montijo",
+        "hash": "ee695079",
+        "league": ""
+      },
+      "uniao-1919": {
+        "slug": "uniao-1919",
+        "name": "Clube União 1919",
+        "hash": "0b950d7d",
+        "league": ""
+      },
+      "atletico-dos-arcos": {
+        "slug": "atletico-dos-arcos",
+        "name": "Atlético dos Arcos",
+        "hash": "b8915a60",
+        "league": ""
+      },
+      "ad-esposende": {
+        "slug": "ad-esposende",
+        "name": "AD Esposende",
+        "hash": "2993f4ef",
+        "league": ""
+      },
+      "cd-estarreja": {
+        "slug": "cd-estarreja",
+        "name": "CD Estarreja",
+        "hash": "4af891b5",
+        "league": ""
+      },
+      "vilar-de-perdizes": {
+        "slug": "vilar-de-perdizes",
+        "name": "Vilar de Perdizes",
+        "hash": "ae58a19c",
+        "league": ""
+      },
+      "sc-rio-tinto": {
+        "slug": "sc-rio-tinto",
+        "name": "SC Rio Tinto",
+        "hash": "91218e0f",
+        "league": ""
+      },
+      "seixal-1925": {
+        "slug": "seixal-1925",
+        "name": "Seixal Clube 1925",
+        "hash": "e4e7f4be",
+        "league": ""
+      },
+      "pevidem-sc": {
+        "slug": "pevidem-sc",
+        "name": "Pevidém SC",
+        "hash": "2c339a99",
+        "league": ""
+      },
+      "real-sc": {
+        "slug": "real-sc",
+        "name": "Real SC",
+        "hash": "3ab53d85",
+        "league": ""
+      },
+      "ar-porto-alto": {
+        "slug": "ar-porto-alto",
+        "name": "AR Porto Alto",
+        "hash": "c0e9f440",
+        "league": ""
+      },
+      "gs-loures": {
+        "slug": "gs-loures",
+        "name": "GS Loures",
+        "hash": "49f7148c",
+        "league": ""
+      },
+      "maia-lidador": {
+        "slug": "maia-lidador",
+        "name": "FC Maia Lidador",
+        "hash": "665a5f88",
+        "league": ""
+      },
+      "ermesinde-sc-1936": {
+        "slug": "ermesinde-sc-1936",
+        "name": "Ermesinde SC 1936",
+        "hash": "b9942e42",
+        "league": ""
+      },
+      "arronches-e-benfica": {
+        "slug": "arronches-e-benfica",
+        "name": "Sport Arronches e Benfica",
+        "hash": "6a39ab16",
+        "league": ""
+      },
+      "abrantes-e-benfica": {
+        "slug": "abrantes-e-benfica",
+        "name": "Sport Abrantes e Benfica",
+        "hash": "4f00e578",
+        "league": ""
+      },
+      "nisa-e-benfica": {
+        "slug": "nisa-e-benfica",
+        "name": "Sport Nisa e Benfica",
+        "hash": "699dcbf7",
+        "league": ""
+      },
+      "afc-santa-marta-penaguiao": {
+        "slug": "afc-santa-marta-penaguiao",
+        "name": "AFC Santa Marta de Penaguião",
+        "hash": "cac4aa6b",
+        "league": ""
+      },
+      "gd-renascente-sao-teotonio": {
+        "slug": "gd-renascente-sao-teotonio",
+        "name": "GD Renascente São Teotónio",
+        "hash": "021f81a5",
+        "league": ""
+      },
+      "relampago-nogueirense": {
+        "slug": "relampago-nogueirense",
+        "name": "Relâmpago Nogueirense",
+        "hash": "6bb18145",
+        "league": ""
+      },
+      "fc-carrazeda-de-ansiaes": {
+        "slug": "fc-carrazeda-de-ansiaes",
+        "name": "FC Carrazeda de Ansiães",
+        "hash": "2d759f2d",
+        "league": ""
+      },
+      "figueiro-dos-vinhos": {
+        "slug": "figueiro-dos-vinhos",
+        "name": "AD Figueiró dos Vinhos",
+        "hash": "8a84d119",
+        "league": ""
+      },
+      "olivais-e-moscavide": {
+        "slug": "olivais-e-moscavide",
+        "name": "CD Olivais e Moscavide",
+        "hash": "e00b4db5",
+        "league": ""
+      },
+      "santiago-mascotelos": {
+        "slug": "santiago-mascotelos",
+        "name": "Santiago Mascotelos FC",
+        "hash": "b4ab75a6",
+        "league": ""
+      },
+      "cd-aves": {
+        "slug": "cd-aves",
+        "name": "CD Aves",
+        "hash": "95400c47",
+        "league": ""
+      },
+      "gd-sesimbra": {
+        "slug": "gd-sesimbra",
+        "name": "GD Sesimbra",
+        "hash": "cfdbc406",
+        "league": ""
+      },
+      "ud-sousense": {
+        "slug": "ud-sousense",
+        "name": "UD Sousense",
+        "hash": "f5c7c57a",
+        "league": ""
+      },
+      "pacos-de-brandao": {
+        "slug": "pacos-de-brandao",
+        "name": "CD Paços de Brandão",
+        "hash": "f7909758",
+        "league": ""
+      },
+      "ad-argoncilhe": {
+        "slug": "ad-argoncilhe",
+        "name": "AD Argoncilhe",
+        "hash": "6c34d50c",
+        "league": ""
+      },
+      "carregosense": {
+        "slug": "carregosense",
+        "name": "Carregosense",
+        "hash": "24de70c3",
+        "league": ""
+      },
+      "sc-coimbroes": {
+        "slug": "sc-coimbroes",
+        "name": "SC Coimbrões",
+        "hash": "cabee8a7",
+        "league": ""
+      },
+      "folgosa-da-maia": {
+        "slug": "folgosa-da-maia",
+        "name": "Folgosa da Maia FC",
+        "hash": "7c39c1df",
+        "league": ""
+      },
+      "fc-foz": {
+        "slug": "fc-foz",
+        "name": "FC Foz",
+        "hash": "e7c53535",
+        "league": ""
+      },
+      "adc-lobao": {
+        "slug": "adc-lobao",
+        "name": "ADC Lobão",
+        "hash": "90c8c0b8",
+        "league": ""
+      }
+    }
+  }
+}

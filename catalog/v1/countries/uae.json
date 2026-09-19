@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "uae",
+    "iso2": "AE",
+    "name": "United Arab Emirates",
+    "defaultLeague": "uae-pro-league",
+    "leagues": {
+      "uae-pro-league": {
+        "slug": "uae-pro-league",
+        "name": "UAE Pro League",
+        "hash": "73628727",
+        "kind": "league",
+        "code": "AE"
+      },
+      "uae-national-team": {
+        "slug": "uae-national-team",
+        "name": "UAE National Team",
+        "hash": "f9f14db5",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "al-ain": {
+        "slug": "al-ain",
+        "name": "Al Ain FC",
+        "hash": "ae7e530f",
+        "league": "uae-pro-league"
+      },
+      "shabab-al-ahli": {
+        "slug": "shabab-al-ahli",
+        "name": "Shabab Al Ahli Dubai FC",
+        "hash": "034c1b8b",
+        "league": "uae-pro-league"
+      },
+      "al-jazira": {
+        "slug": "al-jazira",
+        "name": "Al Jazira Club",
+        "hash": "4d06f7b1",
+        "league": "uae-pro-league"
+      },
+      "al-wahda": {
+        "slug": "al-wahda",
+        "name": "Al Wahda FC",
+        "hash": "3bb4be12",
+        "league": "uae-pro-league"
+      },
+      "al-wasl": {
+        "slug": "al-wasl",
+        "name": "Al Wasl FC",
+        "hash": "6a6bce4f",
+        "league": "uae-pro-league"
+      },
+      "al-nasr": {
+        "slug": "al-nasr",
+        "name": "Al Nasr SC",
+        "hash": "741ade77",
+        "league": "uae-pro-league"
+      },
+      "ajman": {
+        "slug": "ajman",
+        "name": "Ajman Club",
+        "hash": "8e80bed8",
+        "league": "uae-pro-league"
+      },
+      "sharjah": {
+        "slug": "sharjah",
+        "name": "Sharjah FC",
+        "hash": "b71e60ce",
+        "league": "uae-pro-league"
+      },
+      "al-ittihad-kalba": {
+        "slug": "al-ittihad-kalba",
+        "name": "Ittihad Kalba FC",
+        "hash": "47710a26",
+        "league": "uae-pro-league"
+      },
+      "baniyas": {
+        "slug": "baniyas",
+        "name": "Baniyas Club",
+        "hash": "2a567cb1",
+        "league": "uae-pro-league"
+      },
+      "khorfakkan": {
+        "slug": "khorfakkan",
+        "name": "Khor Fakkan Club",
+        "hash": "3760016d",
+        "league": "uae-pro-league"
+      },
+      "al-dhafra": {
+        "slug": "al-dhafra",
+        "name": "Al Dhafra FC",
+        "hash": "1737fc18",
+        "league": "uae-pro-league"
+      },
+      "hatta": {
+        "slug": "hatta",
+        "name": "Hatta",
+        "hash": "dfcdaa59",
+        "league": "uae-pro-league"
+      },
+      "united-fc": {
+        "slug": "united-fc",
+        "name": "United FC",
+        "hash": "f1b7babe",
+        "league": "uae-pro-league"
+      },
+      "al-bataeh": {
+        "slug": "al-bataeh",
+        "name": "Al Bataeh Club",
+        "hash": "79a2ccbf",
+        "league": ""
+      },
+      "dibba-al-fujairah": {
+        "slug": "dibba-al-fujairah",
+        "name": "Dibba Al Fujairah FC",
+        "hash": "d86f15c4",
+        "league": ""
+      }
+    }
+  }
+}

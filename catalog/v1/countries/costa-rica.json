@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "costa-rica",
+    "iso2": "CR",
+    "name": "Costa Rica",
+    "defaultLeague": "primera-division",
+    "leagues": {
+      "primera-division": {
+        "slug": "primera-division",
+        "name": "Primera División",
+        "hash": "a1f41b18",
+        "kind": "league",
+        "code": "CR"
+      },
+      "costa-rica-national-team": {
+        "slug": "costa-rica-national-team",
+        "name": "Costa Rica National Team",
+        "hash": "44703f4d",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "ld-alajuelense": {
+        "slug": "ld-alajuelense",
+        "name": "Liga Deportiva Alajuelense",
+        "hash": "45ce4a1a",
+        "league": "primera-division"
+      },
+      "herediano": {
+        "slug": "herediano",
+        "name": "Club Sport Herediano",
+        "hash": "2acca6f0",
+        "league": "primera-division"
+      },
+      "deportivo-saprissa": {
+        "slug": "deportivo-saprissa",
+        "name": "Deportivo Saprissa",
+        "hash": "306bd859",
+        "league": "primera-division"
+      },
+      "cs-cartagines": {
+        "slug": "cs-cartagines",
+        "name": "Club Sport Cartaginés",
+        "hash": "03ead3ac",
+        "league": "primera-division"
+      },
+      "municipal-perez-zeledon": {
+        "slug": "municipal-perez-zeledon",
+        "name": "Municipal Pérez Zeledón",
+        "hash": "09ac2256",
+        "league": "primera-division"
+      },
+      "puntarenas": {
+        "slug": "puntarenas",
+        "name": "Puntarenas FC",
+        "hash": "3ad08d91",
+        "league": "primera-division"
+      },
+      "sporting-san-jose": {
+        "slug": "sporting-san-jose",
+        "name": "Sporting FC",
+        "hash": "77545c1e",
+        "league": "primera-division"
+      },
+      "deportiva-san-carlos": {
+        "slug": "deportiva-san-carlos",
+        "name": "Asociación Deportiva San Carlos",
+        "hash": "fd019bf4",
+        "league": "primera-division"
+      },
+      "escorpiones-de-belen": {
+        "slug": "escorpiones-de-belen",
+        "name": "Escorpiones de Belén",
+        "hash": "041809c6",
+        "league": "primera-division"
+      },
+      "inter-san-carlos": {
+        "slug": "inter-san-carlos",
+        "name": "Inter San Carlos",
+        "hash": "65a98f53",
+        "league": "primera-division"
+      },
+      "municipal-liberia": {
+        "slug": "municipal-liberia",
+        "name": "AD Municipal Liberia",
+        "hash": "7b687f2d",
+        "league": ""
+      },
+      "guadalupe": {
+        "slug": "guadalupe",
+        "name": "Guadalupe FC",
+        "hash": "2bf70991",
+        "league": ""
+      }
+    }
+  }
+}

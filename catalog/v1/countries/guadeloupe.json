@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "guadeloupe",
+    "iso2": "GP",
+    "name": "Guadeloupe",
+    "defaultLeague": "guadeloupe-national-team",
+    "leagues": {
+      "guadeloupe-national-team": {
+        "slug": "guadeloupe-national-team",
+        "name": "Guadeloupe National Team",
+        "hash": "170d28ba",
+        "kind": "league",
+        "code": "GP"
+      }
+    },
+    "clubs": {}
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "kenya",
+    "iso2": "KE",
+    "name": "Kenya",
+    "defaultLeague": "kenya-national-team",
+    "leagues": {
+      "kenya-national-team": {
+        "slug": "kenya-national-team",
+        "name": "Kenya National Team",
+        "hash": "e36427d5",
+        "kind": "league",
+        "code": "KE"
+      }
+    },
+    "clubs": {
+      "gor-mahia-fc": {
+        "slug": "gor-mahia-fc",
+        "name": "Gor Mahia FC",
+        "hash": "54812f3b",
+        "league": ""
+      }
+    }
+  }
+}

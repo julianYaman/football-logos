@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "niger",
+    "iso2": "NE",
+    "name": "Niger",
+    "defaultLeague": "niger-national-team",
+    "leagues": {
+      "niger-national-team": {
+        "slug": "niger-national-team",
+        "name": "Niger National Team",
+        "hash": "95e4c959",
+        "kind": "league",
+        "code": "NE"
+      }
+    },
+    "clubs": {}
+  }
+}

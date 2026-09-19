@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "dominican-republic",
+    "iso2": "DO",
+    "name": "Dominican Republic",
+    "defaultLeague": "dominican-republic-national-team",
+    "leagues": {
+      "dominican-republic-national-team": {
+        "slug": "dominican-republic-national-team",
+        "name": "Dominican Republic National Team",
+        "hash": "d941cbd1",
+        "kind": "league",
+        "code": "DO"
+      }
+    },
+    "clubs": {}
+  }
+}

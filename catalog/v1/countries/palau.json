@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "palau",
+    "iso2": "PW",
+    "name": "Palau",
+    "defaultLeague": "palau-national-team",
+    "leagues": {
+      "palau-national-team": {
+        "slug": "palau-national-team",
+        "name": "Palau National Team",
+        "hash": "b90f02eb",
+        "kind": "league",
+        "code": "PW"
+      }
+    },
+    "clubs": {}
+  }
+}

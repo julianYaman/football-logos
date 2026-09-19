@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "netherlands",
+    "iso2": "NL",
+    "name": "Netherlands",
+    "defaultLeague": "eredivisie",
+    "leagues": {
+      "eredivisie": {
+        "slug": "eredivisie",
+        "name": "Eredivisie",
+        "hash": "a718427b",
+        "kind": "league",
+        "code": "NL"
+      },
+      "eerste-divisie": {
+        "slug": "eerste-divisie",
+        "name": "Eerste Divisie",
+        "hash": "6e9e4bb3",
+        "kind": "league"
+      },
+      "tweede-divisie": {
+        "slug": "tweede-divisie",
+        "name": "Tweede divisie",
+        "hash": "1e01321a",
+        "kind": "league"
+      },
+      "dutch-national-team": {
+        "slug": "dutch-national-team",
+        "name": "Dutch National Team",
+        "hash": "cb15dcd9",
+        "kind": "league"
+      },
+      "knvb-cup": {
+        "slug": "knvb-cup",
+        "name": "KNVB Cup",
+        "hash": "f3aae14f",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "psv": {
+        "slug": "psv",
+        "name": "PSV Eindhoven",
+        "hash": "e4053c30",
+        "league": "eredivisie"
+      },
+      "ajax": {
+        "slug": "ajax",
+        "name": "Ajax",
+        "hash": "36c3dd52",
+        "league": "eredivisie"
+      },
+      "feyenoord": {
+        "slug": "feyenoord",
+        "name": "Feyenoord",
+        "hash": "a7fa4a9f",
+        "league": "eredivisie"
+      },
+      "fc-utrecht": {
+        "slug": "fc-utrecht",
+        "name": "FC Utrecht",
+        "hash": "8a5a6c73",
+        "league": "eredivisie"
+      },
+      "az-alkmaar": {
+        "slug": "az-alkmaar",
+        "name": "AZ Alkmaar",
+        "hash": "4b8dc969",
+        "league": "eredivisie"
+      },
+      "twente": {
+        "slug": "twente",
+        "name": "Twente",
+        "hash": "0ef842db",
+        "league": "eredivisie"
+      },
+      "ado-den-haag": {
+        "slug": "ado-den-haag",
+        "name": "ADO Den Haag",
+        "hash": "2cdaae8d",
+        "league": "eredivisie"
+      },
+      "excelsior-rotterdam": {
+        "slug": "excelsior-rotterdam",
+        "name": "Excelsior Rotterdam",
+        "hash": "56b9b5a9",
+        "league": "eredivisie"
+      },
+      "telstar": {
+        "slug": "telstar",
+        "name": "Telstar",
+        "hash": "a789d65b",
+        "league": "eredivisie"
+      },
+      "fortuna-sittard": {
+        "slug": "fortuna-sittard",
+        "name": "Fortuna Sittard",
+        "hash": "f96c07bd",
+        "league": "eredivisie"
+      },
+      "go-ahead-eagles": {
+        "slug": "go-ahead-eagles",
+        "name": "Go Ahead Eagles",
+        "hash": "9a05e251",
+        "league": "eredivisie"
+      },
+      "fc-groningen": {
+        "slug": "fc-groningen",
+        "name": "FC Groningen",
+        "hash": "00550934",
+        "league": "eredivisie"
+      },
+      "sc-heerenveen": {
+        "slug": "sc-heerenveen",
+        "name": "sc Heerenveen",
+        "hash": "633ae207",
+        "league": "eredivisie"
+      },
+      "nec-nijmegen": {
+        "slug": "nec-nijmegen",
+        "name": "N.E.C. Nijmegen",
+        "hash": "3362e283",
+        "league": "eredivisie"
+      },
+      "sparta-rotterdam": {
+        "slug": "sparta-rotterdam",
+        "name": "Sparta Rotterdam",
+        "hash": "fa160998",
+        "league": "eredivisie"
+      },
+      "willem-ii": {
+        "slug": "willem-ii",
+        "name": "Willem II",
+        "hash": "69e1279d",
+        "league": "eredivisie"
+      },
+      "pec-zwolle": {
+        "slug": "pec-zwolle",
+        "name": "PEC Zwolle",
+        "hash": "361ef4f3",
+        "league": "eredivisie"
+      },
+      "sc-cambuur": {
+        "slug": "sc-cambuur",
+        "name": "SC Cambuur",
+        "hash": "23c8700b",
+        "league": "eredivisie"
+      },
+      "almere-city-fc": {
+        "slug": "almere-city-fc",
+        "name": "Almere City FC",
+        "hash": "614e8594",
+        "league": "eerste-divisie"
+      },
+      "fc-emmen": {
+        "slug": "fc-emmen",
+        "name": "FC Emmen",
+        "hash": "8bd34e2d",
+        "league": "eerste-divisie"
+      },
+      "heracles-almelo": {
+        "slug": "heracles-almelo",
+        "name": "Heracles Almelo",
+        "hash": "94db1519",
+        "league": "eerste-divisie"
+      },
+      "nac-breda": {
+        "slug": "nac-breda",
+        "name": "NAC Breda",
+        "hash": "66947a74",
+        "league": "eerste-divisie"
+      },
+      "rkc-waalwijk": {
+        "slug": "rkc-waalwijk",
+        "name": "RKC Waalwijk",
+        "hash": "98b84624",
+        "league": "eerste-divisie"
+      },
+      "roda-jc-kerkrade": {
+        "slug": "roda-jc-kerkrade",
+        "name": "Roda JC Kerkrade",
+        "hash": "8e4b31c7",
+        "league": "eerste-divisie"
+      },
+      "top-oss": {
+        "slug": "top-oss",
+        "name": "TOP Oss",
+        "hash": "7ca41ccd",
+        "league": "eerste-divisie"
+      },
+      "vitesse": {
+        "slug": "vitesse",
+        "name": "Vitesse",
+        "hash": "3c7dbe31",
+        "league": "eerste-divisie"
+      },
+      "volendam": {
+        "slug": "volendam",
+        "name": "Volendam",
+        "hash": "f0d5534f",
+        "league": "eerste-divisie"
+      },
+      "vvv-venlo": {
+        "slug": "vvv-venlo",
+        "name": "VVV-Venlo",
+        "hash": "d2748e15",
+        "league": "eerste-divisie"
+      },
+      "de-graafschap": {
+        "slug": "de-graafschap",
+        "name": "De Graafschap",
+        "hash": "0df019cc",
+        "league": "eerste-divisie"
+      },
+      "fc-den-bosch": {
+        "slug": "fc-den-bosch",
+        "name": "FC Den Bosch",
+        "hash": "acd3d733",
+        "league": "eerste-divisie"
+      },
+      "fc-eindhoven": {
+        "slug": "fc-eindhoven",
+        "name": "FC Eindhoven",
+        "hash": "a526c579",
+        "league": "eerste-divisie"
+      },
+      "fc-dordrecht": {
+        "slug": "fc-dordrecht",
+        "name": "FC Dordrecht",
+        "hash": "e1025b65",
+        "league": "eerste-divisie"
+      },
+      "helmond-sport": {
+        "slug": "helmond-sport",
+        "name": "Helmond Sport",
+        "hash": "a6bf1b72",
+        "league": "eerste-divisie"
+      },
+      "mvv-maastricht": {
+        "slug": "mvv-maastricht",
+        "name": "MVV Maastricht",
+        "hash": "31569b3c",
+        "league": "eerste-divisie"
+      },
+      "de-treffers": {
+        "slug": "de-treffers",
+        "name": "De Treffers",
+        "hash": "661d218c",
+        "league": "tweede-divisie"
+      },
+      "quick-boys": {
+        "slug": "quick-boys",
+        "name": "Quick Boys",
+        "hash": "141273a3",
+        "league": "tweede-divisie"
+      },
+      "katwijk": {
+        "slug": "katwijk",
+        "name": "VV Katwijk",
+        "hash": "ad9dbb14",
+        "league": "tweede-divisie"
+      },
+      "sv-spakenburg": {
+        "slug": "sv-spakenburg",
+        "name": "SV Spakenburg",
+        "hash": "8637670a",
+        "league": "tweede-divisie"
+      },
+      "kozakken-boys": {
+        "slug": "kozakken-boys",
+        "name": "Kozakken Boys",
+        "hash": "e02cbd03",
+        "league": "tweede-divisie"
+      },
+      "hhc-hardenberg": {
+        "slug": "hhc-hardenberg",
+        "name": "HHC Hardenberg",
+        "hash": "9b81657e",
+        "league": "tweede-divisie"
+      },
+      "hsv-hoek": {
+        "slug": "hsv-hoek",
+        "name": "HSV Hoek",
+        "hash": "3f26d95a",
+        "league": "tweede-divisie"
+      },
+      "bvv-barendrecht": {
+        "slug": "bvv-barendrecht",
+        "name": "BVV Barendrecht",
+        "hash": "aaa93ff0",
+        "league": "tweede-divisie"
+      },
+      "rijnsburgse-boys": {
+        "slug": "rijnsburgse-boys",
+        "name": "Rijnsburgse Boys",
+        "hash": "f25ab6ef",
+        "league": "tweede-divisie"
+      },
+      "koninklijke-hfc": {
+        "slug": "koninklijke-hfc",
+        "name": "Koninklijke HFC",
+        "hash": "12d7ce9e",
+        "league": "tweede-divisie"
+      },
+      "gvvv": {
+        "slug": "gvvv",
+        "name": "GVVV",
+        "hash": "1fade02b",
+        "league": "tweede-divisie"
+      },
+      "ijsselmeervogels": {
+        "slug": "ijsselmeervogels",
+        "name": "IJsselmeervogels",
+        "hash": "e07d4a1a",
+        "league": "tweede-divisie"
+      },
+      "afc-amsterdam": {
+        "slug": "afc-amsterdam",
+        "name": "AFC Amsterdam",
+        "hash": "bf794585",
+        "league": "tweede-divisie"
+      },
+      "rkav-volendam": {
+        "slug": "rkav-volendam",
+        "name": "RKAV Volendam",
+        "hash": "beeb2f84",
+        "league": "tweede-divisie"
+      },
+      "kloetinge": {
+        "slug": "kloetinge",
+        "name": "VV Kloetinge",
+        "hash": "d362950d",
+        "league": "tweede-divisie"
+      },
+      "rohda-raalte": {
+        "slug": "rohda-raalte",
+        "name": "ROHDA Raalte",
+        "hash": "ad791341",
+        "league": "tweede-divisie"
+      },
+      "knvb": {
+        "slug": "knvb",
+        "name": "KNVB",
+        "hash": "e7cdf6a7",
+        "league": ""
+      },
+      "excelsior-maassluis": {
+        "slug": "excelsior-maassluis",
+        "name": "Excelsior Maassluis",
+        "hash": "0f3a1eb4",
+        "league": ""
+      },
+      "acv-assen": {
+        "slug": "acv-assen",
+        "name": "ACV Assen",
+        "hash": "b749cda7",
+        "league": ""
+      },
+      "afc-dws": {
+        "slug": "afc-dws",
+        "name": "AFC DWS",
+        "hash": "cef16e1e",
+        "league": ""
+      },
+      "vv-heerjansdam": {
+        "slug": "vv-heerjansdam",
+        "name": "VV Heerjansdam",
+        "hash": "173a913a",
+        "league": ""
+      }
+    }
+  }
+}

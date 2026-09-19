@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "burkina-faso",
+    "iso2": "BF",
+    "name": "Burkina Faso",
+    "defaultLeague": "burkina-faso-national-team",
+    "leagues": {
+      "burkina-faso-national-team": {
+        "slug": "burkina-faso-national-team",
+        "name": "Burkina Faso National Team",
+        "hash": "6c9853b6",
+        "kind": "league",
+        "code": "BF"
+      }
+    },
+    "clubs": {}
+  }
+}

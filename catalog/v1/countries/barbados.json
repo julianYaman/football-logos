@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "barbados",
+    "iso2": "BB",
+    "name": "Barbados",
+    "defaultLeague": "barbados-national-team",
+    "leagues": {
+      "barbados-national-team": {
+        "slug": "barbados-national-team",
+        "name": "Barbados National Team",
+        "hash": "95b051ef",
+        "kind": "league",
+        "code": "BB"
+      }
+    },
+    "clubs": {}
+  }
+}

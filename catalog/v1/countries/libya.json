@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "libya",
+    "iso2": "LY",
+    "name": "Libya",
+    "defaultLeague": "libya-national-team",
+    "leagues": {
+      "libya-national-team": {
+        "slug": "libya-national-team",
+        "name": "Libya National Team",
+        "hash": "328d19c2",
+        "kind": "league",
+        "code": "LY"
+      }
+    },
+    "clubs": {}
+  }
+}

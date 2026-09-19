@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "congo",
+    "iso2": "CG",
+    "name": "Congo",
+    "defaultLeague": "congo-national-team",
+    "leagues": {
+      "congo-national-team": {
+        "slug": "congo-national-team",
+        "name": "Congo National Team",
+        "hash": "beefca10",
+        "kind": "league",
+        "code": "CG"
+      }
+    },
+    "clubs": {}
+  }
+}

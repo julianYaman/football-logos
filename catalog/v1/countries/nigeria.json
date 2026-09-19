@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "nigeria",
+    "iso2": "NG",
+    "name": "Nigeria",
+    "defaultLeague": "nigeria-premier-football-league",
+    "leagues": {
+      "nigeria-premier-football-league": {
+        "slug": "nigeria-premier-football-league",
+        "name": "Nigeria Premier Football League",
+        "hash": "3dab23c7",
+        "kind": "league",
+        "code": "NG"
+      },
+      "nigeria-national-team": {
+        "slug": "nigeria-national-team",
+        "name": "Nigeria National Team",
+        "hash": "7422d443",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "rangers-international": {
+        "slug": "rangers-international",
+        "name": "Rangers International",
+        "hash": "4c54b7f8",
+        "league": "nigeria-premier-football-league"
+      },
+      "rivers-united": {
+        "slug": "rivers-united",
+        "name": "Rivers United",
+        "hash": "da6876b2",
+        "league": "nigeria-premier-football-league"
+      },
+      "shooting-stars": {
+        "slug": "shooting-stars",
+        "name": "Shooting Stars",
+        "hash": "d4a9f8d2",
+        "league": "nigeria-premier-football-league"
+      },
+      "ikorodu-city": {
+        "slug": "ikorodu-city",
+        "name": "Ikorodu City",
+        "hash": "fadab9a8",
+        "league": "nigeria-premier-football-league"
+      },
+      "bendel-insurance": {
+        "slug": "bendel-insurance",
+        "name": "Bendel Insurance",
+        "hash": "3f7c1d48",
+        "league": "nigeria-premier-football-league"
+      },
+      "nasarawa-united": {
+        "slug": "nasarawa-united",
+        "name": "Nasarawa United",
+        "hash": "68f9690e",
+        "league": "nigeria-premier-football-league"
+      },
+      "abia-warriors": {
+        "slug": "abia-warriors",
+        "name": "Abia Warriors",
+        "hash": "bf0dcdb0",
+        "league": "nigeria-premier-football-league"
+      },
+      "barau-fc": {
+        "slug": "barau-fc",
+        "name": "Barau FC",
+        "hash": "cb5625ba",
+        "league": "nigeria-premier-football-league"
+      },
+      "katsina-united": {
+        "slug": "katsina-united",
+        "name": "Katsina United",
+        "hash": "8c362db6",
+        "league": "nigeria-premier-football-league"
+      },
+      "plateau-united": {
+        "slug": "plateau-united",
+        "name": "Plateau United",
+        "hash": "909b50b6",
+        "league": "nigeria-premier-football-league"
+      },
+      "enyimba": {
+        "slug": "enyimba",
+        "name": "Enyimba",
+        "hash": "a9668b2f",
+        "league": "nigeria-premier-football-league"
+      },
+      "kun-khalifat": {
+        "slug": "kun-khalifat",
+        "name": "Kun Khalifat",
+        "hash": "5460b4d5",
+        "league": "nigeria-premier-football-league"
+      },
+      "warri-wolves": {
+        "slug": "warri-wolves",
+        "name": "Warri Wolves",
+        "hash": "e6c1c794",
+        "league": "nigeria-premier-football-league"
+      },
+      "niger-tornadoes": {
+        "slug": "niger-tornadoes",
+        "name": "Niger Tornadoes",
+        "hash": "7fd7374e",
+        "league": "nigeria-premier-football-league"
+      },
+      "kano-pillars": {
+        "slug": "kano-pillars",
+        "name": "Kano Pillars",
+        "hash": "db84c625",
+        "league": "nigeria-premier-football-league"
+      },
+      "kwara-united": {
+        "slug": "kwara-united",
+        "name": "Kwara United",
+        "hash": "67141c36",
+        "league": "nigeria-premier-football-league"
+      },
+      "remo-stars": {
+        "slug": "remo-stars",
+        "name": "Remo Stars",
+        "hash": "d8be8137",
+        "league": "nigeria-premier-football-league"
+      },
+      "el-kanemi-warriors": {
+        "slug": "el-kanemi-warriors",
+        "name": "El-Kanemi Warriors",
+        "hash": "07553698",
+        "league": "nigeria-premier-football-league"
+      },
+      "bayelsa-united": {
+        "slug": "bayelsa-united",
+        "name": "Bayelsa United",
+        "hash": "3f13c4f6",
+        "league": "nigeria-premier-football-league"
+      },
+      "wikki-tourists": {
+        "slug": "wikki-tourists",
+        "name": "Wikki Tourists",
+        "hash": "be5e0cdb",
+        "league": "nigeria-premier-football-league"
+      }
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "bosnia-and-herzegovina",
+    "iso2": "BA",
+    "name": "Bosnia and Herzegovina",
+    "defaultLeague": "premier-league",
+    "leagues": {
+      "premier-league": {
+        "slug": "premier-league",
+        "name": "Premijer liga",
+        "hash": "98edb27e",
+        "kind": "league",
+        "code": "BA"
+      },
+      "bosnia-and-herzegovina-national-team": {
+        "slug": "bosnia-and-herzegovina-national-team",
+        "name": "Bosnia and Herzegovina National Team",
+        "hash": "409e347c",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "borac": {
+        "slug": "borac",
+        "name": "Borac Banja Luka",
+        "hash": "2db9c333",
+        "league": "premier-league"
+      },
+      "zrinjski": {
+        "slug": "zrinjski",
+        "name": "Zrinjski Mostar",
+        "hash": "630e67db",
+        "league": "premier-league"
+      },
+      "sarajevo": {
+        "slug": "sarajevo",
+        "name": "Sarajevo",
+        "hash": "8452d0fa",
+        "league": "premier-league"
+      },
+      "velez": {
+        "slug": "velez",
+        "name": "Velež Mostar",
+        "hash": "23ab6b7b",
+        "league": "premier-league"
+      },
+      "zeljeznicar": {
+        "slug": "zeljeznicar",
+        "name": "Željezničar",
+        "hash": "f1144728",
+        "league": "premier-league"
+      },
+      "siroki-brijeg": {
+        "slug": "siroki-brijeg",
+        "name": "Široki Brijeg",
+        "hash": "65b992c6",
+        "league": "premier-league"
+      },
+      "radnik-bijeljina": {
+        "slug": "radnik-bijeljina",
+        "name": "Radnik Bijeljina",
+        "hash": "81b284bb",
+        "league": "premier-league"
+      },
+      "sloga": {
+        "slug": "sloga",
+        "name": "Sloga Doboj",
+        "hash": "40540c65",
+        "league": "premier-league"
+      },
+      "posusje": {
+        "slug": "posusje",
+        "name": "Posušje",
+        "hash": "d459fcc1",
+        "league": "premier-league"
+      },
+      "rudar-prijedor": {
+        "slug": "rudar-prijedor",
+        "name": "Rudar Prijedor",
+        "hash": "55019aff",
+        "league": "premier-league"
+      },
+      "celik": {
+        "slug": "celik",
+        "name": "Čelik Zenica",
+        "hash": "01fa9348",
+        "league": ""
+      },
+      "gosk": {
+        "slug": "gosk",
+        "name": "GOŠK Gabela",
+        "hash": "30d68ad1",
+        "league": ""
+      },
+      "igman": {
+        "slug": "igman",
+        "name": "Igman Konjic",
+        "hash": "ca3000d9",
+        "league": ""
+      },
+      "kozara": {
+        "slug": "kozara",
+        "name": "Kozara Gradiška",
+        "hash": "bc59ce37",
+        "league": ""
+      },
+      "leotar": {
+        "slug": "leotar",
+        "name": "Leotar Trebinje",
+        "hash": "954561d1",
+        "league": ""
+      },
+      "tuzla-city": {
+        "slug": "tuzla-city",
+        "name": "Tuzla City",
+        "hash": "9069cd3f",
+        "league": ""
+      },
+      "zvijezda": {
+        "slug": "zvijezda",
+        "name": "Zvijezda Gradačac",
+        "hash": "5a6bb327",
+        "league": ""
+      },
+      "zvijezda-09": {
+        "slug": "zvijezda-09",
+        "name": "Zvijezda 09",
+        "hash": "327bcee9",
+        "league": ""
+      }
+    }
+  }
+}

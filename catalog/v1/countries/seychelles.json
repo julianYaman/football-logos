@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "seychelles",
+    "iso2": "SC",
+    "name": "Seychelles",
+    "defaultLeague": "seychelles-national-team",
+    "leagues": {
+      "seychelles-national-team": {
+        "slug": "seychelles-national-team",
+        "name": "Seychelles National Team",
+        "hash": "5b023ed1",
+        "kind": "league",
+        "code": "SC"
+      }
+    },
+    "clubs": {}
+  }
+}

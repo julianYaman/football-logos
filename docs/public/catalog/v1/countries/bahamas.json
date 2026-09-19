@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "bahamas",
+    "iso2": "BS",
+    "name": "Bahamas",
+    "defaultLeague": "bahamas-national-team",
+    "leagues": {
+      "bahamas-national-team": {
+        "slug": "bahamas-national-team",
+        "name": "Bahamas National Team",
+        "hash": "242e8a3c",
+        "kind": "league",
+        "code": "BS"
+      }
+    },
+    "clubs": {}
+  }
+}

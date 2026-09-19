@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "saudi-arabia",
+    "iso2": "SA",
+    "name": "Saudi Arabia",
+    "defaultLeague": "saudi-professional-league",
+    "leagues": {
+      "saudi-professional-league": {
+        "slug": "saudi-professional-league",
+        "name": "Saudi Professional League",
+        "hash": "59d5c8af",
+        "kind": "league",
+        "code": "SA"
+      },
+      "saudi-arabia-national-team": {
+        "slug": "saudi-arabia-national-team",
+        "name": "Saudi Arabia National Team",
+        "hash": "8792787c",
+        "kind": "league"
+      },
+      "saudi-arabian-football-federation": {
+        "slug": "saudi-arabian-football-federation",
+        "name": "Saudi Arabian Football Federation",
+        "hash": "ba3fe8e8",
+        "kind": "league"
+      },
+      "saudi-first-division-league": {
+        "slug": "saudi-first-division-league",
+        "name": "Saudi First Division League SDL",
+        "hash": "ebe12da1",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "al-ittihad": {
+        "slug": "al-ittihad",
+        "name": "Al Ittihad",
+        "hash": "5f9bf4f3",
+        "league": "saudi-professional-league"
+      },
+      "al-hilal": {
+        "slug": "al-hilal",
+        "name": "Al Hilal",
+        "hash": "b6fdc2c0",
+        "league": "saudi-professional-league"
+      },
+      "al-qadsiah": {
+        "slug": "al-qadsiah",
+        "name": "Al Qadsiah",
+        "hash": "bebce4f2",
+        "league": "saudi-professional-league"
+      },
+      "al-nassr": {
+        "slug": "al-nassr",
+        "name": "Al Nassr",
+        "hash": "1de248ec",
+        "league": "saudi-professional-league"
+      },
+      "al-ahli": {
+        "slug": "al-ahli",
+        "name": "Al Ahli",
+        "hash": "9f39d0c0",
+        "league": "saudi-professional-league"
+      },
+      "al-shabab": {
+        "slug": "al-shabab",
+        "name": "Al Shabab",
+        "hash": "89785fab",
+        "league": "saudi-professional-league"
+      },
+      "al-hazem": {
+        "slug": "al-hazem",
+        "name": "Al Hazem",
+        "hash": "f605867c",
+        "league": "saudi-professional-league"
+      },
+      "al-ettifaq": {
+        "slug": "al-ettifaq",
+        "name": "Al Ettifaq",
+        "hash": "359bd346",
+        "league": "saudi-professional-league"
+      },
+      "al-taawoun": {
+        "slug": "al-taawoun",
+        "name": "Al Taawoun",
+        "hash": "f0fed438",
+        "league": "saudi-professional-league"
+      },
+      "al-riyadh": {
+        "slug": "al-riyadh",
+        "name": "Al Riyadh",
+        "hash": "cb677893",
+        "league": "saudi-professional-league"
+      },
+      "al-khaleej": {
+        "slug": "al-khaleej",
+        "name": "Al Khaleej",
+        "hash": "4c2a4215",
+        "league": "saudi-professional-league"
+      },
+      "diriyah-club": {
+        "slug": "diriyah-club",
+        "name": "Diriyah Club",
+        "hash": "58bc9fa5",
+        "league": "saudi-professional-league"
+      },
+      "al-kholood": {
+        "slug": "al-kholood",
+        "name": "Al-Kholood",
+        "hash": "2a7655e0",
+        "league": "saudi-professional-league"
+      },
+      "al-fateh": {
+        "slug": "al-fateh",
+        "name": "Al Fateh",
+        "hash": "0371bf14",
+        "league": "saudi-professional-league"
+      },
+      "al-fayha": {
+        "slug": "al-fayha",
+        "name": "Al Fayha",
+        "hash": "f562bfb8",
+        "league": "saudi-professional-league"
+      },
+      "neom": {
+        "slug": "neom",
+        "name": "Neom SC",
+        "hash": "b727e665",
+        "league": "saudi-professional-league"
+      },
+      "abha": {
+        "slug": "abha",
+        "name": "Abha",
+        "hash": "92247913",
+        "league": "saudi-professional-league"
+      },
+      "al-faisaly-fc": {
+        "slug": "al-faisaly-fc",
+        "name": "Al-Faisaly FC",
+        "hash": "0e97f2c3",
+        "league": "saudi-professional-league"
+      },
+      "al-batin": {
+        "slug": "al-batin",
+        "name": "Al Batin",
+        "hash": "7c9bb06f",
+        "league": ""
+      },
+      "al-najma": {
+        "slug": "al-najma",
+        "name": "Al Najma",
+        "hash": "84f13cf4",
+        "league": ""
+      },
+      "damac": {
+        "slug": "damac",
+        "name": "Damac",
+        "hash": "71e723ac",
+        "league": ""
+      },
+      "al-wehda": {
+        "slug": "al-wehda",
+        "name": "Al Wehda",
+        "hash": "5afa7cda",
+        "league": ""
+      },
+      "al-orobah": {
+        "slug": "al-orobah",
+        "name": "Al Orobah",
+        "hash": "62d4f47a",
+        "league": ""
+      },
+      "al-okhdood": {
+        "slug": "al-okhdood",
+        "name": "Al Okhdood",
+        "hash": "f9705de9",
+        "league": ""
+      },
+      "al-raed": {
+        "slug": "al-raed",
+        "name": "Al Raed",
+        "hash": "aafb359e",
+        "league": ""
+      },
+      "al-ula": {
+        "slug": "al-ula",
+        "name": "Al Ula",
+        "hash": "6bcdf1b8",
+        "league": ""
+      },
+      "al-jabalain": {
+        "slug": "al-jabalain",
+        "name": "Al Jabalain",
+        "hash": "53f84444",
+        "league": ""
+      },
+      "al-bukayriyah": {
+        "slug": "al-bukayriyah",
+        "name": "Al Bukayriyah",
+        "hash": "5312df18",
+        "league": ""
+      },
+      "al-jandal": {
+        "slug": "al-jandal",
+        "name": "Al Jandal",
+        "hash": "faf080c6",
+        "league": ""
+      },
+      "al-arabi": {
+        "slug": "al-arabi",
+        "name": "Al Arabi",
+        "hash": "0484f365",
+        "league": ""
+      }
+    }
+  }
+}

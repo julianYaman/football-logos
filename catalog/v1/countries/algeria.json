@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "algeria",
+    "iso2": "DZ",
+    "name": "Algeria",
+    "defaultLeague": "ligue-1",
+    "leagues": {
+      "ligue-1": {
+        "slug": "ligue-1",
+        "name": "Ligue 1",
+        "hash": "61533d7b",
+        "kind": "league",
+        "code": "DZ"
+      },
+      "algeria-national-team": {
+        "slug": "algeria-national-team",
+        "name": "Algeria National Team",
+        "hash": "d40ad9dc",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "cs-constantine": {
+        "slug": "cs-constantine",
+        "name": "CS Constantine",
+        "hash": "067df25f",
+        "league": "ligue-1"
+      },
+      "olympique-akbou": {
+        "slug": "olympique-akbou",
+        "name": "Olympique Akbou",
+        "hash": "f7f9c5d1",
+        "league": "ligue-1"
+      },
+      "js-saoura": {
+        "slug": "js-saoura",
+        "name": "JS Saoura",
+        "hash": "2292b57e",
+        "league": "ligue-1"
+      },
+      "mc-oran": {
+        "slug": "mc-oran",
+        "name": "MC Oran",
+        "hash": "f246d61a",
+        "league": "ligue-1"
+      },
+      "es-ben-aknoun": {
+        "slug": "es-ben-aknoun",
+        "name": "ES Ben Aknoun",
+        "hash": "a9ad444d",
+        "league": "ligue-1"
+      },
+      "js-kabylie": {
+        "slug": "js-kabylie",
+        "name": "JS Kabylie",
+        "hash": "d06ded10",
+        "league": "ligue-1"
+      },
+      "mc-alger": {
+        "slug": "mc-alger",
+        "name": "MC Alger",
+        "hash": "5179fe7a",
+        "league": "ligue-1"
+      },
+      "cr-belouizdad": {
+        "slug": "cr-belouizdad",
+        "name": "CR Belouizdad",
+        "hash": "0f118857",
+        "league": "ligue-1"
+      },
+      "es-setif": {
+        "slug": "es-setif",
+        "name": "ES Sétif",
+        "hash": "42ee1a9f",
+        "league": "ligue-1"
+      },
+      "aso-chlef": {
+        "slug": "aso-chlef",
+        "name": "ASO Chlef",
+        "hash": "f93f1d1b",
+        "league": "ligue-1"
+      },
+      "usm-alger": {
+        "slug": "usm-alger",
+        "name": "USM Alger",
+        "hash": "8fa7f7e1",
+        "league": "ligue-1"
+      },
+      "mb-rouissat": {
+        "slug": "mb-rouissat",
+        "name": "MB Rouissat",
+        "hash": "de0c19bd",
+        "league": "ligue-1"
+      },
+      "usm-khenchela": {
+        "slug": "usm-khenchela",
+        "name": "USM Khenchela",
+        "hash": "acda0611",
+        "league": "ligue-1"
+      },
+      "cr-temouchent": {
+        "slug": "cr-temouchent",
+        "name": "CR Témouchent",
+        "hash": "9e84e9bb",
+        "league": "ligue-1"
+      },
+      "js-el-biar": {
+        "slug": "js-el-biar",
+        "name": "JS El Biar",
+        "hash": "b9faf18d",
+        "league": "ligue-1"
+      },
+      "us-biskra": {
+        "slug": "us-biskra",
+        "name": "US Biskra",
+        "hash": "dc491349",
+        "league": "ligue-1"
+      },
+      "mc-el-bayadh": {
+        "slug": "mc-el-bayadh",
+        "name": "MC El-Bayadh",
+        "hash": "48f250ab",
+        "league": ""
+      },
+      "es-mostaganem": {
+        "slug": "es-mostaganem",
+        "name": "ES Mostaganem",
+        "hash": "8de2e479",
+        "league": ""
+      },
+      "paradou-ac": {
+        "slug": "paradou-ac",
+        "name": "Paradou AC",
+        "hash": "2d652149",
+        "league": ""
+      }
+    }
+  }
+}

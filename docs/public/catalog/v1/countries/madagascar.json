@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "madagascar",
+    "iso2": "MG",
+    "name": "Madagascar",
+    "defaultLeague": "madagascar-national-team",
+    "leagues": {
+      "madagascar-national-team": {
+        "slug": "madagascar-national-team",
+        "name": "Madagascar National Team",
+        "hash": "248ef60d",
+        "kind": "league",
+        "code": "MG"
+      }
+    },
+    "clubs": {}
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "czech-republic",
+    "iso2": "CZ",
+    "name": "Czech Republic",
+    "defaultLeague": "chance-liga",
+    "leagues": {
+      "chance-liga": {
+        "slug": "chance-liga",
+        "name": "Chance Liga",
+        "hash": "8511af91",
+        "kind": "league",
+        "code": "CZ"
+      },
+      "chance-narodni-liga": {
+        "slug": "chance-narodni-liga",
+        "name": "Chance Narodní Liga",
+        "hash": "2bd970c0",
+        "kind": "league"
+      },
+      "czech-republic-national-team": {
+        "slug": "czech-republic-national-team",
+        "name": "Czech Republic National Team",
+        "hash": "17b57caa",
+        "kind": "league"
+      },
+      "czech-republic-football-association": {
+        "slug": "czech-republic-football-association",
+        "name": "Czech Republic Football Association",
+        "hash": "89b7b43a",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "banik": {
+        "slug": "banik",
+        "name": "Baník Ostrava",
+        "hash": "83c65d9c",
+        "league": "chance-liga"
+      },
+      "bohemians-praha": {
+        "slug": "bohemians-praha",
+        "name": "Bohemians Praha",
+        "hash": "855c1c3e",
+        "league": "chance-liga"
+      },
+      "zbrojovka-brno": {
+        "slug": "zbrojovka-brno",
+        "name": "FC Zbrojovka Brno",
+        "hash": "4763423f",
+        "league": "chance-liga"
+      },
+      "hradec-kralove": {
+        "slug": "hradec-kralove",
+        "name": "Hradec Králové",
+        "hash": "2ec203ca",
+        "league": "chance-liga"
+      },
+      "jablonec": {
+        "slug": "jablonec",
+        "name": "Jablonec",
+        "hash": "c1989678",
+        "league": "chance-liga"
+      },
+      "liberec": {
+        "slug": "liberec",
+        "name": "Slovan Liberec",
+        "hash": "b24e8adf",
+        "league": "chance-liga"
+      },
+      "mlada-boleslav": {
+        "slug": "mlada-boleslav",
+        "name": "Mladá Boleslav",
+        "hash": "a05af1ed",
+        "league": "chance-liga"
+      },
+      "olomouc": {
+        "slug": "olomouc",
+        "name": "Sigma Olomouc",
+        "hash": "075b786b",
+        "league": "chance-liga"
+      },
+      "pardubice": {
+        "slug": "pardubice",
+        "name": "Pardubice",
+        "hash": "81aec12a",
+        "league": "chance-liga"
+      },
+      "slavia-praha": {
+        "slug": "slavia-praha",
+        "name": "SK Slavia Praha",
+        "hash": "ba481ad8",
+        "league": "chance-liga"
+      },
+      "slovacko": {
+        "slug": "slovacko",
+        "name": "1. FC Slovácko",
+        "hash": "ab6eeb3a",
+        "league": "chance-liga"
+      },
+      "sparta-praha": {
+        "slug": "sparta-praha",
+        "name": "AC Sparta Praha",
+        "hash": "51a20df9",
+        "league": "chance-liga"
+      },
+      "teplice": {
+        "slug": "teplice",
+        "name": "Teplice",
+        "hash": "bad60089",
+        "league": "chance-liga"
+      },
+      "viktoria-plzen": {
+        "slug": "viktoria-plzen",
+        "name": "Viktoria Plzeň",
+        "hash": "f5748744",
+        "league": "chance-liga"
+      },
+      "zlin": {
+        "slug": "zlin",
+        "name": "Zlín",
+        "hash": "38a63fd7",
+        "league": "chance-liga"
+      },
+      "artis-brno": {
+        "slug": "artis-brno",
+        "name": "SK Artis Brno",
+        "hash": "a10ebf6c",
+        "league": "chance-liga"
+      },
+      "dukla": {
+        "slug": "dukla",
+        "name": "Dukla Prague",
+        "hash": "61a1ea02",
+        "league": "chance-narodni-liga"
+      },
+      "fotbal-trinec": {
+        "slug": "fotbal-trinec",
+        "name": "Fotbal Třinec",
+        "hash": "1792fa97",
+        "league": "chance-narodni-liga"
+      },
+      "jihlava": {
+        "slug": "jihlava",
+        "name": "FC Vysočina Jihlava",
+        "hash": "1fb72461",
+        "league": "chance-narodni-liga"
+      },
+      "karvina": {
+        "slug": "karvina",
+        "name": "Karviná",
+        "hash": "549642ca",
+        "league": "chance-narodni-liga"
+      },
+      "opava": {
+        "slug": "opava",
+        "name": "SFC Opava",
+        "hash": "d9459807",
+        "league": "chance-narodni-liga"
+      },
+      "pribram": {
+        "slug": "pribram",
+        "name": "Příbram",
+        "hash": "dac33e49",
+        "league": "chance-narodni-liga"
+      },
+      "prostejov": {
+        "slug": "prostejov",
+        "name": "1. SK Prostějov",
+        "hash": "606e8415",
+        "league": "chance-narodni-liga"
+      },
+      "zizkov": {
+        "slug": "zizkov",
+        "name": "Viktoria Žižkov",
+        "hash": "483833d8",
+        "league": "chance-narodni-liga"
+      },
+      "usti-nad-labem": {
+        "slug": "usti-nad-labem",
+        "name": "Ústí nad Labem",
+        "hash": "bb83a29a",
+        "league": "chance-narodni-liga"
+      },
+      "sk-kladno": {
+        "slug": "sk-kladno",
+        "name": "SK Kladno",
+        "hash": "03e2f2b8",
+        "league": "chance-narodni-liga"
+      },
+      "sellier-bellot-vlasim": {
+        "slug": "sellier-bellot-vlasim",
+        "name": "FC Sellier & Bellot Vlašim",
+        "hash": "3904e090",
+        "league": "chance-narodni-liga"
+      },
+      "arsenal-ceska-lipa": {
+        "slug": "arsenal-ceska-lipa",
+        "name": "Arsenal Česká Lípa",
+        "hash": "054d8ac7",
+        "league": "chance-narodni-liga"
+      },
+      "hanacka-slavia-kromeriz": {
+        "slug": "hanacka-slavia-kromeriz",
+        "name": "Hanácká Slavia Kroměříž",
+        "hash": "602435f8",
+        "league": "chance-narodni-liga"
+      },
+      "taborsko": {
+        "slug": "taborsko",
+        "name": "Táborsko",
+        "hash": "30057415",
+        "league": "chance-narodni-liga"
+      },
+      "ceske-budejovice": {
+        "slug": "ceske-budejovice",
+        "name": "SK Dynamo České Budějovice",
+        "hash": "8e2b12e2",
+        "league": ""
+      },
+      "chrudim": {
+        "slug": "chrudim",
+        "name": "MFK Chrudim",
+        "hash": "ae1b0902",
+        "league": ""
+      },
+      "jiskra-domazlice": {
+        "slug": "jiskra-domazlice",
+        "name": "Jiskra Domazlice",
+        "hash": "3b721371",
+        "league": ""
+      },
+      "pisek": {
+        "slug": "pisek",
+        "name": "Písek",
+        "hash": "3a895757",
+        "league": ""
+      },
+      "rosice": {
+        "slug": "rosice",
+        "name": "Slovan Rosice",
+        "hash": "26648ad8",
+        "league": ""
+      },
+      "varnsdorf": {
+        "slug": "varnsdorf",
+        "name": "FK Varnsdorf",
+        "hash": "ab0a35b4",
+        "league": ""
+      },
+      "unicov": {
+        "slug": "unicov",
+        "name": "SK Unicov",
+        "hash": "1f900b0a",
+        "league": ""
+      },
+      "fk-frydek-mistek": {
+        "slug": "fk-frydek-mistek",
+        "name": "FK Frýdek-Místek",
+        "hash": "306f26fd",
+        "league": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "saint-martin",
+    "iso2": "MF",
+    "name": "Saint Martin",
+    "defaultLeague": "saint-martin-national-team",
+    "leagues": {
+      "saint-martin-national-team": {
+        "slug": "saint-martin-national-team",
+        "name": "Saint Martin National Team",
+        "hash": "270def0b",
+        "kind": "league",
+        "code": "MF"
+      }
+    },
+    "clubs": {}
+  }
+}

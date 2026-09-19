@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "maldives",
+    "iso2": "MV",
+    "name": "Maldives",
+    "defaultLeague": "maldives-national-team",
+    "leagues": {
+      "maldives-national-team": {
+        "slug": "maldives-national-team",
+        "name": "Maldives National Team",
+        "hash": "295cc405",
+        "kind": "league",
+        "code": "MV"
+      }
+    },
+    "clubs": {}
+  }
+}

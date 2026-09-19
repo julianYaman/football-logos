@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "serbia",
+    "iso2": "RS",
+    "name": "Serbia",
+    "defaultLeague": "serbian-superliga",
+    "leagues": {
+      "serbian-superliga": {
+        "slug": "serbian-superliga",
+        "name": "Serbian SuperLiga",
+        "hash": "91e640ac",
+        "kind": "league",
+        "code": "RS"
+      },
+      "serbia-national-team": {
+        "slug": "serbia-national-team",
+        "name": "Serbia National Team",
+        "hash": "a009b8d2",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "crvena-zvezda": {
+        "slug": "crvena-zvezda",
+        "name": "Crvena Zvezda",
+        "hash": "25c7bd90",
+        "league": "serbian-superliga"
+      },
+      "cukaricki": {
+        "slug": "cukaricki",
+        "name": "FK Čukarički",
+        "hash": "ce409928",
+        "league": "serbian-superliga"
+      },
+      "imt": {
+        "slug": "imt",
+        "name": "FK IMT",
+        "hash": "0405c93a",
+        "league": "serbian-superliga"
+      },
+      "macva-sabac": {
+        "slug": "macva-sabac",
+        "name": "Macva Sabac",
+        "hash": "9c5e87d2",
+        "league": "serbian-superliga"
+      },
+      "mladost-lucani": {
+        "slug": "mladost-lucani",
+        "name": "FK Mladost Lučani",
+        "hash": "071c5ee6",
+        "league": "serbian-superliga"
+      },
+      "novi-pazar": {
+        "slug": "novi-pazar",
+        "name": "FK Novi Pazar",
+        "hash": "d5a47c3e",
+        "league": "serbian-superliga"
+      },
+      "ofk-beograd": {
+        "slug": "ofk-beograd",
+        "name": "OFK Beograd",
+        "hash": "368098ad",
+        "league": "serbian-superliga"
+      },
+      "partizan": {
+        "slug": "partizan",
+        "name": "FK Partizan",
+        "hash": "7dc116ee",
+        "league": "serbian-superliga"
+      },
+      "radnicki-1923": {
+        "slug": "radnicki-1923",
+        "name": "Radnički 1923",
+        "hash": "06e9b690",
+        "league": "serbian-superliga"
+      },
+      "radnicki-nis": {
+        "slug": "radnicki-nis",
+        "name": "Radnicki Niš",
+        "hash": "495db18f",
+        "league": "serbian-superliga"
+      },
+      "radnik-surdulica": {
+        "slug": "radnik-surdulica",
+        "name": "Radnik Surdulica",
+        "hash": "88218128",
+        "league": "serbian-superliga"
+      },
+      "vojvodina": {
+        "slug": "vojvodina",
+        "name": "FK Vojvodina",
+        "hash": "0b382639",
+        "league": "serbian-superliga"
+      },
+      "zeleznicar-pancevo": {
+        "slug": "zeleznicar-pancevo",
+        "name": "Zeleznicar Pancevo",
+        "hash": "0116c3a9",
+        "league": "serbian-superliga"
+      },
+      "fk-zemun": {
+        "slug": "fk-zemun",
+        "name": "FK Zemun",
+        "hash": "29f259ee",
+        "league": "serbian-superliga"
+      },
+      "indjija": {
+        "slug": "indjija",
+        "name": "FK Inđija",
+        "hash": "0ababb5b",
+        "league": ""
+      },
+      "javor": {
+        "slug": "javor",
+        "name": "Javor Matis",
+        "hash": "55e75cad",
+        "league": ""
+      },
+      "metalac": {
+        "slug": "metalac",
+        "name": "Metalac",
+        "hash": "24364039",
+        "league": ""
+      },
+      "napredak": {
+        "slug": "napredak",
+        "name": "FK Napredak Kruševac",
+        "hash": "1f211665",
+        "league": ""
+      },
+      "sloboda-uzice": {
+        "slug": "sloboda-uzice",
+        "name": "FK Sloboda Užice",
+        "hash": "ac214170",
+        "league": ""
+      },
+      "spartak-subotica": {
+        "slug": "spartak-subotica",
+        "name": "Spartak Subotica",
+        "hash": "27b3c80a",
+        "league": ""
+      },
+      "tsc": {
+        "slug": "tsc",
+        "name": "FK TSC",
+        "hash": "6e6d8791",
+        "league": ""
+      },
+      "vozdovac": {
+        "slug": "vozdovac",
+        "name": "FK Voždovac",
+        "hash": "8b142d71",
+        "league": ""
+      }
+    }
+  }
+}

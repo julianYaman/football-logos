@@ -1,0 +1,1359 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "france",
+    "iso2": "FR",
+    "name": "France",
+    "defaultLeague": "ligue-1",
+    "leagues": {
+      "ligue-1": {
+        "slug": "ligue-1",
+        "name": "Ligue 1",
+        "hash": "bcb13eb0",
+        "kind": "league",
+        "code": "FR"
+      },
+      "ligue-2": {
+        "slug": "ligue-2",
+        "name": "Ligue 2",
+        "hash": "f12004c1",
+        "kind": "league"
+      },
+      "ligue-3": {
+        "slug": "ligue-3",
+        "name": "Ligue 3",
+        "hash": "4dabe4bb",
+        "kind": "league"
+      },
+      "national-1": {
+        "slug": "national-1",
+        "name": "National 1",
+        "hash": "abaaa6ec",
+        "kind": "league"
+      },
+      "france-national-team": {
+        "slug": "france-national-team",
+        "name": "France National Team",
+        "hash": "a17f83af",
+        "kind": "league"
+      },
+      "french-football-federation": {
+        "slug": "french-football-federation",
+        "name": "French Football Federation",
+        "hash": "87cacfde",
+        "kind": "league"
+      },
+      "french-cup": {
+        "slug": "french-cup",
+        "name": "French Cup",
+        "hash": "10cbf91f",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "paris-saint-germain": {
+        "slug": "paris-saint-germain",
+        "name": "PSG",
+        "hash": "5329be3c",
+        "league": "ligue-1"
+      },
+      "angers": {
+        "slug": "angers",
+        "name": "Angers",
+        "hash": "bb65fb9c",
+        "league": "ligue-1"
+      },
+      "auxerre": {
+        "slug": "auxerre",
+        "name": "Auxerre",
+        "hash": "e475acaa",
+        "league": "ligue-1"
+      },
+      "brest": {
+        "slug": "brest",
+        "name": "Brest",
+        "hash": "263bb08a",
+        "league": "ligue-1"
+      },
+      "le-havre-ac": {
+        "slug": "le-havre-ac",
+        "name": "Le Havre AC",
+        "hash": "1950fe12",
+        "league": "ligue-1"
+      },
+      "rc-lens": {
+        "slug": "rc-lens",
+        "name": "RC Lens",
+        "hash": "5370d47c",
+        "league": "ligue-1"
+      },
+      "le-mans": {
+        "slug": "le-mans",
+        "name": "Le Mans FC",
+        "hash": "103d37a2",
+        "league": "ligue-1"
+      },
+      "lille": {
+        "slug": "lille",
+        "name": "Lille",
+        "hash": "71772c6d",
+        "league": "ligue-1"
+      },
+      "lorient": {
+        "slug": "lorient",
+        "name": "Lorient FC",
+        "hash": "7dde32cc",
+        "league": "ligue-1"
+      },
+      "lyon": {
+        "slug": "lyon",
+        "name": "Olympique Lyonnais",
+        "hash": "c7612bb5",
+        "league": "ligue-1"
+      },
+      "marseille": {
+        "slug": "marseille",
+        "name": "Marseille",
+        "hash": "f89278df",
+        "league": "ligue-1"
+      },
+      "as-monaco": {
+        "slug": "as-monaco",
+        "name": "AS Monaco",
+        "hash": "61229e2f",
+        "league": "ligue-1"
+      },
+      "nice": {
+        "slug": "nice",
+        "name": "Nice",
+        "hash": "be285080",
+        "league": "ligue-1"
+      },
+      "paris-fc": {
+        "slug": "paris-fc",
+        "name": "Paris FC",
+        "hash": "63e29830",
+        "league": "ligue-1"
+      },
+      "rennes": {
+        "slug": "rennes",
+        "name": "Rennes",
+        "hash": "a36b45c6",
+        "league": "ligue-1"
+      },
+      "rc-strasbourg-alsace": {
+        "slug": "rc-strasbourg-alsace",
+        "name": "RC Strasbourg Alsace",
+        "hash": "58bd7116",
+        "league": "ligue-1"
+      },
+      "toulouse": {
+        "slug": "toulouse",
+        "name": "Toulouse",
+        "hash": "b40bb3e2",
+        "league": "ligue-1"
+      },
+      "troyes": {
+        "slug": "troyes",
+        "name": "Troyes",
+        "hash": "04708692",
+        "league": "ligue-1"
+      },
+      "annecy": {
+        "slug": "annecy",
+        "name": "Annecy",
+        "hash": "05ddfc7b",
+        "league": "ligue-2"
+      },
+      "boulogne": {
+        "slug": "boulogne",
+        "name": "Boulogne",
+        "hash": "1cf882eb",
+        "league": "ligue-2"
+      },
+      "clermont-foot": {
+        "slug": "clermont-foot",
+        "name": "Clermont Foot",
+        "hash": "e35da842",
+        "league": "ligue-2"
+      },
+      "dunkerque": {
+        "slug": "dunkerque",
+        "name": "Dunkerque",
+        "hash": "211836d1",
+        "league": "ligue-2"
+      },
+      "grenoble-foot-38": {
+        "slug": "grenoble-foot-38",
+        "name": "Grenoble Foot 38",
+        "hash": "9bf44782",
+        "league": "ligue-2"
+      },
+      "guingamp": {
+        "slug": "guingamp",
+        "name": "EA Guingamp",
+        "hash": "58078315",
+        "league": "ligue-2"
+      },
+      "montpellier": {
+        "slug": "montpellier",
+        "name": "Montpellier",
+        "hash": "13f3c4cd",
+        "league": "ligue-2"
+      },
+      "nancy": {
+        "slug": "nancy",
+        "name": "Nancy Lorraine",
+        "hash": "69db3dfb",
+        "league": "ligue-2"
+      },
+      "nantes": {
+        "slug": "nantes",
+        "name": "Nantes",
+        "hash": "11495901",
+        "league": "ligue-2"
+      },
+      "pau": {
+        "slug": "pau",
+        "name": "Pau FC",
+        "hash": "4c7d716a",
+        "league": "ligue-2"
+      },
+      "stade-de-reims": {
+        "slug": "stade-de-reims",
+        "name": "Stade de Reims",
+        "hash": "183c72e3",
+        "league": "ligue-2"
+      },
+      "red-star-fc": {
+        "slug": "red-star-fc",
+        "name": "Red Star FC",
+        "hash": "29d0b954",
+        "league": "ligue-2"
+      },
+      "rodez-af": {
+        "slug": "rodez-af",
+        "name": "Rodez AF",
+        "hash": "2c3b5d7c",
+        "league": "ligue-2"
+      },
+      "stade-lavallois": {
+        "slug": "stade-lavallois",
+        "name": "Stade Lavallois",
+        "hash": "64f428f6",
+        "league": "ligue-2"
+      },
+      "as-saint-etienne": {
+        "slug": "as-saint-etienne",
+        "name": "AS Saint-Étienne",
+        "hash": "1e1dee7b",
+        "league": "ligue-2"
+      },
+      "fc-metz": {
+        "slug": "fc-metz",
+        "name": "FC Metz",
+        "hash": "f7f271f6",
+        "league": "ligue-2"
+      },
+      "dijon": {
+        "slug": "dijon",
+        "name": "Dijon FCO",
+        "hash": "ba492737",
+        "league": "ligue-2"
+      },
+      "sochaux": {
+        "slug": "sochaux",
+        "name": "FC Sochaux-Montbéliard",
+        "hash": "c7197654",
+        "league": "ligue-2"
+      },
+      "amiens": {
+        "slug": "amiens",
+        "name": "Amiens SC",
+        "hash": "1ebd9607",
+        "league": "ligue-3"
+      },
+      "bastia": {
+        "slug": "bastia",
+        "name": "SC Bastia",
+        "hash": "fe97c559",
+        "league": "ligue-3"
+      },
+      "stade-malherbe-caen": {
+        "slug": "stade-malherbe-caen",
+        "name": "Stade Malherbe Caen",
+        "hash": "6d1a7f61",
+        "league": "ligue-3"
+      },
+      "rouen": {
+        "slug": "rouen",
+        "name": "FC Rouen",
+        "hash": "3e1318b0",
+        "league": "ligue-3"
+      },
+      "versailles": {
+        "slug": "versailles",
+        "name": "FC Versailles",
+        "hash": "6e1d4c3c",
+        "league": "ligue-3"
+      },
+      "le-puy-foot-43": {
+        "slug": "le-puy-foot-43",
+        "name": "Le Puy Foot 43",
+        "hash": "ea49f9d9",
+        "league": "ligue-3"
+      },
+      "orleans": {
+        "slug": "orleans",
+        "name": "US Orléans",
+        "hash": "b0c4dd75",
+        "league": "ligue-3"
+      },
+      "aubagne": {
+        "slug": "aubagne",
+        "name": "Aubagne FC",
+        "hash": "a9274597",
+        "league": "ligue-3"
+      },
+      "fc-fleury-91": {
+        "slug": "fc-fleury-91",
+        "name": "FC Fleury 91",
+        "hash": "2bb95b95",
+        "league": "ligue-3"
+      },
+      "concarneau": {
+        "slug": "concarneau",
+        "name": "US Concarneau",
+        "hash": "e9e876a6",
+        "league": "ligue-3"
+      },
+      "paris-13-atletico": {
+        "slug": "paris-13-atletico",
+        "name": "Paris 13 Atletico",
+        "hash": "7596a174",
+        "league": "ligue-3"
+      },
+      "valenciennes": {
+        "slug": "valenciennes",
+        "name": "Valenciennes FC",
+        "hash": "93a4ceac",
+        "league": "ligue-3"
+      },
+      "villefranche-beaujolais": {
+        "slug": "villefranche-beaujolais",
+        "name": "Villefranche Beaujolais",
+        "hash": "eb6b1086",
+        "league": "ligue-3"
+      },
+      "quevilly-rouen-metropole": {
+        "slug": "quevilly-rouen-metropole",
+        "name": "Quevilly Rouen Métropole",
+        "hash": "815cf4a0",
+        "league": "ligue-3"
+      },
+      "bourg-en-bresse-peronnas": {
+        "slug": "bourg-en-bresse-peronnas",
+        "name": "Bourg-en-Bresse Péronnas 01",
+        "hash": "9970cbcc",
+        "league": "ligue-3"
+      },
+      "us-thionville-lusitanos": {
+        "slug": "us-thionville-lusitanos",
+        "name": "US Thionville Lusitanos",
+        "hash": "46e170f7",
+        "league": "ligue-3"
+      },
+      "vendee-fc-la-roche-sur-yon": {
+        "slug": "vendee-fc-la-roche-sur-yon",
+        "name": "Vendée FC La Roche-sur-Yon",
+        "hash": "667346eb",
+        "league": "ligue-3"
+      },
+      "as-cannes": {
+        "slug": "as-cannes",
+        "name": "AS Cannes",
+        "hash": "044f7414",
+        "league": "ligue-3"
+      },
+      "nimes-olympique": {
+        "slug": "nimes-olympique",
+        "name": "Nîmes Olympique",
+        "hash": "64a82365",
+        "league": "national-1"
+      },
+      "chateauroux": {
+        "slug": "chateauroux",
+        "name": "LB Châteauroux",
+        "hash": "5fc750aa",
+        "league": "national-1"
+      },
+      "stade-briochin": {
+        "slug": "stade-briochin",
+        "name": "Stade Briochin",
+        "hash": "cb0cba0f",
+        "league": "national-1"
+      },
+      "us-creteil": {
+        "slug": "us-creteil",
+        "name": "US Créteil",
+        "hash": "4eebc852",
+        "league": "national-1"
+      },
+      "fc-dieppe": {
+        "slug": "fc-dieppe",
+        "name": "FC Dieppe",
+        "hash": "1e4c96ff",
+        "league": "national-1"
+      },
+      "sas-epinal": {
+        "slug": "sas-epinal",
+        "name": "SAS Épinal",
+        "hash": "06a5a4ca",
+        "league": "national-1"
+      },
+      "fcsr-haguenau": {
+        "slug": "fcsr-haguenau",
+        "name": "FCSR Haguenau",
+        "hash": "ec8060f5",
+        "league": "national-1"
+      },
+      "sr-colmar": {
+        "slug": "sr-colmar",
+        "name": "SR Colmar",
+        "hash": "23daf2d1",
+        "league": "national-1"
+      },
+      "asc-biesheim": {
+        "slug": "asc-biesheim",
+        "name": "ASC Biesheim",
+        "hash": "b38ce3fb",
+        "league": "national-1"
+      },
+      "fc-chambly-oise": {
+        "slug": "fc-chambly-oise",
+        "name": "FC Chambly Oise",
+        "hash": "20573ba3",
+        "league": "national-1"
+      },
+      "racing-club-de-france": {
+        "slug": "racing-club-de-france",
+        "name": "Racing Club de France",
+        "hash": "bb6d3d5c",
+        "league": "national-1"
+      },
+      "us-chantilly": {
+        "slug": "us-chantilly",
+        "name": "US Chantilly",
+        "hash": "a47dd2d3",
+        "league": "national-1"
+      },
+      "fc-borgo": {
+        "slug": "fc-borgo",
+        "name": "FC Borgo",
+        "hash": "fae446f3",
+        "league": "national-1"
+      },
+      "saint-pryve-saint-hilaire": {
+        "slug": "saint-pryve-saint-hilaire",
+        "name": "Saint-Pryvé Saint-Hilaire FC",
+        "hash": "e30135e8",
+        "league": "national-1"
+      },
+      "entente-feignies-aulnoye": {
+        "slug": "entente-feignies-aulnoye",
+        "name": "Entente Feignies Aulnoye FC",
+        "hash": "9f7e667d",
+        "league": "national-1"
+      },
+      "as-furiani-agliani": {
+        "slug": "as-furiani-agliani",
+        "name": "AS Furiani-Agliani",
+        "hash": "a943358e",
+        "league": "national-1"
+      },
+      "us-saint-maur-lusitanos": {
+        "slug": "us-saint-maur-lusitanos",
+        "name": "US Saint-Maur Lusitanos",
+        "hash": "a49079f9",
+        "league": "national-1"
+      },
+      "fc-montlouis": {
+        "slug": "fc-montlouis",
+        "name": "FC Montlouis",
+        "hash": "6268487e",
+        "league": "national-1"
+      },
+      "uslpv": {
+        "slug": "uslpv",
+        "name": "Union Sportive du Pays du Valois",
+        "hash": "365a485c",
+        "league": "national-1"
+      },
+      "us-avranches": {
+        "slug": "us-avranches",
+        "name": "US Avranches",
+        "hash": "554a1c10",
+        "league": "national-1"
+      },
+      "le-poire-sur-vie": {
+        "slug": "le-poire-sur-vie",
+        "name": "Vendée Poiré-sur-Vie Football",
+        "hash": "74d11020",
+        "league": "national-1"
+      },
+      "les-herbiers-vf": {
+        "slug": "les-herbiers-vf",
+        "name": "Les Herbiers VF",
+        "hash": "1ebbfb7a",
+        "league": "national-1"
+      },
+      "gsi-pontivy": {
+        "slug": "gsi-pontivy",
+        "name": "GSI Pontivy",
+        "hash": "098863da",
+        "league": "national-1"
+      },
+      "aviron-bayonnais-fc": {
+        "slug": "aviron-bayonnais-fc",
+        "name": "Aviron Bayonnais FC",
+        "hash": "152a4fd1",
+        "league": "national-1"
+      },
+      "olympique-saumur": {
+        "slug": "olympique-saumur",
+        "name": "Olympique Saumur FC",
+        "hash": "cb7c3695",
+        "league": "national-1"
+      },
+      "us-granville": {
+        "slug": "us-granville",
+        "name": "US Granville",
+        "hash": "dfd18325",
+        "league": "national-1"
+      },
+      "voltigeurs-de-chateaubriant": {
+        "slug": "voltigeurs-de-chateaubriant",
+        "name": "Voltigeurs de Châteaubriant",
+        "hash": "c776278d",
+        "league": "national-1"
+      },
+      "fc-chauray": {
+        "slug": "fc-chauray",
+        "name": "FC Chauray",
+        "hash": "6eaa596c",
+        "league": "national-1"
+      },
+      "angouleme-charente-fc": {
+        "slug": "angouleme-charente-fc",
+        "name": "Angoulême Charente FC",
+        "hash": "22c2b30b",
+        "league": "national-1"
+      },
+      "dinan-lehon-fc": {
+        "slug": "dinan-lehon-fc",
+        "name": "Dinan Léhon FC",
+        "hash": "f581df22",
+        "league": "national-1"
+      },
+      "tarbes-pyrenees-football": {
+        "slug": "tarbes-pyrenees-football",
+        "name": "Tarbes Pyrénées Football",
+        "hash": "be63c943",
+        "league": "national-1"
+      },
+      "us-saint-malo": {
+        "slug": "us-saint-malo",
+        "name": "US Saint-Malo",
+        "hash": "ca734de7",
+        "league": "national-1"
+      },
+      "saint-colomban-locmine": {
+        "slug": "saint-colomban-locmine",
+        "name": "Saint-Colomban Locminé",
+        "hash": "e2bba88a",
+        "league": "national-1"
+      },
+      "istres-fc": {
+        "slug": "istres-fc",
+        "name": "Istres FC",
+        "hash": "38db6865",
+        "league": "national-1"
+      },
+      "frejus-saint-raphael": {
+        "slug": "frejus-saint-raphael",
+        "name": "Étoile FC Fréjus Saint-Raphaël",
+        "hash": "93011a21",
+        "league": "national-1"
+      },
+      "lyon-la-duchere": {
+        "slug": "lyon-la-duchere",
+        "name": "Lyon-La Duchère",
+        "hash": "f0c87bcb",
+        "league": "national-1"
+      },
+      "as-saint-priest": {
+        "slug": "as-saint-priest",
+        "name": "AS Saint-Priest",
+        "hash": "f450a0ff",
+        "league": "national-1"
+      },
+      "andrezieux-boutheon-fc": {
+        "slug": "andrezieux-boutheon-fc",
+        "name": "Andrézieux-Bouthéon FC",
+        "hash": "59765695",
+        "league": "national-1"
+      },
+      "sporting-club-toulon": {
+        "slug": "sporting-club-toulon",
+        "name": "Sporting Club Toulon",
+        "hash": "52813569",
+        "league": "national-1"
+      },
+      "hyeres-fc": {
+        "slug": "hyeres-fc",
+        "name": "Hyères FC",
+        "hash": "ecdc3c1d",
+        "league": "national-1"
+      },
+      "canet-roussillon-fc": {
+        "slug": "canet-roussillon-fc",
+        "name": "Canet Roussillon FC",
+        "hash": "e320a336",
+        "league": "national-1"
+      },
+      "goal-fc": {
+        "slug": "goal-fc",
+        "name": "GOAL FC",
+        "hash": "bf3d40cf",
+        "league": "national-1"
+      },
+      "bourges-fc": {
+        "slug": "bourges-fc",
+        "name": "Bourges FC",
+        "hash": "c5f8ad64",
+        "league": "national-1"
+      },
+      "fc-limonest-dardilly-saint-didier": {
+        "slug": "fc-limonest-dardilly-saint-didier",
+        "name": "FC Limonest Dardilly Saint-Didier",
+        "hash": "893da0a4",
+        "league": "national-1"
+      },
+      "hauts-lyonnais": {
+        "slug": "hauts-lyonnais",
+        "name": "Hauts Lyonnais",
+        "hash": "336c9a96",
+        "league": "national-1"
+      },
+      "gfa-rumilly-vallieres": {
+        "slug": "gfa-rumilly-vallieres",
+        "name": "GFA Rumilly Vallières",
+        "hash": "409aa8b8",
+        "league": "national-1"
+      },
+      "championnat-national": {
+        "slug": "championnat-national",
+        "name": "Championnat National",
+        "hash": "d7873b6f",
+        "league": ""
+      },
+      "ajaccio": {
+        "slug": "ajaccio",
+        "name": "AC Ajaccio",
+        "hash": "f402708f",
+        "league": ""
+      },
+      "bordeaux": {
+        "slug": "bordeaux",
+        "name": "Bordeaux",
+        "hash": "075d79ca",
+        "league": ""
+      },
+      "rc-roubaix": {
+        "slug": "rc-roubaix",
+        "name": "RC Roubaix",
+        "hash": "9eb029a8",
+        "league": ""
+      },
+      "fc-martigues": {
+        "slug": "fc-martigues",
+        "name": "FC Martigues",
+        "hash": "cf2cf7c3",
+        "league": ""
+      },
+      "ac-amboise": {
+        "slug": "ac-amboise",
+        "name": "AC Amboise",
+        "hash": "72099fa4",
+        "league": ""
+      },
+      "ac-amiens": {
+        "slug": "ac-amiens",
+        "name": "AC Amiens",
+        "hash": "c11d6995",
+        "league": ""
+      },
+      "ac-avigonnais": {
+        "slug": "ac-avigonnais",
+        "name": "AC Avigonnais",
+        "hash": "26f95368",
+        "league": ""
+      },
+      "albi-marssac-tarn-football-asptt": {
+        "slug": "albi-marssac-tarn-football-asptt",
+        "name": "Albi Marssac Tarn Football ASPTT",
+        "hash": "4149b24c",
+        "league": ""
+      },
+      "as-aix-en-provence": {
+        "slug": "as-aix-en-provence",
+        "name": "AS Aix-en-Provence",
+        "hash": "d4305c43",
+        "league": ""
+      },
+      "as-baume-les-dames": {
+        "slug": "as-baume-les-dames",
+        "name": "AS Baume-les-Dames",
+        "hash": "23075d10",
+        "league": ""
+      },
+      "as-beziers": {
+        "slug": "as-beziers",
+        "name": "AS Béziers",
+        "hash": "390cae21",
+        "league": ""
+      },
+      "as-gien": {
+        "slug": "as-gien",
+        "name": "AS Gien",
+        "hash": "4cc85aad",
+        "league": ""
+      },
+      "as-illzach-modenheim": {
+        "slug": "as-illzach-modenheim",
+        "name": "AS Illzach Modenheim",
+        "hash": "42bf7f00",
+        "league": ""
+      },
+      "as-strasbourg": {
+        "slug": "as-strasbourg",
+        "name": "AS Strasbourg",
+        "hash": "09e22f2b",
+        "league": ""
+      },
+      "as-vitre": {
+        "slug": "as-vitre",
+        "name": "AS Vitré",
+        "hash": "27f4e235",
+        "league": ""
+      },
+      "avoine-olympique-chinon-cinais": {
+        "slug": "avoine-olympique-chinon-cinais",
+        "name": "Avoine Olympique Chinon Cinais",
+        "hash": "f4301aeb",
+        "league": ""
+      },
+      "balma-sc": {
+        "slug": "balma-sc",
+        "name": "Balma SC",
+        "hash": "eb91320b",
+        "league": ""
+      },
+      "bergerac-perigord-fc": {
+        "slug": "bergerac-perigord-fc",
+        "name": "Bergerac Périgord FC",
+        "hash": "fd30957a",
+        "league": ""
+      },
+      "blagnac-fc": {
+        "slug": "blagnac-fc",
+        "name": "Blagnac FC",
+        "hash": "579efa49",
+        "league": ""
+      },
+      "c-chartres-football": {
+        "slug": "c-chartres-football",
+        "name": "C'Chartres Football",
+        "hash": "35a8f536",
+        "league": ""
+      },
+      "ca-lisieux-pays-d-auge": {
+        "slug": "ca-lisieux-pays-d-auge",
+        "name": "CA Lisieux Pays d'Auge",
+        "hash": "cf2886f8",
+        "league": ""
+      },
+      "ca-pontarlier": {
+        "slug": "ca-pontarlier",
+        "name": "CA Pontarlier",
+        "hash": "0fce6124",
+        "league": ""
+      },
+      "chamois-niortais": {
+        "slug": "chamois-niortais",
+        "name": "Chamois Niortais",
+        "hash": "d54c1b01",
+        "league": ""
+      },
+      "cpb-brequigny-football": {
+        "slug": "cpb-brequigny-football",
+        "name": "CPB Bréquigny Football",
+        "hash": "8a2ef43c",
+        "league": ""
+      },
+      "cs-blenod": {
+        "slug": "cs-blenod",
+        "name": "CS Blénod",
+        "hash": "201bc32e",
+        "league": ""
+      },
+      "cs-sedan-ardennes": {
+        "slug": "cs-sedan-ardennes",
+        "name": "CS Sedan Ardennes",
+        "hash": "525f191b",
+        "league": ""
+      },
+      "ecommoy-fc": {
+        "slug": "ecommoy-fc",
+        "name": "Écommoy FC",
+        "hash": "2fc87634",
+        "league": ""
+      },
+      "es-cormelles": {
+        "slug": "es-cormelles",
+        "name": "ES Cormelles",
+        "hash": "4de72c14",
+        "league": ""
+      },
+      "es-vitrolles": {
+        "slug": "es-vitrolles",
+        "name": "ES Vitrolles",
+        "hash": "e592442f",
+        "league": ""
+      },
+      "esa-brive": {
+        "slug": "esa-brive",
+        "name": "ESA Brive",
+        "hash": "e723415d",
+        "league": ""
+      },
+      "esof-vendee-la-roche-sur-yon": {
+        "slug": "esof-vendee-la-roche-sur-yon",
+        "name": "ESOF Vendée La Roche-sur-Yon",
+        "hash": "aaa4b2e2",
+        "league": ""
+      },
+      "evreux-fc-27": {
+        "slug": "evreux-fc-27",
+        "name": "Évreux FC 27",
+        "hash": "23291830",
+        "league": ""
+      },
+      "fa-laval": {
+        "slug": "fa-laval",
+        "name": "FA Laval",
+        "hash": "652e2a87",
+        "league": ""
+      },
+      "fc-alberes-argeles": {
+        "slug": "fc-alberes-argeles",
+        "name": "FC Albères Argelès",
+        "hash": "b073ba2d",
+        "league": ""
+      },
+      "fc-antibes": {
+        "slug": "fc-antibes",
+        "name": "FC Antibes",
+        "hash": "3b5def1b",
+        "league": ""
+      },
+      "fc-argentan": {
+        "slug": "fc-argentan",
+        "name": "FC Argentan",
+        "hash": "4a3e4a5a",
+        "league": ""
+      },
+      "fc-balagne": {
+        "slug": "fc-balagne",
+        "name": "FC Balagne",
+        "hash": "ceca27b1",
+        "league": ""
+      },
+      "fc-bischwiller": {
+        "slug": "fc-bischwiller",
+        "name": "FC Bischwiller",
+        "hash": "17cac606",
+        "league": ""
+      },
+      "fc-bressuire": {
+        "slug": "fc-bressuire",
+        "name": "FC Bressuire",
+        "hash": "39985219",
+        "league": ""
+      },
+      "fc-challans": {
+        "slug": "fc-challans",
+        "name": "FC Challans",
+        "hash": "4b66ea48",
+        "league": ""
+      },
+      "fc-gueugnon": {
+        "slug": "fc-gueugnon",
+        "name": "FC Gueugnon",
+        "hash": "b0d50625",
+        "league": ""
+      },
+      "fc-mantois": {
+        "slug": "fc-mantois",
+        "name": "FC Mantois",
+        "hash": "8383c530",
+        "league": ""
+      },
+      "fc-marmande-47": {
+        "slug": "fc-marmande-47",
+        "name": "FC Marmande 47",
+        "hash": "1f8331c0",
+        "league": ""
+      },
+      "fc-mulhouse": {
+        "slug": "fc-mulhouse",
+        "name": "FC Mulhouse",
+        "hash": "5ecf0ee7",
+        "league": ""
+      },
+      "fc-nevers": {
+        "slug": "fc-nevers",
+        "name": "FC Nevers",
+        "hash": "34c9e50b",
+        "league": ""
+      },
+      "fc-saint-medard-en-jalles": {
+        "slug": "fc-saint-medard-en-jalles",
+        "name": "FC Saint-Médard-en-Jalles",
+        "hash": "198cc93f",
+        "league": ""
+      },
+      "fc-vaulx-en-velin": {
+        "slug": "fc-vaulx-en-velin",
+        "name": "FC Vaulx-en-Velin",
+        "hash": "b5101e84",
+        "league": ""
+      },
+      "fce-schirrhein-schirrhoffen": {
+        "slug": "fce-schirrhein-schirrhoffen",
+        "name": "FCE Schirrhein-Schirrhoffen",
+        "hash": "d9608aab",
+        "league": ""
+      },
+      "fcm-aubervilliers": {
+        "slug": "fcm-aubervilliers",
+        "name": "FCM Aubervilliers",
+        "hash": "22544e21",
+        "league": ""
+      },
+      "gazelec-ajaccio": {
+        "slug": "gazelec-ajaccio",
+        "name": "Gazélec Ajaccio",
+        "hash": "82a0bdd2",
+        "league": ""
+      },
+      "iris-club-de-croix": {
+        "slug": "iris-club-de-croix",
+        "name": "Iris Club de Croix",
+        "hash": "f859366b",
+        "league": ""
+      },
+      "ja-isle": {
+        "slug": "ja-isle",
+        "name": "JA Isle",
+        "hash": "498d4ef5",
+        "league": ""
+      },
+      "joue-les-tours-fc-touraine": {
+        "slug": "joue-les-tours-fc-touraine",
+        "name": "Joué-lès-Tours FC Touraine",
+        "hash": "7a84aab8",
+        "league": ""
+      },
+      "jura-sud-foot": {
+        "slug": "jura-sud-foot",
+        "name": "Jura Sud Foot",
+        "hash": "d1ce6c2f",
+        "league": ""
+      },
+      "lamballe-fc": {
+        "slug": "lamballe-fc",
+        "name": "Lamballe FC",
+        "hash": "ca6b8494",
+        "league": ""
+      },
+      "lannion-fc": {
+        "slug": "lannion-fc",
+        "name": "Lannion FC",
+        "hash": "cd3ab0c1",
+        "league": ""
+      },
+      "le-touquet-athletic-club": {
+        "slug": "le-touquet-athletic-club",
+        "name": "Le Touquet Athletic Club",
+        "hash": "98e5689f",
+        "league": ""
+      },
+      "libourne-fa": {
+        "slug": "libourne-fa",
+        "name": "Libourne FA",
+        "hash": "b8717973",
+        "league": ""
+      },
+      "louhans-cuiseaux-fc": {
+        "slug": "louhans-cuiseaux-fc",
+        "name": "Louhans-Cuiseaux FC",
+        "hash": "20d03f53",
+        "league": ""
+      },
+      "marignane-gignac-cote-bleue-fc": {
+        "slug": "marignane-gignac-cote-bleue-fc",
+        "name": "Marignane Gignac Côte Bleue FC",
+        "hash": "f83581d1",
+        "league": ""
+      },
+      "montlucon-football": {
+        "slug": "montlucon-football",
+        "name": "Montluçon Football",
+        "hash": "db22847e",
+        "league": ""
+      },
+      "olympique-ales-cevennes": {
+        "slug": "olympique-ales-cevennes",
+        "name": "Olympique Alès Cévennes",
+        "hash": "1f0abb6b",
+        "league": ""
+      },
+      "olympique-charleville-prix-ardenne-metropole": {
+        "slug": "olympique-charleville-prix-ardenne-metropole",
+        "name": "Olympique Charleville Prix Ardenne Métropole",
+        "hash": "5abc97a0",
+        "league": ""
+      },
+      "olympique-saint-quentin": {
+        "slug": "olympique-saint-quentin",
+        "name": "Olympique Saint-Quentin",
+        "hash": "da258d06",
+        "league": ""
+      },
+      "rapid-omnisports-menton": {
+        "slug": "rapid-omnisports-menton",
+        "name": "Rapid Omnisports Menton",
+        "hash": "e31b66cf",
+        "league": ""
+      },
+      "rc-calais": {
+        "slug": "rc-calais",
+        "name": "RC Calais",
+        "hash": "18893b45",
+        "league": ""
+      },
+      "rc-flechois": {
+        "slug": "rc-flechois",
+        "name": "RC Fléchois",
+        "hash": "09d7f92e",
+        "league": ""
+      },
+      "rc-pays-de-grasse": {
+        "slug": "rc-pays-de-grasse",
+        "name": "RC Pays de Grasse",
+        "hash": "37562159",
+        "league": ""
+      },
+      "rc-vichy": {
+        "slug": "rc-vichy",
+        "name": "RC Vichy",
+        "hash": "e00f6ace",
+        "league": ""
+      },
+      "rcs-la-chapelle": {
+        "slug": "rcs-la-chapelle",
+        "name": "RCS La Chapelle",
+        "hash": "bdbc5123",
+        "league": ""
+      },
+      "reims-sainte-anne": {
+        "slug": "reims-sainte-anne",
+        "name": "Reims Sainte-Anne",
+        "hash": "bde1cd50",
+        "league": ""
+      },
+      "riviera-fc": {
+        "slug": "riviera-fc",
+        "name": "Riviera FC",
+        "hash": "cf580445",
+        "league": ""
+      },
+      "saint-nazaire-atlantique-football": {
+        "slug": "saint-nazaire-atlantique-football",
+        "name": "Saint-Nazaire Atlantique Football",
+        "hash": "cfe90c14",
+        "league": ""
+      },
+      "saint-pierre-milizac-pays-iroise": {
+        "slug": "saint-pierre-milizac-pays-iroise",
+        "name": "Saint-Pierre Milizac Pays Iroise",
+        "hash": "773a5273",
+        "league": ""
+      },
+      "sainte-genevieve-fc": {
+        "slug": "sainte-genevieve-fc",
+        "name": "Sainte-Geneviève FC",
+        "hash": "fc65f2aa",
+        "league": ""
+      },
+      "sarreguemines-fc": {
+        "slug": "sarreguemines-fc",
+        "name": "Sarreguemines FC",
+        "hash": "e01ecbec",
+        "league": ""
+      },
+      "sc-douai": {
+        "slug": "sc-douai",
+        "name": "SC Douai",
+        "hash": "02ed5089",
+        "league": ""
+      },
+      "sc-draguignan": {
+        "slug": "sc-draguignan",
+        "name": "SC Draguignan",
+        "hash": "3f616098",
+        "league": ""
+      },
+      "sc-schiltigheim": {
+        "slug": "sc-schiltigheim",
+        "name": "SC Schiltigheim",
+        "hash": "38bf3e20",
+        "league": ""
+      },
+      "sca-saint-jean-d-angely": {
+        "slug": "sca-saint-jean-d-angely",
+        "name": "SCA Saint-Jean d'Angély",
+        "hash": "70be8ab8",
+        "league": ""
+      },
+      "sco-roubaix-59": {
+        "slug": "sco-roubaix-59",
+        "name": "SCO Roubaix 59",
+        "hash": "2f82c9f9",
+        "league": ""
+      },
+      "so-chatellerault": {
+        "slug": "so-chatellerault",
+        "name": "SO Châtellerault",
+        "hash": "ee98a718",
+        "league": ""
+      },
+      "so-cholet": {
+        "slug": "so-cholet",
+        "name": "SO Cholet",
+        "hash": "c335a0f3",
+        "league": ""
+      },
+      "so-merlebach": {
+        "slug": "so-merlebach",
+        "name": "SO Merlebach",
+        "hash": "af88e8ec",
+        "league": ""
+      },
+      "spn-vernon-football": {
+        "slug": "spn-vernon-football",
+        "name": "SPN Vernon Football",
+        "hash": "f7313f21",
+        "league": ""
+      },
+      "sa-thiers": {
+        "slug": "sa-thiers",
+        "name": "SA Thiers",
+        "hash": "28cb00c3",
+        "league": ""
+      },
+      "sr-delle": {
+        "slug": "sr-delle",
+        "name": "SR Delle",
+        "hash": "83562cfa",
+        "league": ""
+      },
+      "stade-leonard-kreisker": {
+        "slug": "stade-leonard-kreisker",
+        "name": "Stade Léonard Kreisker",
+        "hash": "5f49b1d3",
+        "league": ""
+      },
+      "su-agen-football": {
+        "slug": "su-agen-football",
+        "name": "SU Agen Football",
+        "hash": "dc919a43",
+        "league": ""
+      },
+      "su-dives-cabourg": {
+        "slug": "su-dives-cabourg",
+        "name": "SU Dives Cabourg",
+        "hash": "58d9f176",
+        "league": ""
+      },
+      "ta-rennes": {
+        "slug": "ta-rennes",
+        "name": "TA Rennes",
+        "hash": "7d8564aa",
+        "league": ""
+      },
+      "thonon-evian-grand-geneve-fc": {
+        "slug": "thonon-evian-grand-geneve-fc",
+        "name": "Thonon Évian Grand Genève FC",
+        "hash": "678f67a6",
+        "league": ""
+      },
+      "thouars-foot-79": {
+        "slug": "thouars-foot-79",
+        "name": "Thouars Foot 79",
+        "hash": "6153c89a",
+        "league": ""
+      },
+      "trelissac-fc": {
+        "slug": "trelissac-fc",
+        "name": "Trélissac FC",
+        "hash": "68b7d314",
+        "league": ""
+      },
+      "ua-cognac": {
+        "slug": "ua-cognac",
+        "name": "UA Cognac",
+        "hash": "14e01682",
+        "league": ""
+      },
+      "ues-montmorillon": {
+        "slug": "ues-montmorillon",
+        "name": "UES Montmorillon",
+        "hash": "69054f4c",
+        "league": ""
+      },
+      "uf-touraine": {
+        "slug": "uf-touraine",
+        "name": "UF Touraine",
+        "hash": "e51d2c6a",
+        "league": ""
+      },
+      "union-juranconnaise": {
+        "slug": "union-juranconnaise",
+        "name": "Union Jurançonnaise",
+        "hash": "37e888ab",
+        "league": ""
+      },
+      "us-bassin-longwy": {
+        "slug": "us-bassin-longwy",
+        "name": "US Bassin Longwy",
+        "hash": "39b20e55",
+        "league": ""
+      },
+      "us-blanzy": {
+        "slug": "us-blanzy",
+        "name": "US Blanzy",
+        "hash": "e47571fc",
+        "league": ""
+      },
+      "us-chauvigny": {
+        "slug": "us-chauvigny",
+        "name": "US Chauvigny",
+        "hash": "827d3f42",
+        "league": ""
+      },
+      "us-colomiers-football": {
+        "slug": "us-colomiers-football",
+        "name": "US Colomiers Football",
+        "hash": "9bac74e4",
+        "league": ""
+      },
+      "us-ivry-football": {
+        "slug": "us-ivry-football",
+        "name": "US Ivry Football",
+        "hash": "56bc8e7a",
+        "league": ""
+      },
+      "us-laon": {
+        "slug": "us-laon",
+        "name": "US Laon",
+        "hash": "1defd9ce",
+        "league": ""
+      },
+      "us-lesquin": {
+        "slug": "us-lesquin",
+        "name": "US Lesquin",
+        "hash": "b3771386",
+        "league": ""
+      },
+      "us-pays-de-cassel": {
+        "slug": "us-pays-de-cassel",
+        "name": "US Pays de Cassel",
+        "hash": "d48ed458",
+        "league": ""
+      },
+      "us-philibertine-football": {
+        "slug": "us-philibertine-football",
+        "name": "US Philibertine Football",
+        "hash": "c6243e81",
+        "league": ""
+      },
+      "us-pont-de-roide-vermondans": {
+        "slug": "us-pont-de-roide-vermondans",
+        "name": "US Pont-de-Roide Vermondans",
+        "hash": "d65b4544",
+        "league": ""
+      },
+      "us-saint-pierre-des-corps": {
+        "slug": "us-saint-pierre-des-corps",
+        "name": "US Saint-Pierre-des-Corps",
+        "hash": "78b7510c",
+        "league": ""
+      },
+      "us-sarre-union": {
+        "slug": "us-sarre-union",
+        "name": "US Sarre-Union",
+        "hash": "fa038014",
+        "league": ""
+      },
+      "usf-fecamp": {
+        "slug": "usf-fecamp",
+        "name": "USF Fécamp",
+        "hash": "f9f4ec5a",
+        "league": ""
+      },
+      "us-lege-cap-ferret": {
+        "slug": "us-lege-cap-ferret",
+        "name": "US Lège-Cap-Ferret",
+        "hash": "8e633f83",
+        "league": ""
+      },
+      "usm-senlis": {
+        "slug": "usm-senlis",
+        "name": "USM Senlis",
+        "hash": "b20a39a6",
+        "league": ""
+      },
+      "vendee-fontenay-foot": {
+        "slug": "vendee-fontenay-foot",
+        "name": "Vendée Fontenay Foot",
+        "hash": "e8e16c2d",
+        "league": ""
+      },
+      "vierzon-fc": {
+        "slug": "vierzon-fc",
+        "name": "Vierzon FC",
+        "hash": "ee32e133",
+        "league": ""
+      },
+      "wasquehal-fc": {
+        "slug": "wasquehal-fc",
+        "name": "Wasquehal FC",
+        "hash": "8fd0b921",
+        "league": ""
+      }
+    }
+  }
+}

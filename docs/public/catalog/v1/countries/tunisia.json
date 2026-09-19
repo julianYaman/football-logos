@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "tunisia",
+    "iso2": "TN",
+    "name": "Tunisia",
+    "defaultLeague": "ligue-1",
+    "leagues": {
+      "ligue-1": {
+        "slug": "ligue-1",
+        "name": "Ligue 1",
+        "hash": "3edd788e",
+        "kind": "league",
+        "code": "TN"
+      },
+      "tunisia-national-team": {
+        "slug": "tunisia-national-team",
+        "name": "Tunisia National Team",
+        "hash": "add7228e",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "stade-tunisien": {
+        "slug": "stade-tunisien",
+        "name": "Stade Tunisien",
+        "hash": "29b0c879",
+        "league": "ligue-1"
+      },
+      "club-africain": {
+        "slug": "club-africain",
+        "name": "Club Africain",
+        "hash": "0448c341",
+        "league": "ligue-1"
+      },
+      "cs-sfaxien": {
+        "slug": "cs-sfaxien",
+        "name": "CS Sfaxien",
+        "hash": "bb514a74",
+        "league": "ligue-1"
+      },
+      "esperance": {
+        "slug": "esperance",
+        "name": "Espérance Sportive de Tunis",
+        "hash": "dcd9ea69",
+        "league": "ligue-1"
+      },
+      "js-el-omrane": {
+        "slug": "js-el-omrane",
+        "name": "Jeunesse Sportive d&#39;El Omrane",
+        "hash": "ffaf07d4",
+        "league": "ligue-1"
+      },
+      "etoile-du-sahel": {
+        "slug": "etoile-du-sahel",
+        "name": "Étoile Sportive du Sahel",
+        "hash": "efb71b7b",
+        "league": "ligue-1"
+      },
+      "olympique-de-beja": {
+        "slug": "olympique-de-beja",
+        "name": "Olympique Béja",
+        "hash": "25f2ac3b",
+        "league": "ligue-1"
+      },
+      "us-monastir": {
+        "slug": "us-monastir",
+        "name": "Union Sportive Monastirienne",
+        "hash": "6c3d2c2c",
+        "league": "ligue-1"
+      },
+      "ca-bizertin": {
+        "slug": "ca-bizertin",
+        "name": "Club Athlétique Bizertin",
+        "hash": "59238e90",
+        "league": "ligue-1"
+      },
+      "ben-guerdane": {
+        "slug": "ben-guerdane",
+        "name": "US Ben Guerdane",
+        "hash": "5c0adc4b",
+        "league": "ligue-1"
+      },
+      "etoile-metlaoui": {
+        "slug": "etoile-metlaoui",
+        "name": "Étoile Sportive de Métlaoui",
+        "hash": "7631eb9d",
+        "league": "ligue-1"
+      },
+      "avenir-de-la-marsa": {
+        "slug": "avenir-de-la-marsa",
+        "name": "Avenir Sportif de La Marsa",
+        "hash": "49392e0e",
+        "league": "ligue-1"
+      },
+      "zarzis": {
+        "slug": "zarzis",
+        "name": "ES Zarzis",
+        "hash": "503eac15",
+        "league": "ligue-1"
+      },
+      "ps-sakiet-eddaier": {
+        "slug": "ps-sakiet-eddaier",
+        "name": "PS Sakiet Eddaier",
+        "hash": "87a48ea4",
+        "league": "ligue-1"
+      },
+      "es-hammam-sousse": {
+        "slug": "es-hammam-sousse",
+        "name": "ES Hammam Sousse",
+        "hash": "cfb59977",
+        "league": "ligue-1"
+      },
+      "cs-hammam-lif": {
+        "slug": "cs-hammam-lif",
+        "name": "CS Hammam-Lif",
+        "hash": "c3b42950",
+        "league": "ligue-1"
+      },
+      "as-gabes": {
+        "slug": "as-gabes",
+        "name": "Avenir Sportif de Gabès",
+        "hash": "08ad153a",
+        "league": ""
+      },
+      "js-kairouanaise": {
+        "slug": "js-kairouanaise",
+        "name": "Jeunesse Sportive Kairouanaise",
+        "hash": "e8c561ef",
+        "league": ""
+      },
+      "as-soliman": {
+        "slug": "as-soliman",
+        "name": "AS Soliman",
+        "hash": "b6b937db",
+        "league": ""
+      }
+    }
+  }
+}

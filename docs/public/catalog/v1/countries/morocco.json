@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "morocco",
+    "iso2": "MA",
+    "name": "Morocco",
+    "defaultLeague": "botola-pro",
+    "leagues": {
+      "botola-pro": {
+        "slug": "botola-pro",
+        "name": "Botola Pro",
+        "hash": "b4277f0c",
+        "kind": "league",
+        "code": "MA"
+      },
+      "morocco-national-team": {
+        "slug": "morocco-national-team",
+        "name": "Morocco National Team",
+        "hash": "b1090da0",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "wydad-ac": {
+        "slug": "wydad-ac",
+        "name": "Wydad AC",
+        "hash": "3c1b30d8",
+        "league": "botola-pro"
+      },
+      "rs-berkane": {
+        "slug": "rs-berkane",
+        "name": "RS Berkane",
+        "hash": "34a47ba3",
+        "league": "botola-pro"
+      },
+      "as-far": {
+        "slug": "as-far",
+        "name": "AS FAR",
+        "hash": "e4696dc0",
+        "league": "botola-pro"
+      },
+      "maghreb-of-fez": {
+        "slug": "maghreb-of-fez",
+        "name": "Maghreb of Fez",
+        "hash": "af5687d3",
+        "league": "botola-pro"
+      },
+      "raja-ca": {
+        "slug": "raja-ca",
+        "name": "Raja Casablanca",
+        "hash": "14b63b39",
+        "league": "botola-pro"
+      },
+      "cod-meknes": {
+        "slug": "cod-meknes",
+        "name": "COD Meknès",
+        "hash": "ee585029",
+        "league": "botola-pro"
+      },
+      "uts-rabat": {
+        "slug": "uts-rabat",
+        "name": "Union Touarga Sport Rabat",
+        "hash": "848564cc",
+        "league": "botola-pro"
+      },
+      "fus-rabat": {
+        "slug": "fus-rabat",
+        "name": "Fath Union Sports Rabat",
+        "hash": "6d8f3539",
+        "league": "botola-pro"
+      },
+      "hassania-agadir": {
+        "slug": "hassania-agadir",
+        "name": "Hassania Agadir",
+        "hash": "13961d97",
+        "league": "botola-pro"
+      },
+      "ir-tanger": {
+        "slug": "ir-tanger",
+        "name": "IR Tanger",
+        "hash": "497bede1",
+        "league": "botola-pro"
+      },
+      "dh-jadida": {
+        "slug": "dh-jadida",
+        "name": "Difaâ Hassani El Jadidi",
+        "hash": "7f2f70c6",
+        "league": "botola-pro"
+      },
+      "rca-zemamra": {
+        "slug": "rca-zemamra",
+        "name": "RCA Zemamra",
+        "hash": "95a2499c",
+        "league": "botola-pro"
+      },
+      "kac-marrakech": {
+        "slug": "kac-marrakech",
+        "name": "Kawkab of Marrakech",
+        "hash": "dbe0b246",
+        "league": "botola-pro"
+      },
+      "moghreb-tetouan": {
+        "slug": "moghreb-tetouan",
+        "name": "Moghreb Tetouan",
+        "hash": "c99c30c7",
+        "league": "botola-pro"
+      },
+      "us-amal-tiznit": {
+        "slug": "us-amal-tiznit",
+        "name": "US Amal Tiznit",
+        "hash": "8510a8b5",
+        "league": "botola-pro"
+      },
+      "widad-temara": {
+        "slug": "widad-temara",
+        "name": "Widad Temara",
+        "hash": "4c5422cd",
+        "league": "botola-pro"
+      },
+      "olympique-dcheira": {
+        "slug": "olympique-dcheira",
+        "name": "Olympique Dcheira",
+        "hash": "f178c2f1",
+        "league": ""
+      },
+      "olympic-club-safi": {
+        "slug": "olympic-club-safi",
+        "name": "Olympic Club Safi",
+        "hash": "218332e8",
+        "league": ""
+      },
+      "union-yacoub-el-mansour": {
+        "slug": "union-yacoub-el-mansour",
+        "name": "Union Yacoub El Mansour",
+        "hash": "9910df67",
+        "league": ""
+      }
+    }
+  }
+}

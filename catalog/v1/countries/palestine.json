@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "palestine",
+    "iso2": "PS",
+    "name": "Palestine",
+    "defaultLeague": "palestine-national-team",
+    "leagues": {
+      "palestine-national-team": {
+        "slug": "palestine-national-team",
+        "name": "Palestine National Team",
+        "hash": "487a447a",
+        "kind": "league",
+        "code": "PS"
+      }
+    },
+    "clubs": {}
+  }
+}

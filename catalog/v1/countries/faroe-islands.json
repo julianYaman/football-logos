@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "faroe-islands",
+    "iso2": "FO",
+    "name": "Faroe Islands",
+    "defaultLeague": "faroe-islands-national-team",
+    "leagues": {
+      "faroe-islands-national-team": {
+        "slug": "faroe-islands-national-team",
+        "name": "Faroe Islands National Team",
+        "hash": "7f53b998",
+        "kind": "league",
+        "code": "FO"
+      }
+    },
+    "clubs": {
+      "07-vestur": {
+        "slug": "07-vestur",
+        "name": "07 Vestur",
+        "hash": "eb9f65d3",
+        "league": ""
+      },
+      "ab": {
+        "slug": "ab",
+        "name": "AB",
+        "hash": "bfc44398",
+        "league": ""
+      },
+      "b36-torshavn": {
+        "slug": "b36-torshavn",
+        "name": "B36 Tórshavn",
+        "hash": "b5ac8393",
+        "league": ""
+      },
+      "b68": {
+        "slug": "b68",
+        "name": "B68",
+        "hash": "7cf4dfd8",
+        "league": ""
+      },
+      "b71": {
+        "slug": "b71",
+        "name": "B71",
+        "hash": "3d795c62",
+        "league": ""
+      },
+      "eb-streymur": {
+        "slug": "eb-streymur",
+        "name": "EB/Streymur",
+        "hash": "54c014cf",
+        "league": ""
+      },
+      "hb": {
+        "slug": "hb",
+        "name": "HB",
+        "hash": "5eed14cb",
+        "league": ""
+      },
+      "if": {
+        "slug": "if",
+        "name": "ÍF",
+        "hash": "47e4e885",
+        "league": ""
+      },
+      "klaksvik": {
+        "slug": "klaksvik",
+        "name": "Klaksvík",
+        "hash": "729ba25e",
+        "league": ""
+      },
+      "nsi": {
+        "slug": "nsi",
+        "name": "NSÍ",
+        "hash": "b192ee02",
+        "league": ""
+      },
+      "skala": {
+        "slug": "skala",
+        "name": "Skála",
+        "hash": "9895e53f",
+        "league": ""
+      },
+      "suduroy": {
+        "slug": "suduroy",
+        "name": "Suduroy",
+        "hash": "a946aa3b",
+        "league": ""
+      },
+      "tb": {
+        "slug": "tb",
+        "name": "TB",
+        "hash": "8bb7fcdb",
+        "league": ""
+      },
+      "vikingur": {
+        "slug": "vikingur",
+        "name": "Víkingur",
+        "hash": "6f86a299",
+        "league": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "curacao",
+    "iso2": "CW",
+    "name": "Curacao",
+    "defaultLeague": "curacao-national-team",
+    "leagues": {
+      "curacao-national-team": {
+        "slug": "curacao-national-team",
+        "name": "Curacao National Team",
+        "hash": "9ef90a2e",
+        "kind": "league",
+        "code": "CW"
+      }
+    },
+    "clubs": {
+      "csd-barber": {
+        "slug": "csd-barber",
+        "name": "CSD Barber",
+        "hash": "2ed44c05",
+        "league": ""
+      }
+    }
+  }
+}

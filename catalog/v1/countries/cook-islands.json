@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "cook-islands",
+    "iso2": "CK",
+    "name": "Cook Islands",
+    "defaultLeague": "cook-islands-national-team",
+    "leagues": {
+      "cook-islands-national-team": {
+        "slug": "cook-islands-national-team",
+        "name": "Cook Islands National Team",
+        "hash": "51ae0de8",
+        "kind": "league",
+        "code": "CK"
+      }
+    },
+    "clubs": {}
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "azerbaijan",
+    "iso2": "AZ",
+    "name": "Azerbaijan",
+    "defaultLeague": "azerbaijan-premier-league",
+    "leagues": {
+      "azerbaijan-premier-league": {
+        "slug": "azerbaijan-premier-league",
+        "name": "Azerbaijan Premier League",
+        "hash": "1ae12162",
+        "kind": "league",
+        "code": "AZ"
+      },
+      "azerbaijan-national-team": {
+        "slug": "azerbaijan-national-team",
+        "name": "Azerbaijan National Team",
+        "hash": "35869350",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "araz-naxcivan-pfk": {
+        "slug": "araz-naxcivan-pfk",
+        "name": "Araz-Naxçıvan PFK",
+        "hash": "7e744dd3",
+        "league": "azerbaijan-premier-league"
+      },
+      "gabala": {
+        "slug": "gabala",
+        "name": "Gabala",
+        "hash": "09d03b75",
+        "league": "azerbaijan-premier-league"
+      },
+      "imisli": {
+        "slug": "imisli",
+        "name": "İmişli",
+        "hash": "9543528b",
+        "league": "azerbaijan-premier-league"
+      },
+      "kapaz": {
+        "slug": "kapaz",
+        "name": "Käpäz",
+        "hash": "3e5025d2",
+        "league": "azerbaijan-premier-league"
+      },
+      "neftci": {
+        "slug": "neftci",
+        "name": "Neftçi",
+        "hash": "1f7b202f",
+        "league": "azerbaijan-premier-league"
+      },
+      "qarabag": {
+        "slug": "qarabag",
+        "name": "Qarabağ",
+        "hash": "30655cc9",
+        "league": "azerbaijan-premier-league"
+      },
+      "sabah": {
+        "slug": "sabah",
+        "name": "Sabah",
+        "hash": "e7b1c83a",
+        "league": "azerbaijan-premier-league"
+      },
+      "samaxi": {
+        "slug": "samaxi",
+        "name": "Şamaxı",
+        "hash": "0d014e1e",
+        "league": "azerbaijan-premier-league"
+      },
+      "sumqayit": {
+        "slug": "sumqayit",
+        "name": "Sumqayıt",
+        "hash": "92f631cb",
+        "league": "azerbaijan-premier-league"
+      },
+      "turan": {
+        "slug": "turan",
+        "name": "Turan Tovuz",
+        "hash": "b8c851a4",
+        "league": "azerbaijan-premier-league"
+      },
+      "zire": {
+        "slug": "zire",
+        "name": "Zire",
+        "hash": "1de1c2c5",
+        "league": "azerbaijan-premier-league"
+      },
+      "shafa-baku": {
+        "slug": "shafa-baku",
+        "name": "Shafa Baku",
+        "hash": "1f3e7447",
+        "league": "azerbaijan-premier-league"
+      },
+      "karvan": {
+        "slug": "karvan",
+        "name": "Karvan",
+        "hash": "b2bc6ecb",
+        "league": ""
+      },
+      "qaradag-lokbatan": {
+        "slug": "qaradag-lokbatan",
+        "name": "Qaradag Lokbatan",
+        "hash": "77b1c06e",
+        "league": ""
+      },
+      "sabail": {
+        "slug": "sabail",
+        "name": "Sabail",
+        "hash": "b3dccabd",
+        "league": ""
+      }
+    }
+  }
+}

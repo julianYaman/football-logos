@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "greenland",
+    "iso2": "GL",
+    "name": "Greenland",
+    "defaultLeague": "greenland-national-team",
+    "leagues": {
+      "greenland-national-team": {
+        "slug": "greenland-national-team",
+        "name": "Greenland National Team",
+        "hash": "1686f2aa",
+        "kind": "league",
+        "code": "GL"
+      }
+    },
+    "clubs": {}
+  }
+}

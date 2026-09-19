@@ -1,0 +1,128 @@
+{
+  "name": "football-logos",
+  "version": "0.1.0",
+  "description": "Hotlink football club and league logos from football-logos.cc in React, Vue, Svelte, Astro, or any framework.",
+  "type": "module",
+  "license": "MIT",
+  "author": {
+    "name": "Julian Yaman",
+    "email": "julian@ballguessr.eu",
+    "url": "https://yaman.pro"
+  },
+  "homepage": "https://football-logos.yamanlabs.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianYaman/football-logos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/julianYaman/football-logos/issues"
+  },
+  "keywords": [
+    "football",
+    "soccer",
+    "logos",
+    "crests",
+    "club-crest",
+    "football-logos.cc",
+    "react",
+    "vue",
+    "svelte",
+    "astro"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "CHANGELOG.md",
+    "LICENSE",
+    "README.md",
+    "catalog/v1",
+    "dist",
+    "src/astro",
+    "src/svelte",
+    "src/vue"
+  ],
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    },
+    "./react": {
+      "types": "./dist/react.d.ts",
+      "import": "./dist/react.js",
+      "require": "./dist/react.cjs"
+    },
+    "./vue": {
+      "types": "./src/vue/FootballLogo.vue",
+      "import": "./src/vue/FootballLogo.vue",
+      "default": "./src/vue/FootballLogo.vue"
+    },
+    "./svelte": {
+      "types": "./src/svelte/FootballLogo.svelte",
+      "svelte": "./src/svelte/FootballLogo.svelte",
+      "default": "./src/svelte/FootballLogo.svelte"
+    },
+    "./astro": {
+      "types": "./src/astro/FootballLogo.astro",
+      "import": "./src/astro/FootballLogo.astro",
+      "default": "./src/astro/FootballLogo.astro"
+    },
+    "./package.json": "./package.json"
+  },
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup && node scripts/copy-fallback.mjs",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "index-catalog": "node scripts/index-catalog.mjs",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "peerDependencies": {
+    "astro": ">=4",
+    "react": ">=18",
+    "svelte": ">=4",
+    "vue": ">=3"
+  },
+  "peerDependenciesMeta": {
+    "react": {
+      "optional": true
+    },
+    "vue": {
+      "optional": true
+    },
+    "svelte": {
+      "optional": true
+    },
+    "astro": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "@astrojs/compiler": "^4.0.0",
+    "@sveltejs/vite-plugin-svelte": "^3.1.2",
+    "@types/react": "^19.1.13",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-vue": "^6.0.9",
+    "@vue/test-utils": "^2.5.1",
+    "astro": "^7.3.3",
+    "jsdom": "^30.1.0",
+    "playwright": "^1.63.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.3.0",
+    "svelte": "^4.2.20",
+    "tsup": "^8.5.0",
+    "typescript": "^5.9.2",
+    "vitepress": "^1.6.4",
+    "vitest": "^3.2.4",
+    "vue": "^3.5.43"
+  }
+}

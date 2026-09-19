@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "tanzania",
+    "iso2": "TZ",
+    "name": "Tanzania",
+    "defaultLeague": "nbc-premier-league",
+    "leagues": {
+      "nbc-premier-league": {
+        "slug": "nbc-premier-league",
+        "name": "NBC Premier League",
+        "hash": "d0998d49",
+        "kind": "league",
+        "code": "TZ"
+      },
+      "tanzania-national-team": {
+        "slug": "tanzania-national-team",
+        "name": "Tanzania National Team",
+        "hash": "7480b0e9",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "young-africans": {
+        "slug": "young-africans",
+        "name": "Young Africans",
+        "hash": "dd0b18b1",
+        "league": "nbc-premier-league"
+      },
+      "simba-sc": {
+        "slug": "simba-sc",
+        "name": "Simba SC",
+        "hash": "c27505f6",
+        "league": "nbc-premier-league"
+      },
+      "azam-fc": {
+        "slug": "azam-fc",
+        "name": "Azam FC",
+        "hash": "c4cae06a",
+        "league": "nbc-premier-league"
+      },
+      "singida-black-stars": {
+        "slug": "singida-black-stars",
+        "name": "Singida Black Stars",
+        "hash": "fc97b26f",
+        "league": "nbc-premier-league"
+      },
+      "tra-united": {
+        "slug": "tra-united",
+        "name": "TRA United",
+        "hash": "3044fc56",
+        "league": "nbc-premier-league"
+      },
+      "jkt-tanzania": {
+        "slug": "jkt-tanzania",
+        "name": "JKT Tanzania",
+        "hash": "ead29f59",
+        "league": "nbc-premier-league"
+      },
+      "pamba-jiji": {
+        "slug": "pamba-jiji",
+        "name": "Pamba Jiji",
+        "hash": "139f2bf0",
+        "league": "nbc-premier-league"
+      },
+      "coastal-union": {
+        "slug": "coastal-union",
+        "name": "Coastal Union",
+        "hash": "5ddaa146",
+        "league": "nbc-premier-league"
+      },
+      "dodoma-jiji": {
+        "slug": "dodoma-jiji",
+        "name": "Dodoma Jiji",
+        "hash": "2b4e5f5b",
+        "league": "nbc-premier-league"
+      },
+      "namungo-fc": {
+        "slug": "namungo-fc",
+        "name": "Namungo FC",
+        "hash": "f44ca16c",
+        "league": "nbc-premier-league"
+      },
+      "mashujaa-fc": {
+        "slug": "mashujaa-fc",
+        "name": "Mashujaa FC",
+        "hash": "cdc513a8",
+        "league": "nbc-premier-league"
+      },
+      "fountain-gate-fc": {
+        "slug": "fountain-gate-fc",
+        "name": "Fountain Gate FC",
+        "hash": "91971fbe",
+        "league": "nbc-premier-league"
+      },
+      "mbeya-city": {
+        "slug": "mbeya-city",
+        "name": "Mbeya City",
+        "hash": "e51435b7",
+        "league": "nbc-premier-league"
+      },
+      "geita-gold-fc": {
+        "slug": "geita-gold-fc",
+        "name": "Geita Gold FC",
+        "hash": "7dd5b817",
+        "league": "nbc-premier-league"
+      },
+      "kagera-sugar-fc": {
+        "slug": "kagera-sugar-fc",
+        "name": "Kagera Sugar FC",
+        "hash": "a1fc9628",
+        "league": "nbc-premier-league"
+      },
+      "polisi-tanzania-fc": {
+        "slug": "polisi-tanzania-fc",
+        "name": "Polisi Tanzania FC",
+        "hash": "1d4c0816",
+        "league": "nbc-premier-league"
+      },
+      "tanzania-prisons": {
+        "slug": "tanzania-prisons",
+        "name": "Tanzania Prisons",
+        "hash": "bacda9c4",
+        "league": ""
+      },
+      "mtibwa-sugar": {
+        "slug": "mtibwa-sugar",
+        "name": "Mtibwa Sugar",
+        "hash": "8ca7426d",
+        "league": ""
+      },
+      "kmc-fc": {
+        "slug": "kmc-fc",
+        "name": "KMC FC",
+        "hash": "756162af",
+        "league": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "vatican-city",
+    "iso2": "VA",
+    "name": "Vatican City",
+    "defaultLeague": "vatican-city-national-team",
+    "leagues": {
+      "vatican-city-national-team": {
+        "slug": "vatican-city-national-team",
+        "name": "Vatican City National Team",
+        "hash": "5c4e27cf",
+        "kind": "league",
+        "code": "VA"
+      }
+    },
+    "clubs": {}
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "hong-kong",
+    "iso2": "HK",
+    "name": "Hong Kong",
+    "defaultLeague": "hong-kong-premier-league",
+    "leagues": {
+      "hong-kong-premier-league": {
+        "slug": "hong-kong-premier-league",
+        "name": "Hong Kong Premier League",
+        "hash": "f6bd6964",
+        "kind": "league",
+        "code": "HK"
+      },
+      "hong-kong-national-team": {
+        "slug": "hong-kong-national-team",
+        "name": "Hong Kong National Team",
+        "hash": "3a4cbf45",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "kitchee": {
+        "slug": "kitchee",
+        "name": "Kitchee",
+        "hash": "10abaaa7",
+        "league": "hong-kong-premier-league"
+      },
+      "lee-man-fc": {
+        "slug": "lee-man-fc",
+        "name": "Lee Man FC",
+        "hash": "08daf2ff",
+        "league": "hong-kong-premier-league"
+      },
+      "north-district": {
+        "slug": "north-district",
+        "name": "North District",
+        "hash": "9755ec1f",
+        "league": "hong-kong-premier-league"
+      },
+      "tai-po": {
+        "slug": "tai-po",
+        "name": "Tai Po",
+        "hash": "8e42ef90",
+        "league": "hong-kong-premier-league"
+      },
+      "eastern-sports-club": {
+        "slug": "eastern-sports-club",
+        "name": "Eastern Sports Club",
+        "hash": "a24af490",
+        "league": "hong-kong-premier-league"
+      },
+      "kowloon-city": {
+        "slug": "kowloon-city",
+        "name": "Kowloon City",
+        "hash": "0e7766ae",
+        "league": "hong-kong-premier-league"
+      },
+      "eastern-district": {
+        "slug": "eastern-district",
+        "name": "Eastern District",
+        "hash": "e7fb67a8",
+        "league": "hong-kong-premier-league"
+      },
+      "southern-district": {
+        "slug": "southern-district",
+        "name": "Southern District",
+        "hash": "9a732d31",
+        "league": "hong-kong-premier-league"
+      },
+      "hong-kong-rangers": {
+        "slug": "hong-kong-rangers",
+        "name": "Hong Kong Rangers",
+        "hash": "1103f6f7",
+        "league": "hong-kong-premier-league"
+      },
+      "hong-kong-fc": {
+        "slug": "hong-kong-fc",
+        "name": "Hong Kong FC",
+        "hash": "513f9bf4",
+        "league": "hong-kong-premier-league"
+      }
+    }
+  }
+}

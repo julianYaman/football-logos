@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "uzbekistan",
+    "iso2": "UZ",
+    "name": "Uzbekistan",
+    "defaultLeague": "uzbekistan-super-league",
+    "leagues": {
+      "uzbekistan-super-league": {
+        "slug": "uzbekistan-super-league",
+        "name": "Uzbekistan Super League",
+        "hash": "2258142f",
+        "kind": "league",
+        "code": "UZ"
+      },
+      "uzbekistan-national-team": {
+        "slug": "uzbekistan-national-team",
+        "name": "Uzbekistan National Team",
+        "hash": "08cee166",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "neftchi-fergana": {
+        "slug": "neftchi-fergana",
+        "name": "Neftchi Fergana",
+        "hash": "c9c1f6c4",
+        "league": "uzbekistan-super-league"
+      },
+      "pakhtakor": {
+        "slug": "pakhtakor",
+        "name": "Pakhtakor",
+        "hash": "faed2f54",
+        "league": "uzbekistan-super-league"
+      },
+      "nasaf": {
+        "slug": "nasaf",
+        "name": "Nasaf",
+        "hash": "e5213b9e",
+        "league": "uzbekistan-super-league"
+      },
+      "dinamo-samarkand": {
+        "slug": "dinamo-samarkand",
+        "name": "Dinamo Samarqand",
+        "hash": "a951d215",
+        "league": "uzbekistan-super-league"
+      },
+      "bunyodkor": {
+        "slug": "bunyodkor",
+        "name": "Bunyodkor",
+        "hash": "74ad928d",
+        "league": "uzbekistan-super-league"
+      },
+      "agmk": {
+        "slug": "agmk",
+        "name": "AGMK",
+        "hash": "26cd74bd",
+        "league": "uzbekistan-super-league"
+      },
+      "navbahor-namangan": {
+        "slug": "navbahor-namangan",
+        "name": "Navbahor Namangan",
+        "hash": "2900b406",
+        "league": "uzbekistan-super-league"
+      },
+      "qizilqum": {
+        "slug": "qizilqum",
+        "name": "Qizilqum",
+        "hash": "d8000778",
+        "league": "uzbekistan-super-league"
+      },
+      "surkhon-termiz": {
+        "slug": "surkhon-termiz",
+        "name": "Surkhon Termiz",
+        "hash": "a3aca338",
+        "league": "uzbekistan-super-league"
+      },
+      "andijon": {
+        "slug": "andijon",
+        "name": "Andijon",
+        "hash": "80279633",
+        "league": "uzbekistan-super-league"
+      },
+      "kokand-1912": {
+        "slug": "kokand-1912",
+        "name": "Kokand 1912",
+        "hash": "22dbfc43",
+        "league": "uzbekistan-super-league"
+      },
+      "mashal": {
+        "slug": "mashal",
+        "name": "Mash&#39;al Mubarek",
+        "hash": "a59f3d83",
+        "league": "uzbekistan-super-league"
+      },
+      "buxoro": {
+        "slug": "buxoro",
+        "name": "FK Buxoro",
+        "hash": "41521a22",
+        "league": "uzbekistan-super-league"
+      },
+      "lokomotiv-tashkent": {
+        "slug": "lokomotiv-tashkent",
+        "name": "Lokomotiv Tashkent",
+        "hash": "d0bb27dc",
+        "league": "uzbekistan-super-league"
+      },
+      "xorazm-urgench": {
+        "slug": "xorazm-urgench",
+        "name": "FK Xorazm Urgench",
+        "hash": "7ead86ee",
+        "league": "uzbekistan-super-league"
+      },
+      "sogdiyona-jizzakh": {
+        "slug": "sogdiyona-jizzakh",
+        "name": "PFC Sogdiana Jizzakh",
+        "hash": "a43baf5e",
+        "league": "uzbekistan-super-league"
+      },
+      "shurtan-guzor": {
+        "slug": "shurtan-guzor",
+        "name": "Shurtan Guzor",
+        "hash": "4ea76926",
+        "league": ""
+      },
+      "turon": {
+        "slug": "turon",
+        "name": "Turon",
+        "hash": "8123e699",
+        "league": ""
+      },
+      "metallurg-bekabad": {
+        "slug": "metallurg-bekabad",
+        "name": "Metallurg Bekabad",
+        "hash": "af484018",
+        "league": ""
+      }
+    }
+  }
+}

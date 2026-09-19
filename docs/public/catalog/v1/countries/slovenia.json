@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "slovenia",
+    "iso2": "SI",
+    "name": "Slovenia",
+    "defaultLeague": "slovenian-prvaliga",
+    "leagues": {
+      "slovenian-prvaliga": {
+        "slug": "slovenian-prvaliga",
+        "name": "Slovenian PrvaLiga",
+        "hash": "a92de257",
+        "kind": "league",
+        "code": "SI"
+      },
+      "slovenia-national-team": {
+        "slug": "slovenia-national-team",
+        "name": "Slovenia National Team",
+        "hash": "7c55fea8",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "aluminij": {
+        "slug": "aluminij",
+        "name": "Aluminij",
+        "hash": "1d30d8fb",
+        "league": "slovenian-prvaliga"
+      },
+      "bravo": {
+        "slug": "bravo",
+        "name": "Bravo",
+        "hash": "25d88142",
+        "league": "slovenian-prvaliga"
+      },
+      "celje": {
+        "slug": "celje",
+        "name": "Celje",
+        "hash": "e55956bf",
+        "league": "slovenian-prvaliga"
+      },
+      "koper": {
+        "slug": "koper",
+        "name": "Koper",
+        "hash": "77177cde",
+        "league": "slovenian-prvaliga"
+      },
+      "maribor": {
+        "slug": "maribor",
+        "name": "Maribor",
+        "hash": "a8878711",
+        "league": "slovenian-prvaliga"
+      },
+      "mura": {
+        "slug": "mura",
+        "name": "Mura",
+        "hash": "7e7cc4c5",
+        "league": "slovenian-prvaliga"
+      },
+      "olimpija": {
+        "slug": "olimpija",
+        "name": "Olimpija",
+        "hash": "7158dbac",
+        "league": "slovenian-prvaliga"
+      },
+      "radomlje": {
+        "slug": "radomlje",
+        "name": "Radomlje",
+        "hash": "82b39e79",
+        "league": "slovenian-prvaliga"
+      },
+      "nk-brinje-grosuplje": {
+        "slug": "nk-brinje-grosuplje",
+        "name": "NK Brinje Grosuplje",
+        "hash": "f5ab1d38",
+        "league": "slovenian-prvaliga"
+      },
+      "nafta-1903": {
+        "slug": "nafta-1903",
+        "name": "Nafta 1903",
+        "hash": "a5f61946",
+        "league": "slovenian-prvaliga"
+      },
+      "domzale": {
+        "slug": "domzale",
+        "name": "Domžale",
+        "hash": "d82b9f7c",
+        "league": ""
+      },
+      "gorica": {
+        "slug": "gorica",
+        "name": "Gorica",
+        "hash": "46c38670",
+        "league": ""
+      },
+      "ib-ljubljana": {
+        "slug": "ib-ljubljana",
+        "name": "IB Ljubljana",
+        "hash": "5476860f",
+        "league": ""
+      },
+      "krsko": {
+        "slug": "krsko",
+        "name": "Krško",
+        "hash": "dd6fa21a",
+        "league": ""
+      },
+      "primorje": {
+        "slug": "primorje",
+        "name": "Primorje",
+        "hash": "045fc815",
+        "league": ""
+      },
+      "rudar-velenje": {
+        "slug": "rudar-velenje",
+        "name": "Rudar Velenje",
+        "hash": "d64faabd",
+        "league": ""
+      },
+      "tabor": {
+        "slug": "tabor",
+        "name": "Tabor",
+        "hash": "85d91c8d",
+        "league": ""
+      },
+      "nk-bela-krajina": {
+        "slug": "nk-bela-krajina",
+        "name": "NK Bela Krajina",
+        "hash": "cdea27dd",
+        "league": ""
+      }
+    }
+  }
+}

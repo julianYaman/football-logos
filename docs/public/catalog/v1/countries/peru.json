@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "peru",
+    "iso2": "PE",
+    "name": "Peru",
+    "defaultLeague": "peruvian-primera-division",
+    "leagues": {
+      "peruvian-primera-division": {
+        "slug": "peruvian-primera-division",
+        "name": "Peruvian Primera División",
+        "hash": "b1901309",
+        "kind": "league",
+        "code": "PE"
+      },
+      "peru-national-team": {
+        "slug": "peru-national-team",
+        "name": "Peru National Team",
+        "hash": "4da8d8d1",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "universitario": {
+        "slug": "universitario",
+        "name": "Universitario de Deportes",
+        "hash": "44477a49",
+        "league": "peruvian-primera-division"
+      },
+      "cusco": {
+        "slug": "cusco",
+        "name": "Cusco FC",
+        "hash": "1a6f0822",
+        "league": "peruvian-primera-division"
+      },
+      "sporting-cristal": {
+        "slug": "sporting-cristal",
+        "name": "Sporting Cristal",
+        "hash": "62530aec",
+        "league": "peruvian-primera-division"
+      },
+      "alianza-lima": {
+        "slug": "alianza-lima",
+        "name": "Alianza Lima",
+        "hash": "bf26e02b",
+        "league": "peruvian-primera-division"
+      },
+      "cienciano-del-cusco": {
+        "slug": "cienciano-del-cusco",
+        "name": "Cienciano del Cusco",
+        "hash": "335bfcda",
+        "league": "peruvian-primera-division"
+      },
+      "los-chankas": {
+        "slug": "los-chankas",
+        "name": "Deportivo Los Chankas",
+        "hash": "6348c48d",
+        "league": "peruvian-primera-division"
+      },
+      "comerciantes-unidos": {
+        "slug": "comerciantes-unidos",
+        "name": "Comerciantes Unidos",
+        "hash": "4e8c54ba",
+        "league": "peruvian-primera-division"
+      },
+      "melgar": {
+        "slug": "melgar",
+        "name": "FBC Melgar",
+        "hash": "8445d24d",
+        "league": "peruvian-primera-division"
+      },
+      "deportivo-garcilaso": {
+        "slug": "deportivo-garcilaso",
+        "name": "Deportivo Garcilaso",
+        "hash": "537f12aa",
+        "league": "peruvian-primera-division"
+      },
+      "adt": {
+        "slug": "adt",
+        "name": "Asociación Deportiva Tarma",
+        "hash": "bf42b3dd",
+        "league": "peruvian-primera-division"
+      },
+      "alianza-atletico": {
+        "slug": "alianza-atletico",
+        "name": "Alianza Atlético",
+        "hash": "df5da276",
+        "league": "peruvian-primera-division"
+      },
+      "sport-huancayo": {
+        "slug": "sport-huancayo",
+        "name": "Sport Huancayo",
+        "hash": "ec8d0e0f",
+        "league": "peruvian-primera-division"
+      },
+      "atletico-grau": {
+        "slug": "atletico-grau",
+        "name": "Atlético Grau",
+        "hash": "606e575d",
+        "league": "peruvian-primera-division"
+      },
+      "sport-boys": {
+        "slug": "sport-boys",
+        "name": "Sport Boys",
+        "hash": "aba30a9d",
+        "league": "peruvian-primera-division"
+      },
+      "utc": {
+        "slug": "utc",
+        "name": "Universidad Técnica de Cajamarca",
+        "hash": "4236f5c2",
+        "league": "peruvian-primera-division"
+      },
+      "juan-pablo-ii": {
+        "slug": "juan-pablo-ii",
+        "name": "ADC Juan Pablo II",
+        "hash": "f69887e7",
+        "league": "peruvian-primera-division"
+      },
+      "deportivo-moquegua": {
+        "slug": "deportivo-moquegua",
+        "name": "Club Deportivo Moquegua",
+        "hash": "d2f04643",
+        "league": "peruvian-primera-division"
+      },
+      "fc-cajamarca": {
+        "slug": "fc-cajamarca",
+        "name": "FC Cajamarca",
+        "hash": "d53aef82",
+        "league": "peruvian-primera-division"
+      },
+      "alianza-universidad": {
+        "slug": "alianza-universidad",
+        "name": "Alianza Universidad",
+        "hash": "8db5128f",
+        "league": ""
+      },
+      "ayacucho": {
+        "slug": "ayacucho",
+        "name": "Ayacucho",
+        "hash": "edd15743",
+        "league": ""
+      },
+      "defensor-lima": {
+        "slug": "defensor-lima",
+        "name": "Defensor Lima",
+        "hash": "800a177b",
+        "league": ""
+      },
+      "ada-jaen": {
+        "slug": "ada-jaen",
+        "name": "ADA Jaén",
+        "hash": "ae795ebe",
+        "league": ""
+      },
+      "coronel-bolognesi": {
+        "slug": "coronel-bolognesi",
+        "name": "Coronel Bolognesi",
+        "hash": "73eacd81",
+        "league": ""
+      },
+      "deportivo-municipal": {
+        "slug": "deportivo-municipal",
+        "name": "Deportivo Municipal",
+        "hash": "48cdb2ff",
+        "league": ""
+      },
+      "union-comercio": {
+        "slug": "union-comercio",
+        "name": "Unión Comercio",
+        "hash": "f24987cd",
+        "league": ""
+      }
+    }
+  }
+}

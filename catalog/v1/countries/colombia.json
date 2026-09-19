@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "colombia",
+    "iso2": "CO",
+    "name": "Colombia",
+    "defaultLeague": "categoria-primera-a",
+    "leagues": {
+      "categoria-primera-a": {
+        "slug": "categoria-primera-a",
+        "name": "Categoria Primera A",
+        "hash": "7a294f1b",
+        "kind": "league",
+        "code": "CO"
+      },
+      "colombia-national-team": {
+        "slug": "colombia-national-team",
+        "name": "Colombia National Team",
+        "hash": "32611925",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "alianza-valledupar": {
+        "slug": "alianza-valledupar",
+        "name": "Alianza Valledupar",
+        "hash": "41befd4c",
+        "league": "categoria-primera-a"
+      },
+      "aguilas-doradas": {
+        "slug": "aguilas-doradas",
+        "name": "Águilas Doradas",
+        "hash": "4a4c9d5b",
+        "league": "categoria-primera-a"
+      },
+      "america-de-cali": {
+        "slug": "america-de-cali",
+        "name": "América de Cali",
+        "hash": "6f5047b4",
+        "league": "categoria-primera-a"
+      },
+      "atletico-junior": {
+        "slug": "atletico-junior",
+        "name": "Atlético Junior",
+        "hash": "b791a857",
+        "league": "categoria-primera-a"
+      },
+      "atletico-nacional": {
+        "slug": "atletico-nacional",
+        "name": "Atlético Nacional",
+        "hash": "e717dfa0",
+        "league": "categoria-primera-a"
+      },
+      "boyaca-chico": {
+        "slug": "boyaca-chico",
+        "name": "Boyacá Chicó",
+        "hash": "94c8f1b4",
+        "league": "categoria-primera-a"
+      },
+      "bucaramanga": {
+        "slug": "bucaramanga",
+        "name": "Bucaramanga",
+        "hash": "c90fbdcd",
+        "league": "categoria-primera-a"
+      },
+      "deportes-tolima": {
+        "slug": "deportes-tolima",
+        "name": "Deportes Tolima",
+        "hash": "ab6354c0",
+        "league": "categoria-primera-a"
+      },
+      "deportivo-pereira": {
+        "slug": "deportivo-pereira",
+        "name": "Deportivo Pereira",
+        "hash": "51c3d029",
+        "league": "categoria-primera-a"
+      },
+      "deportivo-pasto": {
+        "slug": "deportivo-pasto",
+        "name": "Deportivo Pasto",
+        "hash": "fb65a36a",
+        "league": "categoria-primera-a"
+      },
+      "independiente-medellin": {
+        "slug": "independiente-medellin",
+        "name": "Independiente Medellín",
+        "hash": "27e5d102",
+        "league": "categoria-primera-a"
+      },
+      "independiente-santa-fe": {
+        "slug": "independiente-santa-fe",
+        "name": "Independiente Santa Fe",
+        "hash": "af6a136a",
+        "league": "categoria-primera-a"
+      },
+      "millonarios": {
+        "slug": "millonarios",
+        "name": "Millonarios",
+        "hash": "29aae381",
+        "league": "categoria-primera-a"
+      },
+      "llaneros": {
+        "slug": "llaneros",
+        "name": "Llaneros",
+        "hash": "b5fb0815",
+        "league": "categoria-primera-a"
+      },
+      "once-caldas": {
+        "slug": "once-caldas",
+        "name": "Once Caldas",
+        "hash": "f13e8171",
+        "league": "categoria-primera-a"
+      },
+      "fortaleza-ceif": {
+        "slug": "fortaleza-ceif",
+        "name": "Fortaleza CEIF",
+        "hash": "1b0c08ee",
+        "league": "categoria-primera-a"
+      },
+      "deportivo-cali": {
+        "slug": "deportivo-cali",
+        "name": "Deportivo Cali",
+        "hash": "21f1531e",
+        "league": "categoria-primera-a"
+      },
+      "internacional-de-bogota": {
+        "slug": "internacional-de-bogota",
+        "name": "Internacional de Bogotá",
+        "hash": "d891726d",
+        "league": "categoria-primera-a"
+      },
+      "cucuta-deportivo": {
+        "slug": "cucuta-deportivo",
+        "name": "Cúcuta Deportivo",
+        "hash": "d329551a",
+        "league": "categoria-primera-a"
+      },
+      "jaguares-de-cordoba": {
+        "slug": "jaguares-de-cordoba",
+        "name": "Jaguares de Córdoba",
+        "hash": "e8e8458c",
+        "league": "categoria-primera-a"
+      },
+      "envigado": {
+        "slug": "envigado",
+        "name": "Envigado",
+        "hash": "7fe75f7b",
+        "league": ""
+      },
+      "la-equidad": {
+        "slug": "la-equidad",
+        "name": "La Equidad",
+        "hash": "2e0906ea",
+        "league": ""
+      },
+      "union-magdalena": {
+        "slug": "union-magdalena",
+        "name": "Unión Magdalena",
+        "hash": "ff6a6cf2",
+        "league": ""
+      },
+      "atletico-huila": {
+        "slug": "atletico-huila",
+        "name": "Atlético Huila",
+        "hash": "255c0043",
+        "league": ""
+      }
+    }
+  }
+}

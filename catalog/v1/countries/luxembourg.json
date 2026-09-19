@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "luxembourg",
+    "iso2": "LU",
+    "name": "Luxembourg",
+    "defaultLeague": "luxembourg-national-team",
+    "leagues": {
+      "luxembourg-national-team": {
+        "slug": "luxembourg-national-team",
+        "name": "Luxembourg National Team",
+        "hash": "ed5aeb57",
+        "kind": "league",
+        "code": "LU"
+      }
+    },
+    "clubs": {
+      "avenir": {
+        "slug": "avenir",
+        "name": "Avenir",
+        "hash": "c8d67543",
+        "league": ""
+      },
+      "diddeleng": {
+        "slug": "diddeleng",
+        "name": "Diddeleng",
+        "hash": "6564e5ee",
+        "league": ""
+      },
+      "differdange": {
+        "slug": "differdange",
+        "name": "Differdange",
+        "hash": "e17e924c",
+        "league": ""
+      },
+      "etzella": {
+        "slug": "etzella",
+        "name": "Etzella",
+        "hash": "7ef70967",
+        "league": ""
+      },
+      "fola": {
+        "slug": "fola",
+        "name": "Fola",
+        "hash": "e21d21af",
+        "league": ""
+      },
+      "grevenmacher": {
+        "slug": "grevenmacher",
+        "name": "Grevenmacher",
+        "hash": "f18d79d7",
+        "league": ""
+      },
+      "hamm-benfica": {
+        "slug": "hamm-benfica",
+        "name": "Hamm Benfica",
+        "hash": "66d822c7",
+        "league": ""
+      },
+      "hostert": {
+        "slug": "hostert",
+        "name": "Hostert",
+        "hash": "12a28555",
+        "league": ""
+      },
+      "jeunesse-esch": {
+        "slug": "jeunesse-esch",
+        "name": "Jeunesse Esch",
+        "hash": "ce364bb6",
+        "league": ""
+      },
+      "kaerjeng": {
+        "slug": "kaerjeng",
+        "name": "Käerjéng",
+        "hash": "a4da4849",
+        "league": ""
+      },
+      "mondercange": {
+        "slug": "mondercange",
+        "name": "Mondercange",
+        "hash": "50c599b7",
+        "league": ""
+      },
+      "progres": {
+        "slug": "progres",
+        "name": "Progrès",
+        "hash": "868b7e8c",
+        "league": ""
+      },
+      "racing-union": {
+        "slug": "racing-union",
+        "name": "Racing Union",
+        "hash": "ae563fd5",
+        "league": ""
+      },
+      "rosport": {
+        "slug": "rosport",
+        "name": "Rosport",
+        "hash": "6ec2758c",
+        "league": ""
+      },
+      "rumelange": {
+        "slug": "rumelange",
+        "name": "Rumelange",
+        "hash": "671c3b88",
+        "league": ""
+      },
+      "swift-hesper": {
+        "slug": "swift-hesper",
+        "name": "Swift Hesper",
+        "hash": "e08f7090",
+        "league": ""
+      },
+      "una-strassen": {
+        "slug": "una-strassen",
+        "name": "UNA Strassen",
+        "hash": "e9f4290f",
+        "league": ""
+      },
+      "union-titus": {
+        "slug": "union-titus",
+        "name": "Union Titus",
+        "hash": "84709005",
+        "league": ""
+      },
+      "fc-erpeldange-72": {
+        "slug": "fc-erpeldange-72",
+        "name": "FC Erpeldange 72",
+        "hash": "da228eab",
+        "league": ""
+      },
+      "fc-koeppchen-wormeldange": {
+        "slug": "fc-koeppchen-wormeldange",
+        "name": "FC Koeppchen Wormeldange",
+        "hash": "291e4f47",
+        "league": ""
+      },
+      "fc-schifflange-95": {
+        "slug": "fc-schifflange-95",
+        "name": "FC Schifflange 95",
+        "hash": "3cd360ee",
+        "league": ""
+      },
+      "sc-bettembourg": {
+        "slug": "sc-bettembourg",
+        "name": "SC Bettembourg",
+        "hash": "8018e6dc",
+        "league": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "uganda",
+    "iso2": "UG",
+    "name": "Uganda",
+    "defaultLeague": "uganda-national-team",
+    "leagues": {
+      "uganda-national-team": {
+        "slug": "uganda-national-team",
+        "name": "Uganda National Team",
+        "hash": "54035583",
+        "kind": "league",
+        "code": "UG"
+      }
+    },
+    "clubs": {}
+  }
+}

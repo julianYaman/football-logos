@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "nauru",
+    "iso2": "NR",
+    "name": "Nauru",
+    "defaultLeague": "nauru-national-team",
+    "leagues": {
+      "nauru-national-team": {
+        "slug": "nauru-national-team",
+        "name": "Nauru National Team",
+        "hash": "8843fcf3",
+        "kind": "league",
+        "code": "NR"
+      }
+    },
+    "clubs": {}
+  }
+}

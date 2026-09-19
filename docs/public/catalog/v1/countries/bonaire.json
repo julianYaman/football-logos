@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "bonaire",
+    "iso2": "BQ",
+    "name": "Bonaire",
+    "defaultLeague": "bonaire-national-team",
+    "leagues": {
+      "bonaire-national-team": {
+        "slug": "bonaire-national-team",
+        "name": "Bonaire National Team",
+        "hash": "0518cda8",
+        "kind": "league",
+        "code": "BQ"
+      }
+    },
+    "clubs": {}
+  }
+}

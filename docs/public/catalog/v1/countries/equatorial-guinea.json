@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "equatorial-guinea",
+    "iso2": "GQ",
+    "name": "Equatorial Guinea",
+    "defaultLeague": "equatorial-guinea-national-team",
+    "leagues": {
+      "equatorial-guinea-national-team": {
+        "slug": "equatorial-guinea-national-team",
+        "name": "Equatorial Guinea National Team",
+        "hash": "13d01904",
+        "kind": "league",
+        "code": "GQ"
+      }
+    },
+    "clubs": {}
+  }
+}

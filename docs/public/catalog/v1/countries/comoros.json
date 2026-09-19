@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "comoros",
+    "iso2": "KM",
+    "name": "Comoros",
+    "defaultLeague": "comoros-national-team",
+    "leagues": {
+      "comoros-national-team": {
+        "slug": "comoros-national-team",
+        "name": "Comoros National Team",
+        "hash": "586747a2",
+        "kind": "league",
+        "code": "KM"
+      }
+    },
+    "clubs": {}
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "jordan",
+    "iso2": "JO",
+    "name": "Jordan",
+    "defaultLeague": "jordan-national-team",
+    "leagues": {
+      "jordan-national-team": {
+        "slug": "jordan-national-team",
+        "name": "Jordan National Team",
+        "hash": "5bd8d6e4",
+        "kind": "league",
+        "code": "JO"
+      }
+    },
+    "clubs": {}
+  }
+}

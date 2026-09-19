@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "latvia",
+    "iso2": "LV",
+    "name": "Latvia",
+    "defaultLeague": "virsliga",
+    "leagues": {
+      "virsliga": {
+        "slug": "virsliga",
+        "name": "Latvian Higher League",
+        "hash": "4e77b277",
+        "kind": "league",
+        "code": "LV"
+      },
+      "latvia-national-team": {
+        "slug": "latvia-national-team",
+        "name": "Latvia National Team",
+        "hash": "5e07b38f",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "auda": {
+        "slug": "auda",
+        "name": "Auda",
+        "hash": "f62b964b",
+        "league": "virsliga"
+      },
+      "daugavpils": {
+        "slug": "daugavpils",
+        "name": "Daugavpils",
+        "hash": "7c99a66e",
+        "league": "virsliga"
+      },
+      "liepaja": {
+        "slug": "liepaja",
+        "name": "Liepāja",
+        "hash": "bd151e6c",
+        "league": "virsliga"
+      },
+      "rfs": {
+        "slug": "rfs",
+        "name": "RFS",
+        "hash": "adc1fe69",
+        "league": "virsliga"
+      },
+      "riga": {
+        "slug": "riga",
+        "name": "Riga",
+        "hash": "3ff4ac51",
+        "league": "virsliga"
+      },
+      "sk-super-nova": {
+        "slug": "sk-super-nova",
+        "name": "SK Super Nova",
+        "hash": "3556f964",
+        "league": "virsliga"
+      },
+      "tukums-2000": {
+        "slug": "tukums-2000",
+        "name": "Tukums 2000",
+        "hash": "7d228cc8",
+        "league": "virsliga"
+      },
+      "jelgava": {
+        "slug": "jelgava",
+        "name": "Jelgava",
+        "hash": "684868ab",
+        "league": "virsliga"
+      },
+      "grobina": {
+        "slug": "grobina",
+        "name": "Grobiņa",
+        "hash": "4eb11d6b",
+        "league": "virsliga"
+      },
+      "ogre-united": {
+        "slug": "ogre-united",
+        "name": "Ogre United",
+        "hash": "babc3eb3",
+        "league": "virsliga"
+      },
+      "metta": {
+        "slug": "metta",
+        "name": "Metta",
+        "hash": "e0fd7020",
+        "league": ""
+      },
+      "rezeknes-bjss": {
+        "slug": "rezeknes-bjss",
+        "name": "Rezeknes BJSS",
+        "hash": "aa91b7cc",
+        "league": ""
+      },
+      "valmiera": {
+        "slug": "valmiera",
+        "name": "Valmiera",
+        "hash": "24b60837",
+        "league": ""
+      },
+      "fk-spartaks-jurmala": {
+        "slug": "fk-spartaks-jurmala",
+        "name": "FK Spartaks Jūrmala",
+        "hash": "aa34f20b",
+        "league": ""
+      }
+    }
+  }
+}

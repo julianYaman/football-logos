@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "cote-d-ivoire",
+    "iso2": "CI",
+    "name": "Côte d'Ivoire",
+    "defaultLeague": "cote-d-ivoire-national-team",
+    "leagues": {
+      "cote-d-ivoire-national-team": {
+        "slug": "cote-d-ivoire-national-team",
+        "name": "Côte d&#39;Ivoire National Team",
+        "hash": "e60d5271",
+        "kind": "league",
+        "code": "CI"
+      }
+    },
+    "clubs": {}
+  }
+}

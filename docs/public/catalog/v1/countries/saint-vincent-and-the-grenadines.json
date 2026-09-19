@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "saint-vincent-and-the-grenadines",
+    "iso2": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "defaultLeague": "saint-vincent-and-the-grenadines-national-team",
+    "leagues": {
+      "saint-vincent-and-the-grenadines-national-team": {
+        "slug": "saint-vincent-and-the-grenadines-national-team",
+        "name": "Saint Vincent and the Grenadines National Team",
+        "hash": "de9b837c",
+        "kind": "league",
+        "code": "VC"
+      }
+    },
+    "clubs": {}
+  }
+}

@@ -1,0 +1,81 @@
+export const COUNTRY_OVERRIDES = {
+  england: {
+    iso2: "ENG",
+    defaultLeague: "english-premier-league",
+    codes: {
+      "english-premier-league": "ENG",
+      "efl-championship": "ENG2",
+    },
+  },
+  spain: { defaultLeague: "la-liga" },
+  italy: { defaultLeague: "serie-a" },
+  germany: {
+    defaultLeague: "bundesliga",
+    codes: {
+      bundesliga: "DE",
+      "2-bundesliga": "GER2",
+    },
+  },
+  france: { defaultLeague: "ligue-1" },
+  netherlands: { defaultLeague: "eredivisie" },
+  portugal: { defaultLeague: "primeira-liga" },
+  belgium: { defaultLeague: "jupiler-pro-league" },
+  turkey: { defaultLeague: "super-lig" },
+  "czech-republic": { defaultLeague: "chance-liga" },
+  poland: { defaultLeague: "ekstraklasa" },
+  austria: { defaultLeague: "austrian-football-bundesliga" },
+  greece: {
+    defaultLeague: "super-league-1",
+    leagueNames: {
+      "super-league-1": "Super League Greece",
+    },
+  },
+  brazil: { defaultLeague: "brazilian-serie-a" },
+  usa: {
+    name: "United States",
+    iso2: "US",
+    defaultLeague: "mls",
+  },
+  tournaments: {
+    iso2: "INT",
+    name: "Tournaments",
+    defaultLeague: "uefa-champions-league",
+    allAsLeagues: true,
+    codes: {
+      "uefa-champions-league": "UCL",
+      "uefa-europa-league": "UEL",
+      "uefa-conference-league": "UECL",
+    },
+  },
+  scotland: { iso2: "SCO", defaultLeague: "scottish-premiership" },
+  wales: { iso2: "WAL", defaultLeague: "cymru-premier" },
+  "northern-ireland": { iso2: "NIR" },
+  "republic-of-ireland": { iso2: "IE" },
+  argentina: { defaultLeague: "argentina-primera-division" },
+  japan: { defaultLeague: "j-league" },
+  mexico: { defaultLeague: "liga-mx" },
+  sweden: { defaultLeague: "allsvenskan" },
+  denmark: { defaultLeague: "danish-super-liga" },
+  norway: { defaultLeague: "eliteserien" },
+  "saudi-arabia": { defaultLeague: "saudi-professional-league" },
+  "south-korea": { defaultLeague: "k-league-1" },
+  indonesia: { defaultLeague: "indonesian-super-league" },
+  hungary: { defaultLeague: "nemzeti-bajnoksag" },
+  russia: { defaultLeague: "russian-premier-league" },
+  romania: { defaultLeague: "superliga" },
+  slovenia: { defaultLeague: "slovenian-prvaliga" },
+  canada: { iso2: "CA" },
+  uae: { iso2: "AE", name: "United Arab Emirates" },
+  tahiti: { iso2: "TAH" },
+  catalonia: { iso2: "CAT" },
+  kurdistan: { iso2: "KUR" },
+  zanzibar: { iso2: "ZAN" },
+};
+
+export const EXTRA_COUNTRIES = [
+  {
+    slug: "tournaments",
+    name: "Tournaments",
+    iso2: "INT",
+  },
+];

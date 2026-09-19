@@ -1,0 +1,1641 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "italy",
+    "iso2": "IT",
+    "name": "Italy",
+    "defaultLeague": "serie-a",
+    "leagues": {
+      "serie-a": {
+        "slug": "serie-a",
+        "name": "Serie A",
+        "hash": "1289b16a",
+        "kind": "league",
+        "code": "IT"
+      },
+      "serie-b": {
+        "slug": "serie-b",
+        "name": "Serie B",
+        "hash": "bb0c0fde",
+        "kind": "league"
+      },
+      "serie-c": {
+        "slug": "serie-c",
+        "name": "Serie C",
+        "hash": "62cc6092",
+        "kind": "league"
+      },
+      "serie-d": {
+        "slug": "serie-d",
+        "name": "Serie D",
+        "hash": "d175a24e",
+        "kind": "league"
+      },
+      "italy-national-team": {
+        "slug": "italy-national-team",
+        "name": "Italy National Team",
+        "hash": "2d467c1f",
+        "kind": "league"
+      },
+      "italian-super-cup": {
+        "slug": "italian-super-cup",
+        "name": "Italian Super Cup",
+        "hash": "81cbc2b3",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "juventus": {
+        "slug": "juventus",
+        "name": "Juventus",
+        "hash": "4efced70",
+        "league": "serie-a"
+      },
+      "milan": {
+        "slug": "milan",
+        "name": "Milan",
+        "hash": "73b83ace",
+        "league": "serie-a"
+      },
+      "inter": {
+        "slug": "inter",
+        "name": "Inter",
+        "hash": "ba4c3469",
+        "league": "serie-a"
+      },
+      "napoli": {
+        "slug": "napoli",
+        "name": "Napoli",
+        "hash": "cbf9f0a6",
+        "league": "serie-a"
+      },
+      "roma": {
+        "slug": "roma",
+        "name": "AS Roma",
+        "hash": "8dfa8968",
+        "league": "serie-a"
+      },
+      "lazio": {
+        "slug": "lazio",
+        "name": "Lazio",
+        "hash": "db9df500",
+        "league": "serie-a"
+      },
+      "fiorentina": {
+        "slug": "fiorentina",
+        "name": "Fiorentina",
+        "hash": "cae55547",
+        "league": "serie-a"
+      },
+      "atalanta": {
+        "slug": "atalanta",
+        "name": "Atalanta",
+        "hash": "941be90e",
+        "league": "serie-a"
+      },
+      "bologna": {
+        "slug": "bologna",
+        "name": "Bologna",
+        "hash": "a91a07cf",
+        "league": "serie-a"
+      },
+      "cagliari": {
+        "slug": "cagliari",
+        "name": "Cagliari",
+        "hash": "8ff1c9e6",
+        "league": "serie-a"
+      },
+      "como-1907": {
+        "slug": "como-1907",
+        "name": "Como 1907",
+        "hash": "a4178b8a",
+        "league": "serie-a"
+      },
+      "frosinone": {
+        "slug": "frosinone",
+        "name": "Frosinone Calcio",
+        "hash": "7c7fa08c",
+        "league": "serie-a"
+      },
+      "genoa": {
+        "slug": "genoa",
+        "name": "Genoa",
+        "hash": "521ea31d",
+        "league": "serie-a"
+      },
+      "lecce": {
+        "slug": "lecce",
+        "name": "Lecce",
+        "hash": "7d6b74f5",
+        "league": "serie-a"
+      },
+      "monza": {
+        "slug": "monza",
+        "name": "AC Monza",
+        "hash": "1a8203de",
+        "league": "serie-a"
+      },
+      "parma": {
+        "slug": "parma",
+        "name": "Parma",
+        "hash": "cdd09d90",
+        "league": "serie-a"
+      },
+      "sassuolo": {
+        "slug": "sassuolo",
+        "name": "Sassuolo",
+        "hash": "b1b99656",
+        "league": "serie-a"
+      },
+      "torino": {
+        "slug": "torino",
+        "name": "Torino",
+        "hash": "4a08b344",
+        "league": "serie-a"
+      },
+      "udinese": {
+        "slug": "udinese",
+        "name": "Udinese",
+        "hash": "599d202b",
+        "league": "serie-a"
+      },
+      "venezia": {
+        "slug": "venezia",
+        "name": "Venezia",
+        "hash": "c127a0a3",
+        "league": "serie-a"
+      },
+      "carrarese": {
+        "slug": "carrarese",
+        "name": "Carrarese Calcio",
+        "hash": "d5428b8d",
+        "league": "serie-b"
+      },
+      "catanzaro": {
+        "slug": "catanzaro",
+        "name": "Catanzaro",
+        "hash": "e56ee508",
+        "league": "serie-b"
+      },
+      "cesena": {
+        "slug": "cesena",
+        "name": "Cesena FC",
+        "hash": "ff0b9df5",
+        "league": "serie-b"
+      },
+      "cremonese": {
+        "slug": "cremonese",
+        "name": "Cremonese",
+        "hash": "d8849076",
+        "league": "serie-b"
+      },
+      "empoli": {
+        "slug": "empoli",
+        "name": "Empoli",
+        "hash": "7b5c9047",
+        "league": "serie-b"
+      },
+      "juve-stabia": {
+        "slug": "juve-stabia",
+        "name": "Juve Stabia",
+        "hash": "1a3bf91e",
+        "league": "serie-b"
+      },
+      "mantova-1911": {
+        "slug": "mantova-1911",
+        "name": "Mantova 1911",
+        "hash": "f0c9b5b4",
+        "league": "serie-b"
+      },
+      "modena": {
+        "slug": "modena",
+        "name": "Modena",
+        "hash": "91ad3089",
+        "league": "serie-b"
+      },
+      "padova": {
+        "slug": "padova",
+        "name": "Padova",
+        "hash": "3576b2f0",
+        "league": "serie-b"
+      },
+      "palermo": {
+        "slug": "palermo",
+        "name": "Palermo",
+        "hash": "91059a99",
+        "league": "serie-b"
+      },
+      "pisa": {
+        "slug": "pisa",
+        "name": "Pisa",
+        "hash": "991ce4f3",
+        "league": "serie-b"
+      },
+      "sampdoria": {
+        "slug": "sampdoria",
+        "name": "Sampdoria",
+        "hash": "ab64a60a",
+        "league": "serie-b"
+      },
+      "suditrol": {
+        "slug": "suditrol",
+        "name": "Suditrol",
+        "hash": "50b698e8",
+        "league": "serie-b"
+      },
+      "verona": {
+        "slug": "verona",
+        "name": "Hellas Verona",
+        "hash": "9baa3d76",
+        "league": "serie-b"
+      },
+      "vicenza": {
+        "slug": "vicenza",
+        "name": "Vicenza",
+        "hash": "1165834e",
+        "league": "serie-b"
+      },
+      "us-avellino-1912": {
+        "slug": "us-avellino-1912",
+        "name": "US Avellino 1912",
+        "hash": "8b089b88",
+        "league": "serie-b"
+      },
+      "virtus-entella": {
+        "slug": "virtus-entella",
+        "name": "Virtus Entella",
+        "hash": "a5312c88",
+        "league": "serie-b"
+      },
+      "arezzo": {
+        "slug": "arezzo",
+        "name": "Arezzo",
+        "hash": "b8412f09",
+        "league": "serie-b"
+      },
+      "ascoli": {
+        "slug": "ascoli",
+        "name": "Ascoli",
+        "hash": "bff7c602",
+        "league": "serie-b"
+      },
+      "benevento": {
+        "slug": "benevento",
+        "name": "Benevento",
+        "hash": "1c994611",
+        "league": "serie-b"
+      },
+      "juventus-next-gen": {
+        "slug": "juventus-next-gen",
+        "name": "Juventus Next Gen",
+        "hash": "c1401f87",
+        "league": "serie-c"
+      },
+      "bari": {
+        "slug": "bari",
+        "name": "Bari",
+        "hash": "1470b7ae",
+        "league": "serie-c"
+      },
+      "carpi": {
+        "slug": "carpi",
+        "name": "AC Carpi",
+        "hash": "c6bfb97d",
+        "league": "serie-c"
+      },
+      "latina": {
+        "slug": "latina",
+        "name": "Latina Calcio 1932",
+        "hash": "95ea811f",
+        "league": "serie-c"
+      },
+      "lecco": {
+        "slug": "lecco",
+        "name": "Lecco",
+        "hash": "4812392a",
+        "league": "serie-c"
+      },
+      "cittadella": {
+        "slug": "cittadella",
+        "name": "Cittadella",
+        "hash": "07635d9c",
+        "league": "serie-c"
+      },
+      "alcione": {
+        "slug": "alcione",
+        "name": "Alcione",
+        "hash": "c2c3132d",
+        "league": "serie-c"
+      },
+      "trento": {
+        "slug": "trento",
+        "name": "Trento",
+        "hash": "c752c22f",
+        "league": "serie-c"
+      },
+      "renate": {
+        "slug": "renate",
+        "name": "Renate",
+        "hash": "3aadca3a",
+        "league": "serie-c"
+      },
+      "pro-vercelli": {
+        "slug": "pro-vercelli",
+        "name": "FC Pro Vercelli 1892",
+        "hash": "45439111",
+        "league": "serie-c"
+      },
+      "giana-erminio": {
+        "slug": "giana-erminio",
+        "name": "Giana Erminio",
+        "hash": "28e1be45",
+        "league": "serie-c"
+      },
+      "arzignano-valchiampo": {
+        "slug": "arzignano-valchiampo",
+        "name": "FC Arzignano Valchiampo",
+        "hash": "15a30df8",
+        "league": "serie-c"
+      },
+      "dolomiti-bellunesi": {
+        "slug": "dolomiti-bellunesi",
+        "name": "Dolomiti Bellunesi",
+        "hash": "f4a901ec",
+        "league": "serie-c"
+      },
+      "lumezzane": {
+        "slug": "lumezzane",
+        "name": "Lumezzane",
+        "hash": "16d724e9",
+        "league": "serie-c"
+      },
+      "ospitaletto": {
+        "slug": "ospitaletto",
+        "name": "Ospitaletto",
+        "hash": "b07144c7",
+        "league": "serie-c"
+      },
+      "novara": {
+        "slug": "novara",
+        "name": "Novara",
+        "hash": "091d80ba",
+        "league": "serie-c"
+      },
+      "albinoleffe": {
+        "slug": "albinoleffe",
+        "name": "AlbinoLeffe",
+        "hash": "06854d07",
+        "league": "serie-c"
+      },
+      "pergolettese": {
+        "slug": "pergolettese",
+        "name": "Pergolettese",
+        "hash": "54268a5b",
+        "league": "serie-c"
+      },
+      "pescara": {
+        "slug": "pescara",
+        "name": "Pescara",
+        "hash": "c58977bd",
+        "league": "serie-c"
+      },
+      "reggiana": {
+        "slug": "reggiana",
+        "name": "Reggiana",
+        "hash": "0bb421e7",
+        "league": "serie-c"
+      },
+      "spezia": {
+        "slug": "spezia",
+        "name": "Spezia",
+        "hash": "8a0e5aee",
+        "league": "serie-c"
+      },
+      "union-brescia": {
+        "slug": "union-brescia",
+        "name": "Union Brescia",
+        "hash": "c34f4a88",
+        "league": "serie-c"
+      },
+      "ravenna": {
+        "slug": "ravenna",
+        "name": "Ravenna",
+        "hash": "a31a7829",
+        "league": "serie-c"
+      },
+      "pineto": {
+        "slug": "pineto",
+        "name": "Pineto",
+        "hash": "434971de",
+        "league": "serie-c"
+      },
+      "guidonia-montecelio": {
+        "slug": "guidonia-montecelio",
+        "name": "Guidonia Montecelio",
+        "hash": "988a3efd",
+        "league": "serie-c"
+      },
+      "campobasso": {
+        "slug": "campobasso",
+        "name": "Campobasso",
+        "hash": "dbb702d1",
+        "league": "serie-c"
+      },
+      "vis-pesaro": {
+        "slug": "vis-pesaro",
+        "name": "Vis Pesaro",
+        "hash": "7b11bb2a",
+        "league": "serie-c"
+      },
+      "pianese": {
+        "slug": "pianese",
+        "name": "Pianese",
+        "hash": "578b907e",
+        "league": "serie-c"
+      },
+      "forli-fc": {
+        "slug": "forli-fc",
+        "name": "Forlì FC",
+        "hash": "8cbd0608",
+        "league": "serie-c"
+      },
+      "gubbio": {
+        "slug": "gubbio",
+        "name": "Gubbio",
+        "hash": "db042b84",
+        "league": "serie-c"
+      },
+      "sambenedettese": {
+        "slug": "sambenedettese",
+        "name": "Sambenedettese",
+        "hash": "6054f3d0",
+        "league": "serie-c"
+      },
+      "perugia": {
+        "slug": "perugia",
+        "name": "Perugia",
+        "hash": "72367752",
+        "league": "serie-c"
+      },
+      "livorno": {
+        "slug": "livorno",
+        "name": "Livorno",
+        "hash": "f8ccce99",
+        "league": "serie-c"
+      },
+      "torres": {
+        "slug": "torres",
+        "name": "Torres",
+        "hash": "e6bce807",
+        "league": "serie-c"
+      },
+      "catania": {
+        "slug": "catania",
+        "name": "Catania",
+        "hash": "760b0b09",
+        "league": "serie-c"
+      },
+      "casertana": {
+        "slug": "casertana",
+        "name": "Casertana",
+        "hash": "58b18156",
+        "league": "serie-c"
+      },
+      "salernitana": {
+        "slug": "salernitana",
+        "name": "Salernitana",
+        "hash": "d8c67a4f",
+        "league": "serie-c"
+      },
+      "cosenza": {
+        "slug": "cosenza",
+        "name": "Cosenza",
+        "hash": "420f4c03",
+        "league": "serie-c"
+      },
+      "monopoli": {
+        "slug": "monopoli",
+        "name": "Monopoli",
+        "hash": "dd44a059",
+        "league": "serie-c"
+      },
+      "crotone": {
+        "slug": "crotone",
+        "name": "Crotone",
+        "hash": "a2aa5d36",
+        "league": "serie-c"
+      },
+      "audace-cerignola": {
+        "slug": "audace-cerignola",
+        "name": "Audace Cerignola",
+        "hash": "03111d43",
+        "league": "serie-c"
+      },
+      "casarano": {
+        "slug": "casarano",
+        "name": "Casarano",
+        "hash": "84720863",
+        "league": "serie-c"
+      },
+      "potenza": {
+        "slug": "potenza",
+        "name": "Potenza",
+        "hash": "d54ca888",
+        "league": "serie-c"
+      },
+      "sorrento": {
+        "slug": "sorrento",
+        "name": "Sorrento",
+        "hash": "0bf61b81",
+        "league": "serie-c"
+      },
+      "team-altamura": {
+        "slug": "team-altamura",
+        "name": "Team Altamura",
+        "hash": "c13509e3",
+        "league": "serie-c"
+      },
+      "cavese": {
+        "slug": "cavese",
+        "name": "Cavese",
+        "hash": "e3f34370",
+        "league": "serie-c"
+      },
+      "foggia": {
+        "slug": "foggia",
+        "name": "Foggia",
+        "hash": "fe4e0abc",
+        "league": "serie-c"
+      },
+      "az-picerno": {
+        "slug": "az-picerno",
+        "name": "AZ Picerno",
+        "hash": "84c9e925",
+        "league": "serie-c"
+      },
+      "giugliano": {
+        "slug": "giugliano",
+        "name": "Giugliano",
+        "hash": "af7b3c8d",
+        "league": "serie-c"
+      },
+      "vado": {
+        "slug": "vado",
+        "name": "Vado",
+        "hash": "c4057b10",
+        "league": "serie-c"
+      },
+      "folgore-caratese": {
+        "slug": "folgore-caratese",
+        "name": "Folgore Caratese",
+        "hash": "753fe7b7",
+        "league": "serie-c"
+      },
+      "treviso": {
+        "slug": "treviso",
+        "name": "Treviso FBC 1993",
+        "hash": "1abb3e01",
+        "league": "serie-c"
+      },
+      "desenzano": {
+        "slug": "desenzano",
+        "name": "Calcio Desenzano",
+        "hash": "1deb2035",
+        "league": "serie-c"
+      },
+      "grosseto": {
+        "slug": "grosseto",
+        "name": "US Grosseto 1912",
+        "hash": "87f00bf3",
+        "league": "serie-c"
+      },
+      "ostiamare": {
+        "slug": "ostiamare",
+        "name": "Ostiamare",
+        "hash": "57894e75",
+        "league": "serie-c"
+      },
+      "scafatese-calcio-1922": {
+        "slug": "scafatese-calcio-1922",
+        "name": "Scafatese Calcio 1922",
+        "hash": "cdaf1075",
+        "league": "serie-c"
+      },
+      "barletta-1922": {
+        "slug": "barletta-1922",
+        "name": "Barletta 1922",
+        "hash": "9ed53cfe",
+        "league": "serie-c"
+      },
+      "savoia-1908": {
+        "slug": "savoia-1908",
+        "name": "Savoia 1908",
+        "hash": "f3b858a5",
+        "league": "serie-c"
+      },
+      "chievo": {
+        "slug": "chievo",
+        "name": "AC ChievoVerona",
+        "hash": "ce2eb29a",
+        "league": "serie-d"
+      },
+      "siena": {
+        "slug": "siena",
+        "name": "Siena",
+        "hash": "1f263afc",
+        "league": "serie-d"
+      },
+      "ligorna": {
+        "slug": "ligorna",
+        "name": "Ligorna",
+        "hash": "2e9529e5",
+        "league": "serie-d"
+      },
+      "sestri-levante": {
+        "slug": "sestri-levante",
+        "name": "Sestri Levante",
+        "hash": "59d5605c",
+        "league": "serie-d"
+      },
+      "biellese": {
+        "slug": "biellese",
+        "name": "Biellese",
+        "hash": "5e313059",
+        "league": "serie-d"
+      },
+      "chisola": {
+        "slug": "chisola",
+        "name": "Chisola",
+        "hash": "292d7f18",
+        "league": "serie-d"
+      },
+      "varese": {
+        "slug": "varese",
+        "name": "Varese",
+        "hash": "cf704b0f",
+        "league": "serie-d"
+      },
+      "sanremese": {
+        "slug": "sanremese",
+        "name": "Sanremese",
+        "hash": "7d166d90",
+        "league": "serie-d"
+      },
+      "saluzzo": {
+        "slug": "saluzzo",
+        "name": "Saluzzo",
+        "hash": "810facfe",
+        "league": "serie-d"
+      },
+      "valenzana-mado": {
+        "slug": "valenzana-mado",
+        "name": "Valenzana Mado",
+        "hash": "c10c9994",
+        "league": "serie-d"
+      },
+      "cairese": {
+        "slug": "cairese",
+        "name": "Cairese",
+        "hash": "af6dd24d",
+        "league": "serie-d"
+      },
+      "imperia": {
+        "slug": "imperia",
+        "name": "Imperia",
+        "hash": "1f033351",
+        "league": "serie-d"
+      },
+      "derthona": {
+        "slug": "derthona",
+        "name": "Derthona",
+        "hash": "8d8a3067",
+        "league": "serie-d"
+      },
+      "club-milano": {
+        "slug": "club-milano",
+        "name": "Club Milano",
+        "hash": "c6b3fc92",
+        "league": "serie-d"
+      },
+      "celle-varazze": {
+        "slug": "celle-varazze",
+        "name": "Celle Varazze",
+        "hash": "52df5225",
+        "league": "serie-d"
+      },
+      "gozzano": {
+        "slug": "gozzano",
+        "name": "Gozzano",
+        "hash": "37665067",
+        "league": "serie-d"
+      },
+      "asti": {
+        "slug": "asti",
+        "name": "Asti",
+        "hash": "37048199",
+        "league": "serie-d"
+      },
+      "lavagnese": {
+        "slug": "lavagnese",
+        "name": "Lavagnese",
+        "hash": "ae5b833e",
+        "league": "serie-d"
+      },
+      "novaromentin": {
+        "slug": "novaromentin",
+        "name": "NovaRomentin",
+        "hash": "23fa449b",
+        "league": "serie-d"
+      },
+      "casatese-merate": {
+        "slug": "casatese-merate",
+        "name": "USD Casatese Merate",
+        "hash": "882fab51",
+        "league": "serie-d"
+      },
+      "ac-leon": {
+        "slug": "ac-leon",
+        "name": "AC Leon",
+        "hash": "42b524dc",
+        "league": "serie-d"
+      },
+      "brusaporto": {
+        "slug": "brusaporto",
+        "name": "Calcio Brusaporto",
+        "hash": "b6d6429b",
+        "league": "serie-d"
+      },
+      "oltrepo-fbc": {
+        "slug": "oltrepo-fbc",
+        "name": "Oltrepò FBC",
+        "hash": "8e73f9e7",
+        "league": "serie-d"
+      },
+      "villa-valle": {
+        "slug": "villa-valle",
+        "name": "Villa Valle",
+        "hash": "3bb87272",
+        "league": "serie-d"
+      },
+      "scanzorosciate": {
+        "slug": "scanzorosciate",
+        "name": "USD Scanzorosciate Calcio",
+        "hash": "adb7474c",
+        "league": "serie-d"
+      },
+      "virtus-ciserano-bergamo-1909": {
+        "slug": "virtus-ciserano-bergamo-1909",
+        "name": "Virtus CiseranoBergamo 1909",
+        "hash": "ea361df3",
+        "league": "serie-d"
+      },
+      "caldiero-terme": {
+        "slug": "caldiero-terme",
+        "name": "Calcio Caldiero Terme",
+        "hash": "b995b2da",
+        "league": "serie-d"
+      },
+      "real-calepina": {
+        "slug": "real-calepina",
+        "name": "Real Calepina",
+        "hash": "13618b0e",
+        "league": "serie-d"
+      },
+      "castellanzese": {
+        "slug": "castellanzese",
+        "name": "USD Castellanzese 1921",
+        "hash": "0ad9acfe",
+        "league": "serie-d"
+      },
+      "pavia-calcio-1911": {
+        "slug": "pavia-calcio-1911",
+        "name": "Pavia Calcio 1911",
+        "hash": "4fd7ecab",
+        "league": "serie-d"
+      },
+      "breno": {
+        "slug": "breno",
+        "name": "USD Breno",
+        "hash": "fe99b346",
+        "league": "serie-d"
+      },
+      "varesina": {
+        "slug": "varesina",
+        "name": "Varesina Calcio",
+        "hash": "fd8340c3",
+        "league": "serie-d"
+      },
+      "sondrio-calcio": {
+        "slug": "sondrio-calcio",
+        "name": "Nuova Sondrio Calcio",
+        "hash": "f8543e03",
+        "league": "serie-d"
+      },
+      "avc-vogherese-1919": {
+        "slug": "avc-vogherese-1919",
+        "name": "AVC Vogherese 1919",
+        "hash": "dbcb4934",
+        "league": "serie-d"
+      },
+      "legnago-salus": {
+        "slug": "legnago-salus",
+        "name": "FC Legnago Salus",
+        "hash": "1decf2ba",
+        "league": "serie-d"
+      },
+      "union-clodiense-chioggia": {
+        "slug": "union-clodiense-chioggia",
+        "name": "Union Clodiense Chioggia FC",
+        "hash": "12543c6e",
+        "league": "serie-d"
+      },
+      "brian-lignano": {
+        "slug": "brian-lignano",
+        "name": "Brian Lignano Calcio",
+        "hash": "8ea5dc81",
+        "league": "serie-d"
+      },
+      "este": {
+        "slug": "este",
+        "name": "AC Este",
+        "hash": "d77f7691",
+        "league": "serie-d"
+      },
+      "mestre": {
+        "slug": "mestre",
+        "name": "AC Mestre",
+        "hash": "5f02d651",
+        "league": "serie-d"
+      },
+      "cjarlins-muzane": {
+        "slug": "cjarlins-muzane",
+        "name": "ASD Cjarlins Muzane",
+        "hash": "c8f4c00d",
+        "league": "serie-d"
+      },
+      "bassano": {
+        "slug": "bassano",
+        "name": "FC Bassano",
+        "hash": "1f72a644",
+        "league": "serie-d"
+      },
+      "conegliano": {
+        "slug": "conegliano",
+        "name": "FCD Conegliano 1907",
+        "hash": "a191bc4e",
+        "league": "serie-d"
+      },
+      "campodarsego": {
+        "slug": "campodarsego",
+        "name": "ACD Campodarsego Calcio",
+        "hash": "7083a45f",
+        "league": "serie-d"
+      },
+      "unione-la-rocca-altavilla": {
+        "slug": "unione-la-rocca-altavilla",
+        "name": "Unione La Rocca Altavilla",
+        "hash": "9a30f4d8",
+        "league": "serie-d"
+      },
+      "luparense": {
+        "slug": "luparense",
+        "name": "Luparense FC",
+        "hash": "f1489905",
+        "league": "serie-d"
+      },
+      "calvi-noale": {
+        "slug": "calvi-noale",
+        "name": "FC Calvi Noale",
+        "hash": "081c4e44",
+        "league": "serie-d"
+      },
+      "vigasio": {
+        "slug": "vigasio",
+        "name": "AC Vigasio",
+        "hash": "cdb09969",
+        "league": "serie-d"
+      },
+      "san-luigi": {
+        "slug": "san-luigi",
+        "name": "ASD San Luigi Calcio",
+        "hash": "ce834e19",
+        "league": "serie-d"
+      },
+      "fc-obermais": {
+        "slug": "fc-obermais",
+        "name": "FC Obermais",
+        "hash": "791d7dd3",
+        "league": "serie-d"
+      },
+      "adriese": {
+        "slug": "adriese",
+        "name": "USD Adriese 1906",
+        "hash": "713c6c36",
+        "league": "serie-d"
+      },
+      "portogruaro": {
+        "slug": "portogruaro",
+        "name": "Portogruaro Calcio",
+        "hash": "2eaf630e",
+        "league": "serie-d"
+      },
+      "lentigione": {
+        "slug": "lentigione",
+        "name": "Lentigione Calcio",
+        "hash": "82a17ced",
+        "league": "serie-d"
+      },
+      "pistoiese": {
+        "slug": "pistoiese",
+        "name": "FC Pistoiese 1921",
+        "hash": "07c9358e",
+        "league": "serie-d"
+      },
+      "piacenza": {
+        "slug": "piacenza",
+        "name": "Piacenza Calcio 1919",
+        "hash": "2b96acb0",
+        "league": "serie-d"
+      },
+      "pro-palazzolo": {
+        "slug": "pro-palazzolo",
+        "name": "FC Pro Palazzolo",
+        "hash": "c5f2aa75",
+        "league": "serie-d"
+      },
+      "pro-sesto": {
+        "slug": "pro-sesto",
+        "name": "Pro Sesto 1913",
+        "hash": "48bf505a",
+        "league": "serie-d"
+      },
+      "cittadella-vis-modena": {
+        "slug": "cittadella-vis-modena",
+        "name": "Cittadella Vis Modena",
+        "hash": "ab0697a2",
+        "league": "serie-d"
+      },
+      "rovato-vertovese": {
+        "slug": "rovato-vertovese",
+        "name": "Rovato Vertovese",
+        "hash": "be33e852",
+        "league": "serie-d"
+      },
+      "sangiuliano-city-nova": {
+        "slug": "sangiuliano-city-nova",
+        "name": "FC Sangiuliano City Nova",
+        "hash": "503808ec",
+        "league": "serie-d"
+      },
+      "crema": {
+        "slug": "crema",
+        "name": "AC Crema 1908",
+        "hash": "3a59c348",
+        "league": "serie-d"
+      },
+      "sant-angelo": {
+        "slug": "sant-angelo",
+        "name": "AC Sant'Angelo 1907",
+        "hash": "f60eb4ab",
+        "league": "serie-d"
+      },
+      "progresso": {
+        "slug": "progresso",
+        "name": "SCD Progresso Calcio",
+        "hash": "cd0c6a87",
+        "league": "serie-d"
+      },
+      "correggese": {
+        "slug": "correggese",
+        "name": "Correggese Calcio 1948",
+        "hash": "ec2de34b",
+        "league": "serie-d"
+      },
+      "sasso-marconi": {
+        "slug": "sasso-marconi",
+        "name": "ASD Sasso Marconi 1924",
+        "hash": "a588e1fe",
+        "league": "serie-d"
+      },
+      "imolese": {
+        "slug": "imolese",
+        "name": "Imolese Calcio 1919",
+        "hash": "a8473e4c",
+        "league": "serie-d"
+      },
+      "tropical-coriano": {
+        "slug": "tropical-coriano",
+        "name": "ASD Tropical Coriano",
+        "hash": "50a73870",
+        "league": "serie-d"
+      },
+      "trevigliese": {
+        "slug": "trevigliese",
+        "name": "CS Trevigliese",
+        "hash": "179d67bd",
+        "league": "serie-d"
+      },
+      "tuttocuoio": {
+        "slug": "tuttocuoio",
+        "name": "AC Tuttocuoio 1957 San Miniato",
+        "hash": "87bf9247",
+        "league": "serie-d"
+      },
+      "tau-calcio-altopascio": {
+        "slug": "tau-calcio-altopascio",
+        "name": "Tau Calcio Altopascio",
+        "hash": "65441ce3",
+        "league": "serie-d"
+      },
+      "prato": {
+        "slug": "prato",
+        "name": "AC Prato",
+        "hash": "11814ab1",
+        "league": "serie-d"
+      },
+      "seravezza-pozzi": {
+        "slug": "seravezza-pozzi",
+        "name": "Seravezza Pozzi Calcio",
+        "hash": "9f8fb7f0",
+        "league": "serie-d"
+      },
+      "terranuova-traiana": {
+        "slug": "terranuova-traiana",
+        "name": "Terranuova Traiana",
+        "hash": "e66f0682",
+        "league": "serie-d"
+      },
+      "foligno": {
+        "slug": "foligno",
+        "name": "Foligno Calcio 1928",
+        "hash": "d79481a2",
+        "league": "serie-d"
+      },
+      "scandicci": {
+        "slug": "scandicci",
+        "name": "FC Scandicci 1908",
+        "hash": "8e83926c",
+        "league": "serie-d"
+      },
+      "aquila-montevarchi": {
+        "slug": "aquila-montevarchi",
+        "name": "Aquila Montevarchi 1902",
+        "hash": "f69cceec",
+        "league": "serie-d"
+      },
+      "trestina": {
+        "slug": "trestina",
+        "name": "Sporting Club Trestina",
+        "hash": "8d026514",
+        "league": "serie-d"
+      },
+      "ghiviborgo": {
+        "slug": "ghiviborgo",
+        "name": "Ghiviborgo",
+        "hash": "eea81161",
+        "league": "serie-d"
+      },
+      "san-donato-tavarnelle": {
+        "slug": "san-donato-tavarnelle",
+        "name": "San Donato Tavarnelle",
+        "hash": "fe9ad6ad",
+        "league": "serie-d"
+      },
+      "orvietana": {
+        "slug": "orvietana",
+        "name": "Orvietana Calcio",
+        "hash": "91c13e6f",
+        "league": "serie-d"
+      },
+      "follonica-gavorrano": {
+        "slug": "follonica-gavorrano",
+        "name": "US Follonica Gavorrano",
+        "hash": "19517f29",
+        "league": "serie-d"
+      },
+      "camaiore": {
+        "slug": "camaiore",
+        "name": "Camaiore Calcio",
+        "hash": "7d5864d8",
+        "league": "serie-d"
+      },
+      "poggibonsi": {
+        "slug": "poggibonsi",
+        "name": "US Poggibonsi",
+        "hash": "ba2733e6",
+        "league": "serie-d"
+      },
+      "cannara": {
+        "slug": "cannara",
+        "name": "ASD Cannara",
+        "hash": "00251978",
+        "league": "serie-d"
+      },
+      "vivi-altotevere-sansepolcro": {
+        "slug": "vivi-altotevere-sansepolcro",
+        "name": "Vivi Altotevere Sansepolcro",
+        "hash": "66b975f0",
+        "league": "serie-d"
+      },
+      "ancona": {
+        "slug": "ancona",
+        "name": "Ancona",
+        "hash": "90a6f096",
+        "league": "serie-d"
+      },
+      "teramo-calcio-1913": {
+        "slug": "teramo-calcio-1913",
+        "name": "Teramo Calcio 1913",
+        "hash": "fddb4798",
+        "league": "serie-d"
+      },
+      "atletico-ascoli": {
+        "slug": "atletico-ascoli",
+        "name": "Atletico Ascoli",
+        "hash": "ddb8030c",
+        "league": "serie-d"
+      },
+      "notaresco-calcio-1924": {
+        "slug": "notaresco-calcio-1924",
+        "name": "Notaresco Calcio 1924",
+        "hash": "c26fa6ae",
+        "league": "serie-d"
+      },
+      "laquila-1927": {
+        "slug": "laquila-1927",
+        "name": "L'Aquila 1927",
+        "hash": "f449874e",
+        "league": "serie-d"
+      },
+      "vigor-senigallia": {
+        "slug": "vigor-senigallia",
+        "name": "Vigor Senigallia",
+        "hash": "8434153d",
+        "league": "serie-d"
+      },
+      "giulianova-calcio-1924": {
+        "slug": "giulianova-calcio-1924",
+        "name": "Giulianova Calcio 1924",
+        "hash": "4169c05a",
+        "league": "serie-d"
+      },
+      "fossombrone-calcio": {
+        "slug": "fossombrone-calcio",
+        "name": "Fossombrone Calcio",
+        "hash": "e43a570e",
+        "league": "serie-d"
+      },
+      "unipomezia-1938": {
+        "slug": "unipomezia-1938",
+        "name": "UniPomezia 1938",
+        "hash": "64640eb3",
+        "league": "serie-d"
+      },
+      "termoli-calcio-1920": {
+        "slug": "termoli-calcio-1920",
+        "name": "Termoli Calcio 1920",
+        "hash": "15b34c6d",
+        "league": "serie-d"
+      },
+      "maceratese-1922": {
+        "slug": "maceratese-1922",
+        "name": "Maceratese 1922",
+        "hash": "86335092",
+        "league": "serie-d"
+      },
+      "sora-calcio-1907": {
+        "slug": "sora-calcio-1907",
+        "name": "Sora Calcio 1907",
+        "hash": "444deb75",
+        "league": "serie-d"
+      },
+      "chieti-fc-1922": {
+        "slug": "chieti-fc-1922",
+        "name": "Chieti FC 1922",
+        "hash": "fb1211dd",
+        "league": "serie-d"
+      },
+      "recanatese": {
+        "slug": "recanatese",
+        "name": "US Recanatese",
+        "hash": "3aed2e73",
+        "league": "serie-d"
+      },
+      "san-marino-calcio": {
+        "slug": "san-marino-calcio",
+        "name": "San Marino Calcio",
+        "hash": "12091cd4",
+        "league": "serie-d"
+      },
+      "castelfidardo-calcio": {
+        "slug": "castelfidardo-calcio",
+        "name": "Castelfidardo Calcio",
+        "hash": "2d446634",
+        "league": "serie-d"
+      },
+      "sammaurese": {
+        "slug": "sammaurese",
+        "name": "Sammaurese Calcio",
+        "hash": "e3b459c8",
+        "league": "serie-d"
+      },
+      "trastevere-calcio": {
+        "slug": "trastevere-calcio",
+        "name": "Trastevere Calcio",
+        "hash": "508ca04c",
+        "league": "serie-d"
+      },
+      "monastir-1983": {
+        "slug": "monastir-1983",
+        "name": "ASD Monastir 1983",
+        "hash": "fa774fa0",
+        "league": "serie-d"
+      },
+      "flaminia-civita-castellana": {
+        "slug": "flaminia-civita-castellana",
+        "name": "Flaminia Civita Castellana",
+        "hash": "2d089d11",
+        "league": "serie-d"
+      },
+      "cynthialbalonga": {
+        "slug": "cynthialbalonga",
+        "name": "Cynthialbalonga Calcio",
+        "hash": "14763f89",
+        "league": "serie-d"
+      },
+      "sassari-calcio-latte-dolce": {
+        "slug": "sassari-calcio-latte-dolce",
+        "name": "Sassari Calcio Latte Dolce",
+        "hash": "b29ef309",
+        "league": "serie-d"
+      },
+      "valmontone-1921": {
+        "slug": "valmontone-1921",
+        "name": "Valmontone 1921",
+        "hash": "b3636c3c",
+        "league": "serie-d"
+      },
+      "nocerina-1910": {
+        "slug": "nocerina-1910",
+        "name": "Nocerina 1910",
+        "hash": "57fcea06",
+        "league": "serie-d"
+      },
+      "cos-sarrabus-ogliastra": {
+        "slug": "cos-sarrabus-ogliastra",
+        "name": "COS Sarrabus Ogliastra",
+        "hash": "c3d806d0",
+        "league": "serie-d"
+      },
+      "budoni-calcio": {
+        "slug": "budoni-calcio",
+        "name": "Budoni Calcio",
+        "hash": "20f1fa1b",
+        "league": "serie-d"
+      },
+      "us-palmese-1912": {
+        "slug": "us-palmese-1912",
+        "name": "US Palmese 1912",
+        "hash": "fab218b0",
+        "league": "serie-d"
+      },
+      "atletico-lodigiani": {
+        "slug": "atletico-lodigiani",
+        "name": "Atletico Lodigiani",
+        "hash": "0cc1217d",
+        "league": "serie-d"
+      },
+      "ischia-calcio": {
+        "slug": "ischia-calcio",
+        "name": "Ischia Calcio",
+        "hash": "bf6a633c",
+        "league": "serie-d"
+      },
+      "anzio-calcio-1924": {
+        "slug": "anzio-calcio-1924",
+        "name": "Anzio Calcio 1924",
+        "hash": "c4bed218",
+        "league": "serie-d"
+      },
+      "real-monterotondo": {
+        "slug": "real-monterotondo",
+        "name": "ASD Real Monterotondo",
+        "hash": "b9af7fdb",
+        "league": "serie-d"
+      },
+      "olbia-calcio-1905": {
+        "slug": "olbia-calcio-1905",
+        "name": "Olbia Calcio 1905",
+        "hash": "bd8bb2df",
+        "league": "serie-d"
+      },
+      "montespaccato-calcio": {
+        "slug": "montespaccato-calcio",
+        "name": "Montespaccato Calcio",
+        "hash": "12fe0148",
+        "league": "serie-d"
+      },
+      "cassino-calcio-1924": {
+        "slug": "cassino-calcio-1924",
+        "name": "Cassino Calcio 1924",
+        "hash": "14248736",
+        "league": "serie-d"
+      },
+      "citta-di-fasano": {
+        "slug": "citta-di-fasano",
+        "name": "Città di Fasano",
+        "hash": "832b769f",
+        "league": "serie-d"
+      },
+      "martina-calcio-1947": {
+        "slug": "martina-calcio-1947",
+        "name": "Martina Calcio 1947",
+        "hash": "59bc0d6e",
+        "league": "serie-d"
+      },
+      "paganese-calcio-1926": {
+        "slug": "paganese-calcio-1926",
+        "name": "Paganese Calcio 1926",
+        "hash": "055fd405",
+        "league": "serie-d"
+      },
+      "nardo": {
+        "slug": "nardo",
+        "name": "AC Nardò",
+        "hash": "75545713",
+        "league": "serie-d"
+      },
+      "fbc-gravina": {
+        "slug": "fbc-gravina",
+        "name": "FBC Gravina",
+        "hash": "60206264",
+        "league": "serie-d"
+      },
+      "afragolese-1944": {
+        "slug": "afragolese-1944",
+        "name": "Afragolese 1944",
+        "hash": "8cc94964",
+        "league": "serie-d"
+      },
+      "fidelis-andria": {
+        "slug": "fidelis-andria",
+        "name": "Fidelis Andria",
+        "hash": "a2802f01",
+        "league": "serie-d"
+      },
+      "virtus-francavilla": {
+        "slug": "virtus-francavilla",
+        "name": "Virtus Francavilla",
+        "hash": "73653f91",
+        "league": "serie-d"
+      },
+      "real-normanna": {
+        "slug": "real-normanna",
+        "name": "Real Normanna",
+        "hash": "4053c7e5",
+        "league": "serie-d"
+      },
+      "fc-francavilla": {
+        "slug": "fc-francavilla",
+        "name": "FC Francavilla",
+        "hash": "addc50ea",
+        "league": "serie-d"
+      },
+      "manfredonia-calcio": {
+        "slug": "manfredonia-calcio",
+        "name": "Manfredonia Calcio",
+        "hash": "09fa94e7",
+        "league": "serie-d"
+      },
+      "sarnese-1926": {
+        "slug": "sarnese-1926",
+        "name": "Sarnese 1926",
+        "hash": "8d886392",
+        "league": "serie-d"
+      },
+      "nola-1925": {
+        "slug": "nola-1925",
+        "name": "Nola 1925",
+        "hash": "f3536e00",
+        "league": "serie-d"
+      },
+      "heraclea-calcio": {
+        "slug": "heraclea-calcio",
+        "name": "Heraclea Calcio",
+        "hash": "09a6d6c8",
+        "league": "serie-d"
+      },
+      "fc-pompei": {
+        "slug": "fc-pompei",
+        "name": "FC Pompei",
+        "hash": "ce2450ed",
+        "league": "serie-d"
+      },
+      "ferrandina-17890": {
+        "slug": "ferrandina-17890",
+        "name": "Asd Ferrandina 17890",
+        "hash": "319f12a1",
+        "league": "serie-d"
+      },
+      "acerrana-1926": {
+        "slug": "acerrana-1926",
+        "name": "Acerrana 1926",
+        "hash": "4a4c0233",
+        "league": "serie-d"
+      },
+      "nissa-fc": {
+        "slug": "nissa-fc",
+        "name": "Nissa FC",
+        "hash": "f192b04c",
+        "league": "serie-d"
+      },
+      "reggina": {
+        "slug": "reggina",
+        "name": "Reggina 1914",
+        "hash": "e67c892e",
+        "league": "serie-d"
+      },
+      "athletic-club-palermo": {
+        "slug": "athletic-club-palermo",
+        "name": "Athletic Club Palermo",
+        "hash": "318943d7",
+        "league": "serie-d"
+      },
+      "gelbison-cilento": {
+        "slug": "gelbison-cilento",
+        "name": "Gelbison Cilento",
+        "hash": "66866531",
+        "league": "serie-d"
+      },
+      "sambiase-calcio": {
+        "slug": "sambiase-calcio",
+        "name": "Sambiase Calcio",
+        "hash": "da96bfc8",
+        "league": "serie-d"
+      },
+      "igea-virtus-barcellona": {
+        "slug": "igea-virtus-barcellona",
+        "name": "Igea Virtus Barcellona",
+        "hash": "1e094cf9",
+        "league": "serie-d"
+      },
+      "milazzo": {
+        "slug": "milazzo",
+        "name": "SS Milazzo",
+        "hash": "9a492259",
+        "league": "serie-d"
+      },
+      "gela-calcio": {
+        "slug": "gela-calcio",
+        "name": "Gela Calcio",
+        "hash": "57973818",
+        "league": "serie-d"
+      },
+      "vigor-lamezia": {
+        "slug": "vigor-lamezia",
+        "name": "Vigor Lamezia",
+        "hash": "5d9c2408",
+        "league": "serie-d"
+      },
+      "castrum-favara": {
+        "slug": "castrum-favara",
+        "name": "Castrum Favara",
+        "hash": "c37c687c",
+        "league": "serie-d"
+      },
+      "enna-calcio": {
+        "slug": "enna-calcio",
+        "name": "Enna Calcio",
+        "hash": "b4142743",
+        "league": "serie-d"
+      },
+      "vibonese": {
+        "slug": "vibonese",
+        "name": "Vibonese",
+        "hash": "51444b38",
+        "league": "serie-d"
+      },
+      "ragusa-calcio": {
+        "slug": "ragusa-calcio",
+        "name": "Ragusa Calcio",
+        "hash": "ed85a583",
+        "league": "serie-d"
+      },
+      "acr-messina": {
+        "slug": "acr-messina",
+        "name": "ACR Messina",
+        "hash": "12710ae0",
+        "league": "serie-d"
+      },
+      "acireale-calcio": {
+        "slug": "acireale-calcio",
+        "name": "Acireale Calcio",
+        "hash": "1296ac25",
+        "league": "serie-d"
+      },
+      "sancataldese": {
+        "slug": "sancataldese",
+        "name": "Sancataldese",
+        "hash": "0d0ec9a6",
+        "league": "serie-d"
+      },
+      "paterno-calcio": {
+        "slug": "paterno-calcio",
+        "name": "Paternò Calcio",
+        "hash": "4d5e9c15",
+        "league": "serie-d"
+      },
+      "coppa-italia": {
+        "slug": "coppa-italia",
+        "name": "Coppa Italia",
+        "hash": "c154e4b2",
+        "league": ""
+      },
+      "brescia": {
+        "slug": "brescia",
+        "name": "Brescia",
+        "hash": "872788c8",
+        "league": ""
+      },
+      "feralpisalo": {
+        "slug": "feralpisalo",
+        "name": "Feralpisalò",
+        "hash": "5abe33ae",
+        "league": ""
+      },
+      "virtus-verona": {
+        "slug": "virtus-verona",
+        "name": "Virtus Verona",
+        "hash": "a6e478c1",
+        "league": ""
+      },
+      "pro-patria": {
+        "slug": "pro-patria",
+        "name": "Pro Patria",
+        "hash": "c787daa1",
+        "league": ""
+      },
+      "triestina": {
+        "slug": "triestina",
+        "name": "Triestina",
+        "hash": "cdc36372",
+        "league": ""
+      },
+      "ternana": {
+        "slug": "ternana",
+        "name": "Ternana",
+        "hash": "9c748c15",
+        "league": ""
+      },
+      "bra": {
+        "slug": "bra",
+        "name": "Bra",
+        "hash": "ba47019f",
+        "league": ""
+      },
+      "pontedera": {
+        "slug": "pontedera",
+        "name": "Pontedera",
+        "hash": "e20e85d0",
+        "league": ""
+      },
+      "siracusa": {
+        "slug": "siracusa",
+        "name": "Siracusa",
+        "hash": "07f98fdf",
+        "league": ""
+      },
+      "trapani": {
+        "slug": "trapani",
+        "name": "Trapani",
+        "hash": "76446331",
+        "league": ""
+      },
+      "spal": {
+        "slug": "spal",
+        "name": "SPAL",
+        "hash": "baffc41c",
+        "league": ""
+      },
+      "ars-et-labor-ferrara-calcio": {
+        "slug": "ars-et-labor-ferrara-calcio",
+        "name": "Ars et Labor Ferrara Calcio",
+        "hash": "7d0ddb7c",
+        "league": ""
+      },
+      "as-melfi": {
+        "slug": "as-melfi",
+        "name": "AS Melfi",
+        "hash": "ead565e6",
+        "league": ""
+      },
+      "lucchese-1905": {
+        "slug": "lucchese-1905",
+        "name": "Lucchese 1905",
+        "hash": "edebad3a",
+        "league": ""
+      }
+    }
+  }
+}

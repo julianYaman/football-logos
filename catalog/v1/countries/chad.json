@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "chad",
+    "iso2": "TD",
+    "name": "Chad",
+    "defaultLeague": "chad-national-team",
+    "leagues": {
+      "chad-national-team": {
+        "slug": "chad-national-team",
+        "name": "Chad National Team",
+        "hash": "9c890367",
+        "kind": "league",
+        "code": "TD"
+      }
+    },
+    "clubs": {}
+  }
+}

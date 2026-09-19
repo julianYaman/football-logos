@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "nicaragua",
+    "iso2": "NI",
+    "name": "Nicaragua",
+    "defaultLeague": "nicaragua-national-team",
+    "leagues": {
+      "nicaragua-national-team": {
+        "slug": "nicaragua-national-team",
+        "name": "Nicaragua National Team",
+        "hash": "46eb8d5e",
+        "kind": "league",
+        "code": "NI"
+      }
+    },
+    "clubs": {}
+  }
+}

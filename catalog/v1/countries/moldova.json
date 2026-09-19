@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "moldova",
+    "iso2": "MD",
+    "name": "Moldova",
+    "defaultLeague": "moldovan-liga",
+    "leagues": {
+      "moldovan-liga": {
+        "slug": "moldovan-liga",
+        "name": "Moldovan Liga",
+        "hash": "39ba2b0d",
+        "kind": "league",
+        "code": "MD"
+      },
+      "moldova-national-team": {
+        "slug": "moldova-national-team",
+        "name": "Moldova National Team",
+        "hash": "4bf50a82",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "dacia-buiucani": {
+        "slug": "dacia-buiucani",
+        "name": "Dacia Buiucani",
+        "hash": "64870252",
+        "league": "moldovan-liga"
+      },
+      "milsami": {
+        "slug": "milsami",
+        "name": "Milsami",
+        "hash": "61da9de4",
+        "league": "moldovan-liga"
+      },
+      "petrocub": {
+        "slug": "petrocub",
+        "name": "Petrocub",
+        "hash": "e7eccadf",
+        "league": "moldovan-liga"
+      },
+      "sheriff": {
+        "slug": "sheriff",
+        "name": "Sheriff",
+        "hash": "524e5433",
+        "league": "moldovan-liga"
+      },
+      "zimbru": {
+        "slug": "zimbru",
+        "name": "Zimbru",
+        "hash": "df789db2",
+        "league": "moldovan-liga"
+      },
+      "politehnica-utm": {
+        "slug": "politehnica-utm",
+        "name": "Politehnica UTM",
+        "hash": "a9587f51",
+        "league": "moldovan-liga"
+      },
+      "real-sireti": {
+        "slug": "real-sireti",
+        "name": "Real Sireți",
+        "hash": "b8d9f098",
+        "league": "moldovan-liga"
+      },
+      "balti": {
+        "slug": "balti",
+        "name": "Bălți",
+        "hash": "cfbd3875",
+        "league": "moldovan-liga"
+      },
+      "floresti": {
+        "slug": "floresti",
+        "name": "Floresti",
+        "hash": "5a370e29",
+        "league": ""
+      },
+      "saxan": {
+        "slug": "saxan",
+        "name": "Saxan",
+        "hash": "468cfb24",
+        "league": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "mongolia",
+    "iso2": "MN",
+    "name": "Mongolia",
+    "defaultLeague": "mongolia-national-team",
+    "leagues": {
+      "mongolia-national-team": {
+        "slug": "mongolia-national-team",
+        "name": "Mongolia National Team",
+        "hash": "97df2486",
+        "kind": "league",
+        "code": "MN"
+      }
+    },
+    "clubs": {}
+  }
+}

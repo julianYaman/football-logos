@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "guatemala",
+    "iso2": "GT",
+    "name": "Guatemala",
+    "defaultLeague": "liga-nacional-de-futbol-de-guatemala",
+    "leagues": {
+      "liga-nacional-de-futbol-de-guatemala": {
+        "slug": "liga-nacional-de-futbol-de-guatemala",
+        "name": "Liga Nacional de Fútbol de Guatemala",
+        "hash": "c8921781",
+        "kind": "league",
+        "code": "GT"
+      },
+      "guatemala-national-team": {
+        "slug": "guatemala-national-team",
+        "name": "Guatemala National Team",
+        "hash": "e5f28365",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "municipal": {
+        "slug": "municipal",
+        "name": "CSD Municipal",
+        "hash": "5633262f",
+        "league": "liga-nacional-de-futbol-de-guatemala"
+      },
+      "antigua-gfc": {
+        "slug": "antigua-gfc",
+        "name": "Antigua GFC",
+        "hash": "190c37c9",
+        "league": "liga-nacional-de-futbol-de-guatemala"
+      },
+      "san-pedro-fc": {
+        "slug": "san-pedro-fc",
+        "name": "San Pedro FC",
+        "hash": "3d7137e6",
+        "league": "liga-nacional-de-futbol-de-guatemala"
+      },
+      "guastatoya": {
+        "slug": "guastatoya",
+        "name": "Guastatoya",
+        "hash": "b8d0c888",
+        "league": "liga-nacional-de-futbol-de-guatemala"
+      },
+      "deportivo-mixco": {
+        "slug": "deportivo-mixco",
+        "name": "Deportivo Mixco",
+        "hash": "03358cee",
+        "league": "liga-nacional-de-futbol-de-guatemala"
+      },
+      "deportivo-marquense": {
+        "slug": "deportivo-marquense",
+        "name": "Deportivo Marquense",
+        "hash": "ba61df5f",
+        "league": "liga-nacional-de-futbol-de-guatemala"
+      },
+      "xelaju-mc": {
+        "slug": "xelaju-mc",
+        "name": "Xelajú MC",
+        "hash": "da1dc09e",
+        "league": "liga-nacional-de-futbol-de-guatemala"
+      },
+      "aurora-fc": {
+        "slug": "aurora-fc",
+        "name": "Aurora FC",
+        "hash": "a1e7d538",
+        "league": "liga-nacional-de-futbol-de-guatemala"
+      },
+      "comunicaciones-fc": {
+        "slug": "comunicaciones-fc",
+        "name": "Comunicaciones FC",
+        "hash": "c3b01276",
+        "league": "liga-nacional-de-futbol-de-guatemala"
+      },
+      "deportivo-malacateco": {
+        "slug": "deportivo-malacateco",
+        "name": "Deportivo Malacateco",
+        "hash": "e1c99a5e",
+        "league": "liga-nacional-de-futbol-de-guatemala"
+      },
+      "coban-imperial": {
+        "slug": "coban-imperial",
+        "name": "Cobán Imperial",
+        "hash": "d76f2d1a",
+        "league": "liga-nacional-de-futbol-de-guatemala"
+      },
+      "deportivo-suchitepequez": {
+        "slug": "deportivo-suchitepequez",
+        "name": "Deportivo Suchitepéquez",
+        "hash": "58ae2493",
+        "league": "liga-nacional-de-futbol-de-guatemala"
+      }
+    }
+  }
+}

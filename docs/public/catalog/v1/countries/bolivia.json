@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "bolivia",
+    "iso2": "BO",
+    "name": "Bolivia",
+    "defaultLeague": "primera-division-de-bolivia",
+    "leagues": {
+      "primera-division-de-bolivia": {
+        "slug": "primera-division-de-bolivia",
+        "name": "Primera División de Bolivia",
+        "hash": "203cd822",
+        "kind": "league",
+        "code": "BO"
+      },
+      "bolivia-national-team": {
+        "slug": "bolivia-national-team",
+        "name": "Bolivia National Team",
+        "hash": "f28e1e12",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "always-ready": {
+        "slug": "always-ready",
+        "name": "Always Ready",
+        "hash": "80eb3e6b",
+        "league": "primera-division-de-bolivia"
+      },
+      "bolivar": {
+        "slug": "bolivar",
+        "name": "Bolívar",
+        "hash": "030159a9",
+        "league": "primera-division-de-bolivia"
+      },
+      "san-antonio-bulo-bulo": {
+        "slug": "san-antonio-bulo-bulo",
+        "name": "CD San Antonio Bulo Bulo",
+        "hash": "a4d539f6",
+        "league": "primera-division-de-bolivia"
+      },
+      "nacional-potosi": {
+        "slug": "nacional-potosi",
+        "name": "Atlético Nacional Potosí",
+        "hash": "126f6c6e",
+        "league": "primera-division-de-bolivia"
+      },
+      "independiente-petrolero": {
+        "slug": "independiente-petrolero",
+        "name": "Independiente Petrolero",
+        "hash": "5dcb4014",
+        "league": "primera-division-de-bolivia"
+      },
+      "aurora": {
+        "slug": "aurora",
+        "name": "Aurora",
+        "hash": "17b9584b",
+        "league": "primera-division-de-bolivia"
+      },
+      "guabira": {
+        "slug": "guabira",
+        "name": "Deportivo Guabirá",
+        "hash": "66827a4c",
+        "league": "primera-division-de-bolivia"
+      },
+      "gv-san-jose": {
+        "slug": "gv-san-jose",
+        "name": "Gualberto Villarroel Deportivo San José",
+        "hash": "7e768039",
+        "league": "primera-division-de-bolivia"
+      },
+      "real-oruro": {
+        "slug": "real-oruro",
+        "name": "Deportivo Totora Real Oruro",
+        "hash": "935ffade",
+        "league": "primera-division-de-bolivia"
+      },
+      "the-strongest": {
+        "slug": "the-strongest",
+        "name": "The Strongest",
+        "hash": "d0cfb256",
+        "league": "primera-division-de-bolivia"
+      },
+      "real-tomayapo": {
+        "slug": "real-tomayapo",
+        "name": "Real Tomayapo",
+        "hash": "78b09a55",
+        "league": "primera-division-de-bolivia"
+      },
+      "blooming": {
+        "slug": "blooming",
+        "name": "Blooming",
+        "hash": "25cb938d",
+        "league": "primera-division-de-bolivia"
+      },
+      "jorge-wilstermann": {
+        "slug": "jorge-wilstermann",
+        "name": "Jorge Wilstermann",
+        "hash": "fa45c553",
+        "league": "primera-division-de-bolivia"
+      },
+      "oriente-petrolero": {
+        "slug": "oriente-petrolero",
+        "name": "Deportivo Oriente Petrolero",
+        "hash": "dfbb9602",
+        "league": "primera-division-de-bolivia"
+      },
+      "abb": {
+        "slug": "abb",
+        "name": "Academia del Balompié Boliviano",
+        "hash": "6f0f79dd",
+        "league": "primera-division-de-bolivia"
+      },
+      "universitario-de-vinto": {
+        "slug": "universitario-de-vinto",
+        "name": "Universitario de Vinto",
+        "hash": "878ad2a0",
+        "league": "primera-division-de-bolivia"
+      },
+      "real-santa-cruz": {
+        "slug": "real-santa-cruz",
+        "name": "Real Santa Cruz",
+        "hash": "018c161f",
+        "league": ""
+      },
+      "universitario-de-sucre": {
+        "slug": "universitario-de-sucre",
+        "name": "Universitario de Sucre",
+        "hash": "0b506716",
+        "league": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+# Publishes to npm when a GitHub Release is published.
+#
+# How this works:
+# 1. Bump `version` in package.json, commit, and push.
+# 2. Create a GitHub Release whose tag is `v<that version>` (for example v0.2.0).
+# 3. This workflow checks out the tagged commit, verifies package.json matches
+#    the tag, then runs `npm publish --provenance --access public`.
+#
+# Auth: npm trusted publishing (OIDC) is preferred — on npmjs.com, add this
+# GitHub repo and this workflow filename as a trusted publisher. A classic
+# Automation token also works if you set the `NPM_TOKEN` repository secret.
+# Do not set NODE_AUTH_TOKEN when using only OIDC trusted publishing.
+
+name: Publish npm
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: read
+  id-token: write
+
+concurrency:
+  group: publish-npm
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          registry-url: https://registry.npmjs.org
+      - run: npm ci
+      - name: Check package version matches release tag
+        run: |
+          set -euo pipefail
+          TAG="${GITHUB_REF_NAME#v}"
+          PKG="$(node -p "require('./package.json').version")"
+          if [ "$TAG" != "$PKG" ]; then
+            echo "Release tag '$GITHUB_REF_NAME' does not match package.json version '$PKG'."
+            echo "Create the release from a commit whose package.json version is $TAG."
+            exit 1
+          fi
+      - run: npm test
+      - run: npm run build
+      - name: Publish
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [ -z "${NODE_AUTH_TOKEN}" ]; then
+            unset NODE_AUTH_TOKEN
+          fi
+          npm publish --provenance --access public

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "sri-lanka",
+    "iso2": "LK",
+    "name": "Sri Lanka",
+    "defaultLeague": "sri-lanka-national-team",
+    "leagues": {
+      "sri-lanka-national-team": {
+        "slug": "sri-lanka-national-team",
+        "name": "Sri Lanka National Team",
+        "hash": "7ff4b01f",
+        "kind": "league",
+        "code": "LK"
+      }
+    },
+    "clubs": {}
+  }
+}

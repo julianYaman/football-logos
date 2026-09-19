@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "georgia",
+    "iso2": "GE",
+    "name": "Georgia",
+    "defaultLeague": "erovnuli-liga",
+    "leagues": {
+      "erovnuli-liga": {
+        "slug": "erovnuli-liga",
+        "name": "Erovnuli Liga",
+        "hash": "6b1d4973",
+        "kind": "league",
+        "code": "GE"
+      },
+      "georgia-national-team": {
+        "slug": "georgia-national-team",
+        "name": "Georgia National Team",
+        "hash": "5924503a",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "dila": {
+        "slug": "dila",
+        "name": "Dila",
+        "hash": "3e7e37c6",
+        "league": "erovnuli-liga"
+      },
+      "dinamo-batumi": {
+        "slug": "dinamo-batumi",
+        "name": "Dinamo Batumi",
+        "hash": "dd5a3a2f",
+        "league": "erovnuli-liga"
+      },
+      "dinamo-tbilisi": {
+        "slug": "dinamo-tbilisi",
+        "name": "Dinamo Tbilisi",
+        "hash": "b91847f0",
+        "league": "erovnuli-liga"
+      },
+      "gagra": {
+        "slug": "gagra",
+        "name": "Gagra",
+        "hash": "1a38e21c",
+        "league": "erovnuli-liga"
+      },
+      "iberia": {
+        "slug": "iberia",
+        "name": "Iberia",
+        "hash": "a1a62c54",
+        "league": "erovnuli-liga"
+      },
+      "torpedo-kutaisi": {
+        "slug": "torpedo-kutaisi",
+        "name": "Torpedo Kutaisi",
+        "hash": "41a5de28",
+        "league": "erovnuli-liga"
+      },
+      "spaeri": {
+        "slug": "spaeri",
+        "name": "FC Spaeri",
+        "hash": "9a67640a",
+        "league": "erovnuli-liga"
+      },
+      "meshakhte-tkibuli": {
+        "slug": "meshakhte-tkibuli",
+        "name": "FC Meshakhte Tkibuli",
+        "hash": "89366643",
+        "league": "erovnuli-liga"
+      },
+      "samgurali": {
+        "slug": "samgurali",
+        "name": "FC Samgurali Tskaltubo",
+        "hash": "7bf23ec9",
+        "league": "erovnuli-liga"
+      },
+      "rustavi": {
+        "slug": "rustavi",
+        "name": "FC Rustavi",
+        "hash": "c4bb0e1a",
+        "league": "erovnuli-liga"
+      },
+      "chikhura": {
+        "slug": "chikhura",
+        "name": "Chikhura",
+        "hash": "b77e0ec5",
+        "league": ""
+      },
+      "kolkheti": {
+        "slug": "kolkheti",
+        "name": "Kolkheti",
+        "hash": "bb92f46e",
+        "league": ""
+      },
+      "locomotive-tbilisi": {
+        "slug": "locomotive-tbilisi",
+        "name": "Locomotive Tbilisi",
+        "hash": "b785723b",
+        "league": ""
+      },
+      "merani": {
+        "slug": "merani",
+        "name": "Merani Martvili",
+        "hash": "1213d257",
+        "league": ""
+      },
+      "norchi-dinamoeli": {
+        "slug": "norchi-dinamoeli",
+        "name": "Norchi Dinamoeli",
+        "hash": "46e2566e",
+        "league": ""
+      },
+      "samtredia": {
+        "slug": "samtredia",
+        "name": "Samtredia",
+        "hash": "aaefb4c2",
+        "league": ""
+      },
+      "sioni": {
+        "slug": "sioni",
+        "name": "Sioni",
+        "hash": "d3549570",
+        "league": ""
+      },
+      "telavi": {
+        "slug": "telavi",
+        "name": "Telavi",
+        "hash": "1a851872",
+        "league": ""
+      },
+      "wit-georgia": {
+        "slug": "wit-georgia",
+        "name": "WIT Georgia",
+        "hash": "0e7745d6",
+        "league": ""
+      },
+      "zestafoni": {
+        "slug": "zestafoni",
+        "name": "Zestafoni",
+        "hash": "9748e78e",
+        "league": ""
+      },
+      "fc-tskhinvali": {
+        "slug": "fc-tskhinvali",
+        "name": "FC Tskhinvali",
+        "hash": "4377e69c",
+        "league": ""
+      }
+    }
+  }
+}

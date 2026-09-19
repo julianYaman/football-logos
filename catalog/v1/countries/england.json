@@ -1,0 +1,2152 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "england",
+    "iso2": "ENG",
+    "name": "England",
+    "defaultLeague": "english-premier-league",
+    "leagues": {
+      "english-premier-league": {
+        "slug": "english-premier-league",
+        "name": "Premier League",
+        "hash": "b597f797",
+        "kind": "league",
+        "code": "ENG"
+      },
+      "efl-championship": {
+        "slug": "efl-championship",
+        "name": "EFL Championship",
+        "hash": "2766b536",
+        "kind": "league",
+        "code": "ENG2"
+      },
+      "efl-league-one": {
+        "slug": "efl-league-one",
+        "name": "EFL League One",
+        "hash": "5e95a41e",
+        "kind": "league"
+      },
+      "efl-league-two": {
+        "slug": "efl-league-two",
+        "name": "EFL League Two",
+        "hash": "bd6b1083",
+        "kind": "league"
+      },
+      "national-league": {
+        "slug": "national-league",
+        "name": "National League",
+        "hash": "652256c7",
+        "kind": "league"
+      },
+      "national-league-north": {
+        "slug": "national-league-north",
+        "name": "National League North",
+        "hash": "ae714a00",
+        "kind": "league"
+      },
+      "national-league-south": {
+        "slug": "national-league-south",
+        "name": "National League South",
+        "hash": "4a18eb9a",
+        "kind": "league"
+      },
+      "isthmian-league": {
+        "slug": "isthmian-league",
+        "name": "Isthmian League",
+        "hash": "c64ef79f",
+        "kind": "league"
+      },
+      "northern-premier-league": {
+        "slug": "northern-premier-league",
+        "name": "Northern Premier League",
+        "hash": "6ebd0019",
+        "kind": "league"
+      },
+      "southern-football-league-premier-south": {
+        "slug": "southern-football-league-premier-south",
+        "name": "Southern Football League Premier South",
+        "hash": "623f0411",
+        "kind": "league"
+      },
+      "southern-football-league-premier-central": {
+        "slug": "southern-football-league-premier-central",
+        "name": "Southern Football League Premier Central",
+        "hash": "d3f8de38",
+        "kind": "league"
+      },
+      "southern-football-league-division-one-central": {
+        "slug": "southern-football-league-division-one-central",
+        "name": "Southern Football League Division One Central",
+        "hash": "1d80c927",
+        "kind": "league"
+      },
+      "england-national-team": {
+        "slug": "england-national-team",
+        "name": "England National Team",
+        "hash": "daba5ba0",
+        "kind": "league"
+      },
+      "english-football-league": {
+        "slug": "english-football-league",
+        "name": "English Football League",
+        "hash": "e73280a1",
+        "kind": "league"
+      },
+      "emirates-fa-cup": {
+        "slug": "emirates-fa-cup",
+        "name": "Emirates FA Cup",
+        "hash": "cb30a62f",
+        "kind": "league"
+      },
+      "efl-cup": {
+        "slug": "efl-cup",
+        "name": "EFL Carabao Cup",
+        "hash": "667da864",
+        "kind": "league"
+      },
+      "fa-community-shield": {
+        "slug": "fa-community-shield",
+        "name": "FA Community Shield",
+        "hash": "3436f44c",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "arsenal": {
+        "slug": "arsenal",
+        "name": "Arsenal",
+        "hash": "02d595b0",
+        "league": "english-premier-league"
+      },
+      "aston-villa": {
+        "slug": "aston-villa",
+        "name": "Aston Villa",
+        "hash": "ac06ff1f",
+        "league": "english-premier-league"
+      },
+      "chelsea": {
+        "slug": "chelsea",
+        "name": "Chelsea",
+        "hash": "340855a2",
+        "league": "english-premier-league"
+      },
+      "everton": {
+        "slug": "everton",
+        "name": "Everton",
+        "hash": "e756feed",
+        "league": "english-premier-league"
+      },
+      "liverpool": {
+        "slug": "liverpool",
+        "name": "Liverpool FC",
+        "hash": "bc7f4063",
+        "league": "english-premier-league"
+      },
+      "manchester-city": {
+        "slug": "manchester-city",
+        "name": "Manchester City",
+        "hash": "ef1fe757",
+        "league": "english-premier-league"
+      },
+      "manchester-united": {
+        "slug": "manchester-united",
+        "name": "Manchester United",
+        "hash": "92071bee",
+        "league": "english-premier-league"
+      },
+      "newcastle": {
+        "slug": "newcastle",
+        "name": "Newcastle",
+        "hash": "9d4dbaa7",
+        "league": "english-premier-league"
+      },
+      "tottenham": {
+        "slug": "tottenham",
+        "name": "Tottenham",
+        "hash": "e9f48315",
+        "league": "english-premier-league"
+      },
+      "bournemouth": {
+        "slug": "bournemouth",
+        "name": "Bournemouth",
+        "hash": "2205e81a",
+        "league": "english-premier-league"
+      },
+      "brentford": {
+        "slug": "brentford",
+        "name": "Brentford",
+        "hash": "b03c55b5",
+        "league": "english-premier-league"
+      },
+      "brighton": {
+        "slug": "brighton",
+        "name": "Brighton",
+        "hash": "b97367b5",
+        "league": "english-premier-league"
+      },
+      "coventry-city": {
+        "slug": "coventry-city",
+        "name": "Coventry City",
+        "hash": "7985d41e",
+        "league": "english-premier-league"
+      },
+      "crystal-palace": {
+        "slug": "crystal-palace",
+        "name": "Crystal Palace",
+        "hash": "feda4790",
+        "league": "english-premier-league"
+      },
+      "fulham": {
+        "slug": "fulham",
+        "name": "Fulham",
+        "hash": "a93cda89",
+        "league": "english-premier-league"
+      },
+      "hull-city": {
+        "slug": "hull-city",
+        "name": "Hull City",
+        "hash": "423e44b7",
+        "league": "english-premier-league"
+      },
+      "ipswich": {
+        "slug": "ipswich",
+        "name": "Ipswich",
+        "hash": "ccd782fd",
+        "league": "english-premier-league"
+      },
+      "leeds-united": {
+        "slug": "leeds-united",
+        "name": "Leeds United",
+        "hash": "ce857129",
+        "league": "english-premier-league"
+      },
+      "nottingham-forest": {
+        "slug": "nottingham-forest",
+        "name": "Nottingham Forest",
+        "hash": "9a083644",
+        "league": "english-premier-league"
+      },
+      "sunderland": {
+        "slug": "sunderland",
+        "name": "Sunderland",
+        "hash": "7a86e5ee",
+        "league": "english-premier-league"
+      },
+      "west-ham": {
+        "slug": "west-ham",
+        "name": "West Ham",
+        "hash": "4d2a7059",
+        "league": "efl-championship"
+      },
+      "birmingham": {
+        "slug": "birmingham",
+        "name": "Birmingham City",
+        "hash": "01ee7d16",
+        "league": "efl-championship"
+      },
+      "blackburn-rovers": {
+        "slug": "blackburn-rovers",
+        "name": "Blackburn Rovers",
+        "hash": "ee76cacd",
+        "league": "efl-championship"
+      },
+      "bolton": {
+        "slug": "bolton",
+        "name": "Bolton Wanderers",
+        "hash": "2325da44",
+        "league": "efl-championship"
+      },
+      "bristol-city": {
+        "slug": "bristol-city",
+        "name": "Bristol City",
+        "hash": "e2a1b10c",
+        "league": "efl-championship"
+      },
+      "burnley": {
+        "slug": "burnley",
+        "name": "Burnley",
+        "hash": "f2860dab",
+        "league": "efl-championship"
+      },
+      "cardiff-city": {
+        "slug": "cardiff-city",
+        "name": "Cardiff City",
+        "hash": "9d2e831b",
+        "league": "efl-championship"
+      },
+      "charlton": {
+        "slug": "charlton",
+        "name": "Charlton Athletic",
+        "hash": "b2fc09ca",
+        "league": "efl-championship"
+      },
+      "derby-county": {
+        "slug": "derby-county",
+        "name": "Derby County",
+        "hash": "a5de8e7f",
+        "league": "efl-championship"
+      },
+      "lincoln-city": {
+        "slug": "lincoln-city",
+        "name": "Lincoln City",
+        "hash": "e378c6ba",
+        "league": "efl-championship"
+      },
+      "middlesbrough": {
+        "slug": "middlesbrough",
+        "name": "Middlesbrough",
+        "hash": "0d854b0d",
+        "league": "efl-championship"
+      },
+      "millwall": {
+        "slug": "millwall",
+        "name": "Millwall",
+        "hash": "85df2ce1",
+        "league": "efl-championship"
+      },
+      "norwich-city": {
+        "slug": "norwich-city",
+        "name": "Norwich City",
+        "hash": "1cfd3035",
+        "league": "efl-championship"
+      },
+      "portsmouth": {
+        "slug": "portsmouth",
+        "name": "Portsmouth",
+        "hash": "7c77b912",
+        "league": "efl-championship"
+      },
+      "preston-north-end": {
+        "slug": "preston-north-end",
+        "name": "Preston North End",
+        "hash": "38d5b86b",
+        "league": "efl-championship"
+      },
+      "queens-park-rangers": {
+        "slug": "queens-park-rangers",
+        "name": "Queens Park Rangers",
+        "hash": "b0cd3c55",
+        "league": "efl-championship"
+      },
+      "sheffield-united": {
+        "slug": "sheffield-united",
+        "name": "Sheffield United",
+        "hash": "cf5c3cb1",
+        "league": "efl-championship"
+      },
+      "southampton": {
+        "slug": "southampton",
+        "name": "Southampton",
+        "hash": "5ffcd4b9",
+        "league": "efl-championship"
+      },
+      "stoke-city": {
+        "slug": "stoke-city",
+        "name": "Stoke City",
+        "hash": "7a85b65b",
+        "league": "efl-championship"
+      },
+      "swansea-city": {
+        "slug": "swansea-city",
+        "name": "Swansea City",
+        "hash": "8428b77a",
+        "league": "efl-championship"
+      },
+      "watford": {
+        "slug": "watford",
+        "name": "Watford",
+        "hash": "fb8d3d5a",
+        "league": "efl-championship"
+      },
+      "west-bromwich-albion": {
+        "slug": "west-bromwich-albion",
+        "name": "West Bromwich Albion",
+        "hash": "5b44749d",
+        "league": "efl-championship"
+      },
+      "wolves": {
+        "slug": "wolves",
+        "name": "Wolverhampton Wanderers",
+        "hash": "93806795",
+        "league": "efl-championship"
+      },
+      "wrexham": {
+        "slug": "wrexham",
+        "name": "Wrexham AFC",
+        "hash": "d83ddbbd",
+        "league": "efl-championship"
+      },
+      "afc-wimbledon": {
+        "slug": "afc-wimbledon",
+        "name": "AFC Wimbledon",
+        "hash": "a950c036",
+        "league": "efl-league-one"
+      },
+      "barnsley": {
+        "slug": "barnsley",
+        "name": "Barnsley",
+        "hash": "ec98274a",
+        "league": "efl-league-one"
+      },
+      "blackpool": {
+        "slug": "blackpool",
+        "name": "Blackpool",
+        "hash": "c1655dde",
+        "league": "efl-league-one"
+      },
+      "bradford": {
+        "slug": "bradford",
+        "name": "Bradford City",
+        "hash": "3b81b49c",
+        "league": "efl-league-one"
+      },
+      "bromley": {
+        "slug": "bromley",
+        "name": "Bromley",
+        "hash": "d58af6e6",
+        "league": "efl-league-one"
+      },
+      "burton": {
+        "slug": "burton",
+        "name": "Burton Albion",
+        "hash": "56206a7c",
+        "league": "efl-league-one"
+      },
+      "cambridge-united": {
+        "slug": "cambridge-united",
+        "name": "Cambridge United",
+        "hash": "e2e1d138",
+        "league": "efl-league-one"
+      },
+      "doncaster-rovers": {
+        "slug": "doncaster-rovers",
+        "name": "Doncaster Rovers",
+        "hash": "a03682f1",
+        "league": "efl-league-one"
+      },
+      "huddersfield": {
+        "slug": "huddersfield",
+        "name": "Huddersfield Town",
+        "hash": "38e991c2",
+        "league": "efl-league-one"
+      },
+      "leicester": {
+        "slug": "leicester",
+        "name": "Leicester",
+        "hash": "b8fa3e74",
+        "league": "efl-league-one"
+      },
+      "leyton-orient": {
+        "slug": "leyton-orient",
+        "name": "Leyton Orient",
+        "hash": "1d142d9c",
+        "league": "efl-league-one"
+      },
+      "luton-town": {
+        "slug": "luton-town",
+        "name": "Luton Town",
+        "hash": "38529057",
+        "league": "efl-league-one"
+      },
+      "mansfield": {
+        "slug": "mansfield",
+        "name": "Mansfield Town",
+        "hash": "24d6e796",
+        "league": "efl-league-one"
+      },
+      "mk-dons": {
+        "slug": "mk-dons",
+        "name": "Milton Keynes Dons",
+        "hash": "b2775141",
+        "league": "efl-league-one"
+      },
+      "notts-county": {
+        "slug": "notts-county",
+        "name": "Notts County",
+        "hash": "94fa0080",
+        "league": "efl-league-one"
+      },
+      "oxford-united": {
+        "slug": "oxford-united",
+        "name": "Oxford United",
+        "hash": "a0d84f90",
+        "league": "efl-league-one"
+      },
+      "peterborough": {
+        "slug": "peterborough",
+        "name": "Peterborough United",
+        "hash": "8886d0d9",
+        "league": "efl-league-one"
+      },
+      "plymouth-argyle": {
+        "slug": "plymouth-argyle",
+        "name": "Plymouth Argyle",
+        "hash": "7de2ffcd",
+        "league": "efl-league-one"
+      },
+      "reading": {
+        "slug": "reading",
+        "name": "Reading",
+        "hash": "c23ba703",
+        "league": "efl-league-one"
+      },
+      "sheffield-wednesday": {
+        "slug": "sheffield-wednesday",
+        "name": "Sheffield Wednesday",
+        "hash": "7ad23c20",
+        "league": "efl-league-one"
+      },
+      "stevenage": {
+        "slug": "stevenage",
+        "name": "Stevenage",
+        "hash": "7f8ae196",
+        "league": "efl-league-one"
+      },
+      "stockport-county": {
+        "slug": "stockport-county",
+        "name": "Stockport County",
+        "hash": "1c90fcc8",
+        "league": "efl-league-one"
+      },
+      "wigan": {
+        "slug": "wigan",
+        "name": "Wigan Athletic",
+        "hash": "b29a239b",
+        "league": "efl-league-one"
+      },
+      "wycombe": {
+        "slug": "wycombe",
+        "name": "Wycombe Wanderers",
+        "hash": "f629e0bd",
+        "league": "efl-league-one"
+      },
+      "accrington": {
+        "slug": "accrington",
+        "name": "Accrington Stanley",
+        "hash": "0580509e",
+        "league": "efl-league-two"
+      },
+      "barnet": {
+        "slug": "barnet",
+        "name": "Barnet",
+        "hash": "3de75949",
+        "league": "efl-league-two"
+      },
+      "bristol-rovers": {
+        "slug": "bristol-rovers",
+        "name": "Bristol Rovers",
+        "hash": "c9dd65b3",
+        "league": "efl-league-two"
+      },
+      "chesterfield": {
+        "slug": "chesterfield",
+        "name": "Chesterfield",
+        "hash": "8b84fda3",
+        "league": "efl-league-two"
+      },
+      "cheltenham": {
+        "slug": "cheltenham",
+        "name": "Cheltenham Town",
+        "hash": "b277aeb1",
+        "league": "efl-league-two"
+      },
+      "colchester": {
+        "slug": "colchester",
+        "name": "Colchester United",
+        "hash": "501b67b9",
+        "league": "efl-league-two"
+      },
+      "crawley-town": {
+        "slug": "crawley-town",
+        "name": "Crawley Town",
+        "hash": "3a7dc933",
+        "league": "efl-league-two"
+      },
+      "crewe": {
+        "slug": "crewe",
+        "name": "Crewe Alexandra",
+        "hash": "fdea6f6a",
+        "league": "efl-league-two"
+      },
+      "exeter": {
+        "slug": "exeter",
+        "name": "Exeter City",
+        "hash": "fedc7d73",
+        "league": "efl-league-two"
+      },
+      "fleetwood-town": {
+        "slug": "fleetwood-town",
+        "name": "Fleetwood Town",
+        "hash": "53eceee2",
+        "league": "efl-league-two"
+      },
+      "gillingham": {
+        "slug": "gillingham",
+        "name": "Gillingham",
+        "hash": "01dc4e87",
+        "league": "efl-league-two"
+      },
+      "grimsby": {
+        "slug": "grimsby",
+        "name": "Grimsby Town",
+        "hash": "9576a6a0",
+        "league": "efl-league-two"
+      },
+      "newport": {
+        "slug": "newport",
+        "name": "Newport County",
+        "hash": "347c0533",
+        "league": "efl-league-two"
+      },
+      "northampton": {
+        "slug": "northampton",
+        "name": "Northampton Town",
+        "hash": "0cadc12f",
+        "league": "efl-league-two"
+      },
+      "oldham": {
+        "slug": "oldham",
+        "name": "Oldham Athletic",
+        "hash": "1c42f515",
+        "league": "efl-league-two"
+      },
+      "port-vale": {
+        "slug": "port-vale",
+        "name": "Port Vale FC",
+        "hash": "0a8c7769",
+        "league": "efl-league-two"
+      },
+      "rochdale": {
+        "slug": "rochdale",
+        "name": "Rochdale",
+        "hash": "099369ab",
+        "league": "efl-league-two"
+      },
+      "rotherham": {
+        "slug": "rotherham",
+        "name": "Rotherham United",
+        "hash": "9d61351c",
+        "league": "efl-league-two"
+      },
+      "salford-city": {
+        "slug": "salford-city",
+        "name": "Salford City",
+        "hash": "d77e5e1b",
+        "league": "efl-league-two"
+      },
+      "shrewsbury": {
+        "slug": "shrewsbury",
+        "name": "Shrewsbury Town",
+        "hash": "41248d2c",
+        "league": "efl-league-two"
+      },
+      "swindon-town": {
+        "slug": "swindon-town",
+        "name": "Swindon Town",
+        "hash": "6a6cc94e",
+        "league": "efl-league-two"
+      },
+      "tranmere": {
+        "slug": "tranmere",
+        "name": "Tranmere Rovers",
+        "hash": "bc3814a5",
+        "league": "efl-league-two"
+      },
+      "walsall": {
+        "slug": "walsall",
+        "name": "Walsall",
+        "hash": "44782539",
+        "league": "efl-league-two"
+      },
+      "york": {
+        "slug": "york",
+        "name": "York City",
+        "hash": "6e5989bf",
+        "league": "efl-league-two"
+      },
+      "afc-fylde": {
+        "slug": "afc-fylde",
+        "name": "AFC Fylde",
+        "hash": "86a03aa6",
+        "league": "national-league"
+      },
+      "aldershot-town": {
+        "slug": "aldershot-town",
+        "name": "Aldershot Town",
+        "hash": "b84048b2",
+        "league": "national-league"
+      },
+      "altrincham": {
+        "slug": "altrincham",
+        "name": "Altrincham FC",
+        "hash": "1b214f1c",
+        "league": "national-league"
+      },
+      "barrow": {
+        "slug": "barrow",
+        "name": "Barrow AFC",
+        "hash": "408c2094",
+        "league": "national-league"
+      },
+      "boreham-wood": {
+        "slug": "boreham-wood",
+        "name": "Boreham Wood",
+        "hash": "59ae72ed",
+        "league": "national-league"
+      },
+      "boston-united": {
+        "slug": "boston-united",
+        "name": "Boston United",
+        "hash": "4e805c72",
+        "league": "national-league"
+      },
+      "carlisle": {
+        "slug": "carlisle",
+        "name": "Carlisle United",
+        "hash": "71fa0396",
+        "league": "national-league"
+      },
+      "eastleigh": {
+        "slug": "eastleigh",
+        "name": "Eastleigh",
+        "hash": "a64298ee",
+        "league": "national-league"
+      },
+      "forest-green-rovers": {
+        "slug": "forest-green-rovers",
+        "name": "Forest Green Rovers",
+        "hash": "e623159f",
+        "league": "national-league"
+      },
+      "gateshead": {
+        "slug": "gateshead",
+        "name": "Gateshead FC",
+        "hash": "4bb6ac0c",
+        "league": "national-league"
+      },
+      "halifax-town": {
+        "slug": "halifax-town",
+        "name": "FC Halifax Town",
+        "hash": "2d535409",
+        "league": "national-league"
+      },
+      "harrogate-town": {
+        "slug": "harrogate-town",
+        "name": "Harrogate Town",
+        "hash": "f7b47644",
+        "league": "national-league"
+      },
+      "hartlepool": {
+        "slug": "hartlepool",
+        "name": "Hartlepool United",
+        "hash": "5f69643c",
+        "league": "national-league"
+      },
+      "scunthorpe": {
+        "slug": "scunthorpe",
+        "name": "Scunthorpe United",
+        "hash": "b7f8d28e",
+        "league": "national-league"
+      },
+      "southend": {
+        "slug": "southend",
+        "name": "Southend United",
+        "hash": "f51caeaf",
+        "league": "national-league"
+      },
+      "sutton-united": {
+        "slug": "sutton-united",
+        "name": "Sutton United",
+        "hash": "807f5024",
+        "league": "national-league"
+      },
+      "solihull-moors": {
+        "slug": "solihull-moors",
+        "name": "Solihull Moors",
+        "hash": "21e43b96",
+        "league": "national-league"
+      },
+      "tamworth": {
+        "slug": "tamworth",
+        "name": "Tamworth",
+        "hash": "7432b21e",
+        "league": "national-league"
+      },
+      "wealdstone": {
+        "slug": "wealdstone",
+        "name": "Wealdstone",
+        "hash": "07a41a70",
+        "league": "national-league"
+      },
+      "woking": {
+        "slug": "woking",
+        "name": "Woking FC",
+        "hash": "a14bac44",
+        "league": "national-league"
+      },
+      "yeovil": {
+        "slug": "yeovil",
+        "name": "Yeovil Town",
+        "hash": "f63f42cb",
+        "league": "national-league"
+      },
+      "kidderminster-harriers": {
+        "slug": "kidderminster-harriers",
+        "name": "Kidderminster Harriers",
+        "hash": "57881ff3",
+        "league": "national-league"
+      },
+      "hornchurch": {
+        "slug": "hornchurch",
+        "name": "Hornchurch",
+        "hash": "288d2955",
+        "league": "national-league"
+      },
+      "worthing": {
+        "slug": "worthing",
+        "name": "Worthing",
+        "hash": "dc7a7f5c",
+        "league": "national-league"
+      },
+      "afc-telford-united": {
+        "slug": "afc-telford-united",
+        "name": "AFC Telford United",
+        "hash": "624c26c9",
+        "league": "national-league-north"
+      },
+      "brackley-town": {
+        "slug": "brackley-town",
+        "name": "Brackley Town",
+        "hash": "b503054a",
+        "league": "national-league-north"
+      },
+      "buxton": {
+        "slug": "buxton",
+        "name": "Buxton",
+        "hash": "233a84ea",
+        "league": "national-league-north"
+      },
+      "chester-fc": {
+        "slug": "chester-fc",
+        "name": "Chester FC",
+        "hash": "6edb5185",
+        "league": "national-league-north"
+      },
+      "macclesfield": {
+        "slug": "macclesfield",
+        "name": "Macclesfield",
+        "hash": "7555d9c8",
+        "league": "national-league-north"
+      },
+      "morecambe": {
+        "slug": "morecambe",
+        "name": "Morecambe",
+        "hash": "1b26f9d3",
+        "league": "national-league-north"
+      },
+      "spennymoor-town": {
+        "slug": "spennymoor-town",
+        "name": "Spennymoor Town",
+        "hash": "d8e61ea0",
+        "league": "national-league-north"
+      },
+      "south-shields": {
+        "slug": "south-shields",
+        "name": "South Shields",
+        "hash": "8174e842",
+        "league": "national-league-north"
+      },
+      "darlington": {
+        "slug": "darlington",
+        "name": "Darlington",
+        "hash": "a2017e11",
+        "league": "national-league-north"
+      },
+      "radcliffe": {
+        "slug": "radcliffe",
+        "name": "Radcliffe",
+        "hash": "99088a24",
+        "league": "national-league-north"
+      },
+      "scarborough-athletic": {
+        "slug": "scarborough-athletic",
+        "name": "Scarborough Athletic",
+        "hash": "50a5cab4",
+        "league": "national-league-north"
+      },
+      "marine": {
+        "slug": "marine",
+        "name": "Marine",
+        "hash": "c2b6358a",
+        "league": "national-league-north"
+      },
+      "chorley": {
+        "slug": "chorley",
+        "name": "Chorley",
+        "hash": "b3284f6a",
+        "league": "national-league-north"
+      },
+      "bedford-town": {
+        "slug": "bedford-town",
+        "name": "Bedford Town",
+        "hash": "b131ebb8",
+        "league": "national-league-north"
+      },
+      "worksop-town": {
+        "slug": "worksop-town",
+        "name": "Worksop Town",
+        "hash": "d0951c61",
+        "league": "national-league-north"
+      },
+      "southport": {
+        "slug": "southport",
+        "name": "Southport",
+        "hash": "588042fd",
+        "league": "national-league-north"
+      },
+      "kings-lynn-town": {
+        "slug": "kings-lynn-town",
+        "name": "King's Lynn Town",
+        "hash": "e745e355",
+        "league": "national-league-north"
+      },
+      "oxford-city": {
+        "slug": "oxford-city",
+        "name": "Oxford City",
+        "hash": "2d51a25a",
+        "league": "national-league-north"
+      },
+      "hereford-fc": {
+        "slug": "hereford-fc",
+        "name": "Hereford FC",
+        "hash": "b7339c00",
+        "league": "national-league-north"
+      },
+      "hednesford-town": {
+        "slug": "hednesford-town",
+        "name": "Hednesford Town FC",
+        "hash": "bfc0400f",
+        "league": "national-league-north"
+      },
+      "harborough-town": {
+        "slug": "harborough-town",
+        "name": "Harborough Town",
+        "hash": "d314a318",
+        "league": "national-league-north"
+      },
+      "hebburn-town": {
+        "slug": "hebburn-town",
+        "name": "Hebburn Town",
+        "hash": "f5907b83",
+        "league": "national-league-north"
+      },
+      "spalding-united": {
+        "slug": "spalding-united",
+        "name": "Spalding United",
+        "hash": "7ed9a120",
+        "league": "national-league-north"
+      },
+      "afc-totton": {
+        "slug": "afc-totton",
+        "name": "AFC Totton",
+        "hash": "1abfcf18",
+        "league": "national-league-south"
+      },
+      "braintree-town": {
+        "slug": "braintree-town",
+        "name": "Braintree Town",
+        "hash": "2d3dad1b",
+        "league": "national-league-south"
+      },
+      "chelmsford-city": {
+        "slug": "chelmsford-city",
+        "name": "Chelmsford City",
+        "hash": "839bde86",
+        "league": "national-league-south"
+      },
+      "chesham": {
+        "slug": "chesham",
+        "name": "Chesham United",
+        "hash": "59ab30d2",
+        "league": "national-league-south"
+      },
+      "dover-athletic": {
+        "slug": "dover-athletic",
+        "name": "Dover Athletic",
+        "hash": "5ffce5ee",
+        "league": "national-league-south"
+      },
+      "ebbsfleet-united": {
+        "slug": "ebbsfleet-united",
+        "name": "Ebbsfleet United",
+        "hash": "9085564e",
+        "league": "national-league-south"
+      },
+      "hemel-hempstead-town": {
+        "slug": "hemel-hempstead-town",
+        "name": "Hemel Hempstead Town",
+        "hash": "65d4f74b",
+        "league": "national-league-south"
+      },
+      "maidenhead": {
+        "slug": "maidenhead",
+        "name": "Maidenhead United",
+        "hash": "26c97830",
+        "league": "national-league-south"
+      },
+      "maidstone": {
+        "slug": "maidstone",
+        "name": "Maidstone United",
+        "hash": "396aab35",
+        "league": "national-league-south"
+      },
+      "slough-town": {
+        "slug": "slough-town",
+        "name": "Slough Town",
+        "hash": "66f6e227",
+        "league": "national-league-south"
+      },
+      "torquay-united": {
+        "slug": "torquay-united",
+        "name": "Torquay United",
+        "hash": "a8147831",
+        "league": "national-league-south"
+      },
+      "truro-city": {
+        "slug": "truro-city",
+        "name": "Truro City",
+        "hash": "74c794a1",
+        "league": "national-league-south"
+      },
+      "weston-super-mare": {
+        "slug": "weston-super-mare",
+        "name": "Weston Super Mare",
+        "hash": "7428b77b",
+        "league": "national-league-south"
+      },
+      "dorking-wanderers": {
+        "slug": "dorking-wanderers",
+        "name": "Dorking Wanderers",
+        "hash": "cf697c2e",
+        "league": "national-league-south"
+      },
+      "horsham": {
+        "slug": "horsham",
+        "name": "Horsham",
+        "hash": "563cf017",
+        "league": "national-league-south"
+      },
+      "dagenham-and-redbridge": {
+        "slug": "dagenham-and-redbridge",
+        "name": "Dagenham & Redbridge",
+        "hash": "07fcb4ff",
+        "league": "national-league-south"
+      },
+      "tonbridge-angels": {
+        "slug": "tonbridge-angels",
+        "name": "Tonbridge Angels",
+        "hash": "d2f70c25",
+        "league": "national-league-south"
+      },
+      "salisbury": {
+        "slug": "salisbury",
+        "name": "Salisbury FC",
+        "hash": "7a1143c1",
+        "league": "national-league-south"
+      },
+      "hampton-and-richmond": {
+        "slug": "hampton-and-richmond",
+        "name": "Hampton & Richmond Borough",
+        "hash": "f240c513",
+        "league": "national-league-south"
+      },
+      "farnborough": {
+        "slug": "farnborough",
+        "name": "Farnborough",
+        "hash": "19176a19",
+        "league": "national-league-south"
+      },
+      "billericay-town": {
+        "slug": "billericay-town",
+        "name": "Billericay Town",
+        "hash": "c2ea5f55",
+        "league": "national-league-south"
+      },
+      "farnham-town": {
+        "slug": "farnham-town",
+        "name": "Farnham Town",
+        "hash": "32618238",
+        "league": "national-league-south"
+      },
+      "folkestone-invicta": {
+        "slug": "folkestone-invicta",
+        "name": "Folkestone Invicta",
+        "hash": "d3c0c6cd",
+        "league": "national-league-south"
+      },
+      "walton-hersham": {
+        "slug": "walton-hersham",
+        "name": "Walton & Hersham",
+        "hash": "4743c4c1",
+        "league": "national-league-south"
+      },
+      "chatham-town": {
+        "slug": "chatham-town",
+        "name": "Chatham Town",
+        "hash": "407d83f8",
+        "league": "isthmian-league"
+      },
+      "st-albans-city": {
+        "slug": "st-albans-city",
+        "name": "St Albans City",
+        "hash": "849874ed",
+        "league": "isthmian-league"
+      },
+      "whitehawk": {
+        "slug": "whitehawk",
+        "name": "Whitehawk",
+        "hash": "3e49be28",
+        "league": "isthmian-league"
+      },
+      "enfield-town": {
+        "slug": "enfield-town",
+        "name": "Enfield Town",
+        "hash": "bb60d7d9",
+        "league": "isthmian-league"
+      },
+      "eastbourne-borough": {
+        "slug": "eastbourne-borough",
+        "name": "Eastbourne Borough",
+        "hash": "06438b83",
+        "league": "isthmian-league"
+      },
+      "carshalton-athletic": {
+        "slug": "carshalton-athletic",
+        "name": "Carshalton Athletic",
+        "hash": "d2273a3c",
+        "league": "isthmian-league"
+      },
+      "aveley": {
+        "slug": "aveley",
+        "name": "Aveley",
+        "hash": "83b84bb1",
+        "league": "isthmian-league"
+      },
+      "brentwood-town": {
+        "slug": "brentwood-town",
+        "name": "Brentwood Town",
+        "hash": "4d6d5102",
+        "league": "isthmian-league"
+      },
+      "burgess-hill-town": {
+        "slug": "burgess-hill-town",
+        "name": "Burgess Hill Town",
+        "hash": "8267f4b4",
+        "league": "isthmian-league"
+      },
+      "cheshunt": {
+        "slug": "cheshunt",
+        "name": "Cheshunt",
+        "hash": "ccc0562d",
+        "league": "isthmian-league"
+      },
+      "cray-wanderers": {
+        "slug": "cray-wanderers",
+        "name": "Cray Wanderers",
+        "hash": "cf6d7c73",
+        "league": "isthmian-league"
+      },
+      "dartford": {
+        "slug": "dartford",
+        "name": "Dartford",
+        "hash": "e302cc86",
+        "league": "isthmian-league"
+      },
+      "dulwich-hamlet": {
+        "slug": "dulwich-hamlet",
+        "name": "Dulwich Hamlet",
+        "hash": "37a3c990",
+        "league": "isthmian-league"
+      },
+      "leatherhead": {
+        "slug": "leatherhead",
+        "name": "Leatherhead",
+        "hash": "7e3d440a",
+        "league": "isthmian-league"
+      },
+      "lewes": {
+        "slug": "lewes",
+        "name": "Lewes",
+        "hash": "a2dc9dbd",
+        "league": "isthmian-league"
+      },
+      "maldon-tiptree": {
+        "slug": "maldon-tiptree",
+        "name": "Maldon & Tiptree",
+        "hash": "107b0b0f",
+        "league": "isthmian-league"
+      },
+      "ramsgate": {
+        "slug": "ramsgate",
+        "name": "Ramsgate",
+        "hash": "9bcaf299",
+        "league": "isthmian-league"
+      },
+      "stanway-rovers": {
+        "slug": "stanway-rovers",
+        "name": "Stanway Rovers",
+        "hash": "a060ebb6",
+        "league": "isthmian-league"
+      },
+      "three-bridges": {
+        "slug": "three-bridges",
+        "name": "Three Bridges",
+        "hash": "b2178ee2",
+        "league": "isthmian-league"
+      },
+      "welling-united": {
+        "slug": "welling-united",
+        "name": "Welling United",
+        "hash": "57977796",
+        "league": "isthmian-league"
+      },
+      "afc-whyteleafe": {
+        "slug": "afc-whyteleafe",
+        "name": "AFC Whyteleafe",
+        "hash": "930db441",
+        "league": "isthmian-league"
+      },
+      "wingate-finchley": {
+        "slug": "wingate-finchley",
+        "name": "Wingate & Finchley",
+        "hash": "7bc02cd1",
+        "league": "isthmian-league"
+      },
+      "bury": {
+        "slug": "bury",
+        "name": "Bury",
+        "hash": "ab03b99d",
+        "league": "northern-premier-league"
+      },
+      "gainsborough-trinity": {
+        "slug": "gainsborough-trinity",
+        "name": "Gainsborough Trinity",
+        "hash": "b36d63f4",
+        "league": "northern-premier-league"
+      },
+      "united-of-manchester": {
+        "slug": "united-of-manchester",
+        "name": "FC United of Manchester",
+        "hash": "324bfb8b",
+        "league": "northern-premier-league"
+      },
+      "curzon-ashton": {
+        "slug": "curzon-ashton",
+        "name": "Curzon Ashton",
+        "hash": "ca00db73",
+        "league": "northern-premier-league"
+      },
+      "alfreton-town": {
+        "slug": "alfreton-town",
+        "name": "Alfreton Town",
+        "hash": "6631527c",
+        "league": "northern-premier-league"
+      },
+      "ashton-united": {
+        "slug": "ashton-united",
+        "name": "Ashton United",
+        "hash": "fdaea05f",
+        "league": "northern-premier-league"
+      },
+      "avro-fc": {
+        "slug": "avro-fc",
+        "name": "Avro FC",
+        "hash": "16b032a4",
+        "league": "northern-premier-league"
+      },
+      "bamber-bridge": {
+        "slug": "bamber-bridge",
+        "name": "Bamber Bridge",
+        "hash": "3bcd0984",
+        "league": "northern-premier-league"
+      },
+      "cleethorpes-town": {
+        "slug": "cleethorpes-town",
+        "name": "Cleethorpes Town",
+        "hash": "7f4bd4a1",
+        "league": "northern-premier-league"
+      },
+      "emley-afc": {
+        "slug": "emley-afc",
+        "name": "Emley AFC",
+        "hash": "830cbc63",
+        "league": "northern-premier-league"
+      },
+      "guiseley-afc": {
+        "slug": "guiseley-afc",
+        "name": "Guiseley AFC",
+        "hash": "ad98b9bf",
+        "league": "northern-premier-league"
+      },
+      "hyde-united": {
+        "slug": "hyde-united",
+        "name": "Hyde United",
+        "hash": "c7a3ea4a",
+        "league": "northern-premier-league"
+      },
+      "ilkeston-town": {
+        "slug": "ilkeston-town",
+        "name": "Ilkeston Town",
+        "hash": "3ee70658",
+        "league": "northern-premier-league"
+      },
+      "lancaster-city": {
+        "slug": "lancaster-city",
+        "name": "Lancaster City",
+        "hash": "13cbddca",
+        "league": "northern-premier-league"
+      },
+      "leek-town": {
+        "slug": "leek-town",
+        "name": "Leek Town",
+        "hash": "0bb2891a",
+        "league": "northern-premier-league"
+      },
+      "quorn": {
+        "slug": "quorn",
+        "name": "Quorn",
+        "hash": "fd848c70",
+        "league": "northern-premier-league"
+      },
+      "redcar-athletic": {
+        "slug": "redcar-athletic",
+        "name": "Redcar Athletic",
+        "hash": "14dfad4b",
+        "league": "northern-premier-league"
+      },
+      "stockton-town": {
+        "slug": "stockton-town",
+        "name": "Stockton Town",
+        "hash": "c7271447",
+        "league": "northern-premier-league"
+      },
+      "warrington-rylands": {
+        "slug": "warrington-rylands",
+        "name": "Warrington Rylands",
+        "hash": "c18a02ac",
+        "league": "northern-premier-league"
+      },
+      "warrington-town": {
+        "slug": "warrington-town",
+        "name": "Warrington Town",
+        "hash": "992dac65",
+        "league": "northern-premier-league"
+      },
+      "whitby-town": {
+        "slug": "whitby-town",
+        "name": "Whitby Town",
+        "hash": "ca22f504",
+        "league": "northern-premier-league"
+      },
+      "workington-afc": {
+        "slug": "workington-afc",
+        "name": "Workington AFC",
+        "hash": "a41ae458",
+        "league": "northern-premier-league"
+      },
+      "bath-city": {
+        "slug": "bath-city",
+        "name": "Bath City",
+        "hash": "caa314f1",
+        "league": "southern-football-league-premier-south"
+      },
+      "chippenham-town": {
+        "slug": "chippenham-town",
+        "name": "Chippenham Town",
+        "hash": "1c05a4df",
+        "league": "southern-football-league-premier-south"
+      },
+      "sholing-fc": {
+        "slug": "sholing-fc",
+        "name": "Sholing FC",
+        "hash": "f2666126",
+        "league": "southern-football-league-premier-south"
+      },
+      "frome-town": {
+        "slug": "frome-town",
+        "name": "Frome Town",
+        "hash": "bda146ac",
+        "league": "southern-football-league-premier-south"
+      },
+      "chertsey-town": {
+        "slug": "chertsey-town",
+        "name": "Chertsey Town",
+        "hash": "8fdb16d3",
+        "league": "southern-football-league-premier-south"
+      },
+      "uxbridge": {
+        "slug": "uxbridge",
+        "name": "Uxbridge",
+        "hash": "cbce3ae6",
+        "league": "southern-football-league-premier-south"
+      },
+      "hanworth-villa": {
+        "slug": "hanworth-villa",
+        "name": "Hanworth Villa",
+        "hash": "05994ec2",
+        "league": "southern-football-league-premier-south"
+      },
+      "plymouth-parkway": {
+        "slug": "plymouth-parkway",
+        "name": "Plymouth Parkway",
+        "hash": "85b3176e",
+        "league": "southern-football-league-premier-south"
+      },
+      "hanwell-town": {
+        "slug": "hanwell-town",
+        "name": "Hanwell Town",
+        "hash": "49c18674",
+        "league": "southern-football-league-premier-south"
+      },
+      "yate-town": {
+        "slug": "yate-town",
+        "name": "Yate Town",
+        "hash": "2eb7f783",
+        "league": "southern-football-league-premier-south"
+      },
+      "taunton-town": {
+        "slug": "taunton-town",
+        "name": "Taunton Town",
+        "hash": "83eed1f7",
+        "league": "southern-football-league-premier-south"
+      },
+      "chichester-city": {
+        "slug": "chichester-city",
+        "name": "Chichester City",
+        "hash": "dd107911",
+        "league": "southern-football-league-premier-south"
+      },
+      "poole-town": {
+        "slug": "poole-town",
+        "name": "Poole Town",
+        "hash": "e8353b7e",
+        "league": "southern-football-league-premier-south"
+      },
+      "berkhamsted": {
+        "slug": "berkhamsted",
+        "name": "Berkhamsted",
+        "hash": "59881b08",
+        "league": "southern-football-league-premier-south"
+      },
+      "evesham-united": {
+        "slug": "evesham-united",
+        "name": "Evesham United",
+        "hash": "4fe195a3",
+        "league": "southern-football-league-premier-south"
+      },
+      "bracknell-town": {
+        "slug": "bracknell-town",
+        "name": "Bracknell Town",
+        "hash": "4b1fedbf",
+        "league": "southern-football-league-premier-south"
+      },
+      "malvern-town": {
+        "slug": "malvern-town",
+        "name": "Malvern Town",
+        "hash": "023eb752",
+        "league": "southern-football-league-premier-south"
+      },
+      "gloucester-city": {
+        "slug": "gloucester-city",
+        "name": "Gloucester City",
+        "hash": "0bd3946c",
+        "league": "southern-football-league-premier-south"
+      },
+      "gosport-borough": {
+        "slug": "gosport-borough",
+        "name": "Gosport Borough",
+        "hash": "fddac4b9",
+        "league": "southern-football-league-premier-south"
+      },
+      "basingstoke-town": {
+        "slug": "basingstoke-town",
+        "name": "Basingstoke Town",
+        "hash": "47342b11",
+        "league": "southern-football-league-premier-south"
+      },
+      "wimborne-town": {
+        "slug": "wimborne-town",
+        "name": "Wimborne Town",
+        "hash": "30cbcd6e",
+        "league": "southern-football-league-premier-south"
+      },
+      "havant-and-waterlooville": {
+        "slug": "havant-and-waterlooville",
+        "name": "Havant & Waterlooville",
+        "hash": "fab1f097",
+        "league": "southern-football-league-premier-south"
+      },
+      "peterborough-sports": {
+        "slug": "peterborough-sports",
+        "name": "Peterborough Sports",
+        "hash": "25473d26",
+        "league": "southern-football-league-premier-central"
+      },
+      "leamington": {
+        "slug": "leamington",
+        "name": "Leamington",
+        "hash": "ae6f6e4f",
+        "league": "southern-football-league-premier-central"
+      },
+      "real-bedford": {
+        "slug": "real-bedford",
+        "name": "Real Bedford",
+        "hash": "b6f2e6fb",
+        "league": "southern-football-league-premier-central"
+      },
+      "bury-town": {
+        "slug": "bury-town",
+        "name": "Bury Town",
+        "hash": "437f288e",
+        "league": "southern-football-league-premier-central"
+      },
+      "kettering-town": {
+        "slug": "kettering-town",
+        "name": "Kettering Town",
+        "hash": "c2d200f9",
+        "league": "southern-football-league-premier-central"
+      },
+      "alvechurch": {
+        "slug": "alvechurch",
+        "name": "Alvechurch",
+        "hash": "dc7c6a5f",
+        "league": "southern-football-league-premier-central"
+      },
+      "stourbridge": {
+        "slug": "stourbridge",
+        "name": "Stourbridge",
+        "hash": "69b1923f",
+        "league": "southern-football-league-premier-central"
+      },
+      "bromsgrove-sporting": {
+        "slug": "bromsgrove-sporting",
+        "name": "Bromsgrove Sporting",
+        "hash": "d68e92f0",
+        "league": "southern-football-league-premier-central"
+      },
+      "rushall-olympic": {
+        "slug": "rushall-olympic",
+        "name": "Rushall Olympic",
+        "hash": "7a593a29",
+        "league": "southern-football-league-premier-central"
+      },
+      "anstey-nomads": {
+        "slug": "anstey-nomads",
+        "name": "Anstey Nomads",
+        "hash": "e49d0fcd",
+        "league": "southern-football-league-premier-central"
+      },
+      "leighton-town": {
+        "slug": "leighton-town",
+        "name": "Leighton Town",
+        "hash": "5ff034d4",
+        "league": "southern-football-league-premier-central"
+      },
+      "leiston": {
+        "slug": "leiston",
+        "name": "Leiston",
+        "hash": "f720b748",
+        "league": "southern-football-league-premier-central"
+      },
+      "racing-club-warwick": {
+        "slug": "racing-club-warwick",
+        "name": "Racing Club Warwick",
+        "hash": "a38c3c60",
+        "league": "southern-football-league-premier-central"
+      },
+      "banbury-united": {
+        "slug": "banbury-united",
+        "name": "Banbury United",
+        "hash": "4a80da99",
+        "league": "southern-football-league-premier-central"
+      },
+      "redditch-united": {
+        "slug": "redditch-united",
+        "name": "Redditch United",
+        "hash": "d50a1824",
+        "league": "southern-football-league-premier-central"
+      },
+      "halesowen-town": {
+        "slug": "halesowen-town",
+        "name": "Halesowen Town",
+        "hash": "128ff14e",
+        "league": "southern-football-league-premier-central"
+      },
+      "needham-market": {
+        "slug": "needham-market",
+        "name": "Needham Market",
+        "hash": "02a85902",
+        "league": "southern-football-league-premier-central"
+      },
+      "stratford-town": {
+        "slug": "stratford-town",
+        "name": "Stratford Town",
+        "hash": "3d8aa02b",
+        "league": "southern-football-league-premier-central"
+      },
+      "hitchin-town": {
+        "slug": "hitchin-town",
+        "name": "Hitchin Town",
+        "hash": "792af100",
+        "league": "southern-football-league-premier-central"
+      },
+      "worcester-city": {
+        "slug": "worcester-city",
+        "name": "Worcester City",
+        "hash": "034097e6",
+        "league": "southern-football-league-premier-central"
+      },
+      "bishops-stortford": {
+        "slug": "bishops-stortford",
+        "name": "Bishop's Stortford",
+        "hash": "63ec3f1b",
+        "league": "southern-football-league-premier-central"
+      },
+      "stamford-afc": {
+        "slug": "stamford-afc",
+        "name": "Stamford AFC",
+        "hash": "e9a3a21c",
+        "league": "southern-football-league-premier-central"
+      },
+      "didcot-town": {
+        "slug": "didcot-town",
+        "name": "Didcot Town",
+        "hash": "3bac2362",
+        "league": "southern-football-league-division-one-central"
+      },
+      "biggleswade-fc": {
+        "slug": "biggleswade-fc",
+        "name": "Biggleswade FC",
+        "hash": "c8cfa210",
+        "league": "southern-football-league-division-one-central"
+      },
+      "hadley": {
+        "slug": "hadley",
+        "name": "Hadley",
+        "hash": "03f1ddab",
+        "league": "southern-football-league-division-one-central"
+      },
+      "hertford-town": {
+        "slug": "hertford-town",
+        "name": "Hertford Town",
+        "hash": "d3c0c27f",
+        "league": "southern-football-league-division-one-central"
+      },
+      "royston-town": {
+        "slug": "royston-town",
+        "name": "Royston Town",
+        "hash": "0933500d",
+        "league": "southern-football-league-division-one-central"
+      },
+      "stotfold": {
+        "slug": "stotfold",
+        "name": "Stotfold",
+        "hash": "ebaa3999",
+        "league": "southern-football-league-division-one-central"
+      },
+      "thame-united": {
+        "slug": "thame-united",
+        "name": "Thame United",
+        "hash": "7b35d391",
+        "league": "southern-football-league-division-one-central"
+      },
+      "waltham-abbey": {
+        "slug": "waltham-abbey",
+        "name": "Waltham Abbey",
+        "hash": "30146c71",
+        "league": "southern-football-league-division-one-central"
+      },
+      "aylesbury-united": {
+        "slug": "aylesbury-united",
+        "name": "Aylesbury United",
+        "hash": "7fc3e8d6",
+        "league": "southern-football-league-division-one-central"
+      },
+      "barton-rovers": {
+        "slug": "barton-rovers",
+        "name": "Barton Rovers",
+        "hash": "5c512a49",
+        "league": "southern-football-league-division-one-central"
+      },
+      "beaconsfield-town": {
+        "slug": "beaconsfield-town",
+        "name": "Beaconsfield Town",
+        "hash": "75938146",
+        "league": "southern-football-league-division-one-central"
+      },
+      "biggleswade-town": {
+        "slug": "biggleswade-town",
+        "name": "Biggleswade Town",
+        "hash": "58db5455",
+        "league": "southern-football-league-division-one-central"
+      },
+      "flackwell-heath": {
+        "slug": "flackwell-heath",
+        "name": "Flackwell Heath",
+        "hash": "e790ace8",
+        "league": "southern-football-league-division-one-central"
+      },
+      "haringey-borough": {
+        "slug": "haringey-borough",
+        "name": "Haringey Borough",
+        "hash": "fc5afa85",
+        "league": "southern-football-league-division-one-central"
+      },
+      "leverstock-green": {
+        "slug": "leverstock-green",
+        "name": "Leverstock Green",
+        "hash": "2c102050",
+        "league": "southern-football-league-division-one-central"
+      },
+      "london-lions": {
+        "slug": "london-lions",
+        "name": "London Lions",
+        "hash": "9c69bbaf",
+        "league": "southern-football-league-division-one-central"
+      },
+      "marlow": {
+        "slug": "marlow",
+        "name": "Marlow",
+        "hash": "8757c945",
+        "league": "southern-football-league-division-one-central"
+      },
+      "milton-keynes-irish": {
+        "slug": "milton-keynes-irish",
+        "name": "Milton Keynes Irish",
+        "hash": "75814716",
+        "league": "southern-football-league-division-one-central"
+      },
+      "potters-bar-town": {
+        "slug": "potters-bar-town",
+        "name": "Potters Bar Town",
+        "hash": "339797b7",
+        "league": "southern-football-league-division-one-central"
+      },
+      "ware": {
+        "slug": "ware",
+        "name": "Ware",
+        "hash": "c377c5eb",
+        "league": "southern-football-league-division-one-central"
+      },
+      "welwyn-garden-city": {
+        "slug": "welwyn-garden-city",
+        "name": "Welwyn Garden City",
+        "hash": "84f44e69",
+        "league": "southern-football-league-division-one-central"
+      },
+      "winslow-united": {
+        "slug": "winslow-united",
+        "name": "Winslow United",
+        "hash": "98468e96",
+        "league": "southern-football-league-division-one-central"
+      },
+      "barwell": {
+        "slug": "barwell",
+        "name": "Barwell",
+        "hash": "9d669dff",
+        "league": ""
+      },
+      "northwich-victoria": {
+        "slug": "northwich-victoria",
+        "name": "Northwich Victoria",
+        "hash": "29980da1",
+        "league": ""
+      },
+      "afc-richmond": {
+        "slug": "afc-richmond",
+        "name": "AFC Richmond",
+        "hash": "afc10753",
+        "league": ""
+      },
+      "hashtag-united": {
+        "slug": "hashtag-united",
+        "name": "Hashtag United",
+        "hash": "54af4fc8",
+        "league": ""
+      },
+      "st-helens-town": {
+        "slug": "st-helens-town",
+        "name": "St Helens Town FC",
+        "hash": "0e1f0097",
+        "league": ""
+      },
+      "fc-st-helens": {
+        "slug": "fc-st-helens",
+        "name": "FC St Helens",
+        "hash": "00a23fd9",
+        "league": ""
+      },
+      "pilkington": {
+        "slug": "pilkington",
+        "name": "Pilkington FC",
+        "hash": "9ad540b2",
+        "league": ""
+      },
+      "diss-town": {
+        "slug": "diss-town",
+        "name": "Diss Town",
+        "hash": "078a4602",
+        "league": ""
+      },
+      "stansted-fc": {
+        "slug": "stansted-fc",
+        "name": "Stansted FC",
+        "hash": "36efbfd4",
+        "league": ""
+      },
+      "romford-fc": {
+        "slug": "romford-fc",
+        "name": "Romford FC",
+        "hash": "e897f18b",
+        "league": ""
+      },
+      "afc-stoneham": {
+        "slug": "afc-stoneham",
+        "name": "AFC Stoneham",
+        "hash": "5063c81e",
+        "league": ""
+      },
+      "whitley-bay-fc": {
+        "slug": "whitley-bay-fc",
+        "name": "Whitley Bay FC",
+        "hash": "231f5550",
+        "league": ""
+      },
+      "ascot-united-fc": {
+        "slug": "ascot-united-fc",
+        "name": "Ascot United FC",
+        "hash": "6bde9f60",
+        "league": ""
+      },
+      "shaftesbury-fc": {
+        "slug": "shaftesbury-fc",
+        "name": "Shaftesbury FC",
+        "hash": "c7812e5b",
+        "league": ""
+      },
+      "abbey-rangers": {
+        "slug": "abbey-rangers",
+        "name": "Abbey Rangers",
+        "hash": "97e996eb",
+        "league": ""
+      },
+      "afc-sudbury": {
+        "slug": "afc-sudbury",
+        "name": "AFC Sudbury",
+        "hash": "447c61e9",
+        "league": ""
+      },
+      "ashford-town-middlesex": {
+        "slug": "ashford-town-middlesex",
+        "name": "Ashford Town (Middlesex)",
+        "hash": "120d1e53",
+        "league": ""
+      },
+      "barton-town": {
+        "slug": "barton-town",
+        "name": "Barton Town",
+        "hash": "1335555a",
+        "league": ""
+      },
+      "bewdley-town": {
+        "slug": "bewdley-town",
+        "name": "Bewdley Town",
+        "hash": "a7846e56",
+        "league": ""
+      },
+      "blyth-spartans": {
+        "slug": "blyth-spartans",
+        "name": "Blyth Spartans",
+        "hash": "ee3d2580",
+        "league": ""
+      },
+      "brighouse-town": {
+        "slug": "brighouse-town",
+        "name": "Brighouse Town",
+        "hash": "fa0ff929",
+        "league": ""
+      },
+      "canvey-island": {
+        "slug": "canvey-island",
+        "name": "Canvey Island",
+        "hash": "bdd80d6d",
+        "league": ""
+      },
+      "carlton-town": {
+        "slug": "carlton-town",
+        "name": "Carlton Town",
+        "hash": "ce1021d4",
+        "league": ""
+      },
+      "chipstead": {
+        "slug": "chipstead",
+        "name": "Chipstead",
+        "hash": "95959c6b",
+        "league": ""
+      },
+      "cockfosters": {
+        "slug": "cockfosters",
+        "name": "Cockfosters",
+        "hash": "4de9ec3e",
+        "league": ""
+      },
+      "concord-rangers": {
+        "slug": "concord-rangers",
+        "name": "Concord Rangers",
+        "hash": "4f9c4174",
+        "league": ""
+      },
+      "cray-valley-paper-mills": {
+        "slug": "cray-valley-paper-mills",
+        "name": "Cray Valley Paper Mills",
+        "hash": "9ce9d95d",
+        "league": ""
+      },
+      "crowborough-athletic": {
+        "slug": "crowborough-athletic",
+        "name": "Crowborough Athletic",
+        "hash": "d5d02f9d",
+        "league": ""
+      },
+      "east-grinstead-town": {
+        "slug": "east-grinstead-town",
+        "name": "East Grinstead Town",
+        "hash": "91f00c91",
+        "league": ""
+      },
+      "erith-and-belvedere": {
+        "slug": "erith-and-belvedere",
+        "name": "Erith & Belvedere",
+        "hash": "9f716f8a",
+        "league": ""
+      },
+      "exeter-city-women": {
+        "slug": "exeter-city-women",
+        "name": "Exeter City Women",
+        "hash": "555654bc",
+        "league": ""
+      },
+      "felixstowe-and-walton-united": {
+        "slug": "felixstowe-and-walton-united",
+        "name": "Felixstowe & Walton United",
+        "hash": "58b989bb",
+        "league": ""
+      },
+      "frickley-athletic": {
+        "slug": "frickley-athletic",
+        "name": "Frickley Athletic",
+        "hash": "77e02722",
+        "league": ""
+      },
+      "harlow-town": {
+        "slug": "harlow-town",
+        "name": "Harlow Town",
+        "hash": "ff17eb63",
+        "league": ""
+      },
+      "hassocks": {
+        "slug": "hassocks",
+        "name": "Hassocks",
+        "hash": "40ef8dcc",
+        "league": ""
+      },
+      "hayes-and-yeading-united": {
+        "slug": "hayes-and-yeading-united",
+        "name": "Hayes & Yeading United",
+        "hash": "005a48d7",
+        "league": ""
+      },
+      "herne-bay": {
+        "slug": "herne-bay",
+        "name": "Herne Bay",
+        "hash": "26d689cd",
+        "league": ""
+      },
+      "heybridge-swifts": {
+        "slug": "heybridge-swifts",
+        "name": "Heybridge Swifts",
+        "hash": "f689440a",
+        "league": ""
+      },
+      "highgate-united": {
+        "slug": "highgate-united",
+        "name": "Highgate United",
+        "hash": "7c4a353e",
+        "league": ""
+      },
+      "hucknall-town": {
+        "slug": "hucknall-town",
+        "name": "Hucknall Town",
+        "hash": "a55d8a17",
+        "league": ""
+      },
+      "ilford": {
+        "slug": "ilford",
+        "name": "Ilford",
+        "hash": "db238c87",
+        "league": ""
+      },
+      "kidsgrove-athletic": {
+        "slug": "kidsgrove-athletic",
+        "name": "Kidsgrove Athletic",
+        "hash": "e3e9c656",
+        "league": ""
+      },
+      "liversedge": {
+        "slug": "liversedge",
+        "name": "Liversedge",
+        "hash": "8e0c177b",
+        "league": ""
+      },
+      "london-city-lionesses": {
+        "slug": "london-city-lionesses",
+        "name": "London City Lionesses",
+        "hash": "c3ca2791",
+        "league": ""
+      },
+      "matlock-town": {
+        "slug": "matlock-town",
+        "name": "Matlock Town",
+        "hash": "90958b1e",
+        "league": ""
+      },
+      "molesey": {
+        "slug": "molesey",
+        "name": "Molesey",
+        "hash": "61dc6001",
+        "league": ""
+      },
+      "mousehole": {
+        "slug": "mousehole",
+        "name": "Mousehole",
+        "hash": "546e7be7",
+        "league": ""
+      },
+      "newhaven": {
+        "slug": "newhaven",
+        "name": "Newhaven",
+        "hash": "6ce04f60",
+        "league": ""
+      },
+      "newton-aycliffe": {
+        "slug": "newton-aycliffe",
+        "name": "Newton Aycliffe",
+        "hash": "bbe75f84",
+        "league": ""
+      },
+      "okehampton-argyle": {
+        "slug": "okehampton-argyle",
+        "name": "Okehampton Argyle",
+        "hash": "555b8e60",
+        "league": ""
+      },
+      "ossett-united": {
+        "slug": "ossett-united",
+        "name": "Ossett United",
+        "hash": "e12faa31",
+        "league": ""
+      },
+      "paulton-rovers": {
+        "slug": "paulton-rovers",
+        "name": "Paulton Rovers",
+        "hash": "d8b3d819",
+        "league": ""
+      },
+      "peacehaven-and-telscombe": {
+        "slug": "peacehaven-and-telscombe",
+        "name": "Peacehaven & Telscombe",
+        "hash": "29f92d62",
+        "league": ""
+      },
+      "pickering-town": {
+        "slug": "pickering-town",
+        "name": "Pickering Town",
+        "hash": "47d004f9",
+        "league": ""
+      },
+      "royal-wootton-bassett-town": {
+        "slug": "royal-wootton-bassett-town",
+        "name": "Royal Wootton Bassett Town",
+        "hash": "3df05075",
+        "league": ""
+      },
+      "rugby-town": {
+        "slug": "rugby-town",
+        "name": "Rugby Town",
+        "hash": "a6359bd4",
+        "league": ""
+      },
+      "sittingbourne": {
+        "slug": "sittingbourne",
+        "name": "Sittingbourne",
+        "hash": "528c5d0f",
+        "league": ""
+      },
+      "southall": {
+        "slug": "southall",
+        "name": "Southall",
+        "hash": "b2b5441c",
+        "league": ""
+      },
+      "st-ives-town": {
+        "slug": "st-ives-town",
+        "name": "St Ives Town",
+        "hash": "354e4b0c",
+        "league": ""
+      },
+      "stocksbridge-park-steels": {
+        "slug": "stocksbridge-park-steels",
+        "name": "Stocksbridge Park Steels",
+        "hash": "7f96fb4d",
+        "league": ""
+      },
+      "sutton-coldfield-town": {
+        "slug": "sutton-coldfield-town",
+        "name": "Sutton Coldfield Town",
+        "hash": "b92154e8",
+        "league": ""
+      },
+      "westbury-united": {
+        "slug": "westbury-united",
+        "name": "Westbury United",
+        "hash": "8206d0db",
+        "league": ""
+      },
+      "whitstable-town": {
+        "slug": "whitstable-town",
+        "name": "Whitstable Town",
+        "hash": "e00da91c",
+        "league": ""
+      },
+      "willand-rovers": {
+        "slug": "willand-rovers",
+        "name": "Willand Rovers",
+        "hash": "bdf78bb6",
+        "league": ""
+      },
+      "witham-town": {
+        "slug": "witham-town",
+        "name": "Witham Town",
+        "hash": "62d08865",
+        "league": ""
+      },
+      "woodford-town": {
+        "slug": "woodford-town",
+        "name": "Woodford Town",
+        "hash": "3f7bb363",
+        "league": ""
+      }
+    }
+  }
+}

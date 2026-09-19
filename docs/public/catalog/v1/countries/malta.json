@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "malta",
+    "iso2": "MT",
+    "name": "Malta",
+    "defaultLeague": "malta-national-team",
+    "leagues": {
+      "malta-national-team": {
+        "slug": "malta-national-team",
+        "name": "Malta National Team",
+        "hash": "73858b09",
+        "kind": "league",
+        "code": "MT"
+      }
+    },
+    "clubs": {
+      "balzan": {
+        "slug": "balzan",
+        "name": "Balzan",
+        "hash": "0c1c788b",
+        "league": ""
+      },
+      "birkirkara": {
+        "slug": "birkirkara",
+        "name": "Birkirkara",
+        "hash": "c6a8c2c5",
+        "league": ""
+      },
+      "floriana": {
+        "slug": "floriana",
+        "name": "Floriana",
+        "hash": "ff480c2f",
+        "league": ""
+      },
+      "gudja": {
+        "slug": "gudja",
+        "name": "Gudja",
+        "hash": "6470321e",
+        "league": ""
+      },
+      "gzira": {
+        "slug": "gzira",
+        "name": "Gżira",
+        "hash": "4c3b8e2a",
+        "league": ""
+      },
+      "hamrun-spartans": {
+        "slug": "hamrun-spartans",
+        "name": "Hamrun Spartans",
+        "hash": "97dd8157",
+        "league": ""
+      },
+      "hibernians": {
+        "slug": "hibernians",
+        "name": "Hibernians",
+        "hash": "d05437e7",
+        "league": ""
+      },
+      "lija": {
+        "slug": "lija",
+        "name": "Lija",
+        "hash": "055197e8",
+        "league": ""
+      },
+      "marsa": {
+        "slug": "marsa",
+        "name": "Marsa",
+        "hash": "62eed028",
+        "league": ""
+      },
+      "marsaxlokk": {
+        "slug": "marsaxlokk",
+        "name": "Marsaxlokk",
+        "hash": "7a912b51",
+        "league": ""
+      },
+      "mosta": {
+        "slug": "mosta",
+        "name": "Mosta",
+        "hash": "2cf25cde",
+        "league": ""
+      },
+      "pieta": {
+        "slug": "pieta",
+        "name": "Pietà",
+        "hash": "c7b6c7ac",
+        "league": ""
+      },
+      "santa-lucia": {
+        "slug": "santa-lucia",
+        "name": "Santa Lucia",
+        "hash": "6da5a15e",
+        "league": ""
+      },
+      "senglea": {
+        "slug": "senglea",
+        "name": "Senglea",
+        "hash": "3072592c",
+        "league": ""
+      },
+      "sliema": {
+        "slug": "sliema",
+        "name": "Sliema",
+        "hash": "e422d9e2",
+        "league": ""
+      },
+      "st-andrews": {
+        "slug": "st-andrews",
+        "name": "St Andrews",
+        "hash": "e0644a07",
+        "league": ""
+      },
+      "tarxien": {
+        "slug": "tarxien",
+        "name": "Tarxien",
+        "hash": "ac9b4301",
+        "league": ""
+      },
+      "valletta": {
+        "slug": "valletta",
+        "name": "Valletta",
+        "hash": "31cfc1cc",
+        "league": ""
+      },
+      "zejtun-corinthians": {
+        "slug": "zejtun-corinthians",
+        "name": "Zejtun Corinthians",
+        "hash": "17dc00d7",
+        "league": ""
+      }
+    }
+  }
+}

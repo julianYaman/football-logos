@@ -1,0 +1,279 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "norway",
+    "iso2": "NO",
+    "name": "Norway",
+    "defaultLeague": "eliteserien",
+    "leagues": {
+      "eliteserien": {
+        "slug": "eliteserien",
+        "name": "Eliteserien",
+        "hash": "4ffe28e9",
+        "kind": "league",
+        "code": "NO"
+      },
+      "norwegian-first-division": {
+        "slug": "norwegian-first-division",
+        "name": "Norwegian First Division",
+        "hash": "d451c55a",
+        "kind": "league"
+      },
+      "norway-national-team": {
+        "slug": "norway-national-team",
+        "name": "Norway National Team",
+        "hash": "45b68be8",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "aalesund": {
+        "slug": "aalesund",
+        "name": "Aalesund",
+        "hash": "c06db914",
+        "league": "eliteserien"
+      },
+      "bodo-glimt": {
+        "slug": "bodo-glimt",
+        "name": "Bodø/Glimt",
+        "hash": "fe74dab6",
+        "league": "eliteserien"
+      },
+      "brann": {
+        "slug": "brann",
+        "name": "Brann",
+        "hash": "6de88a92",
+        "league": "eliteserien"
+      },
+      "fredrikstad": {
+        "slug": "fredrikstad",
+        "name": "Fredrikstad",
+        "hash": "2228d209",
+        "league": "eliteserien"
+      },
+      "hamkam": {
+        "slug": "hamkam",
+        "name": "Hamarkameratene",
+        "hash": "49484fdb",
+        "league": "eliteserien"
+      },
+      "kfum": {
+        "slug": "kfum",
+        "name": "KFUM",
+        "hash": "43abef20",
+        "league": "eliteserien"
+      },
+      "kristiansund": {
+        "slug": "kristiansund",
+        "name": "Kristiansund",
+        "hash": "c8bcb60e",
+        "league": "eliteserien"
+      },
+      "lillestrom": {
+        "slug": "lillestrom",
+        "name": "Lillestrøm",
+        "hash": "2586f8a0",
+        "league": "eliteserien"
+      },
+      "molde": {
+        "slug": "molde",
+        "name": "Molde",
+        "hash": "59cecef1",
+        "league": "eliteserien"
+      },
+      "rosenborg": {
+        "slug": "rosenborg",
+        "name": "Rosenborg",
+        "hash": "1e5f8548",
+        "league": "eliteserien"
+      },
+      "sandefjord": {
+        "slug": "sandefjord",
+        "name": "Sandefjord",
+        "hash": "dd8b70fc",
+        "league": "eliteserien"
+      },
+      "sarpsborg": {
+        "slug": "sarpsborg",
+        "name": "Sarpsborg 08",
+        "hash": "8419b91d",
+        "league": "eliteserien"
+      },
+      "start": {
+        "slug": "start",
+        "name": "IK Start",
+        "hash": "3cee15f2",
+        "league": "eliteserien"
+      },
+      "tromso": {
+        "slug": "tromso",
+        "name": "Tromsø",
+        "hash": "f72e1041",
+        "league": "eliteserien"
+      },
+      "valerenga": {
+        "slug": "valerenga",
+        "name": "Vålerenga",
+        "hash": "211fd731",
+        "league": "eliteserien"
+      },
+      "viking": {
+        "slug": "viking",
+        "name": "Viking FK",
+        "hash": "4ddfedf6",
+        "league": "eliteserien"
+      },
+      "bryne": {
+        "slug": "bryne",
+        "name": "Bryne",
+        "hash": "00bf82e0",
+        "league": "norwegian-first-division"
+      },
+      "hodd": {
+        "slug": "hodd",
+        "name": "Hødd",
+        "hash": "4f6fb409",
+        "league": "norwegian-first-division"
+      },
+      "haugesund": {
+        "slug": "haugesund",
+        "name": "Haugesund",
+        "hash": "5446682c",
+        "league": "norwegian-first-division"
+      },
+      "kongsvinger": {
+        "slug": "kongsvinger",
+        "name": "Kongsvinger",
+        "hash": "5f317e9a",
+        "league": "norwegian-first-division"
+      },
+      "lyn": {
+        "slug": "lyn",
+        "name": "Lyn 1896 FK",
+        "hash": "b0f058de",
+        "league": "norwegian-first-division"
+      },
+      "moss": {
+        "slug": "moss",
+        "name": "Moss FK",
+        "hash": "08c43d8c",
+        "league": "norwegian-first-division"
+      },
+      "odd": {
+        "slug": "odd",
+        "name": "Odd",
+        "hash": "7c49ce79",
+        "league": "norwegian-first-division"
+      },
+      "stabaek": {
+        "slug": "stabaek",
+        "name": "Stabæk",
+        "hash": "de73890f",
+        "league": "norwegian-first-division"
+      },
+      "stromsgodset": {
+        "slug": "stromsgodset",
+        "name": "Strømsgodset",
+        "hash": "9986fa52",
+        "league": "norwegian-first-division"
+      },
+      "sandnes-ulf": {
+        "slug": "sandnes-ulf",
+        "name": "Sandnes Ulf",
+        "hash": "9b294649",
+        "league": "norwegian-first-division"
+      },
+      "ranheim-fotball": {
+        "slug": "ranheim-fotball",
+        "name": "Ranheim Fotball",
+        "hash": "32187e9f",
+        "league": "norwegian-first-division"
+      },
+      "egersunds-ik": {
+        "slug": "egersunds-ik",
+        "name": "Egersunds IK",
+        "hash": "7529d642",
+        "league": "norwegian-first-division"
+      },
+      "sogndal-fotball": {
+        "slug": "sogndal-fotball",
+        "name": "Sogndal Fotball",
+        "hash": "e676c9b6",
+        "league": "norwegian-first-division"
+      },
+      "raufoss-il": {
+        "slug": "raufoss-il",
+        "name": "Raufoss IL",
+        "hash": "88fbc26a",
+        "league": "norwegian-first-division"
+      },
+      "asane-fotball": {
+        "slug": "asane-fotball",
+        "name": "Åsane Fotball",
+        "hash": "e09d3c6b",
+        "league": "norwegian-first-division"
+      },
+      "strommen-if": {
+        "slug": "strommen-if",
+        "name": "Strømmen IF",
+        "hash": "bb02c088",
+        "league": "norwegian-first-division"
+      },
+      "jerv": {
+        "slug": "jerv",
+        "name": "Jerv",
+        "hash": "fadd5bf9",
+        "league": ""
+      },
+      "mjondalen": {
+        "slug": "mjondalen",
+        "name": "Mjøndalen",
+        "hash": "4b2846eb",
+        "league": ""
+      },
+      "skeid": {
+        "slug": "skeid",
+        "name": "Skeid",
+        "hash": "17e9a17e",
+        "league": ""
+      },
+      "alta-if": {
+        "slug": "alta-if",
+        "name": "Alta IF",
+        "hash": "1b37ae83",
+        "league": ""
+      },
+      "fagerborg-bk": {
+        "slug": "fagerborg-bk",
+        "name": "Fagerborg BK",
+        "hash": "926e5085",
+        "league": ""
+      },
+      "follo-fk": {
+        "slug": "follo-fk",
+        "name": "Follo FK",
+        "hash": "9e238a59",
+        "league": ""
+      },
+      "gamle-oslo-fk": {
+        "slug": "gamle-oslo-fk",
+        "name": "Gamle Oslo FK",
+        "hash": "6abee785",
+        "league": ""
+      },
+      "oslojuvelene-fk": {
+        "slug": "oslojuvelene-fk",
+        "name": "Oslojuvelene FK",
+        "hash": "4e033563",
+        "league": ""
+      },
+      "teisen-if": {
+        "slug": "teisen-if",
+        "name": "Teisen IF",
+        "hash": "e0009c7a",
+        "league": ""
+      }
+    }
+  }
+}

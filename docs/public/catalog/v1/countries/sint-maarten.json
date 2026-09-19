@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "sint-maarten",
+    "iso2": "SX",
+    "name": "Sint Maarten",
+    "defaultLeague": "sint-maarten-national-team",
+    "leagues": {
+      "sint-maarten-national-team": {
+        "slug": "sint-maarten-national-team",
+        "name": "Sint Maarten National Team",
+        "hash": "3a45bb60",
+        "kind": "league",
+        "code": "SX"
+      }
+    },
+    "clubs": {}
+  }
+}

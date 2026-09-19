@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "laos",
+    "iso2": "LA",
+    "name": "Laos",
+    "defaultLeague": "laos-national-team",
+    "leagues": {
+      "laos-national-team": {
+        "slug": "laos-national-team",
+        "name": "Laos National Team",
+        "hash": "98d25ee2",
+        "kind": "league",
+        "code": "LA"
+      }
+    },
+    "clubs": {}
+  }
+}

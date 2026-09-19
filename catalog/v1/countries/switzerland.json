@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "switzerland",
+    "iso2": "CH",
+    "name": "Switzerland",
+    "defaultLeague": "swiss-football-league",
+    "leagues": {
+      "swiss-football-league": {
+        "slug": "swiss-football-league",
+        "name": "Swiss Super League",
+        "hash": "1d8f9f9d",
+        "kind": "league",
+        "code": "CH"
+      },
+      "swiss-challenge-league": {
+        "slug": "swiss-challenge-league",
+        "name": "Swiss Challenge League",
+        "hash": "9e0822e9",
+        "kind": "league"
+      },
+      "switzerland-national-team": {
+        "slug": "switzerland-national-team",
+        "name": "Switzerland National Team",
+        "hash": "3f12a8c9",
+        "kind": "league"
+      },
+      "swiss-football-association": {
+        "slug": "swiss-football-association",
+        "name": "Swiss Football Association",
+        "hash": "7996d790",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "basel": {
+        "slug": "basel",
+        "name": "Basel",
+        "hash": "99b798f8",
+        "league": "swiss-football-league"
+      },
+      "grasshoppers": {
+        "slug": "grasshoppers",
+        "name": "Grasshoppers",
+        "hash": "c6a4f69c",
+        "league": "swiss-football-league"
+      },
+      "lausanne-sport": {
+        "slug": "lausanne-sport",
+        "name": "Lausanne-Sport",
+        "hash": "cf5ab94b",
+        "league": "swiss-football-league"
+      },
+      "lugano": {
+        "slug": "lugano",
+        "name": "Lugano",
+        "hash": "52be62f2",
+        "league": "swiss-football-league"
+      },
+      "luzern": {
+        "slug": "luzern",
+        "name": "Luzern",
+        "hash": "c5c17994",
+        "league": "swiss-football-league"
+      },
+      "servette": {
+        "slug": "servette",
+        "name": "Servette",
+        "hash": "b887bd40",
+        "league": "swiss-football-league"
+      },
+      "sion": {
+        "slug": "sion",
+        "name": "Sion",
+        "hash": "484c1bc5",
+        "league": "swiss-football-league"
+      },
+      "st-gallen": {
+        "slug": "st-gallen",
+        "name": "St. Gallen",
+        "hash": "558aaf7a",
+        "league": "swiss-football-league"
+      },
+      "thun": {
+        "slug": "thun",
+        "name": "Thun",
+        "hash": "5710e301",
+        "league": "swiss-football-league"
+      },
+      "young-boys": {
+        "slug": "young-boys",
+        "name": "Young Boys",
+        "hash": "973a42d9",
+        "league": "swiss-football-league"
+      },
+      "zurich": {
+        "slug": "zurich",
+        "name": "Zürich",
+        "hash": "2873849f",
+        "league": "swiss-football-league"
+      },
+      "aarau": {
+        "slug": "aarau",
+        "name": "Aarau",
+        "hash": "72bf6e4e",
+        "league": "swiss-challenge-league"
+      },
+      "wil": {
+        "slug": "wil",
+        "name": "Wil",
+        "hash": "82a0a7dc",
+        "league": "swiss-challenge-league"
+      },
+      "winterthur": {
+        "slug": "winterthur",
+        "name": "Winterthur",
+        "hash": "839d6b33",
+        "league": "swiss-challenge-league"
+      },
+      "xamax": {
+        "slug": "xamax",
+        "name": "Xamax",
+        "hash": "904b406d",
+        "league": "swiss-challenge-league"
+      },
+      "sc-kriens": {
+        "slug": "sc-kriens",
+        "name": "SC Kriens",
+        "hash": "77c630e4",
+        "league": "swiss-challenge-league"
+      },
+      "etoile-carouge-fc": {
+        "slug": "etoile-carouge-fc",
+        "name": "Étoile Carouge FC",
+        "hash": "d76c062a",
+        "league": "swiss-challenge-league"
+      },
+      "fc-stade-nyonnais": {
+        "slug": "fc-stade-nyonnais",
+        "name": "FC Stade Nyonnais",
+        "hash": "810e3627",
+        "league": "swiss-challenge-league"
+      },
+      "yverdon-sport-fc": {
+        "slug": "yverdon-sport-fc",
+        "name": "Yverdon-Sport FC",
+        "hash": "98620894",
+        "league": "swiss-challenge-league"
+      },
+      "fc-rapperswil-jona": {
+        "slug": "fc-rapperswil-jona",
+        "name": "FC Rapperswil-Jona",
+        "hash": "9a8de1b1",
+        "league": "swiss-challenge-league"
+      },
+      "fc-stade-lausanne-ouchy": {
+        "slug": "fc-stade-lausanne-ouchy",
+        "name": "FC Stade Lausanne Ouchy",
+        "hash": "a8e44a1e",
+        "league": "swiss-challenge-league"
+      },
+      "bellinzona": {
+        "slug": "bellinzona",
+        "name": "Bellinzona",
+        "hash": "817f07c0",
+        "league": ""
+      }
+    }
+  }
+}

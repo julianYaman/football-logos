@@ -1,0 +1,1612 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "defaultSize": 512,
+  "assetBase": "https://assets.football-logos.cc/logos",
+  "countries": [
+    {
+      "slug": "afghanistan",
+      "iso2": "AF",
+      "name": "Afghanistan",
+      "defaultLeague": "afghanistan-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "albania",
+      "iso2": "AL",
+      "name": "Albania",
+      "defaultLeague": "albania-national-team",
+      "clubCount": 20
+    },
+    {
+      "slug": "algeria",
+      "iso2": "DZ",
+      "name": "Algeria",
+      "defaultLeague": "ligue-1",
+      "clubCount": 19
+    },
+    {
+      "slug": "american-samoa",
+      "iso2": "AS",
+      "name": "American Samoa",
+      "defaultLeague": "american-samoa-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "andorra",
+      "iso2": "AD",
+      "name": "Andorra",
+      "defaultLeague": "andorra-national-team",
+      "clubCount": 8
+    },
+    {
+      "slug": "angola",
+      "iso2": "AO",
+      "name": "Angola",
+      "defaultLeague": "angola-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "anguilla",
+      "iso2": "AI",
+      "name": "Anguilla",
+      "defaultLeague": "anguilla-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "antigua-and-barbuda",
+      "iso2": "AG",
+      "name": "Antigua and Barbuda",
+      "defaultLeague": "antigua-and-barbuda-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "argentina",
+      "iso2": "AR",
+      "name": "Argentina",
+      "defaultLeague": "argentina-primera-division",
+      "clubCount": 127
+    },
+    {
+      "slug": "armenia",
+      "iso2": "AM",
+      "name": "Armenia",
+      "defaultLeague": "armenian-premier-league",
+      "clubCount": 12
+    },
+    {
+      "slug": "aruba",
+      "iso2": "AW",
+      "name": "Aruba",
+      "defaultLeague": "aruba-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "australia",
+      "iso2": "AU",
+      "name": "Australia",
+      "defaultLeague": "a-league",
+      "clubCount": 15
+    },
+    {
+      "slug": "austria",
+      "iso2": "AT",
+      "name": "Austria",
+      "defaultLeague": "austrian-football-bundesliga",
+      "clubCount": 33
+    },
+    {
+      "slug": "azerbaijan",
+      "iso2": "AZ",
+      "name": "Azerbaijan",
+      "defaultLeague": "azerbaijan-premier-league",
+      "clubCount": 15
+    },
+    {
+      "slug": "bahamas",
+      "iso2": "BS",
+      "name": "Bahamas",
+      "defaultLeague": "bahamas-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "bahrain",
+      "iso2": "BH",
+      "name": "Bahrain",
+      "defaultLeague": "bahrain-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "bangladesh",
+      "iso2": "BD",
+      "name": "Bangladesh",
+      "defaultLeague": "bangladesh-football-league",
+      "clubCount": 13
+    },
+    {
+      "slug": "barbados",
+      "iso2": "BB",
+      "name": "Barbados",
+      "defaultLeague": "barbados-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "belarus",
+      "iso2": "BY",
+      "name": "Belarus",
+      "defaultLeague": "belarusian-premier-league",
+      "clubCount": 24
+    },
+    {
+      "slug": "belgium",
+      "iso2": "BE",
+      "name": "Belgium",
+      "defaultLeague": "jupiler-pro-league",
+      "clubCount": 36
+    },
+    {
+      "slug": "belize",
+      "iso2": "BZ",
+      "name": "Belize",
+      "defaultLeague": "belize-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "benin",
+      "iso2": "BJ",
+      "name": "Benin",
+      "defaultLeague": "benin-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "bermuda",
+      "iso2": "BM",
+      "name": "Bermuda",
+      "defaultLeague": "bermuda-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "bhutan",
+      "iso2": "BT",
+      "name": "Bhutan",
+      "defaultLeague": "bhutan-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "bolivia",
+      "iso2": "BO",
+      "name": "Bolivia",
+      "defaultLeague": "primera-division-de-bolivia",
+      "clubCount": 18
+    },
+    {
+      "slug": "bonaire",
+      "iso2": "BQ",
+      "name": "Bonaire",
+      "defaultLeague": "bonaire-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "bosnia-and-herzegovina",
+      "iso2": "BA",
+      "name": "Bosnia and Herzegovina",
+      "defaultLeague": "premier-league",
+      "clubCount": 18
+    },
+    {
+      "slug": "botswana",
+      "iso2": "BW",
+      "name": "Botswana",
+      "defaultLeague": "botswana-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "brazil",
+      "iso2": "BR",
+      "name": "Brazil",
+      "defaultLeague": "brazilian-serie-a",
+      "clubCount": 194
+    },
+    {
+      "slug": "british-virgin-islands",
+      "iso2": "VG",
+      "name": "British Virgin Islands",
+      "defaultLeague": "british-virgin-islands-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "brunei",
+      "iso2": "BN",
+      "name": "Brunei",
+      "defaultLeague": "brunei-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "bulgaria",
+      "iso2": "BG",
+      "name": "Bulgaria",
+      "defaultLeague": "parva-liga",
+      "clubCount": 24
+    },
+    {
+      "slug": "burkina-faso",
+      "iso2": "BF",
+      "name": "Burkina Faso",
+      "defaultLeague": "burkina-faso-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "burundi",
+      "iso2": "BI",
+      "name": "Burundi",
+      "defaultLeague": "burundi-national-team",
+      "clubCount": 1
+    },
+    {
+      "slug": "cabo-verde",
+      "iso2": "CV",
+      "name": "Cabo Verde",
+      "defaultLeague": "cabo-verde-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "cambodia",
+      "iso2": "KH",
+      "name": "Cambodia",
+      "defaultLeague": "cambodia-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "cameroon",
+      "iso2": "CM",
+      "name": "Cameroon",
+      "defaultLeague": "cameroon-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "canada",
+      "iso2": "CA",
+      "name": "Canada",
+      "defaultLeague": "canadian-premier-league",
+      "clubCount": 12
+    },
+    {
+      "slug": "catalonia",
+      "iso2": "CAT",
+      "name": "Catalonia",
+      "defaultLeague": "catalonia-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "cayman-islands",
+      "iso2": "KY",
+      "name": "Cayman Islands",
+      "defaultLeague": "cayman-islands-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "central-african-republic",
+      "iso2": "CF",
+      "name": "Central African Republic",
+      "defaultLeague": "central-african-republic-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "chad",
+      "iso2": "TD",
+      "name": "Chad",
+      "defaultLeague": "chad-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "chile",
+      "iso2": "CL",
+      "name": "Chile",
+      "defaultLeague": "liga-de-primera",
+      "clubCount": 33
+    },
+    {
+      "slug": "china",
+      "iso2": "CN",
+      "name": "China",
+      "defaultLeague": "chinese-super-league",
+      "clubCount": 19
+    },
+    {
+      "slug": "colombia",
+      "iso2": "CO",
+      "name": "Colombia",
+      "defaultLeague": "categoria-primera-a",
+      "clubCount": 24
+    },
+    {
+      "slug": "comoros",
+      "iso2": "KM",
+      "name": "Comoros",
+      "defaultLeague": "comoros-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "congo",
+      "iso2": "CG",
+      "name": "Congo",
+      "defaultLeague": "congo-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "congo-dr",
+      "iso2": "CD",
+      "name": "Congo DR",
+      "defaultLeague": "congo-dr-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "cook-islands",
+      "iso2": "CK",
+      "name": "Cook Islands",
+      "defaultLeague": "cook-islands-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "costa-rica",
+      "iso2": "CR",
+      "name": "Costa Rica",
+      "defaultLeague": "primera-division",
+      "clubCount": 12
+    },
+    {
+      "slug": "cote-d-ivoire",
+      "iso2": "CI",
+      "name": "Côte d'Ivoire",
+      "defaultLeague": "cote-d-ivoire-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "croatia",
+      "iso2": "HR",
+      "name": "Croatia",
+      "defaultLeague": "croatian-football-league",
+      "clubCount": 15
+    },
+    {
+      "slug": "cuba",
+      "iso2": "CU",
+      "name": "Cuba",
+      "defaultLeague": "cuba-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "curacao",
+      "iso2": "CW",
+      "name": "Curacao",
+      "defaultLeague": "curacao-national-team",
+      "clubCount": 1
+    },
+    {
+      "slug": "cyprus",
+      "iso2": "CY",
+      "name": "Cyprus",
+      "defaultLeague": "cypriot-first-division",
+      "clubCount": 22
+    },
+    {
+      "slug": "czech-republic",
+      "iso2": "CZ",
+      "name": "Czech Republic",
+      "defaultLeague": "chance-liga",
+      "clubCount": 38
+    },
+    {
+      "slug": "denmark",
+      "iso2": "DK",
+      "name": "Denmark",
+      "defaultLeague": "danish-super-liga",
+      "clubCount": 46
+    },
+    {
+      "slug": "djibouti",
+      "iso2": "DJ",
+      "name": "Djibouti",
+      "defaultLeague": "djibouti-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "dominica",
+      "iso2": "DM",
+      "name": "Dominica",
+      "defaultLeague": "dominica-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "dominican-republic",
+      "iso2": "DO",
+      "name": "Dominican Republic",
+      "defaultLeague": "dominican-republic-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "ecuador",
+      "iso2": "EC",
+      "name": "Ecuador",
+      "defaultLeague": "liga-pro-serie-a",
+      "clubCount": 18
+    },
+    {
+      "slug": "egypt",
+      "iso2": "EG",
+      "name": "Egypt",
+      "defaultLeague": "egyptian-premier-league",
+      "clubCount": 24
+    },
+    {
+      "slug": "el-salvador",
+      "iso2": "SV",
+      "name": "El Salvador",
+      "defaultLeague": "el-salvador-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "england",
+      "iso2": "ENG",
+      "name": "England",
+      "defaultLeague": "english-premier-league",
+      "clubCount": 339
+    },
+    {
+      "slug": "equatorial-guinea",
+      "iso2": "GQ",
+      "name": "Equatorial Guinea",
+      "defaultLeague": "equatorial-guinea-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "eritrea",
+      "iso2": "ER",
+      "name": "Eritrea",
+      "defaultLeague": "eritrea-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "estonia",
+      "iso2": "EE",
+      "name": "Estonia",
+      "defaultLeague": "premium-liiga",
+      "clubCount": 13
+    },
+    {
+      "slug": "eswatini",
+      "iso2": "SZ",
+      "name": "Eswatini",
+      "defaultLeague": "eswatini-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "ethiopia",
+      "iso2": "ET",
+      "name": "Ethiopia",
+      "defaultLeague": "ethiopia-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "faroe-islands",
+      "iso2": "FO",
+      "name": "Faroe Islands",
+      "defaultLeague": "faroe-islands-national-team",
+      "clubCount": 14
+    },
+    {
+      "slug": "fiji",
+      "iso2": "FJ",
+      "name": "Fiji",
+      "defaultLeague": "fiji-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "finland",
+      "iso2": "FI",
+      "name": "Finland",
+      "defaultLeague": "veikkausliiga",
+      "clubCount": 28
+    },
+    {
+      "slug": "france",
+      "iso2": "FR",
+      "name": "France",
+      "defaultLeague": "ligue-1",
+      "clubCount": 217
+    },
+    {
+      "slug": "french-guiana",
+      "iso2": "GF",
+      "name": "French Guiana",
+      "defaultLeague": "french-guiana-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "gabon",
+      "iso2": "GA",
+      "name": "Gabon",
+      "defaultLeague": "gabon-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "gambia",
+      "iso2": "GM",
+      "name": "Gambia",
+      "defaultLeague": "gambia-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "georgia",
+      "iso2": "GE",
+      "name": "Georgia",
+      "defaultLeague": "erovnuli-liga",
+      "clubCount": 21
+    },
+    {
+      "slug": "germany",
+      "iso2": "DE",
+      "name": "Germany",
+      "defaultLeague": "bundesliga",
+      "clubCount": 217
+    },
+    {
+      "slug": "ghana",
+      "iso2": "GH",
+      "name": "Ghana",
+      "defaultLeague": "ghana-premier-league",
+      "clubCount": 18
+    },
+    {
+      "slug": "gibraltar",
+      "iso2": "GI",
+      "name": "Gibraltar",
+      "defaultLeague": "gibraltar-national-team",
+      "clubCount": 12
+    },
+    {
+      "slug": "greece",
+      "iso2": "GR",
+      "name": "Greece",
+      "defaultLeague": "super-league-1",
+      "clubCount": 39
+    },
+    {
+      "slug": "greenland",
+      "iso2": "GL",
+      "name": "Greenland",
+      "defaultLeague": "greenland-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "grenada",
+      "iso2": "GD",
+      "name": "Grenada",
+      "defaultLeague": "grenada-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "guadeloupe",
+      "iso2": "GP",
+      "name": "Guadeloupe",
+      "defaultLeague": "guadeloupe-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "guam",
+      "iso2": "GU",
+      "name": "Guam",
+      "defaultLeague": "guam-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "guatemala",
+      "iso2": "GT",
+      "name": "Guatemala",
+      "defaultLeague": "liga-nacional-de-futbol-de-guatemala",
+      "clubCount": 12
+    },
+    {
+      "slug": "guinea",
+      "iso2": "GN",
+      "name": "Guinea",
+      "defaultLeague": "guinea-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "guinea-bissau",
+      "iso2": "GW",
+      "name": "Guinea-Bissau",
+      "defaultLeague": "guinea-bissau-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "guyana",
+      "iso2": "GY",
+      "name": "Guyana",
+      "defaultLeague": "guyana-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "haiti",
+      "iso2": "HT",
+      "name": "Haiti",
+      "defaultLeague": "haiti-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "honduras",
+      "iso2": "HN",
+      "name": "Honduras",
+      "defaultLeague": "honduras-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "hong-kong",
+      "iso2": "HK",
+      "name": "Hong Kong",
+      "defaultLeague": "hong-kong-premier-league",
+      "clubCount": 10
+    },
+    {
+      "slug": "hungary",
+      "iso2": "HU",
+      "name": "Hungary",
+      "defaultLeague": "nemzeti-bajnoksag",
+      "clubCount": 39
+    },
+    {
+      "slug": "iceland",
+      "iso2": "IS",
+      "name": "Iceland",
+      "defaultLeague": "besta-deild-karla",
+      "clubCount": 26
+    },
+    {
+      "slug": "india",
+      "iso2": "IN",
+      "name": "India",
+      "defaultLeague": "indian-super-league",
+      "clubCount": 23
+    },
+    {
+      "slug": "indonesia",
+      "iso2": "ID",
+      "name": "Indonesia",
+      "defaultLeague": "indonesian-super-league",
+      "clubCount": 53
+    },
+    {
+      "slug": "iran",
+      "iso2": "IR",
+      "name": "Iran",
+      "defaultLeague": "persian-gulf-pro-league",
+      "clubCount": 16
+    },
+    {
+      "slug": "iraq",
+      "iso2": "IQ",
+      "name": "Iraq",
+      "defaultLeague": "iraq-stars-league",
+      "clubCount": 23
+    },
+    {
+      "slug": "israel",
+      "iso2": "IL",
+      "name": "Israel",
+      "defaultLeague": "israeli-premier-league",
+      "clubCount": 24
+    },
+    {
+      "slug": "italy",
+      "iso2": "IT",
+      "name": "Italy",
+      "defaultLeague": "serie-a",
+      "clubCount": 265
+    },
+    {
+      "slug": "jamaica",
+      "iso2": "JM",
+      "name": "Jamaica",
+      "defaultLeague": "jamaica-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "japan",
+      "iso2": "JP",
+      "name": "Japan",
+      "defaultLeague": "j-league",
+      "clubCount": 60
+    },
+    {
+      "slug": "jordan",
+      "iso2": "JO",
+      "name": "Jordan",
+      "defaultLeague": "jordan-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "kazakhstan",
+      "iso2": "KZ",
+      "name": "Kazakhstan",
+      "defaultLeague": "kazakhstan-premier-league",
+      "clubCount": 20
+    },
+    {
+      "slug": "kenya",
+      "iso2": "KE",
+      "name": "Kenya",
+      "defaultLeague": "kenya-national-team",
+      "clubCount": 1
+    },
+    {
+      "slug": "kiribati",
+      "iso2": "KI",
+      "name": "Kiribati",
+      "defaultLeague": "kiribati-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "kosovo",
+      "iso2": "XK",
+      "name": "Kosovo",
+      "defaultLeague": "kosovo-national-team",
+      "clubCount": 17
+    },
+    {
+      "slug": "kurdistan",
+      "iso2": "KUR",
+      "name": "Kurdistan",
+      "defaultLeague": "kurdistan-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "kuwait",
+      "iso2": "KW",
+      "name": "Kuwait",
+      "defaultLeague": "kuwait-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "kyrgyzstan",
+      "iso2": "KG",
+      "name": "Kyrgyzstan",
+      "defaultLeague": "kyrgyzstan-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "laos",
+      "iso2": "LA",
+      "name": "Laos",
+      "defaultLeague": "laos-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "latvia",
+      "iso2": "LV",
+      "name": "Latvia",
+      "defaultLeague": "virsliga",
+      "clubCount": 14
+    },
+    {
+      "slug": "lebanon",
+      "iso2": "LB",
+      "name": "Lebanon",
+      "defaultLeague": "lebanon-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "lesotho",
+      "iso2": "LS",
+      "name": "Lesotho",
+      "defaultLeague": "lesotho-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "liberia",
+      "iso2": "LR",
+      "name": "Liberia",
+      "defaultLeague": "liberia-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "libya",
+      "iso2": "LY",
+      "name": "Libya",
+      "defaultLeague": "libya-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "liechtenstein",
+      "iso2": "LI",
+      "name": "Liechtenstein",
+      "defaultLeague": "liechtenstein-national-team",
+      "clubCount": 3
+    },
+    {
+      "slug": "lithuania",
+      "iso2": "LT",
+      "name": "Lithuania",
+      "defaultLeague": "toplyga",
+      "clubCount": 14
+    },
+    {
+      "slug": "luxembourg",
+      "iso2": "LU",
+      "name": "Luxembourg",
+      "defaultLeague": "luxembourg-national-team",
+      "clubCount": 22
+    },
+    {
+      "slug": "macau",
+      "iso2": "MO",
+      "name": "Macau",
+      "defaultLeague": "macau-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "madagascar",
+      "iso2": "MG",
+      "name": "Madagascar",
+      "defaultLeague": "madagascar-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "malawi",
+      "iso2": "MW",
+      "name": "Malawi",
+      "defaultLeague": "malawi-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "malaysia",
+      "iso2": "MY",
+      "name": "Malaysia",
+      "defaultLeague": "malaysia-national-team",
+      "clubCount": 10
+    },
+    {
+      "slug": "maldives",
+      "iso2": "MV",
+      "name": "Maldives",
+      "defaultLeague": "maldives-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "mali",
+      "iso2": "ML",
+      "name": "Mali",
+      "defaultLeague": "mali-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "malta",
+      "iso2": "MT",
+      "name": "Malta",
+      "defaultLeague": "malta-national-team",
+      "clubCount": 19
+    },
+    {
+      "slug": "martinique",
+      "iso2": "MQ",
+      "name": "Martinique",
+      "defaultLeague": "martinique-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "mauritania",
+      "iso2": "MR",
+      "name": "Mauritania",
+      "defaultLeague": "mauritania-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "mauritius",
+      "iso2": "MU",
+      "name": "Mauritius",
+      "defaultLeague": "mauritius-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "mexico",
+      "iso2": "MX",
+      "name": "Mexico",
+      "defaultLeague": "liga-mx",
+      "clubCount": 54
+    },
+    {
+      "slug": "moldova",
+      "iso2": "MD",
+      "name": "Moldova",
+      "defaultLeague": "moldovan-liga",
+      "clubCount": 10
+    },
+    {
+      "slug": "mongolia",
+      "iso2": "MN",
+      "name": "Mongolia",
+      "defaultLeague": "mongolia-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "montenegro",
+      "iso2": "ME",
+      "name": "Montenegro",
+      "defaultLeague": "montenegro-national-team",
+      "clubCount": 11
+    },
+    {
+      "slug": "montserrat",
+      "iso2": "MS",
+      "name": "Montserrat",
+      "defaultLeague": "montserrat-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "morocco",
+      "iso2": "MA",
+      "name": "Morocco",
+      "defaultLeague": "botola-pro",
+      "clubCount": 19
+    },
+    {
+      "slug": "mozambique",
+      "iso2": "MZ",
+      "name": "Mozambique",
+      "defaultLeague": "mozambique-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "myanmar",
+      "iso2": "MM",
+      "name": "Myanmar",
+      "defaultLeague": "myanmar-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "namibia",
+      "iso2": "NA",
+      "name": "Namibia",
+      "defaultLeague": "namibia-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "nauru",
+      "iso2": "NR",
+      "name": "Nauru",
+      "defaultLeague": "nauru-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "nepal",
+      "iso2": "NP",
+      "name": "Nepal",
+      "defaultLeague": "nepal-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "netherlands",
+      "iso2": "NL",
+      "name": "Netherlands",
+      "defaultLeague": "eredivisie",
+      "clubCount": 55
+    },
+    {
+      "slug": "new-caledonia",
+      "iso2": "NC",
+      "name": "New Caledonia",
+      "defaultLeague": "new-caledonia-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "new-zealand",
+      "iso2": "NZ",
+      "name": "New Zealand",
+      "defaultLeague": "new-zealand-national-league",
+      "clubCount": 11
+    },
+    {
+      "slug": "nicaragua",
+      "iso2": "NI",
+      "name": "Nicaragua",
+      "defaultLeague": "nicaragua-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "niger",
+      "iso2": "NE",
+      "name": "Niger",
+      "defaultLeague": "niger-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "nigeria",
+      "iso2": "NG",
+      "name": "Nigeria",
+      "defaultLeague": "nigeria-premier-football-league",
+      "clubCount": 20
+    },
+    {
+      "slug": "north-korea",
+      "iso2": "KP",
+      "name": "North Korea",
+      "defaultLeague": "north-korea-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "north-macedonia",
+      "iso2": "MK",
+      "name": "North Macedonia",
+      "defaultLeague": "north-macedonia-national-team",
+      "clubCount": 13
+    },
+    {
+      "slug": "northern-ireland",
+      "iso2": "NIR",
+      "name": "Northern Ireland",
+      "defaultLeague": "nifl-premiership",
+      "clubCount": 17
+    },
+    {
+      "slug": "northern-mariana-islands",
+      "iso2": "MP",
+      "name": "Northern Mariana Islands",
+      "defaultLeague": "northern-mariana-islands-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "norway",
+      "iso2": "NO",
+      "name": "Norway",
+      "defaultLeague": "eliteserien",
+      "clubCount": 41
+    },
+    {
+      "slug": "oman",
+      "iso2": "OM",
+      "name": "Oman",
+      "defaultLeague": "oman-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "pakistan",
+      "iso2": "PK",
+      "name": "Pakistan",
+      "defaultLeague": "pakistan-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "palau",
+      "iso2": "PW",
+      "name": "Palau",
+      "defaultLeague": "palau-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "palestine",
+      "iso2": "PS",
+      "name": "Palestine",
+      "defaultLeague": "palestine-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "panama",
+      "iso2": "PA",
+      "name": "Panama",
+      "defaultLeague": "panamanian-football-league",
+      "clubCount": 12
+    },
+    {
+      "slug": "papua-new-guinea",
+      "iso2": "PG",
+      "name": "Papua New Guinea",
+      "defaultLeague": "papua-new-guinea-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "paraguay",
+      "iso2": "PY",
+      "name": "Paraguay",
+      "defaultLeague": "copa-de-primera",
+      "clubCount": 14
+    },
+    {
+      "slug": "peru",
+      "iso2": "PE",
+      "name": "Peru",
+      "defaultLeague": "peruvian-primera-division",
+      "clubCount": 25
+    },
+    {
+      "slug": "philippines",
+      "iso2": "PH",
+      "name": "Philippines",
+      "defaultLeague": "philippines-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "poland",
+      "iso2": "PL",
+      "name": "Poland",
+      "defaultLeague": "ekstraklasa",
+      "clubCount": 40
+    },
+    {
+      "slug": "portugal",
+      "iso2": "PT",
+      "name": "Portugal",
+      "defaultLeague": "primeira-liga",
+      "clubCount": 152
+    },
+    {
+      "slug": "puerto-rico",
+      "iso2": "PR",
+      "name": "Puerto Rico",
+      "defaultLeague": "liga-puerto-rico-apertura",
+      "clubCount": 11
+    },
+    {
+      "slug": "qatar",
+      "iso2": "QA",
+      "name": "Qatar",
+      "defaultLeague": "qatar-stars-league",
+      "clubCount": 20
+    },
+    {
+      "slug": "republic-of-ireland",
+      "iso2": "IE",
+      "name": "Republic of Ireland",
+      "defaultLeague": "league-of-ireland-premier-division",
+      "clubCount": 22
+    },
+    {
+      "slug": "reunion",
+      "iso2": "RE",
+      "name": "Réunion",
+      "defaultLeague": "reunion-national-team",
+      "clubCount": 1
+    },
+    {
+      "slug": "romania",
+      "iso2": "RO",
+      "name": "Romania",
+      "defaultLeague": "superliga",
+      "clubCount": 24
+    },
+    {
+      "slug": "russia",
+      "iso2": "RU",
+      "name": "Russia",
+      "defaultLeague": "russian-premier-league",
+      "clubCount": 41
+    },
+    {
+      "slug": "rwanda",
+      "iso2": "RW",
+      "name": "Rwanda",
+      "defaultLeague": "rwanda-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "saint-lucia",
+      "iso2": "LC",
+      "name": "Saint Lucia",
+      "defaultLeague": "saint-lucia-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "saint-martin",
+      "iso2": "MF",
+      "name": "Saint Martin",
+      "defaultLeague": "saint-martin-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "saint-vincent-and-the-grenadines",
+      "iso2": "VC",
+      "name": "Saint Vincent and the Grenadines",
+      "defaultLeague": "saint-vincent-and-the-grenadines-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "samoa",
+      "iso2": "WS",
+      "name": "Samoa",
+      "defaultLeague": "samoa-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "san-marino",
+      "iso2": "SM",
+      "name": "San Marino",
+      "defaultLeague": "san-marino-national-team",
+      "clubCount": 14
+    },
+    {
+      "slug": "sao-tome-and-principe",
+      "iso2": "ST",
+      "name": "Sao Tome and Principe",
+      "defaultLeague": "sao-tome-and-principe-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "saudi-arabia",
+      "iso2": "SA",
+      "name": "Saudi Arabia",
+      "defaultLeague": "saudi-professional-league",
+      "clubCount": 30
+    },
+    {
+      "slug": "scotland",
+      "iso2": "SCO",
+      "name": "Scotland",
+      "defaultLeague": "scottish-premiership",
+      "clubCount": 63
+    },
+    {
+      "slug": "senegal",
+      "iso2": "SN",
+      "name": "Senegal",
+      "defaultLeague": "senegal-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "serbia",
+      "iso2": "RS",
+      "name": "Serbia",
+      "defaultLeague": "serbian-superliga",
+      "clubCount": 22
+    },
+    {
+      "slug": "seychelles",
+      "iso2": "SC",
+      "name": "Seychelles",
+      "defaultLeague": "seychelles-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "sierra-leone",
+      "iso2": "SL",
+      "name": "Sierra Leone",
+      "defaultLeague": "sierra-leone-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "singapore",
+      "iso2": "SG",
+      "name": "Singapore",
+      "defaultLeague": "singapore-premier-league",
+      "clubCount": 8
+    },
+    {
+      "slug": "sint-maarten",
+      "iso2": "SX",
+      "name": "Sint Maarten",
+      "defaultLeague": "sint-maarten-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "slovakia",
+      "iso2": "SK",
+      "name": "Slovakia",
+      "defaultLeague": "slovak-first-football-league",
+      "clubCount": 19
+    },
+    {
+      "slug": "slovenia",
+      "iso2": "SI",
+      "name": "Slovenia",
+      "defaultLeague": "slovenian-prvaliga",
+      "clubCount": 18
+    },
+    {
+      "slug": "solomon-islands",
+      "iso2": "SB",
+      "name": "Solomon Islands",
+      "defaultLeague": "solomon-islands-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "somalia",
+      "iso2": "SO",
+      "name": "Somalia",
+      "defaultLeague": "somalia-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "south-africa",
+      "iso2": "ZA",
+      "name": "South Africa",
+      "defaultLeague": "premier-soccer-league",
+      "clubCount": 20
+    },
+    {
+      "slug": "south-korea",
+      "iso2": "KR",
+      "name": "South Korea",
+      "defaultLeague": "k-league-1",
+      "clubCount": 29
+    },
+    {
+      "slug": "south-sudan",
+      "iso2": "SS",
+      "name": "South Sudan",
+      "defaultLeague": "south-sudan-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "spain",
+      "iso2": "ES",
+      "name": "Spain",
+      "defaultLeague": "la-liga",
+      "clubCount": 163
+    },
+    {
+      "slug": "sri-lanka",
+      "iso2": "LK",
+      "name": "Sri Lanka",
+      "defaultLeague": "sri-lanka-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "st-kitts-and-nevis",
+      "iso2": "KN",
+      "name": "St Kitts and Nevis",
+      "defaultLeague": "st-kitts-and-nevis-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "sudan",
+      "iso2": "SD",
+      "name": "Sudan",
+      "defaultLeague": "sudan-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "suriname",
+      "iso2": "SR",
+      "name": "Suriname",
+      "defaultLeague": "suriname-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "sweden",
+      "iso2": "SE",
+      "name": "Sweden",
+      "defaultLeague": "allsvenskan",
+      "clubCount": 55
+    },
+    {
+      "slug": "switzerland",
+      "iso2": "CH",
+      "name": "Switzerland",
+      "defaultLeague": "swiss-football-league",
+      "clubCount": 22
+    },
+    {
+      "slug": "syria",
+      "iso2": "SY",
+      "name": "Syria",
+      "defaultLeague": "syria-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "tahiti",
+      "iso2": "TAH",
+      "name": "Tahiti",
+      "defaultLeague": "tahiti-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "taiwan",
+      "iso2": "TW",
+      "name": "Taiwan",
+      "defaultLeague": "taiwan-football-premier-league",
+      "clubCount": 8
+    },
+    {
+      "slug": "tajikistan",
+      "iso2": "TJ",
+      "name": "Tajikistan",
+      "defaultLeague": "tajikistan-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "tanzania",
+      "iso2": "TZ",
+      "name": "Tanzania",
+      "defaultLeague": "nbc-premier-league",
+      "clubCount": 19
+    },
+    {
+      "slug": "thailand",
+      "iso2": "TH",
+      "name": "Thailand",
+      "defaultLeague": "thai-league-1",
+      "clubCount": 16
+    },
+    {
+      "slug": "timor-leste",
+      "iso2": "TL",
+      "name": "Timor-Leste",
+      "defaultLeague": "timor-leste-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "togo",
+      "iso2": "TG",
+      "name": "Togo",
+      "defaultLeague": "togo-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "tonga",
+      "iso2": "TO",
+      "name": "Tonga",
+      "defaultLeague": "tonga-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "tournaments",
+      "iso2": "INT",
+      "name": "Tournaments",
+      "defaultLeague": "uefa-champions-league",
+      "clubCount": 0
+    },
+    {
+      "slug": "trinidad-and-tobago",
+      "iso2": "TT",
+      "name": "Trinidad and Tobago",
+      "defaultLeague": "trinidad-and-tobago-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "tunisia",
+      "iso2": "TN",
+      "name": "Tunisia",
+      "defaultLeague": "ligue-1",
+      "clubCount": 19
+    },
+    {
+      "slug": "turkey",
+      "iso2": "TR",
+      "name": "Turkey",
+      "defaultLeague": "super-lig",
+      "clubCount": 77
+    },
+    {
+      "slug": "turkmenistan",
+      "iso2": "TM",
+      "name": "Turkmenistan",
+      "defaultLeague": "turkmenistan-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "turks-and-caicos-islands",
+      "iso2": "TC",
+      "name": "Turks and Caicos Islands",
+      "defaultLeague": "turks-and-caicos-islands-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "tuvalu",
+      "iso2": "TV",
+      "name": "Tuvalu",
+      "defaultLeague": "tuvalu-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "us-virgin-islands",
+      "iso2": "VI",
+      "name": "U.S. Virgin Islands",
+      "defaultLeague": "us-virgin-islands-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "uganda",
+      "iso2": "UG",
+      "name": "Uganda",
+      "defaultLeague": "uganda-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "ukraine",
+      "iso2": "UA",
+      "name": "Ukraine",
+      "defaultLeague": "ukrainian-premier-league",
+      "clubCount": 35
+    },
+    {
+      "slug": "uae",
+      "iso2": "AE",
+      "name": "United Arab Emirates",
+      "defaultLeague": "uae-pro-league",
+      "clubCount": 16
+    },
+    {
+      "slug": "usa",
+      "iso2": "US",
+      "name": "United States",
+      "defaultLeague": "mls",
+      "clubCount": 89
+    },
+    {
+      "slug": "uruguay",
+      "iso2": "UY",
+      "name": "Uruguay",
+      "defaultLeague": "liga-auf-uruguaya",
+      "clubCount": 32
+    },
+    {
+      "slug": "uzbekistan",
+      "iso2": "UZ",
+      "name": "Uzbekistan",
+      "defaultLeague": "uzbekistan-super-league",
+      "clubCount": 19
+    },
+    {
+      "slug": "vanuatu",
+      "iso2": "VU",
+      "name": "Vanuatu",
+      "defaultLeague": "vanuatu-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "vatican-city",
+      "iso2": "VA",
+      "name": "Vatican City",
+      "defaultLeague": "vatican-city-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "venezuela",
+      "iso2": "VE",
+      "name": "Venezuela",
+      "defaultLeague": "primera-division-de-venezuela",
+      "clubCount": 16
+    },
+    {
+      "slug": "vietnam",
+      "iso2": "VN",
+      "name": "Vietnam",
+      "defaultLeague": "v-league",
+      "clubCount": 16
+    },
+    {
+      "slug": "wales",
+      "iso2": "WAL",
+      "name": "Wales",
+      "defaultLeague": "cymru-premier",
+      "clubCount": 57
+    },
+    {
+      "slug": "yemen",
+      "iso2": "YE",
+      "name": "Yemen",
+      "defaultLeague": "yemen-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "zambia",
+      "iso2": "ZM",
+      "name": "Zambia",
+      "defaultLeague": "zambia-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "zanzibar",
+      "iso2": "ZAN",
+      "name": "Zanzibar",
+      "defaultLeague": "zanzibar-national-team",
+      "clubCount": 0
+    },
+    {
+      "slug": "zimbabwe",
+      "iso2": "ZW",
+      "name": "Zimbabwe",
+      "defaultLeague": "zimbabwe-national-team",
+      "clubCount": 0
+    }
+  ],
+  "contentHash": "163174595ce4d222"
+}

@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "northern-ireland",
+    "iso2": "NIR",
+    "name": "Northern Ireland",
+    "defaultLeague": "nifl-premiership",
+    "leagues": {
+      "nifl-premiership": {
+        "slug": "nifl-premiership",
+        "name": "NIFL Premiership",
+        "hash": "1722d4b0",
+        "kind": "league",
+        "code": "NIR"
+      },
+      "northern-ireland-national-team": {
+        "slug": "northern-ireland-national-team",
+        "name": "Northern Ireland National Team",
+        "hash": "2e78b902",
+        "kind": "league"
+      },
+      "northern-ireland-football-league": {
+        "slug": "northern-ireland-football-league",
+        "name": "Northern Ireland Football League",
+        "hash": "c5938771",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "bangor": {
+        "slug": "bangor",
+        "name": "Bangor",
+        "hash": "b936bf53",
+        "league": "nifl-premiership"
+      },
+      "carrick": {
+        "slug": "carrick",
+        "name": "Carrick Rangers",
+        "hash": "e9285799",
+        "league": "nifl-premiership"
+      },
+      "cliftonville": {
+        "slug": "cliftonville",
+        "name": "Cliftonville",
+        "hash": "5c6a6089",
+        "league": "nifl-premiership"
+      },
+      "coleraine": {
+        "slug": "coleraine",
+        "name": "Coleraine",
+        "hash": "5338a5ae",
+        "league": "nifl-premiership"
+      },
+      "crusaders": {
+        "slug": "crusaders",
+        "name": "Crusaders",
+        "hash": "ededfc21",
+        "league": "nifl-premiership"
+      },
+      "dungannon": {
+        "slug": "dungannon",
+        "name": "Dungannon",
+        "hash": "4acb83d9",
+        "league": "nifl-premiership"
+      },
+      "glentoran": {
+        "slug": "glentoran",
+        "name": "Glentoran",
+        "hash": "419dc4b8",
+        "league": "nifl-premiership"
+      },
+      "larne": {
+        "slug": "larne",
+        "name": "Larne",
+        "hash": "f44a7339",
+        "league": "nifl-premiership"
+      },
+      "linfield": {
+        "slug": "linfield",
+        "name": "Linfield",
+        "hash": "004cd539",
+        "league": "nifl-premiership"
+      },
+      "portadown": {
+        "slug": "portadown",
+        "name": "Portadown",
+        "hash": "aeb6dfb7",
+        "league": "nifl-premiership"
+      },
+      "ballymena-united": {
+        "slug": "ballymena-united",
+        "name": "Ballymena United",
+        "hash": "bf00aa5d",
+        "league": "nifl-premiership"
+      },
+      "limavady-united": {
+        "slug": "limavady-united",
+        "name": "Limavady United",
+        "hash": "2afc881a",
+        "league": "nifl-premiership"
+      },
+      "ards": {
+        "slug": "ards",
+        "name": "Ards",
+        "hash": "34bedc11",
+        "league": ""
+      },
+      "glenavon": {
+        "slug": "glenavon",
+        "name": "Glenavon",
+        "hash": "81cf5114",
+        "league": ""
+      },
+      "institute": {
+        "slug": "institute",
+        "name": "Institute",
+        "hash": "22562f67",
+        "league": ""
+      },
+      "newry": {
+        "slug": "newry",
+        "name": "Newry City",
+        "hash": "0282ceb9",
+        "league": ""
+      },
+      "warrenpoint": {
+        "slug": "warrenpoint",
+        "name": "Warrenpoint Town",
+        "hash": "4505a53f",
+        "league": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "guinea-bissau",
+    "iso2": "GW",
+    "name": "Guinea-Bissau",
+    "defaultLeague": "guinea-bissau-national-team",
+    "leagues": {
+      "guinea-bissau-national-team": {
+        "slug": "guinea-bissau-national-team",
+        "name": "Guinea-Bissau National Team",
+        "hash": "913aca4a",
+        "kind": "league",
+        "code": "GW"
+      }
+    },
+    "clubs": {}
+  }
+}

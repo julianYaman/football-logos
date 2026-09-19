@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "uruguay",
+    "iso2": "UY",
+    "name": "Uruguay",
+    "defaultLeague": "liga-auf-uruguaya",
+    "leagues": {
+      "liga-auf-uruguaya": {
+        "slug": "liga-auf-uruguaya",
+        "name": "Liga AUF Uruguaya",
+        "hash": "619c9202",
+        "kind": "league",
+        "code": "UY"
+      },
+      "segunda-division": {
+        "slug": "segunda-division",
+        "name": "Segunda División de Uruguay",
+        "hash": "c1a43d13",
+        "kind": "league"
+      },
+      "uruguay-national-team": {
+        "slug": "uruguay-national-team",
+        "name": "Uruguay National Team",
+        "hash": "9ba8eb09",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "penarol": {
+        "slug": "penarol",
+        "name": "Peñarol",
+        "hash": "5842be73",
+        "league": "liga-auf-uruguaya"
+      },
+      "defensor-sporting": {
+        "slug": "defensor-sporting",
+        "name": "Defensor Sporting",
+        "hash": "43780218",
+        "league": "liga-auf-uruguaya"
+      },
+      "montevideo-wanderers": {
+        "slug": "montevideo-wanderers",
+        "name": "Montevideo Wanderers",
+        "hash": "28bc9ac8",
+        "league": "liga-auf-uruguaya"
+      },
+      "liverpool": {
+        "slug": "liverpool",
+        "name": "Liverpool",
+        "hash": "97e6323e",
+        "league": "liga-auf-uruguaya"
+      },
+      "cerro": {
+        "slug": "cerro",
+        "name": "Cerro",
+        "hash": "d53d3ee0",
+        "league": "liga-auf-uruguaya"
+      },
+      "cerro-largo": {
+        "slug": "cerro-largo",
+        "name": "Cerro Largo",
+        "hash": "c2344142",
+        "league": "liga-auf-uruguaya"
+      },
+      "nacional": {
+        "slug": "nacional",
+        "name": "Nacional",
+        "hash": "923b4999",
+        "league": "liga-auf-uruguaya"
+      },
+      "juventud": {
+        "slug": "juventud",
+        "name": "Juventud",
+        "hash": "e067587d",
+        "league": "liga-auf-uruguaya"
+      },
+      "racing-montevideo": {
+        "slug": "racing-montevideo",
+        "name": "Racing",
+        "hash": "fcc0788a",
+        "league": "liga-auf-uruguaya"
+      },
+      "danubio": {
+        "slug": "danubio",
+        "name": "Danubio",
+        "hash": "7a4225da",
+        "league": "liga-auf-uruguaya"
+      },
+      "boston-river": {
+        "slug": "boston-river",
+        "name": "Boston River",
+        "hash": "8610eb3f",
+        "league": "liga-auf-uruguaya"
+      },
+      "progreso": {
+        "slug": "progreso",
+        "name": "Progreso",
+        "hash": "5fceb3a1",
+        "league": "liga-auf-uruguaya"
+      },
+      "montevideo-city-torque": {
+        "slug": "montevideo-city-torque",
+        "name": "Montevideo City Torque",
+        "hash": "8b2ca0dc",
+        "league": "liga-auf-uruguaya"
+      },
+      "deportivo-maldonado": {
+        "slug": "deportivo-maldonado",
+        "name": "Deportivo Maldonado",
+        "hash": "084022a0",
+        "league": "liga-auf-uruguaya"
+      },
+      "central-espanol": {
+        "slug": "central-espanol",
+        "name": "Central Español",
+        "hash": "6256f15d",
+        "league": "liga-auf-uruguaya"
+      },
+      "albion": {
+        "slug": "albion",
+        "name": "Albion FC",
+        "hash": "e46b9661",
+        "league": "liga-auf-uruguaya"
+      },
+      "plaza-colonia": {
+        "slug": "plaza-colonia",
+        "name": "Plaza Colonia",
+        "hash": "3d1f443e",
+        "league": "segunda-division"
+      },
+      "river-plate": {
+        "slug": "river-plate",
+        "name": "River Plate",
+        "hash": "26a49caa",
+        "league": "segunda-division"
+      },
+      "miramar-misiones": {
+        "slug": "miramar-misiones",
+        "name": "Miramar Misiones",
+        "hash": "f03300fe",
+        "league": "segunda-division"
+      },
+      "atenas-de-san-carlos": {
+        "slug": "atenas-de-san-carlos",
+        "name": "Atenas de San Carlos",
+        "hash": "e88c4b9b",
+        "league": "segunda-division"
+      },
+      "cerrito": {
+        "slug": "cerrito",
+        "name": "Cerrito",
+        "hash": "816fdff2",
+        "league": "segunda-division"
+      },
+      "fenix": {
+        "slug": "fenix",
+        "name": "Fénix",
+        "hash": "bf46de7c",
+        "league": "segunda-division"
+      },
+      "oriental-de-la-paz": {
+        "slug": "oriental-de-la-paz",
+        "name": "Oriental de La Paz",
+        "hash": "722a72cc",
+        "league": "segunda-division"
+      },
+      "colon-fc": {
+        "slug": "colon-fc",
+        "name": "Colón FC",
+        "hash": "b9d36e4e",
+        "league": "segunda-division"
+      },
+      "rentistas": {
+        "slug": "rentistas",
+        "name": "Rentistas",
+        "hash": "aee1d743",
+        "league": "segunda-division"
+      },
+      "huracan-fc": {
+        "slug": "huracan-fc",
+        "name": "Huracán FC",
+        "hash": "2c8aee7e",
+        "league": "segunda-division"
+      },
+      "uruguay-montevideo": {
+        "slug": "uruguay-montevideo",
+        "name": "Uruguay Montevideo",
+        "hash": "a07f7472",
+        "league": "segunda-division"
+      },
+      "la-luz": {
+        "slug": "la-luz",
+        "name": "La Luz",
+        "hash": "5a22cbfe",
+        "league": "segunda-division"
+      },
+      "tacuarembo-fc": {
+        "slug": "tacuarembo-fc",
+        "name": "Tacuarembó FC",
+        "hash": "cc635eaf",
+        "league": "segunda-division"
+      },
+      "paysandu-fc": {
+        "slug": "paysandu-fc",
+        "name": "Paysandú FC",
+        "hash": "906efe61",
+        "league": "segunda-division"
+      },
+      "canadian-sc": {
+        "slug": "canadian-sc",
+        "name": "Canadian SC",
+        "hash": "26285a79",
+        "league": ""
+      },
+      "rampla-juniors": {
+        "slug": "rampla-juniors",
+        "name": "Rampla Juniors",
+        "hash": "301bdbb8",
+        "league": ""
+      }
+    }
+  }
+}

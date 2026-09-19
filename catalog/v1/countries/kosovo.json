@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "kosovo",
+    "iso2": "XK",
+    "name": "Kosovo",
+    "defaultLeague": "kosovo-national-team",
+    "leagues": {
+      "kosovo-national-team": {
+        "slug": "kosovo-national-team",
+        "name": "Kosovo National Team",
+        "hash": "420a3417",
+        "kind": "league",
+        "code": "XK"
+      }
+    },
+    "clubs": {
+      "ballkani": {
+        "slug": "ballkani",
+        "name": "Ballkani",
+        "hash": "802832ff",
+        "league": ""
+      },
+      "drenica": {
+        "slug": "drenica",
+        "name": "Drenica",
+        "hash": "67f56889",
+        "league": ""
+      },
+      "drita": {
+        "slug": "drita",
+        "name": "Drita",
+        "hash": "325c6e84",
+        "league": ""
+      },
+      "dukagjini": {
+        "slug": "dukagjini",
+        "name": "Dukagjini",
+        "hash": "996def5e",
+        "league": ""
+      },
+      "ferizaj": {
+        "slug": "ferizaj",
+        "name": "Ferizaj",
+        "hash": "4a6beaba",
+        "league": ""
+      },
+      "feronikeli": {
+        "slug": "feronikeli",
+        "name": "Feronikeli",
+        "hash": "1045bcce",
+        "league": ""
+      },
+      "flamurtari-prishtina": {
+        "slug": "flamurtari-prishtina",
+        "name": "Flamurtari Prishtina",
+        "hash": "6ecb5ae2",
+        "league": ""
+      },
+      "gjilani": {
+        "slug": "gjilani",
+        "name": "Gjilani",
+        "hash": "103a815e",
+        "league": ""
+      },
+      "kek-u": {
+        "slug": "kek-u",
+        "name": "KEK-u",
+        "hash": "0b53fd3c",
+        "league": ""
+      },
+      "kf-vellaznimi": {
+        "slug": "kf-vellaznimi",
+        "name": "KF Vellaznimi",
+        "hash": "6b3be5a1",
+        "league": ""
+      },
+      "liria": {
+        "slug": "liria",
+        "name": "Liria",
+        "hash": "c2e7d7b2",
+        "league": ""
+      },
+      "llapi": {
+        "slug": "llapi",
+        "name": "Llapi",
+        "hash": "1a1e903d",
+        "league": ""
+      },
+      "prishtina": {
+        "slug": "prishtina",
+        "name": "Prishtina",
+        "hash": "9c7e9019",
+        "league": ""
+      },
+      "trepca": {
+        "slug": "trepca",
+        "name": "Trepça",
+        "hash": "f48fe8e2",
+        "league": ""
+      },
+      "trepca-89": {
+        "slug": "trepca-89",
+        "name": "Trepça&#39;89",
+        "hash": "8b0a6e22",
+        "league": ""
+      },
+      "vushtrria": {
+        "slug": "vushtrria",
+        "name": "Vushtrria",
+        "hash": "aaa6f8a8",
+        "league": ""
+      },
+      "kf-malisheva": {
+        "slug": "kf-malisheva",
+        "name": "KF Malisheva",
+        "hash": "bc91abe5",
+        "league": ""
+      }
+    }
+  }
+}

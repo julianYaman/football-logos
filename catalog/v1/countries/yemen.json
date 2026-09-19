@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "yemen",
+    "iso2": "YE",
+    "name": "Yemen",
+    "defaultLeague": "yemen-national-team",
+    "leagues": {
+      "yemen-national-team": {
+        "slug": "yemen-national-team",
+        "name": "Yemen National Team",
+        "hash": "5d35fcbf",
+        "kind": "league",
+        "code": "YE"
+      }
+    },
+    "clubs": {}
+  }
+}

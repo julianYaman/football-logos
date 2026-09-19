@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "finland",
+    "iso2": "FI",
+    "name": "Finland",
+    "defaultLeague": "veikkausliiga",
+    "leagues": {
+      "veikkausliiga": {
+        "slug": "veikkausliiga",
+        "name": "Veikkausliiga",
+        "hash": "8a948f05",
+        "kind": "league",
+        "code": "FI"
+      },
+      "finland-national-team": {
+        "slug": "finland-national-team",
+        "name": "Finland National Team",
+        "hash": "d51cf503",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "hjk": {
+        "slug": "hjk",
+        "name": "HJK Helsinki",
+        "hash": "816373d2",
+        "league": "veikkausliiga"
+      },
+      "gnistan": {
+        "slug": "gnistan",
+        "name": "IF Gnistan",
+        "hash": "027dd962",
+        "league": "veikkausliiga"
+      },
+      "ilves": {
+        "slug": "ilves",
+        "name": "Ilves",
+        "hash": "a9163852",
+        "league": "veikkausliiga"
+      },
+      "inter-turku": {
+        "slug": "inter-turku",
+        "name": "Inter Turku",
+        "hash": "ddc6380e",
+        "league": "veikkausliiga"
+      },
+      "jaro": {
+        "slug": "jaro",
+        "name": "FF Jaro",
+        "hash": "45514abc",
+        "league": "veikkausliiga"
+      },
+      "kups": {
+        "slug": "kups",
+        "name": "KuPS",
+        "hash": "8fdea8a0",
+        "league": "veikkausliiga"
+      },
+      "lahti": {
+        "slug": "lahti",
+        "name": "FC Lahti",
+        "hash": "ed57d523",
+        "league": "veikkausliiga"
+      },
+      "mariehamn": {
+        "slug": "mariehamn",
+        "name": "IFK Mariehamn",
+        "hash": "aa877663",
+        "league": "veikkausliiga"
+      },
+      "oulu": {
+        "slug": "oulu",
+        "name": "AC Oulu",
+        "hash": "3d5685fd",
+        "league": "veikkausliiga"
+      },
+      "tps": {
+        "slug": "tps",
+        "name": "TPS",
+        "hash": "073e76cd",
+        "league": "veikkausliiga"
+      },
+      "vps": {
+        "slug": "vps",
+        "name": "VPS",
+        "hash": "0e6eaf11",
+        "league": "veikkausliiga"
+      },
+      "haka": {
+        "slug": "haka",
+        "name": "FC Haka Valkeakoski",
+        "hash": "61afba3e",
+        "league": ""
+      },
+      "honka": {
+        "slug": "honka",
+        "name": "FC Honka",
+        "hash": "f2457858",
+        "league": ""
+      },
+      "jazz": {
+        "slug": "jazz",
+        "name": "FC Jazz",
+        "hash": "808fc5de",
+        "league": ""
+      },
+      "jjk": {
+        "slug": "jjk",
+        "name": "JJK",
+        "hash": "1cee33bd",
+        "league": ""
+      },
+      "kpv": {
+        "slug": "kpv",
+        "name": "KPV Kokkola",
+        "hash": "c3ac2a57",
+        "league": ""
+      },
+      "ktp": {
+        "slug": "ktp",
+        "name": "Kotkan Työväen Palloilijat",
+        "hash": "8f02560e",
+        "league": ""
+      },
+      "mp": {
+        "slug": "mp",
+        "name": "MP",
+        "hash": "96c481b8",
+        "league": ""
+      },
+      "mypa": {
+        "slug": "mypa",
+        "name": "MyPa",
+        "hash": "f1228d09",
+        "league": ""
+      },
+      "sjk": {
+        "slug": "sjk",
+        "name": "SJK Seinäjoki",
+        "hash": "350da84e",
+        "league": ""
+      },
+      "tampere-united": {
+        "slug": "tampere-united",
+        "name": "Tampere United",
+        "hash": "e65f70ed",
+        "league": ""
+      },
+      "tpv": {
+        "slug": "tpv",
+        "name": "TPV",
+        "hash": "880dff53",
+        "league": ""
+      },
+      "atlantis-fc": {
+        "slug": "atlantis-fc",
+        "name": "Atlantis FC",
+        "hash": "4014f7af",
+        "league": ""
+      },
+      "fc-vaajakoski": {
+        "slug": "fc-vaajakoski",
+        "name": "FC Vaajakoski",
+        "hash": "9c0222e6",
+        "league": ""
+      },
+      "helsingin-ponnistus": {
+        "slug": "helsingin-ponnistus",
+        "name": "Helsingin Ponnistus",
+        "hash": "845bc5f1",
+        "league": ""
+      },
+      "hifk-fotboll": {
+        "slug": "hifk-fotboll",
+        "name": "HIFK Fotboll",
+        "hash": "d44b1f03",
+        "league": ""
+      },
+      "ols-oulu": {
+        "slug": "ols-oulu",
+        "name": "OLS Oulu",
+        "hash": "c35d6d65",
+        "league": ""
+      },
+      "otp-oulu": {
+        "slug": "otp-oulu",
+        "name": "OTP Oulu",
+        "hash": "6c04d781",
+        "league": ""
+      }
+    }
+  }
+}

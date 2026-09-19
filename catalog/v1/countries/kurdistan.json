@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "kurdistan",
+    "iso2": "KUR",
+    "name": "Kurdistan",
+    "defaultLeague": "kurdistan-national-team",
+    "leagues": {
+      "kurdistan-national-team": {
+        "slug": "kurdistan-national-team",
+        "name": "Kurdistan National Team",
+        "hash": "2b160e71",
+        "kind": "league",
+        "code": "KUR"
+      }
+    },
+    "clubs": {}
+  }
+}

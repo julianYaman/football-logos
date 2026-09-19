@@ -1,0 +1,267 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "greece",
+    "iso2": "GR",
+    "name": "Greece",
+    "defaultLeague": "super-league-1",
+    "leagues": {
+      "super-league-1": {
+        "slug": "super-league-1",
+        "name": "Super League Greece",
+        "hash": "ea9b3a50",
+        "kind": "league",
+        "code": "GR"
+      },
+      "super-league-2": {
+        "slug": "super-league-2",
+        "name": "Super League 2",
+        "hash": "89b34ef1",
+        "kind": "league"
+      },
+      "greece-national-team": {
+        "slug": "greece-national-team",
+        "name": "Greece National Team",
+        "hash": "b76f5101",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "aek-athens": {
+        "slug": "aek-athens",
+        "name": "AEK Athens",
+        "hash": "1cb95263",
+        "league": "super-league"
+      },
+      "aris-thessaloniki": {
+        "slug": "aris-thessaloniki",
+        "name": "Aris Thessaloniki",
+        "hash": "ff1171e6",
+        "league": "super-league"
+      },
+      "asteras": {
+        "slug": "asteras",
+        "name": "Asteras Tripolis",
+        "hash": "2ffde67e",
+        "league": "super-league"
+      },
+      "atromitos": {
+        "slug": "atromitos",
+        "name": "Atromitos",
+        "hash": "27b3c8db",
+        "league": "super-league"
+      },
+      "kifisia": {
+        "slug": "kifisia",
+        "name": "A.E. Kifisia",
+        "hash": "c9b0502a",
+        "league": "super-league"
+      },
+      "levadiakos": {
+        "slug": "levadiakos",
+        "name": "Levadiakos",
+        "hash": "b6725b28",
+        "league": "super-league"
+      },
+      "ofi": {
+        "slug": "ofi",
+        "name": "OFI",
+        "hash": "540bf65b",
+        "league": "super-league"
+      },
+      "olympiacos": {
+        "slug": "olympiacos",
+        "name": "Olympiacos",
+        "hash": "d38a410a",
+        "league": "super-league"
+      },
+      "panathinaikos": {
+        "slug": "panathinaikos",
+        "name": "Panathinaikos",
+        "hash": "443a2548",
+        "league": "super-league"
+      },
+      "panetolikos": {
+        "slug": "panetolikos",
+        "name": "Panetolikos",
+        "hash": "0df589a9",
+        "league": "super-league"
+      },
+      "paok": {
+        "slug": "paok",
+        "name": "PAOK",
+        "hash": "7c1401e1",
+        "league": "super-league"
+      },
+      "volos": {
+        "slug": "volos",
+        "name": "Volos NFC",
+        "hash": "3d0d9ed5",
+        "league": "super-league"
+      },
+      "iraklis-thessaloniki": {
+        "slug": "iraklis-thessaloniki",
+        "name": "Iraklis Thessaloniki",
+        "hash": "8af081b4",
+        "league": "super-league"
+      },
+      "kalamata": {
+        "slug": "kalamata",
+        "name": "Kalamata",
+        "hash": "57174d1a",
+        "league": "super-league"
+      },
+      "egaleo": {
+        "slug": "egaleo",
+        "name": "Egaleo",
+        "hash": "5c2a6d66",
+        "league": "super-league-2"
+      },
+      "giannina": {
+        "slug": "giannina",
+        "name": "Giannina",
+        "hash": "293c6c51",
+        "league": "super-league-2"
+      },
+      "kavala": {
+        "slug": "kavala",
+        "name": "Kavala",
+        "hash": "d3a48809",
+        "league": "super-league-2"
+      },
+      "panionios": {
+        "slug": "panionios",
+        "name": "Panionios",
+        "hash": "dd9d6f60",
+        "league": "super-league-2"
+      },
+      "niki-volou": {
+        "slug": "niki-volou",
+        "name": "Niki Volou",
+        "hash": "f58c3eae",
+        "league": "super-league-2"
+      },
+      "anagennisi-karditsa": {
+        "slug": "anagennisi-karditsa",
+        "name": "Anagennisi Karditsa",
+        "hash": "a3a28bba",
+        "league": "super-league-2"
+      },
+      "nestos-chrysoupoli": {
+        "slug": "nestos-chrysoupoli",
+        "name": "Nestos Chrysoupoli",
+        "hash": "a1012935",
+        "league": "super-league-2"
+      },
+      "kampaniakos": {
+        "slug": "kampaniakos",
+        "name": "Kampaniakos",
+        "hash": "4c50f1a0",
+        "league": "super-league-2"
+      },
+      "makedonikos-neapolis": {
+        "slug": "makedonikos-neapolis",
+        "name": "Makedonikos Neapolis",
+        "hash": "c5221f54",
+        "league": "super-league-2"
+      },
+      "marko": {
+        "slug": "marko",
+        "name": "Marko",
+        "hash": "63aebdd8",
+        "league": "super-league-2"
+      },
+      "ilioupoli-gs": {
+        "slug": "ilioupoli-gs",
+        "name": "GS Ilioupoli",
+        "hash": "81638c07",
+        "league": "super-league-2"
+      },
+      "athens-kallithea": {
+        "slug": "athens-kallithea",
+        "name": "Athens Kallithea",
+        "hash": "f40f5f78",
+        "league": "super-league-2"
+      },
+      "hellas-syros": {
+        "slug": "hellas-syros",
+        "name": "Hellas Syros",
+        "hash": "875d5dbd",
+        "league": "super-league-2"
+      },
+      "chania": {
+        "slug": "chania",
+        "name": "Chania",
+        "hash": "e4432da3",
+        "league": "super-league-2"
+      },
+      "panargiakos": {
+        "slug": "panargiakos",
+        "name": "Panargiakos APO",
+        "hash": "c423b83e",
+        "league": "super-league-2"
+      },
+      "ionikos": {
+        "slug": "ionikos",
+        "name": "Ionikos",
+        "hash": "a27294e7",
+        "league": ""
+      },
+      "larissa": {
+        "slug": "larissa",
+        "name": "Larissa",
+        "hash": "e876f3ff",
+        "league": ""
+      },
+      "olympiacos-volou": {
+        "slug": "olympiacos-volou",
+        "name": "Olympiacos Volou",
+        "hash": "60ba2569",
+        "league": ""
+      },
+      "panahaiki": {
+        "slug": "panahaiki",
+        "name": "Panahaiki",
+        "hash": "2fce5754",
+        "league": ""
+      },
+      "panserraikos": {
+        "slug": "panserraikos",
+        "name": "Panserraikos",
+        "hash": "a34d5cab",
+        "league": ""
+      },
+      "lamia": {
+        "slug": "lamia",
+        "name": "Lamia",
+        "hash": "a8f556f4",
+        "league": ""
+      },
+      "kerkyra": {
+        "slug": "kerkyra",
+        "name": "Kerkyra",
+        "hash": "65a49a99",
+        "league": ""
+      },
+      "xanthi": {
+        "slug": "xanthi",
+        "name": "Xanthi",
+        "hash": "fbb71a96",
+        "league": ""
+      },
+      "platanias": {
+        "slug": "platanias",
+        "name": "Platanias",
+        "hash": "a4f43a69",
+        "league": ""
+      },
+      "apollon-smyrnis": {
+        "slug": "apollon-smyrnis",
+        "name": "Apollon Smyrnis",
+        "hash": "e286c0ce",
+        "league": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "panama",
+    "iso2": "PA",
+    "name": "Panama",
+    "defaultLeague": "panamanian-football-league",
+    "leagues": {
+      "panamanian-football-league": {
+        "slug": "panamanian-football-league",
+        "name": "Panamanian Football League",
+        "hash": "74ec04b7",
+        "kind": "league",
+        "code": "PA"
+      },
+      "panama-national-team": {
+        "slug": "panama-national-team",
+        "name": "Panama National Team",
+        "hash": "6451dd7e",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "plaza-amador": {
+        "slug": "plaza-amador",
+        "name": "Plaza Amador",
+        "hash": "fa6a1279",
+        "league": "panamanian-football-league"
+      },
+      "alianza-fc": {
+        "slug": "alianza-fc",
+        "name": "Alianza FC",
+        "hash": "f8fe7aaf",
+        "league": "panamanian-football-league"
+      },
+      "arabe-unido": {
+        "slug": "arabe-unido",
+        "name": "Árabe Unido",
+        "hash": "f5ac350c",
+        "league": "panamanian-football-league"
+      },
+      "sporting-san-miguelito": {
+        "slug": "sporting-san-miguelito",
+        "name": "Sporting San Miguelito",
+        "hash": "b1380dc8",
+        "league": "panamanian-football-league"
+      },
+      "tauro-fc": {
+        "slug": "tauro-fc",
+        "name": "Tauro FC",
+        "hash": "473a6c4a",
+        "league": "panamanian-football-league"
+      },
+      "umecit-fc": {
+        "slug": "umecit-fc",
+        "name": "UMECIT FC",
+        "hash": "660f0932",
+        "league": "panamanian-football-league"
+      },
+      "san-francisco-fc": {
+        "slug": "san-francisco-fc",
+        "name": "San Francisco FC",
+        "hash": "107b1b4c",
+        "league": "panamanian-football-league"
+      },
+      "veraguas-united": {
+        "slug": "veraguas-united",
+        "name": "Veraguas United",
+        "hash": "3524b3d5",
+        "league": "panamanian-football-league"
+      },
+      "independiente-de-la-chorrera": {
+        "slug": "independiente-de-la-chorrera",
+        "name": "Independiente de La Chorrera",
+        "hash": "73a6efc7",
+        "league": "panamanian-football-league"
+      },
+      "cd-universitario": {
+        "slug": "cd-universitario",
+        "name": "CD Universitario",
+        "hash": "1cdae5db",
+        "league": "panamanian-football-league"
+      },
+      "herrera-fc": {
+        "slug": "herrera-fc",
+        "name": "Herrera FC",
+        "hash": "315560e8",
+        "league": "panamanian-football-league"
+      },
+      "union-cocle-fc": {
+        "slug": "union-cocle-fc",
+        "name": "Unión Coclé FC",
+        "hash": "e304e747",
+        "league": "panamanian-football-league"
+      }
+    }
+  }
+}

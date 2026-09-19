@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "lesotho",
+    "iso2": "LS",
+    "name": "Lesotho",
+    "defaultLeague": "lesotho-national-team",
+    "leagues": {
+      "lesotho-national-team": {
+        "slug": "lesotho-national-team",
+        "name": "Lesotho National Team",
+        "hash": "e690bb92",
+        "kind": "league",
+        "code": "LS"
+      }
+    },
+    "clubs": {}
+  }
+}

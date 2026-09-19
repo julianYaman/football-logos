@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "dominica",
+    "iso2": "DM",
+    "name": "Dominica",
+    "defaultLeague": "dominica-national-team",
+    "leagues": {
+      "dominica-national-team": {
+        "slug": "dominica-national-team",
+        "name": "Dominica National Team",
+        "hash": "bffe44a8",
+        "kind": "league",
+        "code": "DM"
+      }
+    },
+    "clubs": {}
+  }
+}

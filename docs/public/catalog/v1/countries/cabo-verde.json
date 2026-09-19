@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "cabo-verde",
+    "iso2": "CV",
+    "name": "Cabo Verde",
+    "defaultLeague": "cabo-verde-national-team",
+    "leagues": {
+      "cabo-verde-national-team": {
+        "slug": "cabo-verde-national-team",
+        "name": "Cabo Verde National Team",
+        "hash": "6f0bf21a",
+        "kind": "league",
+        "code": "CV"
+      }
+    },
+    "clubs": {}
+  }
+}

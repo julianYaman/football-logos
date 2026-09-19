@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "republic-of-ireland",
+    "iso2": "IE",
+    "name": "Republic of Ireland",
+    "defaultLeague": "league-of-ireland-premier-division",
+    "leagues": {
+      "league-of-ireland-premier-division": {
+        "slug": "league-of-ireland-premier-division",
+        "name": "League of Ireland Premier Division",
+        "hash": "42e794ca",
+        "kind": "league",
+        "code": "IE"
+      },
+      "league-of-ireland-first-division": {
+        "slug": "league-of-ireland-first-division",
+        "name": "League of Ireland First Division",
+        "hash": "20687687",
+        "kind": "league"
+      },
+      "republic-of-ireland-national-team": {
+        "slug": "republic-of-ireland-national-team",
+        "name": "Republic of Ireland National Team",
+        "hash": "b6a1580e",
+        "kind": "league"
+      },
+      "league-of-ireland": {
+        "slug": "league-of-ireland",
+        "name": "League of Ireland",
+        "hash": "286682f0",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "bohemian": {
+        "slug": "bohemian",
+        "name": "Bohemian",
+        "hash": "585bbd1a",
+        "league": "league-of-ireland-premier-division"
+      },
+      "derry-city": {
+        "slug": "derry-city",
+        "name": "Derry City",
+        "hash": "0627b965",
+        "league": "league-of-ireland-premier-division"
+      },
+      "drogheda-united": {
+        "slug": "drogheda-united",
+        "name": "Drogheda United",
+        "hash": "abea9e86",
+        "league": "league-of-ireland-premier-division"
+      },
+      "dundalk": {
+        "slug": "dundalk",
+        "name": "Dundalk FC",
+        "hash": "20d11de7",
+        "league": "league-of-ireland-premier-division"
+      },
+      "shamrock-rovers": {
+        "slug": "shamrock-rovers",
+        "name": "Shamrock Rovers",
+        "hash": "d95d3dd9",
+        "league": "league-of-ireland-premier-division"
+      },
+      "shelbourne": {
+        "slug": "shelbourne",
+        "name": "Shelbourne",
+        "hash": "c00dd816",
+        "league": "league-of-ireland-premier-division"
+      },
+      "sligo-rovers": {
+        "slug": "sligo-rovers",
+        "name": "Sligo Rovers",
+        "hash": "7590dd4c",
+        "league": "league-of-ireland-premier-division"
+      },
+      "st-patricks-athletic": {
+        "slug": "st-patricks-athletic",
+        "name": "St Patrick&#39;s Athletic",
+        "hash": "010abc0f",
+        "league": "league-of-ireland-premier-division"
+      },
+      "waterford": {
+        "slug": "waterford",
+        "name": "Waterford",
+        "hash": "6276c236",
+        "league": "league-of-ireland-premier-division"
+      },
+      "galway-united": {
+        "slug": "galway-united",
+        "name": "Galway United FC",
+        "hash": "0a7aee7a",
+        "league": "league-of-ireland-premier-division"
+      },
+      "athlone-town": {
+        "slug": "athlone-town",
+        "name": "Athlone Town",
+        "hash": "494aa531",
+        "league": "league-of-ireland-first-division"
+      },
+      "cork-city": {
+        "slug": "cork-city",
+        "name": "Cork City",
+        "hash": "99e0400e",
+        "league": "league-of-ireland-first-division"
+      },
+      "finn-harps": {
+        "slug": "finn-harps",
+        "name": "Finn Harps",
+        "hash": "fa01fcac",
+        "league": "league-of-ireland-first-division"
+      },
+      "longford-town": {
+        "slug": "longford-town",
+        "name": "Longford Town",
+        "hash": "ea79a715",
+        "league": "league-of-ireland-first-division"
+      },
+      "ucd": {
+        "slug": "ucd",
+        "name": "University College Dublin",
+        "hash": "53de0d73",
+        "league": "league-of-ireland-first-division"
+      },
+      "wexford": {
+        "slug": "wexford",
+        "name": "Wexford",
+        "hash": "70645303",
+        "league": "league-of-ireland-first-division"
+      },
+      "bray-wanderers": {
+        "slug": "bray-wanderers",
+        "name": "Bray Wanderers",
+        "hash": "7047030e",
+        "league": "league-of-ireland-first-division"
+      },
+      "cobh-ramblers": {
+        "slug": "cobh-ramblers",
+        "name": "Cobh Ramblers",
+        "hash": "87108883",
+        "league": "league-of-ireland-first-division"
+      },
+      "kerry": {
+        "slug": "kerry",
+        "name": "Kerry",
+        "hash": "9919e47d",
+        "league": "league-of-ireland-first-division"
+      },
+      "treaty-united": {
+        "slug": "treaty-united",
+        "name": "Treaty United",
+        "hash": "cfa0e3d1",
+        "league": "league-of-ireland-first-division"
+      },
+      "midleton": {
+        "slug": "midleton",
+        "name": "Midleton",
+        "hash": "9bf5255f",
+        "league": ""
+      },
+      "pike-rovers": {
+        "slug": "pike-rovers",
+        "name": "Pike Rovers",
+        "hash": "7849d2af",
+        "league": ""
+      }
+    }
+  }
+}

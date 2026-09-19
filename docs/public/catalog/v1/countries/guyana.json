@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "guyana",
+    "iso2": "GY",
+    "name": "Guyana",
+    "defaultLeague": "guyana-national-team",
+    "leagues": {
+      "guyana-national-team": {
+        "slug": "guyana-national-team",
+        "name": "Guyana National Team",
+        "hash": "eaf3e1f2",
+        "kind": "league",
+        "code": "GY"
+      }
+    },
+    "clubs": {}
+  }
+}

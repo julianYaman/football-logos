@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "estonia",
+    "iso2": "EE",
+    "name": "Estonia",
+    "defaultLeague": "premium-liiga",
+    "leagues": {
+      "premium-liiga": {
+        "slug": "premium-liiga",
+        "name": "Premium Liiga",
+        "hash": "997e80f8",
+        "kind": "league",
+        "code": "EE"
+      },
+      "estonia-national-team": {
+        "slug": "estonia-national-team",
+        "name": "Estonia National Team",
+        "hash": "f5e3e2a7",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "flora-tallinn": {
+        "slug": "flora-tallinn",
+        "name": "Flora Tallinn",
+        "hash": "0b818983",
+        "league": "premium-liiga"
+      },
+      "kalju": {
+        "slug": "kalju",
+        "name": "Nõmme Kalju",
+        "hash": "130a6de4",
+        "league": "premium-liiga"
+      },
+      "kuressaare": {
+        "slug": "kuressaare",
+        "name": "Kuressaare",
+        "hash": "d77da0e0",
+        "league": "premium-liiga"
+      },
+      "levadia": {
+        "slug": "levadia",
+        "name": "Levadia",
+        "hash": "c6d99b2b",
+        "league": "premium-liiga"
+      },
+      "paide": {
+        "slug": "paide",
+        "name": "Paide",
+        "hash": "6e3717e2",
+        "league": "premium-liiga"
+      },
+      "tammeka": {
+        "slug": "tammeka",
+        "name": "Tammeka",
+        "hash": "229539e1",
+        "league": "premium-liiga"
+      },
+      "narva-trans": {
+        "slug": "narva-trans",
+        "name": "Narva Trans",
+        "hash": "2b3991f8",
+        "league": "premium-liiga"
+      },
+      "vaprus": {
+        "slug": "vaprus",
+        "name": "Pärnu JK Vaprus",
+        "hash": "7c23db81",
+        "league": "premium-liiga"
+      },
+      "harju": {
+        "slug": "harju",
+        "name": "Harju JK",
+        "hash": "bfbdb232",
+        "league": "premium-liiga"
+      },
+      "nomme-united": {
+        "slug": "nomme-united",
+        "name": "FC Nõmme United",
+        "hash": "db3dc878",
+        "league": "premium-liiga"
+      },
+      "kalev": {
+        "slug": "kalev",
+        "name": "Kalev",
+        "hash": "f97f7239",
+        "league": ""
+      },
+      "legion": {
+        "slug": "legion",
+        "name": "TJK Legion",
+        "hash": "48548668",
+        "league": ""
+      },
+      "tulevik": {
+        "slug": "tulevik",
+        "name": "Tulevik",
+        "hash": "aaf1326a",
+        "league": ""
+      }
+    }
+  }
+}

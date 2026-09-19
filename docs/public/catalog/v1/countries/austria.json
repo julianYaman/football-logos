@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "austria",
+    "iso2": "AT",
+    "name": "Austria",
+    "defaultLeague": "austrian-football-bundesliga",
+    "leagues": {
+      "austrian-football-bundesliga": {
+        "slug": "austrian-football-bundesliga",
+        "name": "Austrian Football Bundesliga",
+        "hash": "bdc8c58e",
+        "kind": "league",
+        "code": "AT"
+      },
+      "2-liga": {
+        "slug": "2-liga",
+        "name": "2. Liga",
+        "hash": "6386f2aa",
+        "kind": "league"
+      },
+      "austria-national-team": {
+        "slug": "austria-national-team",
+        "name": "Austria National Team",
+        "hash": "f42ec863",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "altach": {
+        "slug": "altach",
+        "name": "Rheindorf Altach",
+        "hash": "6a574014",
+        "league": "austrian-bundesliga"
+      },
+      "austria-wien": {
+        "slug": "austria-wien",
+        "name": "Austria Wien",
+        "hash": "24f7ffd5",
+        "league": "austrian-bundesliga"
+      },
+      "grazer-ak": {
+        "slug": "grazer-ak",
+        "name": "Grazer AK",
+        "hash": "10a00445",
+        "league": "austrian-bundesliga"
+      },
+      "hartberg": {
+        "slug": "hartberg",
+        "name": "Hartberg",
+        "hash": "495b359e",
+        "league": "austrian-bundesliga"
+      },
+      "lask": {
+        "slug": "lask",
+        "name": "LASK",
+        "hash": "79c6d580",
+        "league": "austrian-bundesliga"
+      },
+      "lustenau": {
+        "slug": "lustenau",
+        "name": "Lustenau",
+        "hash": "72a9e517",
+        "league": "austrian-bundesliga"
+      },
+      "ried": {
+        "slug": "ried",
+        "name": "Ried",
+        "hash": "1582abee",
+        "league": "austrian-bundesliga"
+      },
+      "salzburg": {
+        "slug": "salzburg",
+        "name": "Salzburg",
+        "hash": "45a1ca60",
+        "league": "austrian-bundesliga"
+      },
+      "rapid-vienna": {
+        "slug": "rapid-vienna",
+        "name": "Rapid Vienna",
+        "hash": "765127d7",
+        "league": "austrian-bundesliga"
+      },
+      "sturm-graz": {
+        "slug": "sturm-graz",
+        "name": "Sturm Graz",
+        "hash": "7b84f400",
+        "league": "austrian-bundesliga"
+      },
+      "tirol": {
+        "slug": "tirol",
+        "name": "Tirol",
+        "hash": "fc401d0e",
+        "league": "austrian-bundesliga"
+      },
+      "wolfsberg": {
+        "slug": "wolfsberg",
+        "name": "Wolfsberg",
+        "hash": "ab6c004f",
+        "league": "austrian-bundesliga"
+      },
+      "admira": {
+        "slug": "admira",
+        "name": "Admira",
+        "hash": "7eda7d59",
+        "league": "2-liga"
+      },
+      "amstetten": {
+        "slug": "amstetten",
+        "name": "Amstetten",
+        "hash": "85d3dba3",
+        "league": "2-liga"
+      },
+      "bw-linz": {
+        "slug": "bw-linz",
+        "name": "FC Blau-Weiß Linz",
+        "hash": "9bc53c2b",
+        "league": "2-liga"
+      },
+      "first-vienna": {
+        "slug": "first-vienna",
+        "name": "First Vienna",
+        "hash": "8d8ffaea",
+        "league": "2-liga"
+      },
+      "kapfenberg": {
+        "slug": "kapfenberg",
+        "name": "Kapfenberg",
+        "hash": "1042e612",
+        "league": "2-liga"
+      },
+      "st-polten": {
+        "slug": "st-polten",
+        "name": "St Pölten",
+        "hash": "b9e4f49b",
+        "league": "2-liga"
+      },
+      "floridsdorfer-ac": {
+        "slug": "floridsdorfer-ac",
+        "name": "Floridsdorfer AC",
+        "hash": "01caec76",
+        "league": "2-liga"
+      },
+      "fc-liefering": {
+        "slug": "fc-liefering",
+        "name": "FC Liefering",
+        "hash": "e7b92672",
+        "league": "2-liga"
+      },
+      "sv-austria-salzburg": {
+        "slug": "sv-austria-salzburg",
+        "name": "SV Austria Salzburg",
+        "hash": "c32633e7",
+        "league": "2-liga"
+      },
+      "fc-hertha-wels": {
+        "slug": "fc-hertha-wels",
+        "name": "FC Hertha Wels",
+        "hash": "ef3298bb",
+        "league": "2-liga"
+      },
+      "sw-bregenz": {
+        "slug": "sw-bregenz",
+        "name": "SW Bregenz",
+        "hash": "ec81ab5a",
+        "league": "2-liga"
+      },
+      "fc-wacker-innsbruck": {
+        "slug": "fc-wacker-innsbruck",
+        "name": "FC Wacker Innsbruck",
+        "hash": "5659fb48",
+        "league": "2-liga"
+      },
+      "ask-voitsberg": {
+        "slug": "ask-voitsberg",
+        "name": "ASK Voitsberg",
+        "hash": "0930e82a",
+        "league": "2-liga"
+      },
+      "horn": {
+        "slug": "horn",
+        "name": "Horn",
+        "hash": "d3b4738d",
+        "league": ""
+      },
+      "klagenfurt": {
+        "slug": "klagenfurt",
+        "name": "Klagenfurt",
+        "hash": "fed85d46",
+        "league": ""
+      },
+      "neusiedl": {
+        "slug": "neusiedl",
+        "name": "Neusiedl",
+        "hash": "e557418a",
+        "league": ""
+      },
+      "schwaz": {
+        "slug": "schwaz",
+        "name": "Schwaz",
+        "hash": "3d48faee",
+        "league": ""
+      },
+      "team-fur-wien": {
+        "slug": "team-fur-wien",
+        "name": "Team für Wien",
+        "hash": "74894c40",
+        "league": ""
+      },
+      "union-gurten": {
+        "slug": "union-gurten",
+        "name": "Union Gurten",
+        "hash": "57517e3a",
+        "league": ""
+      },
+      "wiener-viktoria": {
+        "slug": "wiener-viktoria",
+        "name": "Wiener Viktoria",
+        "hash": "d0a9b1b3",
+        "league": ""
+      },
+      "sv-stripfing": {
+        "slug": "sv-stripfing",
+        "name": "SV Stripfing",
+        "hash": "ff7212a1",
+        "league": ""
+      }
+    }
+  }
+}

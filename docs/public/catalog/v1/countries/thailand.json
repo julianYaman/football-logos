@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "thailand",
+    "iso2": "TH",
+    "name": "Thailand",
+    "defaultLeague": "thai-league-1",
+    "leagues": {
+      "thai-league-1": {
+        "slug": "thai-league-1",
+        "name": "Thai League 1",
+        "hash": "f07a6a31",
+        "kind": "league",
+        "code": "TH"
+      },
+      "thailand-national-team": {
+        "slug": "thailand-national-team",
+        "name": "Thailand National Team",
+        "hash": "1148bc6e",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "buriram-united": {
+        "slug": "buriram-united",
+        "name": "Buriram United",
+        "hash": "a501966f",
+        "league": "thai-league-1"
+      },
+      "true-bangkok-united": {
+        "slug": "true-bangkok-united",
+        "name": "True Bangkok United",
+        "hash": "d7b3629c",
+        "league": "thai-league-1"
+      },
+      "port-fc": {
+        "slug": "port-fc",
+        "name": "Port FC",
+        "hash": "4673515b",
+        "league": "thai-league-1"
+      },
+      "bg-pathum-united": {
+        "slug": "bg-pathum-united",
+        "name": "BG Pathum United",
+        "hash": "d5f144eb",
+        "league": "thai-league-1"
+      },
+      "singha-chiangrai-united": {
+        "slug": "singha-chiangrai-united",
+        "name": "Singha Chiangrai United",
+        "hash": "a5063b05",
+        "league": "thai-league-1"
+      },
+      "chonburi-fc": {
+        "slug": "chonburi-fc",
+        "name": "Chonburi FC",
+        "hash": "aca35305",
+        "league": "thai-league-1"
+      },
+      "ayutthaya-united": {
+        "slug": "ayutthaya-united",
+        "name": "Ayutthaya United",
+        "hash": "12411db4",
+        "league": "thai-league-1"
+      },
+      "lamphun-warriors": {
+        "slug": "lamphun-warriors",
+        "name": "Lamphun Warriors",
+        "hash": "9b109cd0",
+        "league": "thai-league-1"
+      },
+      "pattani-fc": {
+        "slug": "pattani-fc",
+        "name": "Pattani FC",
+        "hash": "a3290f26",
+        "league": "thai-league-1"
+      },
+      "prachuap-fc": {
+        "slug": "prachuap-fc",
+        "name": "PT Prachuap FC",
+        "hash": "4b04811d",
+        "league": "thai-league-1"
+      },
+      "rasisalai-united": {
+        "slug": "rasisalai-united",
+        "name": "Rasisalai United",
+        "hash": "6c498325",
+        "league": "thai-league-1"
+      },
+      "ratchaburi-fc": {
+        "slug": "ratchaburi-fc",
+        "name": "Ratchaburi FC",
+        "hash": "171a3c11",
+        "league": "thai-league-1"
+      },
+      "rayong-fc": {
+        "slug": "rayong-fc",
+        "name": "Rayong FC",
+        "hash": "d39f2e35",
+        "league": "thai-league-1"
+      },
+      "sisaket-united": {
+        "slug": "sisaket-united",
+        "name": "Sisaket United",
+        "hash": "91a7a9e5",
+        "league": "thai-league-1"
+      },
+      "sukhothai-fc": {
+        "slug": "sukhothai-fc",
+        "name": "Sukhothai FC",
+        "hash": "274a6a90",
+        "league": "thai-league-1"
+      },
+      "uthai-thani-fc": {
+        "slug": "uthai-thani-fc",
+        "name": "Uthai Thani FC",
+        "hash": "e17888d0",
+        "league": "thai-league-1"
+      }
+    }
+  }
+}

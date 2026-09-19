@@ -1,0 +1,1390 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "germany",
+    "iso2": "DE",
+    "name": "Germany",
+    "defaultLeague": "bundesliga",
+    "leagues": {
+      "bundesliga": {
+        "slug": "bundesliga",
+        "name": "Bundesliga",
+        "hash": "24d9c6f9",
+        "kind": "league",
+        "code": "DE"
+      },
+      "2-bundesliga": {
+        "slug": "2-bundesliga",
+        "name": "2. Bundesliga",
+        "hash": "11755b17",
+        "kind": "league",
+        "code": "GER2"
+      },
+      "3-liga": {
+        "slug": "3-liga",
+        "name": "3. Liga",
+        "hash": "86275a77",
+        "kind": "league"
+      },
+      "regionalliga-nord": {
+        "slug": "regionalliga-nord",
+        "name": "Regionalliga Nord",
+        "hash": "bb7cd698",
+        "kind": "league"
+      },
+      "regionalliga-nordost": {
+        "slug": "regionalliga-nordost",
+        "name": "Regionalliga Nordost",
+        "hash": "5881ffa8",
+        "kind": "league"
+      },
+      "regionalliga-west": {
+        "slug": "regionalliga-west",
+        "name": "Regionalliga West",
+        "hash": "bec28f81",
+        "kind": "league"
+      },
+      "regionalliga-sudwest": {
+        "slug": "regionalliga-sudwest",
+        "name": "Regionalliga Südwest",
+        "hash": "7c292e60",
+        "kind": "league"
+      },
+      "regionalliga-bayern": {
+        "slug": "regionalliga-bayern",
+        "name": "Regionalliga Bayern",
+        "hash": "a4012fce",
+        "kind": "league"
+      },
+      "germany-national-team": {
+        "slug": "germany-national-team",
+        "name": "Germany National Team",
+        "hash": "d354ad14",
+        "kind": "league"
+      },
+      "dfb-german-football-association": {
+        "slug": "dfb-german-football-association",
+        "name": "DFB German Football Association",
+        "hash": "416c0153",
+        "kind": "league"
+      },
+      "dfb-pokal": {
+        "slug": "dfb-pokal",
+        "name": "DFB Pokal",
+        "hash": "f99edcba",
+        "kind": "league"
+      },
+      "franz-beckenbauer-supercup": {
+        "slug": "franz-beckenbauer-supercup",
+        "name": "Franz Beckenbauer Supercup",
+        "hash": "81fd4a13",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "bayern-munchen": {
+        "slug": "bayern-munchen",
+        "name": "Bayern Munich",
+        "hash": "8eda8ecc",
+        "league": "bundesliga"
+      },
+      "borussia-dortmund": {
+        "slug": "borussia-dortmund",
+        "name": "Borussia Dortmund",
+        "hash": "ebd95525",
+        "league": "bundesliga"
+      },
+      "rb-leipzig": {
+        "slug": "rb-leipzig",
+        "name": "RB Leipzig",
+        "hash": "5a21bcbd",
+        "league": "bundesliga"
+      },
+      "bayer-leverkusen": {
+        "slug": "bayer-leverkusen",
+        "name": "Bayer Leverkusen",
+        "hash": "8e88c731",
+        "league": "bundesliga"
+      },
+      "eintracht-frankfurt": {
+        "slug": "eintracht-frankfurt",
+        "name": "Eintracht Frankfurt",
+        "hash": "422e036d",
+        "league": "bundesliga"
+      },
+      "union-berlin": {
+        "slug": "union-berlin",
+        "name": "Union Berlin",
+        "hash": "484bbfaa",
+        "league": "bundesliga"
+      },
+      "schalke-04": {
+        "slug": "schalke-04",
+        "name": "Schalke 04",
+        "hash": "54ee2b84",
+        "league": "bundesliga"
+      },
+      "hamburger-sv": {
+        "slug": "hamburger-sv",
+        "name": "Hamburger SV",
+        "hash": "6a4c40a6",
+        "league": "bundesliga"
+      },
+      "augsburg": {
+        "slug": "augsburg",
+        "name": "Augsburg",
+        "hash": "75361590",
+        "league": "bundesliga"
+      },
+      "werder-bremen": {
+        "slug": "werder-bremen",
+        "name": "Werder Bremen",
+        "hash": "7dbfe857",
+        "league": "bundesliga"
+      },
+      "freiburg": {
+        "slug": "freiburg",
+        "name": "Freiburg",
+        "hash": "40e62d41",
+        "league": "bundesliga"
+      },
+      "hoffenheim": {
+        "slug": "hoffenheim",
+        "name": "Hoffenheim",
+        "hash": "73bc855e",
+        "league": "bundesliga"
+      },
+      "koln": {
+        "slug": "koln",
+        "name": "Cologne",
+        "hash": "4221251d",
+        "league": "bundesliga"
+      },
+      "mainz-05": {
+        "slug": "mainz-05",
+        "name": "Mainz 05",
+        "hash": "a086fb18",
+        "league": "bundesliga"
+      },
+      "borussia-monchengladbach": {
+        "slug": "borussia-monchengladbach",
+        "name": "Borussia Mönchengladbach",
+        "hash": "452424e7",
+        "league": "bundesliga"
+      },
+      "paderborn": {
+        "slug": "paderborn",
+        "name": "SC Paderborn",
+        "hash": "7a64d8e2",
+        "league": "bundesliga"
+      },
+      "sv-elversberg": {
+        "slug": "sv-elversberg",
+        "name": "SV Elversberg",
+        "hash": "f52c2cf6",
+        "league": "bundesliga"
+      },
+      "vfb-stuttgart": {
+        "slug": "vfb-stuttgart",
+        "name": "VfB Stuttgart",
+        "hash": "67491c8f",
+        "league": "bundesliga"
+      },
+      "arminia-bielefeld": {
+        "slug": "arminia-bielefeld",
+        "name": "Arminia Bielefeld",
+        "hash": "659fb3ef",
+        "league": "2-bundesliga"
+      },
+      "vfl-bochum": {
+        "slug": "vfl-bochum",
+        "name": "VfL Bochum",
+        "hash": "f0d20331",
+        "league": "2-bundesliga"
+      },
+      "darmstadt": {
+        "slug": "darmstadt",
+        "name": "SV Darmstadt 98",
+        "hash": "4cbd3171",
+        "league": "2-bundesliga"
+      },
+      "dynamo-dresden": {
+        "slug": "dynamo-dresden",
+        "name": "Dynamo Dresden",
+        "hash": "050805b5",
+        "league": "2-bundesliga"
+      },
+      "energie-cottbus": {
+        "slug": "energie-cottbus",
+        "name": "Energie Cottbus",
+        "hash": "c854e5f5",
+        "league": "2-bundesliga"
+      },
+      "eintracht-braunschweig": {
+        "slug": "eintracht-braunschweig",
+        "name": "Eintracht Braunschweig",
+        "hash": "4db56b40",
+        "league": "2-bundesliga"
+      },
+      "spvgg-greuther-furth": {
+        "slug": "spvgg-greuther-furth",
+        "name": "SpVgg Greuther Fürth",
+        "hash": "b0649499",
+        "league": "2-bundesliga"
+      },
+      "hannover-96": {
+        "slug": "hannover-96",
+        "name": "Hannover 96",
+        "hash": "80091d52",
+        "league": "2-bundesliga"
+      },
+      "fc-heidenheim": {
+        "slug": "fc-heidenheim",
+        "name": "FC Heidenheim",
+        "hash": "d464a653",
+        "league": "2-bundesliga"
+      },
+      "hertha-bsc": {
+        "slug": "hertha-bsc",
+        "name": "Hertha BSC",
+        "hash": "fbe045b0",
+        "league": "2-bundesliga"
+      },
+      "holstein-kiel": {
+        "slug": "holstein-kiel",
+        "name": "Holstein Kiel",
+        "hash": "d5143fa3",
+        "league": "2-bundesliga"
+      },
+      "fc-kaiserslautern": {
+        "slug": "fc-kaiserslautern",
+        "name": "FC Kaiserslautern",
+        "hash": "ee2d7f41",
+        "league": "2-bundesliga"
+      },
+      "karlsruher": {
+        "slug": "karlsruher",
+        "name": "Karlsruher SC",
+        "hash": "a36bdb13",
+        "league": "2-bundesliga"
+      },
+      "1-fc-magdeburg": {
+        "slug": "1-fc-magdeburg",
+        "name": "1. FC Magdeburg",
+        "hash": "214e033c",
+        "league": "2-bundesliga"
+      },
+      "fc-nurnberg": {
+        "slug": "fc-nurnberg",
+        "name": "FC Nürnberg",
+        "hash": "02fdda16",
+        "league": "2-bundesliga"
+      },
+      "osnabruck": {
+        "slug": "osnabruck",
+        "name": "Osnabrück",
+        "hash": "c7ff5d9f",
+        "league": "2-bundesliga"
+      },
+      "st-pauli": {
+        "slug": "st-pauli",
+        "name": "St Pauli",
+        "hash": "b84f62fc",
+        "league": "2-bundesliga"
+      },
+      "wolfsburg": {
+        "slug": "wolfsburg",
+        "name": "Wolfsburg",
+        "hash": "4cae0d89",
+        "league": "2-bundesliga"
+      },
+      "alemannia-aachen": {
+        "slug": "alemannia-aachen",
+        "name": "Alemannia Aachen",
+        "hash": "a8ae9f24",
+        "league": "3-liga"
+      },
+      "fortuna-dusseldorf": {
+        "slug": "fortuna-dusseldorf",
+        "name": "Fortuna Düsseldorf",
+        "hash": "bbbf2d40",
+        "league": "3-liga"
+      },
+      "essen": {
+        "slug": "essen",
+        "name": "Essen",
+        "hash": "2192fffa",
+        "league": "3-liga"
+      },
+      "hansa-rostock": {
+        "slug": "hansa-rostock",
+        "name": "Hansa Rostock",
+        "hash": "0bcf57e1",
+        "league": "3-liga"
+      },
+      "ingolstadt": {
+        "slug": "ingolstadt",
+        "name": "Ingolstadt",
+        "hash": "942f1a54",
+        "league": "3-liga"
+      },
+      "jahn": {
+        "slug": "jahn",
+        "name": "Jahn",
+        "hash": "bdbca521",
+        "league": "3-liga"
+      },
+      "msv-duisburg": {
+        "slug": "msv-duisburg",
+        "name": "MSV Duisburg",
+        "hash": "a0e500e9",
+        "league": "3-liga"
+      },
+      "fc-viktoria-koln": {
+        "slug": "fc-viktoria-koln",
+        "name": "FC Viktoria Köln",
+        "hash": "5bf26e4d",
+        "league": "3-liga"
+      },
+      "preussen-munster": {
+        "slug": "preussen-munster",
+        "name": "Preußen Münster",
+        "hash": "6ea1b7ef",
+        "league": "3-liga"
+      },
+      "saarbrucken": {
+        "slug": "saarbrucken",
+        "name": "Saarbrücken",
+        "hash": "ce244187",
+        "league": "3-liga"
+      },
+      "sc-verl": {
+        "slug": "sc-verl",
+        "name": "SC Verl",
+        "hash": "5a054625",
+        "league": "3-liga"
+      },
+      "sv-waldhof-mannheim": {
+        "slug": "sv-waldhof-mannheim",
+        "name": "SV Waldhof Mannheim",
+        "hash": "ec293c53",
+        "league": "3-liga"
+      },
+      "tsv-havelse": {
+        "slug": "tsv-havelse",
+        "name": "TSV Havelse",
+        "hash": "20fd5075",
+        "league": "3-liga"
+      },
+      "wiesbaden": {
+        "slug": "wiesbaden",
+        "name": "Wiesbaden",
+        "hash": "03df5025",
+        "league": "3-liga"
+      },
+      "wurzburger-kickers": {
+        "slug": "wurzburger-kickers",
+        "name": "Würzburger Kickers",
+        "hash": "46fe39cb",
+        "league": "3-liga"
+      },
+      "meppen": {
+        "slug": "meppen",
+        "name": "SV Meppen",
+        "hash": "8a999fa6",
+        "league": "3-liga"
+      },
+      "fortuna-koln": {
+        "slug": "fortuna-koln",
+        "name": "SC Fortuna Köln",
+        "hash": "b067149c",
+        "league": "3-liga"
+      },
+      "sg-sonnenhof-grossaspach": {
+        "slug": "sg-sonnenhof-grossaspach",
+        "name": "SG Sonnenhof Großaspach",
+        "hash": "5f216dc0",
+        "league": "3-liga"
+      },
+      "sv-drochtersen-assel": {
+        "slug": "sv-drochtersen-assel",
+        "name": "SV Drochtersen/Assel",
+        "hash": "252bbd90",
+        "league": "regionalliga-nord"
+      },
+      "vfb-lubeck": {
+        "slug": "vfb-lubeck",
+        "name": "VfB Lübeck",
+        "hash": "6ad22f88",
+        "league": "regionalliga-nord"
+      },
+      "kickers-emden": {
+        "slug": "kickers-emden",
+        "name": "BSV Kickers Emden",
+        "hash": "63e83e87",
+        "league": "regionalliga-nord"
+      },
+      "bremer-sv": {
+        "slug": "bremer-sv",
+        "name": "Bremer SV",
+        "hash": "92a662e8",
+        "league": "regionalliga-nord"
+      },
+      "vfb-oldenburg": {
+        "slug": "vfb-oldenburg",
+        "name": "VfB Oldenburg",
+        "hash": "55e177d1",
+        "league": "regionalliga-nord"
+      },
+      "ssv-jeddeloh-ii": {
+        "slug": "ssv-jeddeloh-ii",
+        "name": "SSV Jeddeloh II",
+        "hash": "ad9eb36b",
+        "league": "regionalliga-nord"
+      },
+      "sc-weiche-flensburg-08": {
+        "slug": "sc-weiche-flensburg-08",
+        "name": "SC Weiche Flensburg 08",
+        "hash": "5d02f864",
+        "league": "regionalliga-nord"
+      },
+      "fsv-schoningen-2011": {
+        "slug": "fsv-schoningen-2011",
+        "name": "FSV Schöningen 2011",
+        "hash": "6493437b",
+        "league": "regionalliga-nord"
+      },
+      "eintracht-norderstedt": {
+        "slug": "eintracht-norderstedt",
+        "name": "FC Eintracht Norderstedt",
+        "hash": "1d3ef1b9",
+        "league": "regionalliga-nord"
+      },
+      "1-fc-phonix-lubeck": {
+        "slug": "1-fc-phonix-lubeck",
+        "name": "1. FC Phönix Lübeck",
+        "hash": "03679114",
+        "league": "regionalliga-nord"
+      },
+      "hsc-hannover": {
+        "slug": "hsc-hannover",
+        "name": "HSC Hannover",
+        "hash": "ec965d74",
+        "league": "regionalliga-nord"
+      },
+      "eimsbutteler-tv": {
+        "slug": "eimsbutteler-tv",
+        "name": "Eimsbütteler TV",
+        "hash": "3b2cebd6",
+        "league": "regionalliga-nord"
+      },
+      "atlas-delmenhorst": {
+        "slug": "atlas-delmenhorst",
+        "name": "Atlas Delmenhorst",
+        "hash": "91e4bd8b",
+        "league": "regionalliga-nord"
+      },
+      "sv-todesfelde": {
+        "slug": "sv-todesfelde",
+        "name": "SV Todesfelde",
+        "hash": "c7c7bd72",
+        "league": "regionalliga-nord"
+      },
+      "erzgebirge": {
+        "slug": "erzgebirge",
+        "name": "Erzgebirge",
+        "hash": "e2738044",
+        "league": "regionalliga-nordost"
+      },
+      "hallescher": {
+        "slug": "hallescher",
+        "name": "Hallescher",
+        "hash": "cd2de2f3",
+        "league": "regionalliga-nordost"
+      },
+      "jena": {
+        "slug": "jena",
+        "name": "Jena",
+        "hash": "7d896103",
+        "league": "regionalliga-nordost"
+      },
+      "1-fc-lokomotive-leipzig": {
+        "slug": "1-fc-lokomotive-leipzig",
+        "name": "1. FC Lokomotive Leipzig",
+        "hash": "c822f3a1",
+        "league": "regionalliga-nordost"
+      },
+      "rot-weiss-erfurt": {
+        "slug": "rot-weiss-erfurt",
+        "name": "FC Rot-Weiß Erfurt",
+        "hash": "ff104f16",
+        "league": "regionalliga-nordost"
+      },
+      "bfc-dynamo": {
+        "slug": "bfc-dynamo",
+        "name": "BFC Dynamo",
+        "hash": "bf15386a",
+        "league": "regionalliga-nordost"
+      },
+      "fsv-zwickau": {
+        "slug": "fsv-zwickau",
+        "name": "FSV Zwickau",
+        "hash": "28e182ff",
+        "league": "regionalliga-nordost"
+      },
+      "chemnitzer": {
+        "slug": "chemnitzer",
+        "name": "Chemnitzer FC",
+        "hash": "ad36ef18",
+        "league": "regionalliga-nordost"
+      },
+      "fsv-luckenwalde": {
+        "slug": "fsv-luckenwalde",
+        "name": "FSV 63 Luckenwalde",
+        "hash": "af785a13",
+        "league": "regionalliga-nordost"
+      },
+      "bsg-chemie-leipzig": {
+        "slug": "bsg-chemie-leipzig",
+        "name": "BSG Chemie Leipzig",
+        "hash": "bddc745f",
+        "league": "regionalliga-nordost"
+      },
+      "greifswalder": {
+        "slug": "greifswalder",
+        "name": "Greifswalder FC",
+        "hash": "e13acd54",
+        "league": "regionalliga-nordost"
+      },
+      "sv-babelsberg-03": {
+        "slug": "sv-babelsberg-03",
+        "name": "SV Babelsberg 03",
+        "hash": "59d43761",
+        "league": "regionalliga-nordost"
+      },
+      "bfc-preussen": {
+        "slug": "bfc-preussen",
+        "name": "BFC Preussen",
+        "hash": "e069e718",
+        "league": "regionalliga-nordost"
+      },
+      "vsg-altglienicke": {
+        "slug": "vsg-altglienicke",
+        "name": "VSG Altglienicke",
+        "hash": "8ffec13b",
+        "league": "regionalliga-nordost"
+      },
+      "rsv-eintracht-1949": {
+        "slug": "rsv-eintracht-1949",
+        "name": "RSV Eintracht 1949",
+        "hash": "31698897",
+        "league": "regionalliga-nordost"
+      },
+      "tasmania-berlin": {
+        "slug": "tasmania-berlin",
+        "name": "Tasmania Berlin",
+        "hash": "a93fdad8",
+        "league": "regionalliga-nordost"
+      },
+      "rot-weiss-oberhausen": {
+        "slug": "rot-weiss-oberhausen",
+        "name": "Rot-Weiß Oberhausen",
+        "hash": "4d2aac9d",
+        "league": "regionalliga-west"
+      },
+      "sportfreunde-siegen": {
+        "slug": "sportfreunde-siegen",
+        "name": "Sportfreunde Siegen",
+        "hash": "a1b09f64",
+        "league": "regionalliga-west"
+      },
+      "bonner-sc": {
+        "slug": "bonner-sc",
+        "name": "Bonner SC",
+        "hash": "3fde85a0",
+        "league": "regionalliga-west"
+      },
+      "sportfreunde-lotte": {
+        "slug": "sportfreunde-lotte",
+        "name": "Sportfreunde Lotte",
+        "hash": "2addb7ed",
+        "league": "regionalliga-west"
+      },
+      "sc-wiedenbruck": {
+        "slug": "sc-wiedenbruck",
+        "name": "SC Wiedenbrück",
+        "hash": "834b981a",
+        "league": "regionalliga-west"
+      },
+      "sv-rodinghausen": {
+        "slug": "sv-rodinghausen",
+        "name": "SV Rödinghausen",
+        "hash": "547f2b1a",
+        "league": "regionalliga-west"
+      },
+      "fc-bocholt": {
+        "slug": "fc-bocholt",
+        "name": "1. FC Bocholt",
+        "hash": "6ea4be94",
+        "league": "regionalliga-west"
+      },
+      "fc-gutersloh": {
+        "slug": "fc-gutersloh",
+        "name": "FC Gütersloh",
+        "hash": "89b319b5",
+        "league": "regionalliga-west"
+      },
+      "bergisch-gladbach-09": {
+        "slug": "bergisch-gladbach-09",
+        "name": "Bergisch Gladbach 09",
+        "hash": "245b7028",
+        "league": "regionalliga-west"
+      },
+      "vfb-hilden": {
+        "slug": "vfb-hilden",
+        "name": "VfB Hilden",
+        "hash": "d26ecbc0",
+        "league": "regionalliga-west"
+      },
+      "wattenscheid-09": {
+        "slug": "wattenscheid-09",
+        "name": "Wattenscheid 09",
+        "hash": "e635e7ea",
+        "league": "regionalliga-west"
+      },
+      "westfalia-rhynern": {
+        "slug": "westfalia-rhynern",
+        "name": "Westfalia Rhynern",
+        "hash": "dd073dc8",
+        "league": "regionalliga-west"
+      },
+      "ssv-ulm-1846": {
+        "slug": "ssv-ulm-1846",
+        "name": "SSV Ulm 1846 Fußball",
+        "hash": "86c4bb3b",
+        "league": "regionalliga-sudwest"
+      },
+      "sv-sandhausen": {
+        "slug": "sv-sandhausen",
+        "name": "SV Sandhausen",
+        "hash": "32b455b3",
+        "league": "regionalliga-sudwest"
+      },
+      "sgv-freiberg": {
+        "slug": "sgv-freiberg",
+        "name": "SGV Freiberg",
+        "hash": "6107fedc",
+        "league": "regionalliga-sudwest"
+      },
+      "stuttgarter-kickers": {
+        "slug": "stuttgarter-kickers",
+        "name": "Stuttgarter Kickers",
+        "hash": "f79cf273",
+        "league": "regionalliga-sudwest"
+      },
+      "fc-08-homburg": {
+        "slug": "fc-08-homburg",
+        "name": "FC 08 Homburg",
+        "hash": "b08e3312",
+        "league": "regionalliga-sudwest"
+      },
+      "sg-barockstadt-fulda-lehnerz": {
+        "slug": "sg-barockstadt-fulda-lehnerz",
+        "name": "SG Barockstadt Fulda-Lehnerz",
+        "hash": "52fe643e",
+        "league": "regionalliga-sudwest"
+      },
+      "fc-astoria-walldorf": {
+        "slug": "fc-astoria-walldorf",
+        "name": "FC Astoria Walldorf",
+        "hash": "d5b643fe",
+        "league": "regionalliga-sudwest"
+      },
+      "fsv-frankfurt": {
+        "slug": "fsv-frankfurt",
+        "name": "FSV Frankfurt",
+        "hash": "ed1df31b",
+        "league": "regionalliga-sudwest"
+      },
+      "ksv-hessen-kassel": {
+        "slug": "ksv-hessen-kassel",
+        "name": "KSV Hessen Kassel",
+        "hash": "17275f87",
+        "league": "regionalliga-sudwest"
+      },
+      "kickers-offenbach": {
+        "slug": "kickers-offenbach",
+        "name": "Kickers Offenbach",
+        "hash": "c023a630",
+        "league": "regionalliga-sudwest"
+      },
+      "eintracht-trier": {
+        "slug": "eintracht-trier",
+        "name": "SV Eintracht Trier 05",
+        "hash": "5fce40c3",
+        "league": "regionalliga-sudwest"
+      },
+      "tsv-steinbach-haiger": {
+        "slug": "tsv-steinbach-haiger",
+        "name": "TSV Steinbach Haiger",
+        "hash": "5faebca3",
+        "league": "regionalliga-sudwest"
+      },
+      "vfr-aalen": {
+        "slug": "vfr-aalen",
+        "name": "VfR Aalen",
+        "hash": "12da71e4",
+        "league": "regionalliga-sudwest"
+      },
+      "vfr-mannheim": {
+        "slug": "vfr-mannheim",
+        "name": "VfR Mannheim",
+        "hash": "9aab1f0e",
+        "league": "regionalliga-sudwest"
+      },
+      "1-fc-schweinfurt-05": {
+        "slug": "1-fc-schweinfurt-05",
+        "name": "1. FC Schweinfurt 05",
+        "hash": "cd813715",
+        "league": "regionalliga-bayern"
+      },
+      "tsv-1860-munchen": {
+        "slug": "tsv-1860-munchen",
+        "name": "TSV 1860 München",
+        "hash": "ee38107d",
+        "league": "regionalliga-bayern"
+      },
+      "spvgg-unterhaching": {
+        "slug": "spvgg-unterhaching",
+        "name": "SpVgg Unterhaching",
+        "hash": "7a3a36b3",
+        "league": "regionalliga-bayern"
+      },
+      "fv-illertissen": {
+        "slug": "fv-illertissen",
+        "name": "FV Illertissen",
+        "hash": "9c0196a6",
+        "league": "regionalliga-bayern"
+      },
+      "vfb-eichstatt": {
+        "slug": "vfb-eichstatt",
+        "name": "VfB Eichstätt",
+        "hash": "e9a5aeef",
+        "league": "regionalliga-bayern"
+      },
+      "tsv-aubstadt": {
+        "slug": "tsv-aubstadt",
+        "name": "TSV Aubstadt",
+        "hash": "fdd8e958",
+        "league": "regionalliga-bayern"
+      },
+      "djk-vilzing": {
+        "slug": "djk-vilzing",
+        "name": "DJK Vilzing",
+        "hash": "cce4a9b6",
+        "league": "regionalliga-bayern"
+      },
+      "wacker-burghausen": {
+        "slug": "wacker-burghausen",
+        "name": "Wacker Burghausen",
+        "hash": "4aac37c5",
+        "league": "regionalliga-bayern"
+      },
+      "spvgg-ansbach": {
+        "slug": "spvgg-ansbach",
+        "name": "SpVgg Ansbach 09",
+        "hash": "132bb1f5",
+        "league": "regionalliga-bayern"
+      },
+      "tsv-buchbach": {
+        "slug": "tsv-buchbach",
+        "name": "TSV Buchbach",
+        "hash": "1b07f3a0",
+        "league": "regionalliga-bayern"
+      },
+      "spvgg-bayreuth": {
+        "slug": "spvgg-bayreuth",
+        "name": "SpVgg Bayreuth",
+        "hash": "1167caea",
+        "league": "regionalliga-bayern"
+      },
+      "fc-memmingen": {
+        "slug": "fc-memmingen",
+        "name": "FC Memmingen",
+        "hash": "efddc79a",
+        "league": "regionalliga-bayern"
+      },
+      "tsv-schwaben-augsburg": {
+        "slug": "tsv-schwaben-augsburg",
+        "name": "TSV Schwaben Augsburg",
+        "hash": "1fc8fd1b",
+        "league": "regionalliga-bayern"
+      },
+      "sc-eltersdorf": {
+        "slug": "sc-eltersdorf",
+        "name": "SC Eltersdorf",
+        "hash": "da2cbc61",
+        "league": "regionalliga-bayern"
+      },
+      "tsv-landsberg": {
+        "slug": "tsv-landsberg",
+        "name": "TSV Landsberg",
+        "hash": "a75e2db6",
+        "league": "regionalliga-bayern"
+      },
+      "fc-viktoria-1889-berlin": {
+        "slug": "fc-viktoria-1889-berlin",
+        "name": "FC Viktoria 1889 Berlin",
+        "hash": "62e3f6d5",
+        "league": ""
+      },
+      "blau-weiss-lohne": {
+        "slug": "blau-weiss-lohne",
+        "name": "Blau-Weiß Lohne",
+        "hash": "1f87e2a1",
+        "league": ""
+      },
+      "altona-93": {
+        "slug": "altona-93",
+        "name": "Altonaer FC 93",
+        "hash": "67e198f4",
+        "league": ""
+      },
+      "zfc-meuselwitz": {
+        "slug": "zfc-meuselwitz",
+        "name": "ZFC Meuselwitz",
+        "hash": "aeafa781",
+        "league": ""
+      },
+      "fc-eilenburg": {
+        "slug": "fc-eilenburg",
+        "name": "FC Eilenburg",
+        "hash": "0248bace",
+        "league": ""
+      },
+      "hertha-zehlendorf": {
+        "slug": "hertha-zehlendorf",
+        "name": "FC Hertha 03 Zehlendorf",
+        "hash": "b8ce302a",
+        "league": ""
+      },
+      "ssvg-velbert-02": {
+        "slug": "ssvg-velbert-02",
+        "name": "SSVg Velbert 02",
+        "hash": "332d097d",
+        "league": ""
+      },
+      "wuppertaler-sv": {
+        "slug": "wuppertaler-sv",
+        "name": "Wuppertaler SV",
+        "hash": "47ebd5bb",
+        "league": ""
+      },
+      "bayern-alzenau": {
+        "slug": "bayern-alzenau",
+        "name": "FC Bayern Alzenau",
+        "hash": "cd0ad517",
+        "league": ""
+      },
+      "tsv-schott-mainz": {
+        "slug": "tsv-schott-mainz",
+        "name": "TSV Schott Mainz",
+        "hash": "c41becde",
+        "league": ""
+      },
+      "tsg-balingen": {
+        "slug": "tsg-balingen",
+        "name": "TSG Balingen",
+        "hash": "cb5fcb7d",
+        "league": ""
+      },
+      "bahlinger-sc": {
+        "slug": "bahlinger-sc",
+        "name": "Bahlinger SC",
+        "hash": "b008de7f",
+        "league": ""
+      },
+      "viktoria-aschaffenburg": {
+        "slug": "viktoria-aschaffenburg",
+        "name": "Viktoria Aschaffenburg",
+        "hash": "31b3feb9",
+        "league": ""
+      },
+      "spvgg-hankofen-hailing": {
+        "slug": "spvgg-hankofen-hailing",
+        "name": "SpVgg Hankofen-Hailing",
+        "hash": "87cfbc1b",
+        "league": ""
+      },
+      "djk-teutonia-st-toenis": {
+        "slug": "djk-teutonia-st-toenis",
+        "name": "DJK Teutonia St. Tönis",
+        "hash": "477bc8b6",
+        "league": ""
+      },
+      "lueneburger-sk-hansa": {
+        "slug": "lueneburger-sk-hansa",
+        "name": "Lüneburger SK Hansa",
+        "hash": "e06f7f7f",
+        "league": ""
+      },
+      "sv-hemelingen": {
+        "slug": "sv-hemelingen",
+        "name": "SV Hemelingen",
+        "hash": "a3af9966",
+        "league": ""
+      },
+      "vfb-krieschow": {
+        "slug": "vfb-krieschow",
+        "name": "VfB 1921 Krieschow",
+        "hash": "b9bf0d61",
+        "league": ""
+      },
+      "arminia-hannover": {
+        "slug": "arminia-hannover",
+        "name": "Arminia Hannover",
+        "hash": "045444ec",
+        "league": ""
+      },
+      "borussia-neunkirchen": {
+        "slug": "borussia-neunkirchen",
+        "name": "Borussia Neunkirchen",
+        "hash": "da4e972f",
+        "league": ""
+      },
+      "kfc-uerdingen-05": {
+        "slug": "kfc-uerdingen-05",
+        "name": "KFC Uerdingen 05",
+        "hash": "714cac90",
+        "league": ""
+      },
+      "1-fc-gera-03": {
+        "slug": "1-fc-gera-03",
+        "name": "1. FC Gera 03",
+        "hash": "be471f24",
+        "league": ""
+      },
+      "1-fc-lok-stendal": {
+        "slug": "1-fc-lok-stendal",
+        "name": "1. FC Lok Stendal",
+        "hash": "aebd374e",
+        "league": ""
+      },
+      "1-fc-passau": {
+        "slug": "1-fc-passau",
+        "name": "1. FC Passau",
+        "hash": "80386081",
+        "league": ""
+      },
+      "1-fc-romonta-amsdorf": {
+        "slug": "1-fc-romonta-amsdorf",
+        "name": "1. FC Romonta Amsdorf",
+        "hash": "c9389033",
+        "league": ""
+      },
+      "1-fc-spich": {
+        "slug": "1-fc-spich",
+        "name": "1. FC Spich",
+        "hash": "1e116c04",
+        "league": ""
+      },
+      "1-fc-union-solingen": {
+        "slug": "1-fc-union-solingen",
+        "name": "1. FC Union Solingen",
+        "hash": "ae52dbad",
+        "league": ""
+      },
+      "1-fc-zeitz": {
+        "slug": "1-fc-zeitz",
+        "name": "1. FC Zeitz",
+        "hash": "cd076051",
+        "league": ""
+      },
+      "1-sc-feucht": {
+        "slug": "1-sc-feucht",
+        "name": "1. SC Feucht",
+        "hash": "1ba9fcc5",
+        "league": ""
+      },
+      "asv-burglengenfeld": {
+        "slug": "asv-burglengenfeld",
+        "name": "ASV Burglengenfeld",
+        "hash": "bebecfce",
+        "league": ""
+      },
+      "asv-herzogenaurach": {
+        "slug": "asv-herzogenaurach",
+        "name": "ASV Herzogenaurach",
+        "hash": "f4612aac",
+        "league": ""
+      },
+      "bfc-alemannia-90": {
+        "slug": "bfc-alemannia-90",
+        "name": "BFC Alemannia 90",
+        "hash": "9259fdeb",
+        "league": ""
+      },
+      "bischofswerdaer-fv-08": {
+        "slug": "bischofswerdaer-fv-08",
+        "name": "Bischofswerdaer FV 08",
+        "hash": "26233da6",
+        "league": ""
+      },
+      "borussia-droschede": {
+        "slug": "borussia-droschede",
+        "name": "Borussia Dröschede",
+        "hash": "db4c471f",
+        "league": ""
+      },
+      "bsv-eintracht-sondershausen": {
+        "slug": "bsv-eintracht-sondershausen",
+        "name": "BSV Eintracht Sondershausen",
+        "hash": "3f450d26",
+        "league": ""
+      },
+      "cothener-fc-germania-03": {
+        "slug": "cothener-fc-germania-03",
+        "name": "Cöthener FC Germania 03",
+        "hash": "4454771a",
+        "league": ""
+      },
+      "dresdner-sc": {
+        "slug": "dresdner-sc",
+        "name": "Dresdner SC",
+        "hash": "43c44fb2",
+        "league": ""
+      },
+      "eutin-08": {
+        "slug": "eutin-08",
+        "name": "Eutin 08",
+        "hash": "7cbadfae",
+        "league": ""
+      },
+      "fc-brucken": {
+        "slug": "fc-brucken",
+        "name": "FC Brücken",
+        "hash": "63fae426",
+        "league": ""
+      },
+      "fc-dresden": {
+        "slug": "fc-dresden",
+        "name": "FC Dresden",
+        "hash": "13d62775",
+        "league": ""
+      },
+      "fc-einheit-wernigerode": {
+        "slug": "fc-einheit-wernigerode",
+        "name": "FC Einheit Wernigerode",
+        "hash": "476ea1d8",
+        "league": ""
+      },
+      "fc-eintracht-rheine": {
+        "slug": "fc-eintracht-rheine",
+        "name": "FC Eintracht Rheine",
+        "hash": "fac3a8f5",
+        "league": ""
+      },
+      "fc-hertha-munchen": {
+        "slug": "fc-hertha-munchen",
+        "name": "FC Hertha München",
+        "hash": "8287170b",
+        "league": ""
+      },
+      "fsv-08-bietigheim-bissingen": {
+        "slug": "fsv-08-bietigheim-bissingen",
+        "name": "FSV 08 Bietigheim-Bissingen",
+        "hash": "b37bb6ee",
+        "league": ""
+      },
+      "fsv-1926-fernwald": {
+        "slug": "fsv-1926-fernwald",
+        "name": "FSV 1926 Fernwald",
+        "hash": "337a55cd",
+        "league": ""
+      },
+      "germania-wernigerode": {
+        "slug": "germania-wernigerode",
+        "name": "Germania Wernigerode",
+        "hash": "2b411eb0",
+        "league": ""
+      },
+      "ludwigshafener-sc": {
+        "slug": "ludwigshafener-sc",
+        "name": "Ludwigshafener SC",
+        "hash": "67237207",
+        "league": ""
+      },
+      "osc-bremerhaven": {
+        "slug": "osc-bremerhaven",
+        "name": "OSC Bremerhaven",
+        "hash": "15f0bdf9",
+        "league": ""
+      },
+      "prenzlauer-sv-rot-weiss": {
+        "slug": "prenzlauer-sv-rot-weiss",
+        "name": "Prenzlauer SV Rot-Weiß",
+        "hash": "cd76fd1f",
+        "league": ""
+      },
+      "sc-07-idar-oberstein": {
+        "slug": "sc-07-idar-oberstein",
+        "name": "SC 07 Idar-Oberstein",
+        "hash": "3c6bdfe9",
+        "league": ""
+      },
+      "sc-condor-hamburg": {
+        "slug": "sc-condor-hamburg",
+        "name": "SC Condor Hamburg",
+        "hash": "5f90b253",
+        "league": ""
+      },
+      "sc-union-nettetal": {
+        "slug": "sc-union-nettetal",
+        "name": "SC Union Nettetal",
+        "hash": "92b7d5e6",
+        "league": ""
+      },
+      "schwarz-weiss-essen": {
+        "slug": "schwarz-weiss-essen",
+        "name": "Schwarz-Weiß Essen",
+        "hash": "eac45173",
+        "league": ""
+      },
+      "sd-croatia-berlin": {
+        "slug": "sd-croatia-berlin",
+        "name": "SD Croatia Berlin",
+        "hash": "2a8de3c6",
+        "league": ""
+      },
+      "sgs-essen": {
+        "slug": "sgs-essen",
+        "name": "SGS Essen",
+        "hash": "d6c1a428",
+        "league": ""
+      },
+      "sportfreunde-ricklingen": {
+        "slug": "sportfreunde-ricklingen",
+        "name": "Sportfreunde Ricklingen",
+        "hash": "d74718a2",
+        "league": ""
+      },
+      "spvgg-egc-wirges": {
+        "slug": "spvgg-egc-wirges",
+        "name": "SpVgg EGC Wirges",
+        "hash": "f4003878",
+        "league": ""
+      },
+      "spvgg-vreden": {
+        "slug": "spvgg-vreden",
+        "name": "SpVgg Vreden",
+        "hash": "87e1b320",
+        "league": ""
+      },
+      "spvgg-weiden": {
+        "slug": "spvgg-weiden",
+        "name": "SpVgg Weiden",
+        "hash": "312dd12c",
+        "league": ""
+      },
+      "stuttgarter-sc": {
+        "slug": "stuttgarter-sc",
+        "name": "Stuttgarter SC",
+        "hash": "8959e218",
+        "league": ""
+      },
+      "sv-bevern": {
+        "slug": "sv-bevern",
+        "name": "SV Bevern",
+        "hash": "b561c281",
+        "league": ""
+      },
+      "sv-blau-weiss-zorbau": {
+        "slug": "sv-blau-weiss-zorbau",
+        "name": "SV Blau-Weiß Zorbau",
+        "hash": "67114af4",
+        "league": ""
+      },
+      "sv-bohlen": {
+        "slug": "sv-bohlen",
+        "name": "SV Böhlen",
+        "hash": "a40168c3",
+        "league": ""
+      },
+      "sv-curslack-neuengamme": {
+        "slug": "sv-curslack-neuengamme",
+        "name": "SV Curslack-Neuengamme",
+        "hash": "2d04be73",
+        "league": ""
+      },
+      "sv-eintracht-hohkeppel": {
+        "slug": "sv-eintracht-hohkeppel",
+        "name": "SV Eintracht Hohkeppel",
+        "hash": "acd7d642",
+        "league": ""
+      },
+      "sv-fellbach": {
+        "slug": "sv-fellbach",
+        "name": "SV Fellbach",
+        "hash": "2694e27c",
+        "league": ""
+      },
+      "sv-gonsenheim": {
+        "slug": "sv-gonsenheim",
+        "name": "SV Gonsenheim",
+        "hash": "5d8798e9",
+        "league": ""
+      },
+      "sv-heimstetten": {
+        "slug": "sv-heimstetten",
+        "name": "SV Heimstetten",
+        "hash": "b3f27fc6",
+        "league": ""
+      },
+      "sv-linden-07": {
+        "slug": "sv-linden-07",
+        "name": "SV Linden 07",
+        "hash": "5d534d4f",
+        "league": ""
+      },
+      "sv-linx": {
+        "slug": "sv-linx",
+        "name": "SV Linx",
+        "hash": "da109085",
+        "league": ""
+      },
+      "sv-lippstadt-08": {
+        "slug": "sv-lippstadt-08",
+        "name": "SV Lippstadt 08",
+        "hash": "ac9b16c4",
+        "league": ""
+      },
+      "sv-motor-altenburg": {
+        "slug": "sv-motor-altenburg",
+        "name": "SV Motor Altenburg",
+        "hash": "dbb02fab",
+        "league": ""
+      },
+      "sv-wesseling": {
+        "slug": "sv-wesseling",
+        "name": "SV Wesseling",
+        "hash": "45df5076",
+        "league": ""
+      },
+      "tsg-sprockhovel": {
+        "slug": "tsg-sprockhovel",
+        "name": "TSG Sprockhövel",
+        "hash": "5fb4b36a",
+        "league": ""
+      },
+      "tsg-weinheim": {
+        "slug": "tsg-weinheim",
+        "name": "TSG Weinheim",
+        "hash": "a983b4ec",
+        "league": ""
+      },
+      "tsv-chemie-premnitz": {
+        "slug": "tsv-chemie-premnitz",
+        "name": "TSV Chemie Premnitz",
+        "hash": "6060ccbf",
+        "league": ""
+      },
+      "tsv-crailsheim": {
+        "slug": "tsv-crailsheim",
+        "name": "TSV Crailsheim",
+        "hash": "f93e0908",
+        "league": ""
+      },
+      "tsv-reinbek": {
+        "slug": "tsv-reinbek",
+        "name": "TSV Reinbek",
+        "hash": "d3f6b116",
+        "league": ""
+      },
+      "tsv-sasel": {
+        "slug": "tsv-sasel",
+        "name": "TSV Sasel",
+        "hash": "02688454",
+        "league": ""
+      },
+      "turkgucu-munchen": {
+        "slug": "turkgucu-munchen",
+        "name": "Türkgücü München",
+        "hash": "e9cc5818",
+        "league": ""
+      },
+      "tus-bersenbruck": {
+        "slug": "tus-bersenbruck",
+        "name": "TuS Bersenbrück",
+        "hash": "62282bdd",
+        "league": ""
+      },
+      "tus-erndtebruck": {
+        "slug": "tus-erndtebruck",
+        "name": "TuS Erndtebrück",
+        "hash": "f68c90b1",
+        "league": ""
+      },
+      "tus-hohenhaus": {
+        "slug": "tus-hohenhaus",
+        "name": "TuS Höhenhaus",
+        "hash": "913abe7c",
+        "league": ""
+      },
+      "tus-jollenbeck": {
+        "slug": "tus-jollenbeck",
+        "name": "TuS Jöllenbeck",
+        "hash": "8594427f",
+        "league": ""
+      },
+      "tvd-velbert": {
+        "slug": "tvd-velbert",
+        "name": "TVD Velbert",
+        "hash": "9e626bbf",
+        "league": ""
+      },
+      "union-1861-schonebeck": {
+        "slug": "union-1861-schonebeck",
+        "name": "Union 1861 Schönebeck",
+        "hash": "f18feaf4",
+        "league": ""
+      },
+      "vfb-auerbach": {
+        "slug": "vfb-auerbach",
+        "name": "VfB Auerbach",
+        "hash": "113675e8",
+        "league": ""
+      },
+      "vfb-hermsdorf": {
+        "slug": "vfb-hermsdorf",
+        "name": "VfB Hermsdorf",
+        "hash": "2d5a203b",
+        "league": ""
+      },
+      "vfl-frohnlach": {
+        "slug": "vfl-frohnlach",
+        "name": "VfL Frohnlach",
+        "hash": "0e0193a6",
+        "league": ""
+      },
+      "vfl-oldenburg": {
+        "slug": "vfl-oldenburg",
+        "name": "VfL Oldenburg",
+        "hash": "da8f13d9",
+        "league": ""
+      },
+      "vorwarts-spoho-koln": {
+        "slug": "vorwarts-spoho-koln",
+        "name": "Vorwärts Spoho Köln",
+        "hash": "cd2203d6",
+        "league": ""
+      },
+      "hebc": {
+        "slug": "hebc",
+        "name": "HEBC",
+        "hash": "b009d344",
+        "league": ""
+      }
+    }
+  }
+}

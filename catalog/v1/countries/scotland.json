@@ -1,0 +1,429 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "scotland",
+    "iso2": "SCO",
+    "name": "Scotland",
+    "defaultLeague": "scottish-premiership",
+    "leagues": {
+      "scottish-premiership": {
+        "slug": "scottish-premiership",
+        "name": "Scottish Premiership",
+        "hash": "3c584285",
+        "kind": "league",
+        "code": "SCO"
+      },
+      "scottish-championship": {
+        "slug": "scottish-championship",
+        "name": "Scottish Championship",
+        "hash": "c81d6b7c",
+        "kind": "league"
+      },
+      "scottish-league-one": {
+        "slug": "scottish-league-one",
+        "name": "Scottish League One",
+        "hash": "46579e15",
+        "kind": "league"
+      },
+      "scottish-league-two": {
+        "slug": "scottish-league-two",
+        "name": "Scottish League Two",
+        "hash": "a3014e78",
+        "kind": "league"
+      },
+      "scotland-national-team": {
+        "slug": "scotland-national-team",
+        "name": "Scotland National Team",
+        "hash": "6fd08824",
+        "kind": "league"
+      },
+      "scottish-football-association": {
+        "slug": "scottish-football-association",
+        "name": "Scottish Football Association",
+        "hash": "094789eb",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "celtic": {
+        "slug": "celtic",
+        "name": "Celtic",
+        "hash": "8e36d3a4",
+        "league": "scottish-premiership"
+      },
+      "rangers": {
+        "slug": "rangers",
+        "name": "Rangers",
+        "hash": "a2040cb9",
+        "league": "scottish-premiership"
+      },
+      "hibernian": {
+        "slug": "hibernian",
+        "name": "Hibernian",
+        "hash": "a9ccccff",
+        "league": "scottish-premiership"
+      },
+      "dundee-united": {
+        "slug": "dundee-united",
+        "name": "Dundee United",
+        "hash": "783e71a8",
+        "league": "scottish-premiership"
+      },
+      "aberdeen": {
+        "slug": "aberdeen",
+        "name": "Aberdeen",
+        "hash": "6cc37e66",
+        "league": "scottish-premiership"
+      },
+      "st-mirren": {
+        "slug": "st-mirren",
+        "name": "St. Mirren",
+        "hash": "da2061bf",
+        "league": "scottish-premiership"
+      },
+      "hearts": {
+        "slug": "hearts",
+        "name": "Hearts",
+        "hash": "95902a7c",
+        "league": "scottish-premiership"
+      },
+      "motherwell": {
+        "slug": "motherwell",
+        "name": "Motherwell",
+        "hash": "0f52d126",
+        "league": "scottish-premiership"
+      },
+      "kilmarnock": {
+        "slug": "kilmarnock",
+        "name": "Kilmarnock",
+        "hash": "dcf7ed32",
+        "league": "scottish-premiership"
+      },
+      "dundee": {
+        "slug": "dundee",
+        "name": "Dundee",
+        "hash": "2e04b7ef",
+        "league": "scottish-premiership"
+      },
+      "st-johnstone": {
+        "slug": "st-johnstone",
+        "name": "St Johnstone",
+        "hash": "caaa34bb",
+        "league": "scottish-premiership"
+      },
+      "falkirk": {
+        "slug": "falkirk",
+        "name": "Falkirk",
+        "hash": "c3c566a3",
+        "league": "scottish-premiership"
+      },
+      "livingston": {
+        "slug": "livingston",
+        "name": "Livingston",
+        "hash": "4f1f94b6",
+        "league": "scottish-championship"
+      },
+      "arbroath": {
+        "slug": "arbroath",
+        "name": "Arbroath",
+        "hash": "a777d254",
+        "league": "scottish-championship"
+      },
+      "ayr": {
+        "slug": "ayr",
+        "name": "Ayr United",
+        "hash": "44c02eec",
+        "league": "scottish-championship"
+      },
+      "dunfermline": {
+        "slug": "dunfermline",
+        "name": "Dunfermline Athletic",
+        "hash": "dbaa76c1",
+        "league": "scottish-championship"
+      },
+      "inverness": {
+        "slug": "inverness",
+        "name": "Inverness Caledonian Thistle",
+        "hash": "bfcbf7f7",
+        "league": "scottish-championship"
+      },
+      "morton": {
+        "slug": "morton",
+        "name": "Greenock Morton",
+        "hash": "19f34a61",
+        "league": "scottish-championship"
+      },
+      "partick": {
+        "slug": "partick",
+        "name": "Partick Thistle",
+        "hash": "be3b8416",
+        "league": "scottish-championship"
+      },
+      "queen-s-park": {
+        "slug": "queen-s-park",
+        "name": "Queen&#39;s Park",
+        "hash": "75104826",
+        "league": "scottish-championship"
+      },
+      "raith": {
+        "slug": "raith",
+        "name": "Raith Rovers",
+        "hash": "c0fa6cdd",
+        "league": "scottish-championship"
+      },
+      "stenhousemuir": {
+        "slug": "stenhousemuir",
+        "name": "Stenhousemuir",
+        "hash": "176b95e7",
+        "league": "scottish-championship"
+      },
+      "ross-county": {
+        "slug": "ross-county",
+        "name": "Ross County",
+        "hash": "f4c81867",
+        "league": "scottish-league-one"
+      },
+      "airdrieonians": {
+        "slug": "airdrieonians",
+        "name": "Airdrieonians",
+        "hash": "014e373c",
+        "league": "scottish-league-one"
+      },
+      "alloa-athletic": {
+        "slug": "alloa-athletic",
+        "name": "Alloa Athletic",
+        "hash": "e17e5436",
+        "league": "scottish-league-one"
+      },
+      "cove-rangers": {
+        "slug": "cove-rangers",
+        "name": "Cove Rangers",
+        "hash": "29542c19",
+        "league": "scottish-league-one"
+      },
+      "east-kilbride": {
+        "slug": "east-kilbride",
+        "name": "East Kilbride",
+        "hash": "063925f1",
+        "league": "scottish-league-one"
+      },
+      "east-fife": {
+        "slug": "east-fife",
+        "name": "East Fife",
+        "hash": "e7cb2c95",
+        "league": "scottish-league-one"
+      },
+      "hamilton": {
+        "slug": "hamilton",
+        "name": "Hamilton Academical",
+        "hash": "b6babbab",
+        "league": "scottish-league-one"
+      },
+      "montrose": {
+        "slug": "montrose",
+        "name": "Montrose",
+        "hash": "42679120",
+        "league": "scottish-league-one"
+      },
+      "peterhead": {
+        "slug": "peterhead",
+        "name": "Peterhead",
+        "hash": "3fe96d8f",
+        "league": "scottish-league-one"
+      },
+      "queen-of-the-south": {
+        "slug": "queen-of-the-south",
+        "name": "Queen of the South FC",
+        "hash": "2331252c",
+        "league": "scottish-league-one"
+      },
+      "annan-athletic": {
+        "slug": "annan-athletic",
+        "name": "Annan Athletic",
+        "hash": "fbe9256d",
+        "league": "scottish-league-two"
+      },
+      "clyde": {
+        "slug": "clyde",
+        "name": "Clyde",
+        "hash": "bdf0a40d",
+        "league": "scottish-league-two"
+      },
+      "dumbarton": {
+        "slug": "dumbarton",
+        "name": "Dumbarton",
+        "hash": "6c5881bd",
+        "league": "scottish-league-two"
+      },
+      "edinburgh-city": {
+        "slug": "edinburgh-city",
+        "name": "Edinburgh City",
+        "hash": "f820e92a",
+        "league": "scottish-league-two"
+      },
+      "elgin": {
+        "slug": "elgin",
+        "name": "Elgin City",
+        "hash": "bba3ddeb",
+        "league": "scottish-league-two"
+      },
+      "forfar": {
+        "slug": "forfar",
+        "name": "Forfar Athletic",
+        "hash": "82ab67d6",
+        "league": "scottish-league-two"
+      },
+      "kelty-hearts": {
+        "slug": "kelty-hearts",
+        "name": "Kelty Hearts",
+        "hash": "a7e79bf7",
+        "league": "scottish-league-two"
+      },
+      "spartans": {
+        "slug": "spartans",
+        "name": "The Spartans",
+        "hash": "10d78d5b",
+        "league": "scottish-league-two"
+      },
+      "stirling-albion": {
+        "slug": "stirling-albion",
+        "name": "Stirling Albion",
+        "hash": "07dec67d",
+        "league": "scottish-league-two"
+      },
+      "stranraer": {
+        "slug": "stranraer",
+        "name": "Stranraer",
+        "hash": "e989fd53",
+        "league": "scottish-league-two"
+      },
+      "airdrie": {
+        "slug": "airdrie",
+        "name": "Airdrie United FC",
+        "hash": "90cf27fe",
+        "league": ""
+      },
+      "albion": {
+        "slug": "albion",
+        "name": "Albion Rovers",
+        "hash": "daa17b07",
+        "league": ""
+      },
+      "brechin": {
+        "slug": "brechin",
+        "name": "Brechin City",
+        "hash": "aad7a7c6",
+        "league": ""
+      },
+      "brora-rangers": {
+        "slug": "brora-rangers",
+        "name": "Brora Rangers",
+        "hash": "ae2855d6",
+        "league": ""
+      },
+      "buckie-thistle": {
+        "slug": "buckie-thistle",
+        "name": "Buckie Thistle",
+        "hash": "c4cd6001",
+        "league": ""
+      },
+      "cowdenbeath": {
+        "slug": "cowdenbeath",
+        "name": "Cowdenbeath",
+        "hash": "7657efac",
+        "league": ""
+      },
+      "deveronvale": {
+        "slug": "deveronvale",
+        "name": "Deveronvale",
+        "hash": "54944189",
+        "league": ""
+      },
+      "east-stirling": {
+        "slug": "east-stirling",
+        "name": "East Stirlingshire",
+        "hash": "6deb4ce6",
+        "league": ""
+      },
+      "fort-william": {
+        "slug": "fort-william",
+        "name": "Fort William",
+        "hash": "fdfe0f61",
+        "league": ""
+      },
+      "gala-fairydean": {
+        "slug": "gala-fairydean",
+        "name": "Gala Fairydean Rovers",
+        "hash": "9d1e1606",
+        "league": ""
+      },
+      "gretna": {
+        "slug": "gretna",
+        "name": "Gretna",
+        "hash": "97ee060f",
+        "league": ""
+      },
+      "gretna-2008": {
+        "slug": "gretna-2008",
+        "name": "Gretna 2008",
+        "hash": "b7945be4",
+        "league": ""
+      },
+      "hawick-royal": {
+        "slug": "hawick-royal",
+        "name": "Hawick Royal",
+        "hash": "5d1f51a1",
+        "league": ""
+      },
+      "huntly": {
+        "slug": "huntly",
+        "name": "Huntly",
+        "hash": "5e6008b8",
+        "league": ""
+      },
+      "inverurie-loco-works": {
+        "slug": "inverurie-loco-works",
+        "name": "Inverurie Loco Works",
+        "hash": "31e84be8",
+        "league": ""
+      },
+      "lossiemouth": {
+        "slug": "lossiemouth",
+        "name": "Lossiemouth",
+        "hash": "bccf5822",
+        "league": ""
+      },
+      "nairn-county": {
+        "slug": "nairn-county",
+        "name": "Nairn County",
+        "hash": "ff0913a8",
+        "league": ""
+      },
+      "stirling-university-fc": {
+        "slug": "stirling-university-fc",
+        "name": "Stirling University FC",
+        "hash": "71b1b0c3",
+        "league": ""
+      },
+      "whitehill-welfare": {
+        "slug": "whitehill-welfare",
+        "name": "Whitehill Welfare",
+        "hash": "9eeab6ba",
+        "league": ""
+      },
+      "linlithgow-rose": {
+        "slug": "linlithgow-rose",
+        "name": "Linlithgow Rose FC",
+        "hash": "e02e8e70",
+        "league": ""
+      },
+      "bonnyrigg-rose": {
+        "slug": "bonnyrigg-rose",
+        "name": "Bonnyrigg Rose FC",
+        "hash": "88e9f587",
+        "league": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "albania",
+    "iso2": "AL",
+    "name": "Albania",
+    "defaultLeague": "albania-national-team",
+    "leagues": {
+      "albania-national-team": {
+        "slug": "albania-national-team",
+        "name": "Albania National Team",
+        "hash": "0aed17bb",
+        "kind": "league",
+        "code": "AL"
+      }
+    },
+    "clubs": {
+      "apolonia": {
+        "slug": "apolonia",
+        "name": "Apolonia",
+        "hash": "f11ac32d",
+        "league": ""
+      },
+      "besa": {
+        "slug": "besa",
+        "name": "Besa",
+        "hash": "6752ba30",
+        "league": ""
+      },
+      "besa-peja": {
+        "slug": "besa-peja",
+        "name": "Besa Peja",
+        "hash": "273175f4",
+        "league": ""
+      },
+      "bylis": {
+        "slug": "bylis",
+        "name": "Bylis",
+        "hash": "6bcff5a5",
+        "league": ""
+      },
+      "dinamo-city": {
+        "slug": "dinamo-city",
+        "name": "Dinamo City",
+        "hash": "fb145b02",
+        "league": ""
+      },
+      "egnatia": {
+        "slug": "egnatia",
+        "name": "Egnatia",
+        "hash": "3962044b",
+        "league": ""
+      },
+      "flamurtari": {
+        "slug": "flamurtari",
+        "name": "Flamurtari",
+        "hash": "702bac7c",
+        "league": ""
+      },
+      "kastrioti": {
+        "slug": "kastrioti",
+        "name": "Kastrioti",
+        "hash": "15f31d2e",
+        "league": ""
+      },
+      "kukes": {
+        "slug": "kukes",
+        "name": "Kukës",
+        "hash": "8ee916d3",
+        "league": ""
+      },
+      "lac": {
+        "slug": "lac",
+        "name": "Laç",
+        "hash": "61df6aa7",
+        "league": ""
+      },
+      "lushnja": {
+        "slug": "lushnja",
+        "name": "Lushnja",
+        "hash": "787f0fea",
+        "league": ""
+      },
+      "partizani": {
+        "slug": "partizani",
+        "name": "Partizani",
+        "hash": "ad56fc14",
+        "league": ""
+      },
+      "pogradec": {
+        "slug": "pogradec",
+        "name": "Pogradec",
+        "hash": "c8bdbe0d",
+        "league": ""
+      },
+      "shkumbini": {
+        "slug": "shkumbini",
+        "name": "Shkumbini",
+        "hash": "106c7647",
+        "league": ""
+      },
+      "skenderbeu": {
+        "slug": "skenderbeu",
+        "name": "Skënderbeu",
+        "hash": "b75b7ae0",
+        "league": ""
+      },
+      "terbuni": {
+        "slug": "terbuni",
+        "name": "Tërbuni",
+        "hash": "358298df",
+        "league": ""
+      },
+      "teuta": {
+        "slug": "teuta",
+        "name": "Teuta",
+        "hash": "1d26a8f1",
+        "league": ""
+      },
+      "tirana": {
+        "slug": "tirana",
+        "name": "Tirana",
+        "hash": "dc66840c",
+        "league": ""
+      },
+      "tomori": {
+        "slug": "tomori",
+        "name": "Tomori",
+        "hash": "aac00cd5",
+        "league": ""
+      },
+      "vllaznia": {
+        "slug": "vllaznia",
+        "name": "Vllaznia",
+        "hash": "fbb88fc2",
+        "league": ""
+      }
+    }
+  }
+}

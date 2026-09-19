@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "paraguay",
+    "iso2": "PY",
+    "name": "Paraguay",
+    "defaultLeague": "copa-de-primera",
+    "leagues": {
+      "copa-de-primera": {
+        "slug": "copa-de-primera",
+        "name": "Copa de Primera",
+        "hash": "416ff0b7",
+        "kind": "league",
+        "code": "PY"
+      },
+      "paraguay-national-team": {
+        "slug": "paraguay-national-team",
+        "name": "Paraguay National Team",
+        "hash": "c9681fdb",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "cerro-porteno": {
+        "slug": "cerro-porteno",
+        "name": "Cerro Porteño",
+        "hash": "3ea71ad3",
+        "league": "copa-de-primera"
+      },
+      "guarani": {
+        "slug": "guarani",
+        "name": "Guaraní",
+        "hash": "cec466f6",
+        "league": "copa-de-primera"
+      },
+      "sportivo-luqueno": {
+        "slug": "sportivo-luqueno",
+        "name": "Sportivo Luqueño",
+        "hash": "9825d679",
+        "league": "copa-de-primera"
+      },
+      "nacional": {
+        "slug": "nacional",
+        "name": "Nacional",
+        "hash": "67c898ab",
+        "league": "copa-de-primera"
+      },
+      "trinidense": {
+        "slug": "trinidense",
+        "name": "Trinidense",
+        "hash": "4358a921",
+        "league": "copa-de-primera"
+      },
+      "libertad": {
+        "slug": "libertad",
+        "name": "Libertad",
+        "hash": "920b8a65",
+        "league": "copa-de-primera"
+      },
+      "olimpia": {
+        "slug": "olimpia",
+        "name": "Olimpia",
+        "hash": "a00877c6",
+        "league": "copa-de-primera"
+      },
+      "2-de-mayo": {
+        "slug": "2-de-mayo",
+        "name": "2 de Mayo",
+        "hash": "4ee8ab1c",
+        "league": "copa-de-primera"
+      },
+      "rubio-nu": {
+        "slug": "rubio-nu",
+        "name": "Club Rubio Ñu",
+        "hash": "07519ad7",
+        "league": "copa-de-primera"
+      },
+      "sportivo-ameliano": {
+        "slug": "sportivo-ameliano",
+        "name": "Club Sportivo Ameliano",
+        "hash": "1ce508db",
+        "league": "copa-de-primera"
+      },
+      "sportivo-san-lorenzo": {
+        "slug": "sportivo-san-lorenzo",
+        "name": "Club Sportivo San Lorenzo",
+        "hash": "06dd730a",
+        "league": "copa-de-primera"
+      },
+      "deportivo-recoleta": {
+        "slug": "deportivo-recoleta",
+        "name": "Club Deportivo Recoleta",
+        "hash": "ee13816e",
+        "league": "copa-de-primera"
+      },
+      "general-caballero-jlm": {
+        "slug": "general-caballero-jlm",
+        "name": "General Caballero JLM",
+        "hash": "53ec5d3b",
+        "league": ""
+      },
+      "club-atletico-tembetary": {
+        "slug": "club-atletico-tembetary",
+        "name": "Club Atlético Tembetary",
+        "hash": "ff27d0be",
+        "league": ""
+      }
+    }
+  }
+}

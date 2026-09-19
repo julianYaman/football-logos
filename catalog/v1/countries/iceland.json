@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "iceland",
+    "iso2": "IS",
+    "name": "Iceland",
+    "defaultLeague": "besta-deild-karla",
+    "leagues": {
+      "besta-deild-karla": {
+        "slug": "besta-deild-karla",
+        "name": "Besta deild karla",
+        "hash": "df67490a",
+        "kind": "league",
+        "code": "IS"
+      },
+      "iceland-national-team": {
+        "slug": "iceland-national-team",
+        "name": "Iceland National Team",
+        "hash": "7f7eb9fd",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "breidablik": {
+        "slug": "breidablik",
+        "name": "Breidablik",
+        "hash": "c56183cf",
+        "league": "besta-deild-karla"
+      },
+      "fh": {
+        "slug": "fh",
+        "name": "FH",
+        "hash": "226625ed",
+        "league": "besta-deild-karla"
+      },
+      "fram": {
+        "slug": "fram",
+        "name": "Fram",
+        "hash": "f57bb43e",
+        "league": "besta-deild-karla"
+      },
+      "ia": {
+        "slug": "ia",
+        "name": "ÍA",
+        "hash": "257b804e",
+        "league": "besta-deild-karla"
+      },
+      "ibv": {
+        "slug": "ibv",
+        "name": "ÍBV",
+        "hash": "2b425787",
+        "league": "besta-deild-karla"
+      },
+      "ka": {
+        "slug": "ka",
+        "name": "KA",
+        "hash": "a872cde1",
+        "league": "besta-deild-karla"
+      },
+      "keflavik": {
+        "slug": "keflavik",
+        "name": "Keflavík",
+        "hash": "73f2af92",
+        "league": "besta-deild-karla"
+      },
+      "kr": {
+        "slug": "kr",
+        "name": "KR",
+        "hash": "546ec93b",
+        "league": "besta-deild-karla"
+      },
+      "stjarnan": {
+        "slug": "stjarnan",
+        "name": "Stjarnan",
+        "hash": "c7e2181b",
+        "league": "besta-deild-karla"
+      },
+      "thor": {
+        "slug": "thor",
+        "name": "Thór",
+        "hash": "13672e67",
+        "league": "besta-deild-karla"
+      },
+      "valur": {
+        "slug": "valur",
+        "name": "Valur",
+        "hash": "d6f50646",
+        "league": "besta-deild-karla"
+      },
+      "vikingur-r": {
+        "slug": "vikingur-r",
+        "name": "Víkingur R.",
+        "hash": "3831dee2",
+        "league": "besta-deild-karla"
+      },
+      "fjolnir": {
+        "slug": "fjolnir",
+        "name": "Fjölnir",
+        "hash": "919cc6a5",
+        "league": ""
+      },
+      "fylkir": {
+        "slug": "fylkir",
+        "name": "Fylkir",
+        "hash": "54f26828",
+        "league": ""
+      },
+      "grindavik": {
+        "slug": "grindavik",
+        "name": "Grindavík",
+        "hash": "e308ae11",
+        "league": ""
+      },
+      "grotta": {
+        "slug": "grotta",
+        "name": "Grótta",
+        "hash": "81bfead2",
+        "league": ""
+      },
+      "hk": {
+        "slug": "hk",
+        "name": "HK",
+        "hash": "17c30fcd",
+        "league": ""
+      },
+      "kf": {
+        "slug": "kf",
+        "name": "KF",
+        "hash": "e7b1b2ec",
+        "league": ""
+      },
+      "volsungur": {
+        "slug": "volsungur",
+        "name": "Volsungur",
+        "hash": "c54e9377",
+        "league": ""
+      },
+      "vestri": {
+        "slug": "vestri",
+        "name": "Vestri",
+        "hash": "2d914b86",
+        "league": ""
+      },
+      "afturelding": {
+        "slug": "afturelding",
+        "name": "Afturelding",
+        "hash": "95b43cd4",
+        "league": ""
+      },
+      "hottur": {
+        "slug": "hottur",
+        "name": "Höttur",
+        "hash": "cf9616f5",
+        "league": ""
+      },
+      "leiknir-reykjavik": {
+        "slug": "leiknir-reykjavik",
+        "name": "Leiknir Reykjavík",
+        "hash": "561f0f68",
+        "league": ""
+      },
+      "throttur-vogum": {
+        "slug": "throttur-vogum",
+        "name": "Þróttur Vogum",
+        "hash": "69c7d1bb",
+        "league": ""
+      },
+      "vikingur-olafsvik": {
+        "slug": "vikingur-olafsvik",
+        "name": "Víkingur Ólafsvík",
+        "hash": "283f23b3",
+        "league": ""
+      },
+      "ymir-kopavogur": {
+        "slug": "ymir-kopavogur",
+        "name": "Ýmir Kópavogur",
+        "hash": "18325c01",
+        "league": ""
+      }
+    }
+  }
+}

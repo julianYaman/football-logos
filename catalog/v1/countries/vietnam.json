@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "vietnam",
+    "iso2": "VN",
+    "name": "Vietnam",
+    "defaultLeague": "v-league",
+    "leagues": {
+      "v-league": {
+        "slug": "v-league",
+        "name": "V League 1",
+        "hash": "53143aa4",
+        "kind": "league",
+        "code": "VN"
+      },
+      "vietnam-national-team": {
+        "slug": "vietnam-national-team",
+        "name": "Vietnam National Team",
+        "hash": "8afd8315",
+        "kind": "league"
+      },
+      "vietnam-football-federation": {
+        "slug": "vietnam-football-federation",
+        "name": "Vietnam Football Federation",
+        "hash": "1a3db655",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "cong-an-ha-noi": {
+        "slug": "cong-an-ha-noi",
+        "name": "Công An Hà Nội FC",
+        "hash": "f755d4b1",
+        "league": "v-league"
+      },
+      "ninh-binh": {
+        "slug": "ninh-binh",
+        "name": "Ninh Bình FC",
+        "hash": "a02869d8",
+        "league": "v-league"
+      },
+      "viettel": {
+        "slug": "viettel",
+        "name": "Thể Công – Viettel FC",
+        "hash": "966c0f4c",
+        "league": "v-league"
+      },
+      "hai-phong": {
+        "slug": "hai-phong",
+        "name": "Hải Phòng FC",
+        "hash": "45edba76",
+        "league": "v-league"
+      },
+      "ho-chi-minh-city": {
+        "slug": "ho-chi-minh-city",
+        "name": "Ho Chi Minh City FC",
+        "hash": "413d1689",
+        "league": "v-league"
+      },
+      "ha-noi-fc": {
+        "slug": "ha-noi-fc",
+        "name": "Hà Nội FC",
+        "hash": "d0ad03c5",
+        "league": "v-league"
+      },
+      "hong-linh-ha-tinh": {
+        "slug": "hong-linh-ha-tinh",
+        "name": "Hồng Lĩnh Hà Tĩnh FC",
+        "hash": "ce9359b6",
+        "league": "v-league"
+      },
+      "nam-dinh": {
+        "slug": "nam-dinh",
+        "name": "Nam Định FC",
+        "hash": "ab11259f",
+        "league": "v-league"
+      },
+      "hoang-anh-gia-lai": {
+        "slug": "hoang-anh-gia-lai",
+        "name": "Hoàng Anh Gia Lai FC",
+        "hash": "4bb3573b",
+        "league": "v-league"
+      },
+      "song-lam-nghe-an": {
+        "slug": "song-lam-nghe-an",
+        "name": "Sông Lam Nghệ An FC",
+        "hash": "efc5f567",
+        "league": "v-league"
+      },
+      "dong-a-thanh-hoa": {
+        "slug": "dong-a-thanh-hoa",
+        "name": "Đông Á Thanh Hóa FC",
+        "hash": "c64b79a0",
+        "league": "v-league"
+      },
+      "da-nang": {
+        "slug": "da-nang",
+        "name": "SHB Đà Nẵng FC",
+        "hash": "93538d11",
+        "league": "v-league"
+      },
+      "truong-tuoi-dong-nai": {
+        "slug": "truong-tuoi-dong-nai",
+        "name": "Truong Tuoi Dong Nai",
+        "hash": "357f69d6",
+        "league": "v-league"
+      },
+      "bac-ninh-fc": {
+        "slug": "bac-ninh-fc",
+        "name": "Bac Ninh FC",
+        "hash": "d44319ad",
+        "league": "v-league"
+      },
+      "becamex-binh-duong": {
+        "slug": "becamex-binh-duong",
+        "name": "Becamex Bình Dương FC",
+        "hash": "75395290",
+        "league": ""
+      },
+      "pvf-cand": {
+        "slug": "pvf-cand",
+        "name": "PVF–CAND FC",
+        "hash": "d74a91c2",
+        "league": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "burundi",
+    "iso2": "BI",
+    "name": "Burundi",
+    "defaultLeague": "burundi-national-team",
+    "leagues": {
+      "burundi-national-team": {
+        "slug": "burundi-national-team",
+        "name": "Burundi National Team",
+        "hash": "b2abfd99",
+        "kind": "league",
+        "code": "BI"
+      }
+    },
+    "clubs": {
+      "flambeau-de-l-est": {
+        "slug": "flambeau-de-l-est",
+        "name": "Flambeau de l’Est",
+        "hash": "43cedcb2",
+        "league": ""
+      }
+    }
+  }
+}

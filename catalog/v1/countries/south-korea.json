@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "south-korea",
+    "iso2": "KR",
+    "name": "South Korea",
+    "defaultLeague": "k-league-1",
+    "leagues": {
+      "k-league-1": {
+        "slug": "k-league-1",
+        "name": "K League 1",
+        "hash": "0ffd4f72",
+        "kind": "league",
+        "code": "KR"
+      },
+      "k-league-2": {
+        "slug": "k-league-2",
+        "name": "K League 2",
+        "hash": "09590cd6",
+        "kind": "league"
+      },
+      "south-korea-national-team": {
+        "slug": "south-korea-national-team",
+        "name": "South Korea National Team",
+        "hash": "e9b844d9",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "jeonbuk": {
+        "slug": "jeonbuk",
+        "name": "Jeonbuk",
+        "hash": "e6d60f00",
+        "league": "k-league-1"
+      },
+      "daejeon-hana-citizen": {
+        "slug": "daejeon-hana-citizen",
+        "name": "Daejeon Hana Citizen",
+        "hash": "155dfe71",
+        "league": "k-league-1"
+      },
+      "gimcheon-sangmu-fc": {
+        "slug": "gimcheon-sangmu-fc",
+        "name": "Gimcheon Sangmu FC",
+        "hash": "e8a5ee3d",
+        "league": "k-league-1"
+      },
+      "pohang-steelers": {
+        "slug": "pohang-steelers",
+        "name": "Pohang Steelers",
+        "hash": "359b8705",
+        "league": "k-league-1"
+      },
+      "gwangju-fc": {
+        "slug": "gwangju-fc",
+        "name": "Gwangju FC",
+        "hash": "5ceec87c",
+        "league": "k-league-1"
+      },
+      "fc-seoul": {
+        "slug": "fc-seoul",
+        "name": "FC Seoul",
+        "hash": "65d538d3",
+        "league": "k-league-1"
+      },
+      "ulsan-hd-fc": {
+        "slug": "ulsan-hd-fc",
+        "name": "Ulsan HD FC",
+        "hash": "56df4035",
+        "league": "k-league-1"
+      },
+      "gangwon-fc": {
+        "slug": "gangwon-fc",
+        "name": "Gangwon FC",
+        "hash": "b052bd44",
+        "league": "k-league-1"
+      },
+      "fc-anyang": {
+        "slug": "fc-anyang",
+        "name": "FC Anyang",
+        "hash": "09872672",
+        "league": "k-league-1"
+      },
+      "jeju-sk-fc": {
+        "slug": "jeju-sk-fc",
+        "name": "Jeju SK FC",
+        "hash": "2d49c85c",
+        "league": "k-league-1"
+      },
+      "bucheon-fc-1995": {
+        "slug": "bucheon-fc-1995",
+        "name": "Bucheon FC 1995",
+        "hash": "1e8f3326",
+        "league": "k-league-1"
+      },
+      "incheon-united": {
+        "slug": "incheon-united",
+        "name": "Incheon United",
+        "hash": "8acb75bc",
+        "league": "k-league-1"
+      },
+      "suwon-fc": {
+        "slug": "suwon-fc",
+        "name": "Suwon FC",
+        "hash": "c104d52f",
+        "league": "k-league-2"
+      },
+      "daegu-fc": {
+        "slug": "daegu-fc",
+        "name": "Daegu FC",
+        "hash": "fd2129b7",
+        "league": "k-league-2"
+      },
+      "busan-ipark": {
+        "slug": "busan-ipark",
+        "name": "Busan IPark",
+        "hash": "96c85f47",
+        "league": "k-league-2"
+      },
+      "suwon-bluewings": {
+        "slug": "suwon-bluewings",
+        "name": "Suwon Samsung Bluewings",
+        "hash": "5a50d66e",
+        "league": "k-league-2"
+      },
+      "seoul-e-land": {
+        "slug": "seoul-e-land",
+        "name": "Seoul E-Land FC",
+        "hash": "d21cf8f6",
+        "league": "k-league-2"
+      },
+      "hwaseong": {
+        "slug": "hwaseong",
+        "name": "Hwaseong FC",
+        "hash": "6876f820",
+        "league": "k-league-2"
+      },
+      "gimpo": {
+        "slug": "gimpo",
+        "name": "Gimpo FC",
+        "hash": "45bd6fc7",
+        "league": "k-league-2"
+      },
+      "chungnam-asan": {
+        "slug": "chungnam-asan",
+        "name": "Chungnam Asan FC",
+        "hash": "7281735c",
+        "league": "k-league-2"
+      },
+      "cheonan-city": {
+        "slug": "cheonan-city",
+        "name": "Cheonan City FC",
+        "hash": "d49c3c89",
+        "league": "k-league-2"
+      },
+      "seongnam": {
+        "slug": "seongnam",
+        "name": "Seongnam FC",
+        "hash": "132bde45",
+        "league": "k-league-2"
+      },
+      "gyeongnam": {
+        "slug": "gyeongnam",
+        "name": "Gyeongnam FC",
+        "hash": "cb987d6a",
+        "league": "k-league-2"
+      },
+      "paju-frontier": {
+        "slug": "paju-frontier",
+        "name": "Paju Frontier FC",
+        "hash": "a3475a2a",
+        "league": "k-league-2"
+      },
+      "yongin": {
+        "slug": "yongin",
+        "name": "Yongin FC",
+        "hash": "581ea3d2",
+        "league": "k-league-2"
+      },
+      "chungbuk-cheongju": {
+        "slug": "chungbuk-cheongju",
+        "name": "Chungbuk Cheongju FC",
+        "hash": "74b98321",
+        "league": "k-league-2"
+      },
+      "ansan-greeners": {
+        "slug": "ansan-greeners",
+        "name": "Ansan Greeners FC",
+        "hash": "50034995",
+        "league": "k-league-2"
+      },
+      "jeonnam-dragons": {
+        "slug": "jeonnam-dragons",
+        "name": "Jeonnam Dragons",
+        "hash": "5a6ba995",
+        "league": "k-league-2"
+      },
+      "gimhae": {
+        "slug": "gimhae",
+        "name": "Gimhae FC 2008",
+        "hash": "bcccff84",
+        "league": "k-league-2"
+      }
+    }
+  }
+}

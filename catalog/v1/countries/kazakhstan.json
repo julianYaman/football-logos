@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "kazakhstan",
+    "iso2": "KZ",
+    "name": "Kazakhstan",
+    "defaultLeague": "kazakhstan-premier-league",
+    "leagues": {
+      "kazakhstan-national-team": {
+        "slug": "kazakhstan-national-team",
+        "name": "Kazakhstan National Team",
+        "hash": "b812e635",
+        "kind": "league"
+      },
+      "kazakhstan-premier-league": {
+        "slug": "kazakhstan-premier-league",
+        "name": "Kazakhstan Premier League",
+        "hash": "5bc15ecf",
+        "kind": "league",
+        "code": "KZ"
+      }
+    },
+    "clubs": {
+      "aksu": {
+        "slug": "aksu",
+        "name": "Aksu",
+        "hash": "f268abdc",
+        "league": ""
+      },
+      "aktobe": {
+        "slug": "aktobe",
+        "name": "Aktobe",
+        "hash": "9db8e2ab",
+        "league": ""
+      },
+      "astana": {
+        "slug": "astana",
+        "name": "Astana",
+        "hash": "31d27077",
+        "league": ""
+      },
+      "atyrau": {
+        "slug": "atyrau",
+        "name": "Atyrau",
+        "hash": "a2283c91",
+        "league": ""
+      },
+      "irtysh": {
+        "slug": "irtysh",
+        "name": "Irtysh",
+        "hash": "5a1197bc",
+        "league": ""
+      },
+      "kairat": {
+        "slug": "kairat",
+        "name": "Kairat",
+        "hash": "49ad4e03",
+        "league": ""
+      },
+      "kaspiy": {
+        "slug": "kaspiy",
+        "name": "Kaspiy",
+        "hash": "499939f6",
+        "league": ""
+      },
+      "kaysar": {
+        "slug": "kaysar",
+        "name": "Kaysar",
+        "hash": "417df41c",
+        "league": ""
+      },
+      "kyzylzhar": {
+        "slug": "kyzylzhar",
+        "name": "Kyzylzhar",
+        "hash": "8956ec09",
+        "league": ""
+      },
+      "maqtaaral": {
+        "slug": "maqtaaral",
+        "name": "Maqtaaral",
+        "hash": "7570b366",
+        "league": ""
+      },
+      "okzhetpes": {
+        "slug": "okzhetpes",
+        "name": "Okzhetpes",
+        "hash": "46e764f2",
+        "league": ""
+      },
+      "ordabasy": {
+        "slug": "ordabasy",
+        "name": "Ordabasy",
+        "hash": "f04c6fea",
+        "league": ""
+      },
+      "shakhter": {
+        "slug": "shakhter",
+        "name": "Shakhter",
+        "hash": "e9c1c84f",
+        "league": ""
+      },
+      "taraz": {
+        "slug": "taraz",
+        "name": "Taraz",
+        "hash": "b5421558",
+        "league": ""
+      },
+      "tobol": {
+        "slug": "tobol",
+        "name": "Tobol",
+        "hash": "a8372463",
+        "league": ""
+      },
+      "turan": {
+        "slug": "turan",
+        "name": "Turan",
+        "hash": "25c35587",
+        "league": ""
+      },
+      "jetisu": {
+        "slug": "jetisu",
+        "name": "Jetisu",
+        "hash": "25bb36ae",
+        "league": ""
+      },
+      "yelimay": {
+        "slug": "yelimay",
+        "name": "Yelimay",
+        "hash": "a4683deb",
+        "league": ""
+      },
+      "jenis": {
+        "slug": "jenis",
+        "name": "Jenis",
+        "hash": "f7bcc90f",
+        "league": ""
+      },
+      "ulytau": {
+        "slug": "ulytau",
+        "name": "Ulytau",
+        "hash": "b15e85f3",
+        "league": ""
+      }
+    }
+  }
+}

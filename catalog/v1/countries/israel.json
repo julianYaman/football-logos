@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "israel",
+    "iso2": "IL",
+    "name": "Israel",
+    "defaultLeague": "israeli-premier-league",
+    "leagues": {
+      "israeli-premier-league": {
+        "slug": "israeli-premier-league",
+        "name": "Israeli Premier League",
+        "hash": "ad630dd2",
+        "kind": "league",
+        "code": "IL"
+      },
+      "israel-national-team": {
+        "slug": "israel-national-team",
+        "name": "Israel National Team",
+        "hash": "0760da24",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "beitar-jerusalem": {
+        "slug": "beitar-jerusalem",
+        "name": "Beitar Jerusalem",
+        "hash": "b2de3cf8",
+        "league": "israeli-premier-league"
+      },
+      "bnei-sakhnin": {
+        "slug": "bnei-sakhnin",
+        "name": "Bnei Sakhnin",
+        "hash": "0e1cc9cd",
+        "league": "israeli-premier-league"
+      },
+      "hapoel-beer-sheva": {
+        "slug": "hapoel-beer-sheva",
+        "name": "Hapoel Be&#39;er Sheva",
+        "hash": "cc4ba5c4",
+        "league": "israeli-premier-league"
+      },
+      "hapoel-haifa": {
+        "slug": "hapoel-haifa",
+        "name": "Hapoel Haifa",
+        "hash": "b2c8a8a1",
+        "league": "israeli-premier-league"
+      },
+      "hapoel-kiryat-shmona": {
+        "slug": "hapoel-kiryat-shmona",
+        "name": "Hapoel Kiryat Shmona",
+        "hash": "b1eb3fc5",
+        "league": "israeli-premier-league"
+      },
+      "hapoel-petah-tikva": {
+        "slug": "hapoel-petah-tikva",
+        "name": "Hapoel Petah Tikva",
+        "hash": "ff082e38",
+        "league": "israeli-premier-league"
+      },
+      "hapoel-ramat-gan": {
+        "slug": "hapoel-ramat-gan",
+        "name": "Hapoel Ramat Gan Givatayim",
+        "hash": "9fa7ca5d",
+        "league": "israeli-premier-league"
+      },
+      "hapoel-tel-aviv": {
+        "slug": "hapoel-tel-aviv",
+        "name": "Hapoel Tel Aviv",
+        "hash": "8abb4c6c",
+        "league": "israeli-premier-league"
+      },
+      "hapoel-jerusalem": {
+        "slug": "hapoel-jerusalem",
+        "name": "Hapoel Jerusalem",
+        "hash": "26a790d8",
+        "league": "israeli-premier-league"
+      },
+      "ironi-tiberias": {
+        "slug": "ironi-tiberias",
+        "name": "Ironi Tiberias",
+        "hash": "10df4b5f",
+        "league": "israeli-premier-league"
+      },
+      "maccabi-netanya": {
+        "slug": "maccabi-netanya",
+        "name": "Maccabi Netanya",
+        "hash": "f3a331e7",
+        "league": "israeli-premier-league"
+      },
+      "maccabi-petah-tikva": {
+        "slug": "maccabi-petah-tikva",
+        "name": "Maccabi Petah Tikva",
+        "hash": "53465b33",
+        "league": "israeli-premier-league"
+      },
+      "maccabi-tel-aviv": {
+        "slug": "maccabi-tel-aviv",
+        "name": "Maccabi Tel-Aviv",
+        "hash": "ce902d99",
+        "league": "israeli-premier-league"
+      },
+      "maccabi-haifa": {
+        "slug": "maccabi-haifa",
+        "name": "Maccabi Haifa",
+        "hash": "b561958a",
+        "league": "israeli-premier-league"
+      },
+      "ashdod": {
+        "slug": "ashdod",
+        "name": "Ashdod",
+        "hash": "650e0161",
+        "league": ""
+      },
+      "bnei-yehuda": {
+        "slug": "bnei-yehuda",
+        "name": "Bnei Yehuda",
+        "hash": "63be75a3",
+        "league": ""
+      },
+      "hapoel-afula": {
+        "slug": "hapoel-afula",
+        "name": "Hapoel Afula",
+        "hash": "be5016fc",
+        "league": ""
+      },
+      "hapoel-kfar-saba": {
+        "slug": "hapoel-kfar-saba",
+        "name": "Hapoel Kfar-Saba",
+        "hash": "8df53527",
+        "league": ""
+      },
+      "hapoel-ra-anana": {
+        "slug": "hapoel-ra-anana",
+        "name": "Hapoel Ra&#39;anana",
+        "hash": "98bfd678",
+        "league": ""
+      },
+      "hapoel-rishon-lezion": {
+        "slug": "hapoel-rishon-lezion",
+        "name": "Hapoel Rishon-LeZion",
+        "hash": "a3ca19bf",
+        "league": ""
+      },
+      "hapoel-hadera": {
+        "slug": "hapoel-hadera",
+        "name": "Hapoel Hadera",
+        "hash": "7892cb9c",
+        "league": ""
+      },
+      "maccabi-ahi-nazareth": {
+        "slug": "maccabi-ahi-nazareth",
+        "name": "Maccabi Ahi Nazareth",
+        "hash": "5caf6d7f",
+        "league": ""
+      },
+      "maccabi-bnei-reineh": {
+        "slug": "maccabi-bnei-reineh",
+        "name": "Maccabi Bnei Reineh",
+        "hash": "015922aa",
+        "league": ""
+      },
+      "nes-tziona": {
+        "slug": "nes-tziona",
+        "name": "Sektzia Ness Ziona",
+        "hash": "9437c98d",
+        "league": ""
+      }
+    }
+  }
+}

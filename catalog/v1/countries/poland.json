@@ -1,0 +1,279 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "poland",
+    "iso2": "PL",
+    "name": "Poland",
+    "defaultLeague": "ekstraklasa",
+    "leagues": {
+      "ekstraklasa": {
+        "slug": "ekstraklasa",
+        "name": "PKO BP Ekstraklasa",
+        "hash": "4bd2cb11",
+        "kind": "league",
+        "code": "PL"
+      },
+      "1-liga": {
+        "slug": "1-liga",
+        "name": "Polish 1 Liga",
+        "hash": "c038970f",
+        "kind": "league"
+      },
+      "poland-national-team": {
+        "slug": "poland-national-team",
+        "name": "Poland National Team",
+        "hash": "3e5f1d10",
+        "kind": "league"
+      },
+      "polish-football-association": {
+        "slug": "polish-football-association",
+        "name": "Polish Football Association",
+        "hash": "9bcecb3e",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "cracovia": {
+        "slug": "cracovia",
+        "name": "Cracovia",
+        "hash": "54ff51f6",
+        "league": "ekstraklasa"
+      },
+      "gornik-zabrze": {
+        "slug": "gornik-zabrze",
+        "name": "Górnik Zabrze",
+        "hash": "133dd2b5",
+        "league": "ekstraklasa"
+      },
+      "jagiellonia": {
+        "slug": "jagiellonia",
+        "name": "Jagiellonia Białystok",
+        "hash": "f68c9def",
+        "league": "ekstraklasa"
+      },
+      "katowice": {
+        "slug": "katowice",
+        "name": "GKS Katowice",
+        "hash": "bc649b50",
+        "league": "ekstraklasa"
+      },
+      "korona-kielce": {
+        "slug": "korona-kielce",
+        "name": "Korona Kielce",
+        "hash": "d1bd43b7",
+        "league": "ekstraklasa"
+      },
+      "lech-poznan": {
+        "slug": "lech-poznan",
+        "name": "Lech Poznań",
+        "hash": "bf7f2599",
+        "league": "ekstraklasa"
+      },
+      "legia-warszawa": {
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa",
+        "hash": "f8165ab9",
+        "league": "ekstraklasa"
+      },
+      "motor-lublin": {
+        "slug": "motor-lublin",
+        "name": "Motor Lublin",
+        "hash": "4ccf1416",
+        "league": "ekstraklasa"
+      },
+      "piast": {
+        "slug": "piast",
+        "name": "Piast Gliwice",
+        "hash": "4e73f463",
+        "league": "ekstraklasa"
+      },
+      "pogon": {
+        "slug": "pogon",
+        "name": "Pogoń Szczecin",
+        "hash": "b46303ff",
+        "league": "ekstraklasa"
+      },
+      "radomiak": {
+        "slug": "radomiak",
+        "name": "Radomiak Radom",
+        "hash": "53ab5957",
+        "league": "ekstraklasa"
+      },
+      "rakow": {
+        "slug": "rakow",
+        "name": "Raków Częstochowa",
+        "hash": "62176f4f",
+        "league": "ekstraklasa"
+      },
+      "slask": {
+        "slug": "slask",
+        "name": "Śląsk Wrocław",
+        "hash": "f9c23f09",
+        "league": "ekstraklasa"
+      },
+      "widzew": {
+        "slug": "widzew",
+        "name": "Widzew Lodz",
+        "hash": "bb039ad9",
+        "league": "ekstraklasa"
+      },
+      "wisla-krakow": {
+        "slug": "wisla-krakow",
+        "name": "Wisła Kraków",
+        "hash": "4b839f95",
+        "league": "ekstraklasa"
+      },
+      "wisla-plock": {
+        "slug": "wisla-plock",
+        "name": "Wisła Płock",
+        "hash": "d49d6451",
+        "league": "ekstraklasa"
+      },
+      "zaglebie-lubin": {
+        "slug": "zaglebie-lubin",
+        "name": "Zagłębie Lubin",
+        "hash": "c98d281b",
+        "league": "ekstraklasa"
+      },
+      "wieczysta-krakow": {
+        "slug": "wieczysta-krakow",
+        "name": "Wieczysta Kraków",
+        "hash": "2d78f5ba",
+        "league": "ekstraklasa"
+      },
+      "arka": {
+        "slug": "arka",
+        "name": "Arka Gdynia",
+        "hash": "8c4e0e6d",
+        "league": "1-liga"
+      },
+      "bruk-bet-termalica-nieciecza": {
+        "slug": "bruk-bet-termalica-nieciecza",
+        "name": "Bruk-Bet Termalica Nieciecza",
+        "hash": "31a7737f",
+        "league": "1-liga"
+      },
+      "lks-lodz": {
+        "slug": "lks-lodz",
+        "name": "ŁKS Łódź",
+        "hash": "949401f0",
+        "league": "1-liga"
+      },
+      "lechia": {
+        "slug": "lechia",
+        "name": "Lechia Gdańsk",
+        "hash": "e9df7e76",
+        "league": "1-liga"
+      },
+      "miedz": {
+        "slug": "miedz",
+        "name": "Miedź Legnica",
+        "hash": "3c3956a7",
+        "league": "1-liga"
+      },
+      "opole": {
+        "slug": "opole",
+        "name": "Odra Opole",
+        "hash": "2936cc6e",
+        "league": "1-liga"
+      },
+      "podbeskidzie": {
+        "slug": "podbeskidzie",
+        "name": "Podbeskidzie Bielsko-Biała",
+        "hash": "ea7053e3",
+        "league": "1-liga"
+      },
+      "polonia-bytom": {
+        "slug": "polonia-bytom",
+        "name": "Polonia Bytom",
+        "hash": "68495a5c",
+        "league": "1-liga"
+      },
+      "polonia-warszawa": {
+        "slug": "polonia-warszawa",
+        "name": "Polonia Warszawa",
+        "hash": "5502212d",
+        "league": "1-liga"
+      },
+      "stal-mielec": {
+        "slug": "stal-mielec",
+        "name": "Stal Mielec",
+        "hash": "2a879cc9",
+        "league": "1-liga"
+      },
+      "warta": {
+        "slug": "warta",
+        "name": "Warta Poznań",
+        "hash": "8cbba9fd",
+        "league": "1-liga"
+      },
+      "chrobry-glogow": {
+        "slug": "chrobry-glogow",
+        "name": "Chrobry Głogów",
+        "hash": "92a2bd7a",
+        "league": "1-liga"
+      },
+      "ruch-chorzow": {
+        "slug": "ruch-chorzow",
+        "name": "Ruch Chorzów",
+        "hash": "2b269642",
+        "league": "1-liga"
+      },
+      "pogon-grodzisk-mazowiecki": {
+        "slug": "pogon-grodzisk-mazowiecki",
+        "name": "Pogoń Grodzisk Mazowiecki",
+        "hash": "4cf238af",
+        "league": "1-liga"
+      },
+      "puszcza-niepolomice": {
+        "slug": "puszcza-niepolomice",
+        "name": "Puszcza Niepołomice",
+        "hash": "058292f3",
+        "league": "1-liga"
+      },
+      "stal-rzeszow": {
+        "slug": "stal-rzeszow",
+        "name": "Stal Rzeszów",
+        "hash": "04797af6",
+        "league": "1-liga"
+      },
+      "pogon-siedlce": {
+        "slug": "pogon-siedlce",
+        "name": "Pogoń Siedlce",
+        "hash": "9fff5984",
+        "league": "1-liga"
+      },
+      "unia-skierniewice": {
+        "slug": "unia-skierniewice",
+        "name": "Unia Skierniewice",
+        "hash": "c30180f7",
+        "league": "1-liga"
+      },
+      "hutnik": {
+        "slug": "hutnik",
+        "name": "Hutnik Kraków",
+        "hash": "cb1876be",
+        "league": ""
+      },
+      "tychy": {
+        "slug": "tychy",
+        "name": "GKS Tychy",
+        "hash": "685632fa",
+        "league": ""
+      },
+      "gornik-leczna": {
+        "slug": "gornik-leczna",
+        "name": "Górnik Łęczna",
+        "hash": "1b5809b8",
+        "league": ""
+      },
+      "znicz-pruszkow": {
+        "slug": "znicz-pruszkow",
+        "name": "Znicz Pruszków",
+        "hash": "511f0997",
+        "league": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "mozambique",
+    "iso2": "MZ",
+    "name": "Mozambique",
+    "defaultLeague": "mozambique-national-team",
+    "leagues": {
+      "mozambique-national-team": {
+        "slug": "mozambique-national-team",
+        "name": "Mozambique National Team",
+        "hash": "50b000d7",
+        "kind": "league",
+        "code": "MZ"
+      }
+    },
+    "clubs": {}
+  }
+}

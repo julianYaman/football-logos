@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "chile",
+    "iso2": "CL",
+    "name": "Chile",
+    "defaultLeague": "liga-de-primera",
+    "leagues": {
+      "liga-de-primera": {
+        "slug": "liga-de-primera",
+        "name": "Liga de Primera",
+        "hash": "15ab230f",
+        "kind": "league",
+        "code": "CL"
+      },
+      "liga-de-ascenso": {
+        "slug": "liga-de-ascenso",
+        "name": "Liga de Ascenso",
+        "hash": "a43b2619",
+        "kind": "league"
+      },
+      "chile-national-team": {
+        "slug": "chile-national-team",
+        "name": "Chile National Team",
+        "hash": "1bc4c30d",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "coquimbo-unido": {
+        "slug": "coquimbo-unido",
+        "name": "Coquimbo Unido",
+        "hash": "b99ba2fb",
+        "league": "liga-de-primera"
+      },
+      "audax-italiano": {
+        "slug": "audax-italiano",
+        "name": "Audax Italiano",
+        "hash": "276a7221",
+        "league": "liga-de-primera"
+      },
+      "universidad-de-chile": {
+        "slug": "universidad-de-chile",
+        "name": "Universidad de Chile",
+        "hash": "1c27a967",
+        "league": "liga-de-primera"
+      },
+      "palestino": {
+        "slug": "palestino",
+        "name": "Palestino",
+        "hash": "c0f2c29d",
+        "league": "liga-de-primera"
+      },
+      "ohiggins": {
+        "slug": "ohiggins",
+        "name": "O&#39;Higgins",
+        "hash": "99dae7df",
+        "league": "liga-de-primera"
+      },
+      "universidad-catolica": {
+        "slug": "universidad-catolica",
+        "name": "Universidad Católica",
+        "hash": "e7ac7e73",
+        "league": "liga-de-primera"
+      },
+      "cobresal": {
+        "slug": "cobresal",
+        "name": "Cobresal",
+        "hash": "15164d5c",
+        "league": "liga-de-primera"
+      },
+      "union-la-calera": {
+        "slug": "union-la-calera",
+        "name": "Unión La Calera",
+        "hash": "53828fe8",
+        "league": "liga-de-primera"
+      },
+      "colo-colo": {
+        "slug": "colo-colo",
+        "name": "Colo Colo",
+        "hash": "b227626f",
+        "league": "liga-de-primera"
+      },
+      "huachipato": {
+        "slug": "huachipato",
+        "name": "Huachipato",
+        "hash": "6192fcff",
+        "league": "liga-de-primera"
+      },
+      "la-serena": {
+        "slug": "la-serena",
+        "name": "La Serena",
+        "hash": "f307ab72",
+        "league": "liga-de-primera"
+      },
+      "nublense": {
+        "slug": "nublense",
+        "name": "Ñublense",
+        "hash": "cf8bdef6",
+        "league": "liga-de-primera"
+      },
+      "everton": {
+        "slug": "everton",
+        "name": "Everton de Viña del Mar",
+        "hash": "ddc6305e",
+        "league": "liga-de-primera"
+      },
+      "deportes-limache": {
+        "slug": "deportes-limache",
+        "name": "Deportes Limache",
+        "hash": "3cf149ba",
+        "league": "liga-de-primera"
+      },
+      "universidad-de-concepcion": {
+        "slug": "universidad-de-concepcion",
+        "name": "Universidad de Concepción",
+        "hash": "2777e4d5",
+        "league": "liga-de-primera"
+      },
+      "deportes-concepcion": {
+        "slug": "deportes-concepcion",
+        "name": "Deportes Concepción",
+        "hash": "711ea686",
+        "league": "liga-de-primera"
+      },
+      "union-espanola": {
+        "slug": "union-espanola",
+        "name": "Unión Española",
+        "hash": "97c557d0",
+        "league": "liga-de-ascenso"
+      },
+      "deportes-iquique": {
+        "slug": "deportes-iquique",
+        "name": "Deportes Iquique",
+        "hash": "b44f8bb7",
+        "league": "liga-de-ascenso"
+      },
+      "rangers-de-talca": {
+        "slug": "rangers-de-talca",
+        "name": "Rangers de Talca",
+        "hash": "fb5855a2",
+        "league": "liga-de-ascenso"
+      },
+      "cobreloa": {
+        "slug": "cobreloa",
+        "name": "Cobreloa",
+        "hash": "41a684f8",
+        "league": "liga-de-ascenso"
+      },
+      "santiago-wanderers": {
+        "slug": "santiago-wanderers",
+        "name": "Santiago Wanderers",
+        "hash": "84ecc78b",
+        "league": "liga-de-ascenso"
+      },
+      "deportes-antofagasta": {
+        "slug": "deportes-antofagasta",
+        "name": "Deportes Antofagasta",
+        "hash": "00c74d12",
+        "league": "liga-de-ascenso"
+      },
+      "magallanes": {
+        "slug": "magallanes",
+        "name": "Magallanes",
+        "hash": "a49604a7",
+        "league": "liga-de-ascenso"
+      },
+      "san-luis-de-quillota": {
+        "slug": "san-luis-de-quillota",
+        "name": "San Luis de Quillota",
+        "hash": "4f6babba",
+        "league": "liga-de-ascenso"
+      },
+      "deportes-puerto-montt": {
+        "slug": "deportes-puerto-montt",
+        "name": "Deportes Puerto Montt",
+        "hash": "2b67fbf9",
+        "league": "liga-de-ascenso"
+      },
+      "deportes-recoleta": {
+        "slug": "deportes-recoleta",
+        "name": "Deportes Recoleta",
+        "hash": "68afb50e",
+        "league": "liga-de-ascenso"
+      },
+      "san-marcos-de-arica": {
+        "slug": "san-marcos-de-arica",
+        "name": "San Marcos de Arica",
+        "hash": "092cdd3a",
+        "league": "liga-de-ascenso"
+      },
+      "deportes-copiapo": {
+        "slug": "deportes-copiapo",
+        "name": "Deportes Copiapó",
+        "hash": "b9d861fe",
+        "league": "liga-de-ascenso"
+      },
+      "deportes-temuco": {
+        "slug": "deportes-temuco",
+        "name": "Deportes Temuco",
+        "hash": "db20cf8e",
+        "league": "liga-de-ascenso"
+      },
+      "curico-unido": {
+        "slug": "curico-unido",
+        "name": "Curicó Unido",
+        "hash": "4de2b584",
+        "league": "liga-de-ascenso"
+      },
+      "union-san-felipe": {
+        "slug": "union-san-felipe",
+        "name": "Unión San Felipe",
+        "hash": "740ced38",
+        "league": "liga-de-ascenso"
+      },
+      "deportes-santa-cruz": {
+        "slug": "deportes-santa-cruz",
+        "name": "Deportes Santa Cruz",
+        "hash": "7905631d",
+        "league": "liga-de-ascenso"
+      },
+      "independiente-cauquenes": {
+        "slug": "independiente-cauquenes",
+        "name": "Independiente de Cauquenes",
+        "hash": "2530a481",
+        "league": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "indonesia",
+    "iso2": "ID",
+    "name": "Indonesia",
+    "defaultLeague": "indonesian-super-league",
+    "leagues": {
+      "indonesian-super-league": {
+        "slug": "indonesian-super-league",
+        "name": "Indonesian Super League",
+        "hash": "8f0de64e",
+        "kind": "league",
+        "code": "ID"
+      },
+      "pegadaian-championship": {
+        "slug": "pegadaian-championship",
+        "name": "Pegadaian Championship (Kejuaraan)",
+        "hash": "7d77c011",
+        "kind": "league"
+      },
+      "indonesia-national-team": {
+        "slug": "indonesia-national-team",
+        "name": "Indonesia National Team",
+        "hash": "8126e8bb",
+        "kind": "league"
+      },
+      "liga-nusantara": {
+        "slug": "liga-nusantara",
+        "name": "Liga Nusantara",
+        "hash": "c7129b2d",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "borneo-fc": {
+        "slug": "borneo-fc",
+        "name": "Borneo Samarinda",
+        "hash": "3a6f58bd",
+        "league": "indonesian-super-league"
+      },
+      "persija-jakarta": {
+        "slug": "persija-jakarta",
+        "name": "Persija Jakarta",
+        "hash": "0a2e9849",
+        "league": "indonesian-super-league"
+      },
+      "malut-united": {
+        "slug": "malut-united",
+        "name": "Malut United",
+        "hash": "c9a8284c",
+        "league": "indonesian-super-league"
+      },
+      "persib-bandung": {
+        "slug": "persib-bandung",
+        "name": "Persib Bandung",
+        "hash": "bd49112e",
+        "league": "indonesian-super-league"
+      },
+      "persita-tangerang": {
+        "slug": "persita-tangerang",
+        "name": "Persita Tangerang",
+        "hash": "3fb0ea51",
+        "league": "indonesian-super-league"
+      },
+      "psim-yogyakarta": {
+        "slug": "psim-yogyakarta",
+        "name": "PSIM Yogyakarta",
+        "hash": "b1dd6866",
+        "league": "indonesian-super-league"
+      },
+      "bhayangkara-presisi-lampung": {
+        "slug": "bhayangkara-presisi-lampung",
+        "name": "Bhayangkara Presisi Lampung",
+        "hash": "ecb5ed6f",
+        "league": "indonesian-super-league"
+      },
+      "arema-fc": {
+        "slug": "arema-fc",
+        "name": "Arema FC",
+        "hash": "e0452699",
+        "league": "indonesian-super-league"
+      },
+      "persebaya-surabaya": {
+        "slug": "persebaya-surabaya",
+        "name": "Persebaya Surabaya",
+        "hash": "584e04f2",
+        "league": "indonesian-super-league"
+      },
+      "bali-united": {
+        "slug": "bali-united",
+        "name": "Bali United",
+        "hash": "6bc74752",
+        "league": "indonesian-super-league"
+      },
+      "persik-kediri": {
+        "slug": "persik-kediri",
+        "name": "Persik Kediri",
+        "hash": "a4430b1b",
+        "league": "indonesian-super-league"
+      },
+      "madura-united": {
+        "slug": "madura-united",
+        "name": "Madura United",
+        "hash": "52502248",
+        "league": "indonesian-super-league"
+      },
+      "dewa-united": {
+        "slug": "dewa-united",
+        "name": "Dewa United",
+        "hash": "a38d7ee1",
+        "league": "indonesian-super-league"
+      },
+      "psm-makassar": {
+        "slug": "psm-makassar",
+        "name": "PSM Makassar",
+        "hash": "053efeaf",
+        "league": "indonesian-super-league"
+      },
+      "persijap-jepara": {
+        "slug": "persijap-jepara",
+        "name": "Persijap Jepara",
+        "hash": "a88b7dbb",
+        "league": "indonesian-super-league"
+      },
+      "pss-sleman": {
+        "slug": "pss-sleman",
+        "name": "PSS Sleman",
+        "hash": "1667849d",
+        "league": "indonesian-super-league"
+      },
+      "pskc-cimahi": {
+        "slug": "pskc-cimahi",
+        "name": "PSKC Cimahi",
+        "hash": "38dd745d",
+        "league": "indonesian-super-league"
+      },
+      "isenmulang-kalteng": {
+        "slug": "isenmulang-kalteng",
+        "name": "Isenmulang Kalteng",
+        "hash": "4c66011b",
+        "league": "indonesian-super-league"
+      },
+      "psbs-biak": {
+        "slug": "psbs-biak",
+        "name": "PSBS Biak",
+        "hash": "157e9619",
+        "league": "pegadaian-championship"
+      },
+      "persis-solo": {
+        "slug": "persis-solo",
+        "name": "Persis Solo",
+        "hash": "405eb8a3",
+        "league": "pegadaian-championship"
+      },
+      "semen-padang": {
+        "slug": "semen-padang",
+        "name": "Semen Padang",
+        "hash": "fb0f0fdd",
+        "league": "pegadaian-championship"
+      },
+      "adhyaksa-fc-banten": {
+        "slug": "adhyaksa-fc-banten",
+        "name": "Adhyaksa FC Banten",
+        "hash": "e9a1e675",
+        "league": "pegadaian-championship"
+      },
+      "sumsel-united-fc": {
+        "slug": "sumsel-united-fc",
+        "name": "Sumsel United FC",
+        "hash": "88333916",
+        "league": "pegadaian-championship"
+      },
+      "persiraja-banda-aceh": {
+        "slug": "persiraja-banda-aceh",
+        "name": "Persiraja Banda Aceh",
+        "hash": "346ed9e9",
+        "league": "pegadaian-championship"
+      },
+      "psps-pekanbaru": {
+        "slug": "psps-pekanbaru",
+        "name": "PSPS Pekanbaru",
+        "hash": "d53f94d7",
+        "league": "pegadaian-championship"
+      },
+      "psms-medan": {
+        "slug": "psms-medan",
+        "name": "PSMS Medan",
+        "hash": "cbb27ed2",
+        "league": "pegadaian-championship"
+      },
+      "persikad-depok": {
+        "slug": "persikad-depok",
+        "name": "Persikad Depok",
+        "hash": "a50a6f52",
+        "league": "pegadaian-championship"
+      },
+      "persipura-jayapura": {
+        "slug": "persipura-jayapura",
+        "name": "Persipura Jayapura",
+        "hash": "4222843e",
+        "league": "pegadaian-championship"
+      },
+      "barito-putera": {
+        "slug": "barito-putera",
+        "name": "Barito Putera",
+        "hash": "267c8010",
+        "league": "pegadaian-championship"
+      },
+      "kendal-tornado": {
+        "slug": "kendal-tornado",
+        "name": "Kendal Tornado FC",
+        "hash": "b1936689",
+        "league": "pegadaian-championship"
+      },
+      "deltras-sidoarjo": {
+        "slug": "deltras-sidoarjo",
+        "name": "Deltras Sidoarjo",
+        "hash": "51d42908",
+        "league": "pegadaian-championship"
+      },
+      "persela-lamongan": {
+        "slug": "persela-lamongan",
+        "name": "Persela Lamongan",
+        "hash": "332733c7",
+        "league": "pegadaian-championship"
+      },
+      "persiku-kudus": {
+        "slug": "persiku-kudus",
+        "name": "Persiku Kudus",
+        "hash": "f93d042e",
+        "league": "pegadaian-championship"
+      },
+      "psis-semarang": {
+        "slug": "psis-semarang",
+        "name": "PSIS Semarang",
+        "hash": "09aea260",
+        "league": "pegadaian-championship"
+      },
+      "persiba-balikpapan": {
+        "slug": "persiba-balikpapan",
+        "name": "Persiba Balikpapan",
+        "hash": "c149420e",
+        "league": "pegadaian-championship"
+      },
+      "de-red-fc": {
+        "slug": "de-red-fc",
+        "name": "de Red FC",
+        "hash": "01edeaef",
+        "league": "pegadaian-championship"
+      },
+      "rans-nusantara-fc": {
+        "slug": "rans-nusantara-fc",
+        "name": "RANS Nusantara FC",
+        "hash": "c6040aae",
+        "league": "pegadaian-championship"
+      },
+      "psgc-ciamis": {
+        "slug": "psgc-ciamis",
+        "name": "PSGC Ciamis",
+        "hash": "380ea247",
+        "league": "pegadaian-championship"
+      },
+      "piala-presiden": {
+        "slug": "piala-presiden",
+        "name": "Piala Presiden",
+        "hash": "a2134417",
+        "league": ""
+      },
+      "garudayaksa-fc": {
+        "slug": "garudayaksa-fc",
+        "name": "Garudayaksa FC",
+        "hash": "6ad22a55",
+        "league": ""
+      },
+      "fc-bekasi-city": {
+        "slug": "fc-bekasi-city",
+        "name": "FC Bekasi City",
+        "hash": "85fdae1d",
+        "league": ""
+      },
+      "persekat-tegal": {
+        "slug": "persekat-tegal",
+        "name": "Persekat Tegal",
+        "hash": "3c9d0c50",
+        "league": ""
+      },
+      "sriwijaya-fc": {
+        "slug": "sriwijaya-fc",
+        "name": "Sriwijaya FC",
+        "hash": "2d20bd11",
+        "league": ""
+      },
+      "persipal-palu": {
+        "slug": "persipal-palu",
+        "name": "Persipal Palu FC",
+        "hash": "1e71b069",
+        "league": ""
+      },
+      "nusantara-united-fc": {
+        "slug": "nusantara-united-fc",
+        "name": "Nusantara United FC",
+        "hash": "3e5c3b19",
+        "league": ""
+      },
+      "persikota-tangerang": {
+        "slug": "persikota-tangerang",
+        "name": "Persikota Tangerang",
+        "hash": "0b487f0d",
+        "league": ""
+      },
+      "persikabo-1973": {
+        "slug": "persikabo-1973",
+        "name": "Persikabo 1973",
+        "hash": "e066cc09",
+        "league": ""
+      },
+      "persibo-bojonegoro": {
+        "slug": "persibo-bojonegoro",
+        "name": "Persibo Bojonegoro",
+        "hash": "f30a87d0",
+        "league": ""
+      },
+      "gresik-united": {
+        "slug": "gresik-united",
+        "name": "Gresik United",
+        "hash": "a06726e7",
+        "league": ""
+      },
+      "persewar-waropen": {
+        "slug": "persewar-waropen",
+        "name": "Persewar Waropen",
+        "hash": "13fb6045",
+        "league": ""
+      },
+      "persikas-subang": {
+        "slug": "persikas-subang",
+        "name": "Persikas Subang",
+        "hash": "755181ae",
+        "league": ""
+      },
+      "persipa-pati": {
+        "slug": "persipa-pati",
+        "name": "Persipa Pati",
+        "hash": "e43723e5",
+        "league": ""
+      },
+      "java-united-fc": {
+        "slug": "java-united-fc",
+        "name": "Java United FC",
+        "hash": "1dd211a4",
+        "league": ""
+      }
+    }
+  }
+}

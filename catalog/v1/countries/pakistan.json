@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "pakistan",
+    "iso2": "PK",
+    "name": "Pakistan",
+    "defaultLeague": "pakistan-national-team",
+    "leagues": {
+      "pakistan-national-team": {
+        "slug": "pakistan-national-team",
+        "name": "Pakistan National Team",
+        "hash": "c81375eb",
+        "kind": "league",
+        "code": "PK"
+      }
+    },
+    "clubs": {}
+  }
+}

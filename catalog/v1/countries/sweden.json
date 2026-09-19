@@ -1,0 +1,363 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "sweden",
+    "iso2": "SE",
+    "name": "Sweden",
+    "defaultLeague": "allsvenskan",
+    "leagues": {
+      "allsvenskan": {
+        "slug": "allsvenskan",
+        "name": "Allsvenskan",
+        "hash": "e55d5de4",
+        "kind": "league",
+        "code": "SE"
+      },
+      "superettan": {
+        "slug": "superettan",
+        "name": "Superettan",
+        "hash": "6602ab6b",
+        "kind": "league"
+      },
+      "sweden-national-team": {
+        "slug": "sweden-national-team",
+        "name": "Sweden National Team",
+        "hash": "82363952",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "aik": {
+        "slug": "aik",
+        "name": "AIK",
+        "hash": "b3bde836",
+        "league": "allsvenskan"
+      },
+      "brommapojkarna": {
+        "slug": "brommapojkarna",
+        "name": "Brommapojkarna",
+        "hash": "15723d08",
+        "league": "allsvenskan"
+      },
+      "degerfors": {
+        "slug": "degerfors",
+        "name": "Degerfors",
+        "hash": "1dd0cac7",
+        "league": "allsvenskan"
+      },
+      "djurgarden": {
+        "slug": "djurgarden",
+        "name": "Djurgården",
+        "hash": "d9913231",
+        "league": "allsvenskan"
+      },
+      "elfsborg": {
+        "slug": "elfsborg",
+        "name": "Elfsborg",
+        "hash": "a0071a41",
+        "league": "allsvenskan"
+      },
+      "gais": {
+        "slug": "gais",
+        "name": "GAIS",
+        "hash": "4aa10cd4",
+        "league": "allsvenskan"
+      },
+      "goteborg": {
+        "slug": "goteborg",
+        "name": "IFK Göteborg",
+        "hash": "462cbdbc",
+        "league": "allsvenskan"
+      },
+      "hacken": {
+        "slug": "hacken",
+        "name": "Häcken",
+        "hash": "303a5eb7",
+        "league": "allsvenskan"
+      },
+      "halmstad": {
+        "slug": "halmstad",
+        "name": "Halmstad",
+        "hash": "a2aee830",
+        "league": "allsvenskan"
+      },
+      "hammarby": {
+        "slug": "hammarby",
+        "name": "Hammarby",
+        "hash": "801c0f6f",
+        "league": "allsvenskan"
+      },
+      "kalmar": {
+        "slug": "kalmar",
+        "name": "Kalmar",
+        "hash": "4ea0eeb3",
+        "league": "allsvenskan"
+      },
+      "malmo": {
+        "slug": "malmo",
+        "name": "Malmö",
+        "hash": "c88b25ad",
+        "league": "allsvenskan"
+      },
+      "mjallby": {
+        "slug": "mjallby",
+        "name": "Mjällby",
+        "hash": "78c180fd",
+        "league": "allsvenskan"
+      },
+      "orgryte": {
+        "slug": "orgryte",
+        "name": "Örgryte",
+        "hash": "287710ee",
+        "league": "allsvenskan"
+      },
+      "sirius": {
+        "slug": "sirius",
+        "name": "Sirius",
+        "hash": "f30c8f5a",
+        "league": "allsvenskan"
+      },
+      "wasteras": {
+        "slug": "wasteras",
+        "name": "Västerås SK",
+        "hash": "83ca6be2",
+        "league": "allsvenskan"
+      },
+      "brage": {
+        "slug": "brage",
+        "name": "Brage",
+        "hash": "fb49dc05",
+        "league": "superettan"
+      },
+      "falkenberg": {
+        "slug": "falkenberg",
+        "name": "Falkenberg",
+        "hash": "e681ec06",
+        "league": "superettan"
+      },
+      "helsingborg": {
+        "slug": "helsingborg",
+        "name": "Helsingborg",
+        "hash": "95c85ff9",
+        "league": "superettan"
+      },
+      "landskrona": {
+        "slug": "landskrona",
+        "name": "Landskrona BoIS",
+        "hash": "f59d2205",
+        "league": "superettan"
+      },
+      "norrkoping": {
+        "slug": "norrkoping",
+        "name": "Norrköping",
+        "hash": "b36465ec",
+        "league": "superettan"
+      },
+      "orebro": {
+        "slug": "orebro",
+        "name": "Örebro",
+        "hash": "0aa3f28b",
+        "league": "superettan"
+      },
+      "ostersund": {
+        "slug": "ostersund",
+        "name": "Östersund",
+        "hash": "6abd065b",
+        "league": "superettan"
+      },
+      "varnamo": {
+        "slug": "varnamo",
+        "name": "Värnamo",
+        "hash": "cb92386e",
+        "league": "superettan"
+      },
+      "varbergs-bois": {
+        "slug": "varbergs-bois",
+        "name": "Varbergs BoIS FC",
+        "hash": "f93fb06e",
+        "league": "superettan"
+      },
+      "nordic-united-fc": {
+        "slug": "nordic-united-fc",
+        "name": "Nordic United FC",
+        "hash": "4b252bb5",
+        "league": "superettan"
+      },
+      "ik-oddevold": {
+        "slug": "ik-oddevold",
+        "name": "IK Oddevold",
+        "hash": "87e61a12",
+        "league": "superettan"
+      },
+      "osters-if": {
+        "slug": "osters-if",
+        "name": "Östers IF",
+        "hash": "d0812140",
+        "league": "superettan"
+      },
+      "sandvikens-if": {
+        "slug": "sandvikens-if",
+        "name": "Sandvikens IF",
+        "hash": "2b98be75",
+        "league": "superettan"
+      },
+      "ljungskile-sk": {
+        "slug": "ljungskile-sk",
+        "name": "Ljungskile SK",
+        "hash": "df2fafac",
+        "league": "superettan"
+      },
+      "norrby-if": {
+        "slug": "norrby-if",
+        "name": "Norrby IF",
+        "hash": "1deada69",
+        "league": "superettan"
+      },
+      "gif-sundsvall": {
+        "slug": "gif-sundsvall",
+        "name": "GIF Sundsvall",
+        "hash": "c6d0e2ad",
+        "league": "superettan"
+      },
+      "dalkurd": {
+        "slug": "dalkurd",
+        "name": "Dalkurd",
+        "hash": "fac14484",
+        "league": ""
+      },
+      "gefle": {
+        "slug": "gefle",
+        "name": "Gefle",
+        "hash": "cdd7eb18",
+        "league": ""
+      },
+      "oster": {
+        "slug": "oster",
+        "name": "Öster",
+        "hash": "dfa96924",
+        "league": ""
+      },
+      "trelleborg": {
+        "slug": "trelleborg",
+        "name": "Trelleborg",
+        "hash": "6e0ad422",
+        "league": ""
+      },
+      "atvidabergs-ff": {
+        "slug": "atvidabergs-ff",
+        "name": "Åtvidabergs FF",
+        "hash": "312a5b3b",
+        "league": ""
+      },
+      "balinge-if": {
+        "slug": "balinge-if",
+        "name": "Bälinge IF",
+        "hash": "d8b948d5",
+        "league": ""
+      },
+      "fc-trollhattan": {
+        "slug": "fc-trollhattan",
+        "name": "FC Trollhättan",
+        "hash": "bc4bdd4e",
+        "league": ""
+      },
+      "ifk-lidingo-fk": {
+        "slug": "ifk-lidingo-fk",
+        "name": "IFK Lidingö FK",
+        "hash": "433d1f28",
+        "league": ""
+      },
+      "ifk-lulea": {
+        "slug": "ifk-lulea",
+        "name": "IFK Luleå",
+        "hash": "0546313c",
+        "league": ""
+      },
+      "ifk-mora-fk": {
+        "slug": "ifk-mora-fk",
+        "name": "IFK Mora FK",
+        "hash": "c92800a8",
+        "league": ""
+      },
+      "ifk-stockholm": {
+        "slug": "ifk-stockholm",
+        "name": "IFK Stockholm",
+        "hash": "2b146fea",
+        "league": ""
+      },
+      "ifk-timra": {
+        "slug": "ifk-timra",
+        "name": "IFK Timrå",
+        "hash": "40b0a9e3",
+        "league": ""
+      },
+      "ifk-trelleborg": {
+        "slug": "ifk-trelleborg",
+        "name": "IFK Trelleborg",
+        "hash": "a174b0d3",
+        "league": ""
+      },
+      "ifk-uddevalla": {
+        "slug": "ifk-uddevalla",
+        "name": "IFK Uddevalla",
+        "hash": "f59be700",
+        "league": ""
+      },
+      "ifk-umea": {
+        "slug": "ifk-umea",
+        "name": "IFK Umeå",
+        "hash": "293f4fb1",
+        "league": ""
+      },
+      "ifk-uppsala-fotboll": {
+        "slug": "ifk-uppsala-fotboll",
+        "name": "IFK Uppsala Fotboll",
+        "hash": "b944effb",
+        "league": ""
+      },
+      "jitex-bk": {
+        "slug": "jitex-bk",
+        "name": "Jitex BK",
+        "hash": "75130bcd",
+        "league": ""
+      },
+      "pitea-if-fotboll": {
+        "slug": "pitea-if-fotboll",
+        "name": "Piteå IF Fotboll",
+        "hash": "704108da",
+        "league": ""
+      },
+      "sollentuna-fk": {
+        "slug": "sollentuna-fk",
+        "name": "Sollentuna FK",
+        "hash": "f397ff37",
+        "league": ""
+      },
+      "torns-if": {
+        "slug": "torns-if",
+        "name": "Torns IF",
+        "hash": "104ee1b2",
+        "league": ""
+      },
+      "tvaakers-if": {
+        "slug": "tvaakers-if",
+        "name": "Tvååkers IF",
+        "hash": "c58559b5",
+        "league": ""
+      },
+      "vallentuna-bk": {
+        "slug": "vallentuna-bk",
+        "name": "Vallentuna BK",
+        "hash": "df7ddda0",
+        "league": ""
+      },
+      "jonkopings-sodra-if": {
+        "slug": "jonkopings-sodra-if",
+        "name": "Jönköpings Södra IF",
+        "hash": "91cad56c",
+        "league": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "south-africa",
+    "iso2": "ZA",
+    "name": "South Africa",
+    "defaultLeague": "premier-soccer-league",
+    "leagues": {
+      "premier-soccer-league": {
+        "slug": "premier-soccer-league",
+        "name": "Premier Soccer League",
+        "hash": "3b6d47dc",
+        "kind": "league",
+        "code": "ZA"
+      },
+      "south-africa-national-team": {
+        "slug": "south-africa-national-team",
+        "name": "South Africa National Team",
+        "hash": "48ee4470",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "mamelodi-sundowns": {
+        "slug": "mamelodi-sundowns",
+        "name": "Mamelodi Sundowns",
+        "hash": "6a4c94c1",
+        "league": "premier-soccer-league"
+      },
+      "sekhukhune-united": {
+        "slug": "sekhukhune-united",
+        "name": "Sekhukhune United",
+        "hash": "03a8a7a2",
+        "league": "premier-soccer-league"
+      },
+      "orlando-pirates": {
+        "slug": "orlando-pirates",
+        "name": "Orlando Pirates",
+        "hash": "93e94437",
+        "league": "premier-soccer-league"
+      },
+      "kaizer-chiefs": {
+        "slug": "kaizer-chiefs",
+        "name": "Kaizer Chiefs",
+        "hash": "dfd9fe03",
+        "league": "premier-soccer-league"
+      },
+      "amazulu-fc": {
+        "slug": "amazulu-fc",
+        "name": "AmaZulu FC",
+        "hash": "8562a7e9",
+        "league": "premier-soccer-league"
+      },
+      "golden-arrows": {
+        "slug": "golden-arrows",
+        "name": "Golden Arrows",
+        "hash": "7cf860ae",
+        "league": "premier-soccer-league"
+      },
+      "marumo-gallants": {
+        "slug": "marumo-gallants",
+        "name": "Marumo Gallants",
+        "hash": "95316317",
+        "league": "premier-soccer-league"
+      },
+      "chippa-united": {
+        "slug": "chippa-united",
+        "name": "Chippa United",
+        "hash": "5ceeab9e",
+        "league": "premier-soccer-league"
+      },
+      "stellenbosch": {
+        "slug": "stellenbosch",
+        "name": "Stellenbosch FC",
+        "hash": "e1b1abae",
+        "league": "premier-soccer-league"
+      },
+      "durban-city": {
+        "slug": "durban-city",
+        "name": "Durban City FC",
+        "hash": "3d05417c",
+        "league": "premier-soccer-league"
+      },
+      "polokwane-city": {
+        "slug": "polokwane-city",
+        "name": "Polokwane City",
+        "hash": "4a197baa",
+        "league": "premier-soccer-league"
+      },
+      "richards-bay": {
+        "slug": "richards-bay",
+        "name": "Richards Bay FC",
+        "hash": "c5e1eabf",
+        "league": "premier-soccer-league"
+      },
+      "ts-galaxy": {
+        "slug": "ts-galaxy",
+        "name": "TS Galaxy",
+        "hash": "56042916",
+        "league": "premier-soccer-league"
+      },
+      "siwelele": {
+        "slug": "siwelele",
+        "name": "Siwelele FC",
+        "hash": "1dc4f0f4",
+        "league": "premier-soccer-league"
+      },
+      "kruger-united": {
+        "slug": "kruger-united",
+        "name": "Kruger United",
+        "hash": "f79885c0",
+        "league": "premier-soccer-league"
+      },
+      "milford-fc": {
+        "slug": "milford-fc",
+        "name": "Milford FC",
+        "hash": "68dd4df7",
+        "league": "premier-soccer-league"
+      },
+      "mtn-8": {
+        "slug": "mtn-8",
+        "name": "MTN8",
+        "hash": "a41baf54",
+        "league": ""
+      },
+      "magesi": {
+        "slug": "magesi",
+        "name": "Magesi FC",
+        "hash": "c6948c1a",
+        "league": ""
+      },
+      "orbit-college": {
+        "slug": "orbit-college",
+        "name": "Orbit College FC",
+        "hash": "04013f81",
+        "league": ""
+      },
+      "lerumo-lions": {
+        "slug": "lerumo-lions",
+        "name": "Lerumo Lions",
+        "hash": "9847f262",
+        "league": ""
+      }
+    }
+  }
+}

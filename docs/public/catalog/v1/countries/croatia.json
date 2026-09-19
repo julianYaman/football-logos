@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "croatia",
+    "iso2": "HR",
+    "name": "Croatia",
+    "defaultLeague": "croatian-football-league",
+    "leagues": {
+      "croatian-football-league": {
+        "slug": "croatian-football-league",
+        "name": "Croatian Football League",
+        "hash": "5e5816b9",
+        "kind": "league",
+        "code": "HR"
+      },
+      "croatia-national-team": {
+        "slug": "croatia-national-team",
+        "name": "Croatia National Team",
+        "hash": "7268cb93",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "dinamo-zagreb": {
+        "slug": "dinamo-zagreb",
+        "name": "GNK Dinamo Zagreb",
+        "hash": "e3f432f6",
+        "league": "croatian-football-league"
+      },
+      "gorica": {
+        "slug": "gorica",
+        "name": "HNK Gorica",
+        "hash": "8d24947d",
+        "league": "croatian-football-league"
+      },
+      "hajduk-split": {
+        "slug": "hajduk-split",
+        "name": "Hajduk Split",
+        "hash": "01003ecb",
+        "league": "croatian-football-league"
+      },
+      "istra-1961": {
+        "slug": "istra-1961",
+        "name": "Istra 1961",
+        "hash": "e05b2ac2",
+        "league": "croatian-football-league"
+      },
+      "lokomotiva-zagreb": {
+        "slug": "lokomotiva-zagreb",
+        "name": "Lokomotiva Zagreb",
+        "hash": "70b150a5",
+        "league": "croatian-football-league"
+      },
+      "osijek": {
+        "slug": "osijek",
+        "name": "Osijek",
+        "hash": "a170d519",
+        "league": "croatian-football-league"
+      },
+      "rijeka": {
+        "slug": "rijeka",
+        "name": "Rijeka",
+        "hash": "094aa3c7",
+        "league": "croatian-football-league"
+      },
+      "rudes": {
+        "slug": "rudes",
+        "name": "Rudeš",
+        "hash": "ece9111d",
+        "league": "croatian-football-league"
+      },
+      "slaven": {
+        "slug": "slaven",
+        "name": "Slaven Belupo",
+        "hash": "7d93f913",
+        "league": "croatian-football-league"
+      },
+      "varazdin": {
+        "slug": "varazdin",
+        "name": "Varaždin",
+        "hash": "0c0086ae",
+        "league": "croatian-football-league"
+      },
+      "nk-zagora": {
+        "slug": "nk-zagora",
+        "name": "NK Zagora",
+        "hash": "2fc4ac2c",
+        "league": ""
+      },
+      "sibenik": {
+        "slug": "sibenik",
+        "name": "Šibenik",
+        "hash": "9684c40a",
+        "league": ""
+      },
+      "slavonija-pozega": {
+        "slug": "slavonija-pozega",
+        "name": "Slavonija Pozega",
+        "hash": "892c4f8b",
+        "league": ""
+      },
+      "vukovar": {
+        "slug": "vukovar",
+        "name": "HNK Vukovar",
+        "hash": "8988d3e9",
+        "league": ""
+      },
+      "hnk-segesta-sisak": {
+        "slug": "hnk-segesta-sisak",
+        "name": "HNK Segesta Sisak",
+        "hash": "88e364ba",
+        "league": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "bangladesh",
+    "iso2": "BD",
+    "name": "Bangladesh",
+    "defaultLeague": "bangladesh-football-league",
+    "leagues": {
+      "bangladesh-football-league": {
+        "slug": "bangladesh-football-league",
+        "name": "Bangladesh Football League",
+        "hash": "75c40e22",
+        "kind": "league",
+        "code": "BD"
+      },
+      "bangladesh-national-team": {
+        "slug": "bangladesh-national-team",
+        "name": "Bangladesh National Team",
+        "hash": "951c9f7b",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "brothers-union": {
+        "slug": "brothers-union",
+        "name": "Brothers Union",
+        "hash": "9789d354",
+        "league": "bangladesh-football-league"
+      },
+      "mohammedan-sc": {
+        "slug": "mohammedan-sc",
+        "name": "Mohammedan SC",
+        "hash": "34f66408",
+        "league": "bangladesh-football-league"
+      },
+      "abahani-limited": {
+        "slug": "abahani-limited",
+        "name": "Abahani Limited",
+        "hash": "3cf1306e",
+        "league": "bangladesh-football-league"
+      },
+      "arambagh-ks": {
+        "slug": "arambagh-ks",
+        "name": "Arambagh KS",
+        "hash": "69479fd8",
+        "league": "bangladesh-football-league"
+      },
+      "rahmatganj-mfs": {
+        "slug": "rahmatganj-mfs",
+        "name": "Rahmatganj MFS",
+        "hash": "231c8bef",
+        "league": "bangladesh-football-league"
+      },
+      "fakirerpool-ymc": {
+        "slug": "fakirerpool-ymc",
+        "name": "Fakirerpool YMC",
+        "hash": "b66f406f",
+        "league": "bangladesh-football-league"
+      },
+      "bangladesh-police-fc": {
+        "slug": "bangladesh-police-fc",
+        "name": "Bangladesh Police FC",
+        "hash": "cfc64b13",
+        "league": "bangladesh-football-league"
+      },
+      "bashundhara-kings": {
+        "slug": "bashundhara-kings",
+        "name": "Bashundhara Kings",
+        "hash": "09f60534",
+        "league": "bangladesh-football-league"
+      },
+      "dhaka-wanderers": {
+        "slug": "dhaka-wanderers",
+        "name": "Dhaka Wanderers Club",
+        "hash": "3fe13d55",
+        "league": "bangladesh-football-league"
+      },
+      "fortis-fc": {
+        "slug": "fortis-fc",
+        "name": "Fortis FC",
+        "hash": "1f3f5ae3",
+        "league": "bangladesh-football-league"
+      },
+      "pwd-sports-club": {
+        "slug": "pwd-sports-club",
+        "name": "PWD Sports Club",
+        "hash": "6a5f4e32",
+        "league": "bangladesh-football-league"
+      },
+      "chattogram-city-fc": {
+        "slug": "chattogram-city-fc",
+        "name": "Chattogram City FC",
+        "hash": "6adb24d1",
+        "league": "bangladesh-football-league"
+      },
+      "city-club-dhaka": {
+        "slug": "city-club-dhaka",
+        "name": "City Club Dhaka",
+        "hash": "8baa7e5d",
+        "league": "bangladesh-football-league"
+      }
+    }
+  }
+}

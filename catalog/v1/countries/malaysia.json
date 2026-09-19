@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "malaysia",
+    "iso2": "MY",
+    "name": "Malaysia",
+    "defaultLeague": "malaysia-national-team",
+    "leagues": {
+      "malaysia-national-team": {
+        "slug": "malaysia-national-team",
+        "name": "Malaysia National Team",
+        "hash": "7023587f",
+        "kind": "league",
+        "code": "MY"
+      }
+    },
+    "clubs": {
+      "dpmm-fc": {
+        "slug": "dpmm-fc",
+        "name": "DPMM FC",
+        "hash": "6ede0521",
+        "league": ""
+      },
+      "imigresen-fc": {
+        "slug": "imigresen-fc",
+        "name": "Imigresen FC",
+        "hash": "a448ff7b",
+        "league": ""
+      },
+      "johor-darul-tazim": {
+        "slug": "johor-darul-tazim",
+        "name": "Johor Darul Ta&#39;zim",
+        "hash": "6930484d",
+        "league": ""
+      },
+      "kelantan-the-real-warriors-fc": {
+        "slug": "kelantan-the-real-warriors-fc",
+        "name": "Kelantan The Real Warriors FC",
+        "hash": "39cb267f",
+        "league": ""
+      },
+      "kuala-lumpur-city-fc": {
+        "slug": "kuala-lumpur-city-fc",
+        "name": "Kuala Lumpur City FC",
+        "hash": "f722db71",
+        "league": ""
+      },
+      "kuching-city-fc": {
+        "slug": "kuching-city-fc",
+        "name": "Kuching City FC",
+        "hash": "b9a1dbf5",
+        "league": ""
+      },
+      "negeri-sembilan-fc": {
+        "slug": "negeri-sembilan-fc",
+        "name": "Negeri Sembilan FC",
+        "hash": "4917efe3",
+        "league": ""
+      },
+      "penang-fc": {
+        "slug": "penang-fc",
+        "name": "Penang FC",
+        "hash": "57f1dd65",
+        "league": ""
+      },
+      "selangor-fc": {
+        "slug": "selangor-fc",
+        "name": "Selangor FC",
+        "hash": "245bc5c3",
+        "league": ""
+      },
+      "terengganu-fc": {
+        "slug": "terengganu-fc",
+        "name": "Terengganu FC",
+        "hash": "fe57f6ec",
+        "league": ""
+      }
+    }
+  }
+}

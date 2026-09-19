@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "iran",
+    "iso2": "IR",
+    "name": "Iran",
+    "defaultLeague": "persian-gulf-pro-league",
+    "leagues": {
+      "iran-national-team": {
+        "slug": "iran-national-team",
+        "name": "Iran National Team",
+        "hash": "fc7f0f0e",
+        "kind": "league"
+      },
+      "persian-gulf-pro-league": {
+        "slug": "persian-gulf-pro-league",
+        "name": "Persian Gulf Pro League",
+        "hash": "4828a5be",
+        "kind": "league",
+        "code": "IR"
+      }
+    },
+    "clubs": {
+      "esteghlal": {
+        "slug": "esteghlal",
+        "name": "Esteghlal",
+        "hash": "76226962",
+        "league": ""
+      },
+      "sepahan": {
+        "slug": "sepahan",
+        "name": "Sepahan",
+        "hash": "4236818f",
+        "league": ""
+      },
+      "tractor": {
+        "slug": "tractor",
+        "name": "Tractor",
+        "hash": "6b2ff668",
+        "league": ""
+      },
+      "gol-gohar": {
+        "slug": "gol-gohar",
+        "name": "Gol Gohar",
+        "hash": "c6984682",
+        "league": ""
+      },
+      "persepolis": {
+        "slug": "persepolis",
+        "name": "Persepolis",
+        "hash": "fc08e4d2",
+        "league": ""
+      },
+      "chadormalu-ardakan": {
+        "slug": "chadormalu-ardakan",
+        "name": "Chadormalu Ardakan",
+        "hash": "cb627ed0",
+        "league": ""
+      },
+      "fajr-sepasi": {
+        "slug": "fajr-sepasi",
+        "name": "Fajr Sepasi",
+        "hash": "f55af0a0",
+        "league": ""
+      },
+      "kheybar-khorramabad": {
+        "slug": "kheybar-khorramabad",
+        "name": "Kheybar Khorramabad",
+        "hash": "3e73bbe3",
+        "league": ""
+      },
+      "malavan": {
+        "slug": "malavan",
+        "name": "Malavan",
+        "hash": "a223111a",
+        "league": ""
+      },
+      "foolad": {
+        "slug": "foolad",
+        "name": "Foolad",
+        "hash": "78439da8",
+        "league": ""
+      },
+      "esteghlal-khuzestan": {
+        "slug": "esteghlal-khuzestan",
+        "name": "Esteghlal Khuzestan",
+        "hash": "82d138a1",
+        "league": ""
+      },
+      "paykan": {
+        "slug": "paykan",
+        "name": "Paykan",
+        "hash": "1d8a1405",
+        "league": ""
+      },
+      "aluminium-arak": {
+        "slug": "aluminium-arak",
+        "name": "Aluminium Arak",
+        "hash": "63a6402a",
+        "league": ""
+      },
+      "shams-azar": {
+        "slug": "shams-azar",
+        "name": "Shams Azar",
+        "hash": "97c04fde",
+        "league": ""
+      },
+      "zob-ahan": {
+        "slug": "zob-ahan",
+        "name": "Zob Ahan",
+        "hash": "5a2b29e0",
+        "league": ""
+      },
+      "mes-rafsanjan": {
+        "slug": "mes-rafsanjan",
+        "name": "Mes Rafsanjan",
+        "hash": "c1635af1",
+        "league": ""
+      }
+    }
+  }
+}

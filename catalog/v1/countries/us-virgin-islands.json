@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "us-virgin-islands",
+    "iso2": "VI",
+    "name": "U.S. Virgin Islands",
+    "defaultLeague": "us-virgin-islands-national-team",
+    "leagues": {
+      "us-virgin-islands-national-team": {
+        "slug": "us-virgin-islands-national-team",
+        "name": "U.S. Virgin Islands National Team",
+        "hash": "4ced882e",
+        "kind": "league",
+        "code": "VI"
+      }
+    },
+    "clubs": {}
+  }
+}

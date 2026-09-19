@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "kuwait",
+    "iso2": "KW",
+    "name": "Kuwait",
+    "defaultLeague": "kuwait-national-team",
+    "leagues": {
+      "kuwait-national-team": {
+        "slug": "kuwait-national-team",
+        "name": "Kuwait National Team",
+        "hash": "86deab91",
+        "kind": "league",
+        "code": "KW"
+      }
+    },
+    "clubs": {}
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "oman",
+    "iso2": "OM",
+    "name": "Oman",
+    "defaultLeague": "oman-national-team",
+    "leagues": {
+      "oman-national-team": {
+        "slug": "oman-national-team",
+        "name": "Oman National Team",
+        "hash": "2f50c5ad",
+        "kind": "league",
+        "code": "OM"
+      }
+    },
+    "clubs": {}
+  }
+}

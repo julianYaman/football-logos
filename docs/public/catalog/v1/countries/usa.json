@@ -1,0 +1,597 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "usa",
+    "iso2": "US",
+    "name": "United States",
+    "defaultLeague": "mls",
+    "leagues": {
+      "mls": {
+        "slug": "mls",
+        "name": "MLS - Major League Soccer",
+        "hash": "389fae67",
+        "kind": "league",
+        "code": "US"
+      },
+      "usl-championship": {
+        "slug": "usl-championship",
+        "name": "USL Championship",
+        "hash": "d0b4a189",
+        "kind": "league"
+      },
+      "usl-league-one": {
+        "slug": "usl-league-one",
+        "name": "USL League One",
+        "hash": "13082d2f",
+        "kind": "league"
+      },
+      "nwsl": {
+        "slug": "nwsl",
+        "name": "National Women's Soccer League",
+        "hash": "9e008d97",
+        "kind": "league"
+      },
+      "usa-national-team": {
+        "slug": "usa-national-team",
+        "name": "USA National Team",
+        "hash": "6a84d485",
+        "kind": "league"
+      },
+      "us-open-cup": {
+        "slug": "us-open-cup",
+        "name": "U.S. Open Cup",
+        "hash": "88b0978c",
+        "kind": "league"
+      },
+      "usl-super-league": {
+        "slug": "usl-super-league",
+        "name": "USL Super League",
+        "hash": "fd35ea33",
+        "kind": "league"
+      },
+      "mls-cup": {
+        "slug": "mls-cup",
+        "name": "MLS Cup",
+        "hash": "7c9b0552",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "atlanta-united": {
+        "slug": "atlanta-united",
+        "name": "Atlanta United",
+        "hash": "38b01e72",
+        "league": "mls"
+      },
+      "austins-fc": {
+        "slug": "austins-fc",
+        "name": "Austin FC",
+        "hash": "0068b1f8",
+        "league": "mls"
+      },
+      "charlotte-fc": {
+        "slug": "charlotte-fc",
+        "name": "Charlotte FC",
+        "hash": "08fb5295",
+        "league": "mls"
+      },
+      "chicago-fire-fc": {
+        "slug": "chicago-fire-fc",
+        "name": "Chicago Fire FC",
+        "hash": "b8147c78",
+        "league": "mls"
+      },
+      "fc-cincinnati": {
+        "slug": "fc-cincinnati",
+        "name": "FC Cincinnati",
+        "hash": "77e97594",
+        "league": "mls"
+      },
+      "cf-montreal": {
+        "slug": "cf-montreal",
+        "name": "CF Montréal",
+        "hash": "eae64e32",
+        "league": "mls"
+      },
+      "colorado-rapids": {
+        "slug": "colorado-rapids",
+        "name": "Colorado Rapids",
+        "hash": "bbd70da2",
+        "league": "mls"
+      },
+      "columbus-crew": {
+        "slug": "columbus-crew",
+        "name": "Columbus Crew",
+        "hash": "96ba8a6f",
+        "league": "mls"
+      },
+      "dc-united": {
+        "slug": "dc-united",
+        "name": "DC United",
+        "hash": "66d8b347",
+        "league": "mls"
+      },
+      "fc-dallas": {
+        "slug": "fc-dallas",
+        "name": "FC Dallas",
+        "hash": "04bdf6de",
+        "league": "mls"
+      },
+      "houston-dynamo": {
+        "slug": "houston-dynamo",
+        "name": "Houston Dynamo FC",
+        "hash": "d83f7da8",
+        "league": "mls"
+      },
+      "sporting-kansas-city": {
+        "slug": "sporting-kansas-city",
+        "name": "Sporting Kansas City",
+        "hash": "0cf0bcfd",
+        "league": "mls"
+      },
+      "la-galaxy": {
+        "slug": "la-galaxy",
+        "name": "Los Angeles Galaxy",
+        "hash": "9de2c882",
+        "league": "mls"
+      },
+      "los-angeles-fc": {
+        "slug": "los-angeles-fc",
+        "name": "Los Angeles Football Club",
+        "hash": "58183d43",
+        "league": "mls"
+      },
+      "inter-miami-cf": {
+        "slug": "inter-miami-cf",
+        "name": "Inter Miami CF",
+        "hash": "a3f76de3",
+        "league": "mls"
+      },
+      "minnesota-united-fc": {
+        "slug": "minnesota-united-fc",
+        "name": "Minnesota United FC",
+        "hash": "898e57ea",
+        "league": "mls"
+      },
+      "nashville-sc": {
+        "slug": "nashville-sc",
+        "name": "Nashville SC",
+        "hash": "12de8742",
+        "league": "mls"
+      },
+      "new-england-revolution": {
+        "slug": "new-england-revolution",
+        "name": "New England Revolution",
+        "hash": "e4ca7924",
+        "league": "mls"
+      },
+      "new-york-red-bulls": {
+        "slug": "new-york-red-bulls",
+        "name": "New York Red Bulls",
+        "hash": "755ecb1b",
+        "league": "mls"
+      },
+      "new-york-city-fc": {
+        "slug": "new-york-city-fc",
+        "name": "New York City Football Club",
+        "hash": "4c764572",
+        "league": "mls"
+      },
+      "orlando-city": {
+        "slug": "orlando-city",
+        "name": "Orlando City",
+        "hash": "fab6258a",
+        "league": "mls"
+      },
+      "philadelphia-union": {
+        "slug": "philadelphia-union",
+        "name": "Philadelphia Union",
+        "hash": "8efc6825",
+        "league": "mls"
+      },
+      "portland-timbers": {
+        "slug": "portland-timbers",
+        "name": "Portland Timbers",
+        "hash": "b4d71f64",
+        "league": "mls"
+      },
+      "real-salt-lake": {
+        "slug": "real-salt-lake",
+        "name": "Real Salt Lake",
+        "hash": "06e4cbcc",
+        "league": "mls"
+      },
+      "san-diego-fc": {
+        "slug": "san-diego-fc",
+        "name": "San Diego Football Club",
+        "hash": "7d70d736",
+        "league": "mls"
+      },
+      "san-jose-earthquakes": {
+        "slug": "san-jose-earthquakes",
+        "name": "San Jose Earthquakes",
+        "hash": "481388a7",
+        "league": "mls"
+      },
+      "seattle-sounders-fc": {
+        "slug": "seattle-sounders-fc",
+        "name": "Seattle Sounders FC",
+        "hash": "2caa9511",
+        "league": "mls"
+      },
+      "st-louis-city-sc": {
+        "slug": "st-louis-city-sc",
+        "name": "St. Louis CITY SC",
+        "hash": "67e9f585",
+        "league": "mls"
+      },
+      "toronto-fc": {
+        "slug": "toronto-fc",
+        "name": "Toronto FC",
+        "hash": "db548c91",
+        "league": "mls"
+      },
+      "vancouver-whitecaps-fc": {
+        "slug": "vancouver-whitecaps-fc",
+        "name": "Vancouver Whitecaps FC",
+        "hash": "49fe2bdd",
+        "league": "mls"
+      },
+      "birmingham-legion-fc": {
+        "slug": "birmingham-legion-fc",
+        "name": "Birmingham Legion FC",
+        "hash": "5f7528af",
+        "league": "usl-championship"
+      },
+      "charleston-battery": {
+        "slug": "charleston-battery",
+        "name": "Charleston Battery",
+        "hash": "4151f83d",
+        "league": "usl-championship"
+      },
+      "fc-tulsa": {
+        "slug": "fc-tulsa",
+        "name": "FC Tulsa",
+        "hash": "411eac75",
+        "league": "usl-championship"
+      },
+      "colorado-springs-switchbacks-fc": {
+        "slug": "colorado-springs-switchbacks-fc",
+        "name": "Colorado Springs Switchbacks FC",
+        "hash": "604a9e1d",
+        "league": "usl-championship"
+      },
+      "detroit-city-fc": {
+        "slug": "detroit-city-fc",
+        "name": "Detroit City FC",
+        "hash": "200ced8c",
+        "league": "usl-championship"
+      },
+      "el-paso-locomotive-fc": {
+        "slug": "el-paso-locomotive-fc",
+        "name": "El Paso Locomotive FC",
+        "hash": "fab99292",
+        "league": "usl-championship"
+      },
+      "hartford-athletic": {
+        "slug": "hartford-athletic",
+        "name": "Hartford Athletic",
+        "hash": "336b2c20",
+        "league": "usl-championship"
+      },
+      "las-vegas-lights-fc": {
+        "slug": "las-vegas-lights-fc",
+        "name": "Las Vegas Lights FC",
+        "hash": "ddebd213",
+        "league": "usl-championship"
+      },
+      "lexington-sc": {
+        "slug": "lexington-sc",
+        "name": "Lexington SC",
+        "hash": "2b7d06dc",
+        "league": "usl-championship"
+      },
+      "loudoun-united-fc": {
+        "slug": "loudoun-united-fc",
+        "name": "Loudoun United FC",
+        "hash": "6796b4fc",
+        "league": "usl-championship"
+      },
+      "louisville-city-fc": {
+        "slug": "louisville-city-fc",
+        "name": "Louisville City FC",
+        "hash": "0f3af73a",
+        "league": "usl-championship"
+      },
+      "indy-eleven": {
+        "slug": "indy-eleven",
+        "name": "Indy Eleven",
+        "hash": "8afab35b",
+        "league": "usl-championship"
+      },
+      "miami-fc": {
+        "slug": "miami-fc",
+        "name": "Miami FC",
+        "hash": "44086487",
+        "league": "usl-championship"
+      },
+      "monterey-bay-fc": {
+        "slug": "monterey-bay-fc",
+        "name": "Monterey Bay FC",
+        "hash": "8c219b7a",
+        "league": "usl-championship"
+      },
+      "new-mexico-united": {
+        "slug": "new-mexico-united",
+        "name": "New Mexico United",
+        "hash": "306dc6cd",
+        "league": "usl-championship"
+      },
+      "oakland-roots-sc": {
+        "slug": "oakland-roots-sc",
+        "name": "Oakland Roots SC",
+        "hash": "6fe716f5",
+        "league": "usl-championship"
+      },
+      "orange-county-sc": {
+        "slug": "orange-county-sc",
+        "name": "Orange County SC",
+        "hash": "67a14fb3",
+        "league": "usl-championship"
+      },
+      "phoenix-rising-fc": {
+        "slug": "phoenix-rising-fc",
+        "name": "Phoenix Rising FC",
+        "hash": "6ced3c58",
+        "league": "usl-championship"
+      },
+      "pittsburgh-riverhounds-sc": {
+        "slug": "pittsburgh-riverhounds-sc",
+        "name": "Pittsburgh Riverhounds SC",
+        "hash": "42ec6163",
+        "league": "usl-championship"
+      },
+      "sacramento-republic-fc": {
+        "slug": "sacramento-republic-fc",
+        "name": "Sacramento Republic FC",
+        "hash": "ce2f2599",
+        "league": "usl-championship"
+      },
+      "san-antonio-fc": {
+        "slug": "san-antonio-fc",
+        "name": "San Antonio FC",
+        "hash": "0be6eee4",
+        "league": "usl-championship"
+      },
+      "brooklyn": {
+        "slug": "brooklyn",
+        "name": "Brooklyn FC",
+        "hash": "081b951e",
+        "league": "usl-championship"
+      },
+      "tampa-bay-rowdies": {
+        "slug": "tampa-bay-rowdies",
+        "name": "Tampa Bay Rowdies",
+        "hash": "3870cea4",
+        "league": "usl-championship"
+      },
+      "rhode-island": {
+        "slug": "rhode-island",
+        "name": "Rhode Island FC",
+        "hash": "5e9292c4",
+        "league": "usl-championship"
+      },
+      "sporting-jax": {
+        "slug": "sporting-jax",
+        "name": "Sporting JAX",
+        "hash": "b6bcadcd",
+        "league": "usl-championship"
+      },
+      "union-omaha": {
+        "slug": "union-omaha",
+        "name": "Union Omaha",
+        "hash": "21a80b08",
+        "league": "usl-league-one"
+      },
+      "one-knoxville": {
+        "slug": "one-knoxville",
+        "name": "One Knoxville SC",
+        "hash": "37dce7b2",
+        "league": "usl-league-one"
+      },
+      "charlotte-independence": {
+        "slug": "charlotte-independence",
+        "name": "Charlotte Independence",
+        "hash": "aa611f59",
+        "league": "usl-league-one"
+      },
+      "av-alta": {
+        "slug": "av-alta",
+        "name": "AV ALTA FC",
+        "hash": "7e389d2c",
+        "league": "usl-league-one"
+      },
+      "athletic-club-boise": {
+        "slug": "athletic-club-boise",
+        "name": "Athletic Club Boise",
+        "hash": "21b36faa",
+        "league": "usl-league-one"
+      },
+      "fort-wayne": {
+        "slug": "fort-wayne",
+        "name": "Fort Wayne FC",
+        "hash": "b830af1a",
+        "league": "usl-league-one"
+      },
+      "forward-madison": {
+        "slug": "forward-madison",
+        "name": "Forward Madison FC",
+        "hash": "76dd2eac",
+        "league": "usl-league-one"
+      },
+      "spokane-velocity": {
+        "slug": "spokane-velocity",
+        "name": "Spokane Velocity FC",
+        "hash": "3827e2c7",
+        "league": "usl-league-one"
+      },
+      "fc-naples": {
+        "slug": "fc-naples",
+        "name": "FC Naples",
+        "hash": "9dd0532c",
+        "league": "usl-league-one"
+      },
+      "chattanooga-red-wolves": {
+        "slug": "chattanooga-red-wolves",
+        "name": "Chattanooga Red Wolves SC",
+        "hash": "f19ff5d8",
+        "league": "usl-league-one"
+      },
+      "sarasota-paradise": {
+        "slug": "sarasota-paradise",
+        "name": "Sarasota Paradise",
+        "hash": "afdce92d",
+        "league": "usl-league-one"
+      },
+      "westchester": {
+        "slug": "westchester",
+        "name": "Westchester SC",
+        "hash": "08c4813b",
+        "league": "usl-league-one"
+      },
+      "portland-hearts-of-pine": {
+        "slug": "portland-hearts-of-pine",
+        "name": "Portland Hearts of Pine",
+        "hash": "ee0b54d0",
+        "league": "usl-league-one"
+      },
+      "corpus-christi": {
+        "slug": "corpus-christi",
+        "name": "Corpus Christi FC",
+        "hash": "6c3fb381",
+        "league": "usl-league-one"
+      },
+      "richmond-kickers": {
+        "slug": "richmond-kickers",
+        "name": "Richmond Kickers",
+        "hash": "9e3223f3",
+        "league": "usl-league-one"
+      },
+      "greenville-triumph": {
+        "slug": "greenville-triumph",
+        "name": "Greenville Triumph SC",
+        "hash": "90402680",
+        "league": "usl-league-one"
+      },
+      "new-york-cosmos": {
+        "slug": "new-york-cosmos",
+        "name": "New York Cosmos",
+        "hash": "fa95c445",
+        "league": "usl-league-one"
+      },
+      "angel-city-fc": {
+        "slug": "angel-city-fc",
+        "name": "Angel City FC",
+        "hash": "940eae58",
+        "league": "nwsl"
+      },
+      "bay-fc": {
+        "slug": "bay-fc",
+        "name": "Bay FC",
+        "hash": "b6224a87",
+        "league": "nwsl"
+      },
+      "boston-legacy-fc": {
+        "slug": "boston-legacy-fc",
+        "name": "Boston Legacy FC",
+        "hash": "6e858030",
+        "league": "nwsl"
+      },
+      "chicago-stars-fc": {
+        "slug": "chicago-stars-fc",
+        "name": "Chicago Stars FC",
+        "hash": "e5cdcfc3",
+        "league": "nwsl"
+      },
+      "denver-summit-fc": {
+        "slug": "denver-summit-fc",
+        "name": "Denver Summit FC",
+        "hash": "bf7ccc5a",
+        "league": "nwsl"
+      },
+      "houston-dash": {
+        "slug": "houston-dash",
+        "name": "Houston Dash",
+        "hash": "946de789",
+        "league": "nwsl"
+      },
+      "kansas-city-current": {
+        "slug": "kansas-city-current",
+        "name": "Kansas City Current",
+        "hash": "3bf0711b",
+        "league": "nwsl"
+      },
+      "gotham-fc": {
+        "slug": "gotham-fc",
+        "name": "NJ/NY Gotham FC",
+        "hash": "7a46f97f",
+        "league": "nwsl"
+      },
+      "north-carolina-courage": {
+        "slug": "north-carolina-courage",
+        "name": "North Carolina Courage",
+        "hash": "ed0fecfe",
+        "league": "nwsl"
+      },
+      "orlando-pride": {
+        "slug": "orlando-pride",
+        "name": "Orlando Pride",
+        "hash": "9d1875d2",
+        "league": "nwsl"
+      },
+      "portland-thorns-fc": {
+        "slug": "portland-thorns-fc",
+        "name": "Portland Thorns FC",
+        "hash": "05933490",
+        "league": "nwsl"
+      },
+      "racing-louisville-fc": {
+        "slug": "racing-louisville-fc",
+        "name": "Racing Louisville FC",
+        "hash": "30454154",
+        "league": "nwsl"
+      },
+      "san-diego-wave-fc": {
+        "slug": "san-diego-wave-fc",
+        "name": "San Diego Wave FC",
+        "hash": "0e0e3da3",
+        "league": "nwsl"
+      },
+      "seattle-reign-fc": {
+        "slug": "seattle-reign-fc",
+        "name": "Seattle Reign FC",
+        "hash": "d20a02a5",
+        "league": "nwsl"
+      },
+      "utah-royals-fc": {
+        "slug": "utah-royals-fc",
+        "name": "Utah Royals FC",
+        "hash": "b4d023e5",
+        "league": "nwsl"
+      },
+      "washington-spirit": {
+        "slug": "washington-spirit",
+        "name": "Washington Spirit",
+        "hash": "c5e2ac23",
+        "league": "nwsl"
+      },
+      "north-carolina-fc": {
+        "slug": "north-carolina-fc",
+        "name": "North Carolina FC",
+        "hash": "6f5e3185",
+        "league": ""
+      }
+    }
+  }
+}

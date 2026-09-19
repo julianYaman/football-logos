@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "botswana",
+    "iso2": "BW",
+    "name": "Botswana",
+    "defaultLeague": "botswana-national-team",
+    "leagues": {
+      "botswana-national-team": {
+        "slug": "botswana-national-team",
+        "name": "Botswana National Team",
+        "hash": "97d52ff2",
+        "kind": "league",
+        "code": "BW"
+      }
+    },
+    "clubs": {}
+  }
+}

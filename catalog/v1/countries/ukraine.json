@@ -1,0 +1,243 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "ukraine",
+    "iso2": "UA",
+    "name": "Ukraine",
+    "defaultLeague": "ukrainian-premier-league",
+    "leagues": {
+      "ukrainian-premier-league": {
+        "slug": "ukrainian-premier-league",
+        "name": "Ukrainian Premier League",
+        "hash": "eeab3831",
+        "kind": "league",
+        "code": "UA"
+      },
+      "persha-liga": {
+        "slug": "persha-liga",
+        "name": "Persha Liga",
+        "hash": "6a63a70f",
+        "kind": "league"
+      },
+      "ukraine-national-team": {
+        "slug": "ukraine-national-team",
+        "name": "Ukraine National Team",
+        "hash": "efc25066",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "dynamo-kyiv": {
+        "slug": "dynamo-kyiv",
+        "name": "Dynamo Kyiv",
+        "hash": "8f49bacf",
+        "league": "ukrainian-premier-league"
+      },
+      "shakhtar": {
+        "slug": "shakhtar",
+        "name": "Shakhtar",
+        "hash": "3256524a",
+        "league": "ukrainian-premier-league"
+      },
+      "karpaty": {
+        "slug": "karpaty",
+        "name": "Karpaty",
+        "hash": "1085a95e",
+        "league": "ukrainian-premier-league"
+      },
+      "veres": {
+        "slug": "veres",
+        "name": "Veres",
+        "hash": "5bb4f3ea",
+        "league": "ukrainian-premier-league"
+      },
+      "lnz-cherkasy": {
+        "slug": "lnz-cherkasy",
+        "name": "LNZ Cherkasy",
+        "hash": "773805fe",
+        "league": "ukrainian-premier-league"
+      },
+      "polissya": {
+        "slug": "polissya",
+        "name": "Polissya Zhytomyr",
+        "hash": "c2856ee6",
+        "league": "ukrainian-premier-league"
+      },
+      "kolos-kovalivka": {
+        "slug": "kolos-kovalivka",
+        "name": "Kolos Kovalivka",
+        "hash": "43a7efd8",
+        "league": "ukrainian-premier-league"
+      },
+      "kudrivka": {
+        "slug": "kudrivka",
+        "name": "Kudrivka",
+        "hash": "397cb05e",
+        "league": "ukrainian-premier-league"
+      },
+      "epitsentr": {
+        "slug": "epitsentr",
+        "name": "Epitsentr",
+        "hash": "859f0db3",
+        "league": "ukrainian-premier-league"
+      },
+      "zorya-luhansk": {
+        "slug": "zorya-luhansk",
+        "name": "Zorya Luhansk",
+        "hash": "fa015a9e",
+        "league": "ukrainian-premier-league"
+      },
+      "kryvbas": {
+        "slug": "kryvbas",
+        "name": "Kryvbas",
+        "hash": "c9c2705e",
+        "league": "ukrainian-premier-league"
+      },
+      "obolon": {
+        "slug": "obolon",
+        "name": "Obolon",
+        "hash": "e8b00c4b",
+        "league": "ukrainian-premier-league"
+      },
+      "bukovyna": {
+        "slug": "bukovyna",
+        "name": "Bukovyna Chernivtsi",
+        "hash": "52c4cbef",
+        "league": "ukrainian-premier-league"
+      },
+      "chornomorets": {
+        "slug": "chornomorets",
+        "name": "Chornomorets Odesa",
+        "hash": "b12ad057",
+        "league": "ukrainian-premier-league"
+      },
+      "livyi-bereh": {
+        "slug": "livyi-bereh",
+        "name": "Livyi Bereh",
+        "hash": "80620c2e",
+        "league": "ukrainian-premier-league"
+      },
+      "fc-kharkiv": {
+        "slug": "fc-kharkiv",
+        "name": "FC Kharkiv",
+        "hash": "8ec60e86",
+        "league": "ukrainian-premier-league"
+      },
+      "inhulets-petrove": {
+        "slug": "inhulets-petrove",
+        "name": "Inhulets Petrove",
+        "hash": "77f7b1ea",
+        "league": "persha-liga"
+      },
+      "metalist": {
+        "slug": "metalist",
+        "name": "Metalist",
+        "hash": "28345fb6",
+        "league": "persha-liga"
+      },
+      "vorskla-poltava": {
+        "slug": "vorskla-poltava",
+        "name": "Vorskla Poltava",
+        "hash": "eeb2f2f1",
+        "league": "persha-liga"
+      },
+      "ahrobiznes": {
+        "slug": "ahrobiznes",
+        "name": "Ahrobiznes Volochysk",
+        "hash": "be5d9d77",
+        "league": "persha-liga"
+      },
+      "ucsa": {
+        "slug": "ucsa",
+        "name": "UCSA Tarasivka",
+        "hash": "0920c245",
+        "league": "persha-liga"
+      },
+      "viktoriya": {
+        "slug": "viktoriya",
+        "name": "Viktoriya Sumy",
+        "hash": "f25d0f73",
+        "league": "persha-liga"
+      },
+      "nyva": {
+        "slug": "nyva",
+        "name": "Nyva Ternopil",
+        "hash": "e5447773",
+        "league": "persha-liga"
+      },
+      "fenix-mariupol": {
+        "slug": "fenix-mariupol",
+        "name": "Fenix Mariupol",
+        "hash": "ad99cac2",
+        "league": "persha-liga"
+      },
+      "podillya-khmelnytskyi": {
+        "slug": "podillya-khmelnytskyi",
+        "name": "Podillya Khmelnytskyi",
+        "hash": "fadbf753",
+        "league": "persha-liga"
+      },
+      "metalurh-zaporizhzhia": {
+        "slug": "metalurh-zaporizhzhia",
+        "name": "Metalurh Zaporizhzhia",
+        "hash": "b65f51a3",
+        "league": "persha-liga"
+      },
+      "prykarpattia-blaho": {
+        "slug": "prykarpattia-blaho",
+        "name": "Prykarpattia-Blaho",
+        "hash": "874dc4e3",
+        "league": "persha-liga"
+      },
+      "probiy": {
+        "slug": "probiy",
+        "name": "Probiy Horodenka",
+        "hash": "8e93357f",
+        "league": "persha-liga"
+      },
+      "fc-chernihiv": {
+        "slug": "fc-chernihiv",
+        "name": "FC Chernihiv",
+        "hash": "bbc4092a",
+        "league": "persha-liga"
+      },
+      "dnipro": {
+        "slug": "dnipro",
+        "name": "Dnipro",
+        "hash": "47c01c85",
+        "league": ""
+      },
+      "fc-metalist-1925-kharkiv": {
+        "slug": "fc-metalist-1925-kharkiv",
+        "name": "FC Metalist 1925 Kharkiv",
+        "hash": "a82652f8",
+        "league": ""
+      },
+      "olexandriya": {
+        "slug": "olexandriya",
+        "name": "Olexandriya",
+        "hash": "6b0c519d",
+        "league": ""
+      },
+      "rukh-lviv": {
+        "slug": "rukh-lviv",
+        "name": "Rukh Lviv",
+        "hash": "60788cf7",
+        "league": ""
+      },
+      "sk-poltava": {
+        "slug": "sk-poltava",
+        "name": "SK Poltava",
+        "hash": "1cf55800",
+        "league": ""
+      },
+      "minaj": {
+        "slug": "minaj",
+        "name": "Minaj",
+        "hash": "7a186e97",
+        "league": ""
+      }
+    }
+  }
+}

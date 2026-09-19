@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "tajikistan",
+    "iso2": "TJ",
+    "name": "Tajikistan",
+    "defaultLeague": "tajikistan-national-team",
+    "leagues": {
+      "tajikistan-national-team": {
+        "slug": "tajikistan-national-team",
+        "name": "Tajikistan National Team",
+        "hash": "6a9a84db",
+        "kind": "league",
+        "code": "TJ"
+      }
+    },
+    "clubs": {}
+  }
+}

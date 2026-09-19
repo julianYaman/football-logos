@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "timor-leste",
+    "iso2": "TL",
+    "name": "Timor-Leste",
+    "defaultLeague": "timor-leste-national-team",
+    "leagues": {
+      "timor-leste-national-team": {
+        "slug": "timor-leste-national-team",
+        "name": "Timor-Leste National Team",
+        "hash": "9f3a2055",
+        "kind": "league",
+        "code": "TL"
+      }
+    },
+    "clubs": {}
+  }
+}

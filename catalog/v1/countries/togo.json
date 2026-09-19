@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "togo",
+    "iso2": "TG",
+    "name": "Togo",
+    "defaultLeague": "togo-national-team",
+    "leagues": {
+      "togo-national-team": {
+        "slug": "togo-national-team",
+        "name": "Togo National Team",
+        "hash": "63128923",
+        "kind": "league",
+        "code": "TG"
+      }
+    },
+    "clubs": {}
+  }
+}

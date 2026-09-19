@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "martinique",
+    "iso2": "MQ",
+    "name": "Martinique",
+    "defaultLeague": "martinique-national-team",
+    "leagues": {
+      "martinique-national-team": {
+        "slug": "martinique-national-team",
+        "name": "Martinique National Team",
+        "hash": "c5690114",
+        "kind": "league",
+        "code": "MQ"
+      }
+    },
+    "clubs": {}
+  }
+}

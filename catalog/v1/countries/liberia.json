@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "liberia",
+    "iso2": "LR",
+    "name": "Liberia",
+    "defaultLeague": "liberia-national-team",
+    "leagues": {
+      "liberia-national-team": {
+        "slug": "liberia-national-team",
+        "name": "Liberia National Team",
+        "hash": "7d1c2cec",
+        "kind": "league",
+        "code": "LR"
+      }
+    },
+    "clubs": {}
+  }
+}

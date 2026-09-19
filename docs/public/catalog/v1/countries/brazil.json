@@ -1,0 +1,1209 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "brazil",
+    "iso2": "BR",
+    "name": "Brazil",
+    "defaultLeague": "brazilian-serie-a",
+    "leagues": {
+      "brazilian-serie-a": {
+        "slug": "brazilian-serie-a",
+        "name": "Brazilian Serie A",
+        "hash": "f7cd00c8",
+        "kind": "league",
+        "code": "BR"
+      },
+      "brazilian-serie-b": {
+        "slug": "brazilian-serie-b",
+        "name": "Brazilian Serie B",
+        "hash": "a0ac6514",
+        "kind": "league"
+      },
+      "brazilian-serie-c": {
+        "slug": "brazilian-serie-c",
+        "name": "Brazilian Serie C",
+        "hash": "76235b53",
+        "kind": "league"
+      },
+      "brazilian-serie-d": {
+        "slug": "brazilian-serie-d",
+        "name": "Brazilian Serie D",
+        "hash": "a8df073f",
+        "kind": "league"
+      },
+      "brazil-national-team": {
+        "slug": "brazil-national-team",
+        "name": "Brazil National Team",
+        "hash": "004213f2",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "athletico-paranaense": {
+        "slug": "athletico-paranaense",
+        "name": "Athletico Paranaense",
+        "hash": "70f7d27b",
+        "league": "brazilian-serie-a"
+      },
+      "atletico-mineiro": {
+        "slug": "atletico-mineiro",
+        "name": "Atlético Mineiro",
+        "hash": "da10887f",
+        "league": "brazilian-serie-a"
+      },
+      "bahia": {
+        "slug": "bahia",
+        "name": "Bahia",
+        "hash": "c8e25c26",
+        "league": "brazilian-serie-a"
+      },
+      "clube-do-remo": {
+        "slug": "clube-do-remo",
+        "name": "Clube do Remo",
+        "hash": "cdcb5e8e",
+        "league": "brazilian-serie-a"
+      },
+      "botafogo": {
+        "slug": "botafogo",
+        "name": "Botafogo FR",
+        "hash": "8e46676a",
+        "league": "brazilian-serie-a"
+      },
+      "chapecoense": {
+        "slug": "chapecoense",
+        "name": "Chapecoense",
+        "hash": "d48c11b9",
+        "league": "brazilian-serie-a"
+      },
+      "corinthians": {
+        "slug": "corinthians",
+        "name": "Corinthians",
+        "hash": "c5a2d838",
+        "league": "brazilian-serie-a"
+      },
+      "coritiba": {
+        "slug": "coritiba",
+        "name": "Coritiba",
+        "hash": "2ee6cc01",
+        "league": "brazilian-serie-a"
+      },
+      "cruzeiro": {
+        "slug": "cruzeiro",
+        "name": "Cruzeiro",
+        "hash": "553140bb",
+        "league": "brazilian-serie-a"
+      },
+      "flamengo": {
+        "slug": "flamengo",
+        "name": "Flamengo",
+        "hash": "0ec2cd2d",
+        "league": "brazilian-serie-a"
+      },
+      "fluminense": {
+        "slug": "fluminense",
+        "name": "Fluminense",
+        "hash": "7b0d1eec",
+        "league": "brazilian-serie-a"
+      },
+      "gremio": {
+        "slug": "gremio",
+        "name": "Grêmio",
+        "hash": "4ad82819",
+        "league": "brazilian-serie-a"
+      },
+      "internacional": {
+        "slug": "internacional",
+        "name": "Internacional",
+        "hash": "85266e54",
+        "league": "brazilian-serie-a"
+      },
+      "mirassol": {
+        "slug": "mirassol",
+        "name": "Mirassol",
+        "hash": "2e37e77a",
+        "league": "brazilian-serie-a"
+      },
+      "palmeiras": {
+        "slug": "palmeiras",
+        "name": "Palmeiras",
+        "hash": "cd04fee3",
+        "league": "brazilian-serie-a"
+      },
+      "rb-bragantino": {
+        "slug": "rb-bragantino",
+        "name": "RB Bragantino",
+        "hash": "4d50223b",
+        "league": "brazilian-serie-a"
+      },
+      "sao-paulo": {
+        "slug": "sao-paulo",
+        "name": "São Paulo",
+        "hash": "7e007a6e",
+        "league": "brazilian-serie-a"
+      },
+      "santos": {
+        "slug": "santos",
+        "name": "Santos FC",
+        "hash": "f310d725",
+        "league": "brazilian-serie-a"
+      },
+      "vasco-da-gama": {
+        "slug": "vasco-da-gama",
+        "name": "Vasco da Gama",
+        "hash": "2d89e86d",
+        "league": "brazilian-serie-a"
+      },
+      "vitoria": {
+        "slug": "vitoria",
+        "name": "Vitória",
+        "hash": "0c401ef5",
+        "league": "brazilian-serie-a"
+      },
+      "america-mineiro": {
+        "slug": "america-mineiro",
+        "name": "América Mineiro",
+        "hash": "b4e8ac47",
+        "league": "brazilian-serie-b"
+      },
+      "athletic": {
+        "slug": "athletic",
+        "name": "Athletic",
+        "hash": "eea54312",
+        "league": "brazilian-serie-b"
+      },
+      "atletico-goianiense": {
+        "slug": "atletico-goianiense",
+        "name": "Atlético Goianiense",
+        "hash": "740b8b46",
+        "league": "brazilian-serie-b"
+      },
+      "avai": {
+        "slug": "avai",
+        "name": "Avai",
+        "hash": "318281b3",
+        "league": "brazilian-serie-b"
+      },
+      "botafogo-sp": {
+        "slug": "botafogo-sp",
+        "name": "Botafogo SP",
+        "hash": "2d410d63",
+        "league": "brazilian-serie-b"
+      },
+      "ceara": {
+        "slug": "ceara",
+        "name": "Ceará",
+        "hash": "a0b85076",
+        "league": "brazilian-serie-b"
+      },
+      "crb": {
+        "slug": "crb",
+        "name": "Clube de Regatas Brasil",
+        "hash": "bbe71d3c",
+        "league": "brazilian-serie-b"
+      },
+      "criciuma": {
+        "slug": "criciuma",
+        "name": "Criciúma",
+        "hash": "10d1303b",
+        "league": "brazilian-serie-b"
+      },
+      "cuiaba": {
+        "slug": "cuiaba",
+        "name": "Cuiabá",
+        "hash": "c92d0c6a",
+        "league": "brazilian-serie-b"
+      },
+      "fortaleza": {
+        "slug": "fortaleza",
+        "name": "Fortaleza",
+        "hash": "a7fb9de2",
+        "league": "brazilian-serie-b"
+      },
+      "goias": {
+        "slug": "goias",
+        "name": "Goiás",
+        "hash": "a0bd4b0b",
+        "league": "brazilian-serie-b"
+      },
+      "londrina": {
+        "slug": "londrina",
+        "name": "Londrina",
+        "hash": "737e215d",
+        "league": "brazilian-serie-b"
+      },
+      "juventude": {
+        "slug": "juventude",
+        "name": "Juventude",
+        "hash": "babee861",
+        "league": "brazilian-serie-b"
+      },
+      "nautico": {
+        "slug": "nautico",
+        "name": "Náutico",
+        "hash": "fe7d5b50",
+        "league": "brazilian-serie-b"
+      },
+      "novorizontino": {
+        "slug": "novorizontino",
+        "name": "Grêmio Novorizontino",
+        "hash": "dfa56741",
+        "league": "brazilian-serie-b"
+      },
+      "operario-ferroviario": {
+        "slug": "operario-ferroviario",
+        "name": "Operário Ferroviário",
+        "hash": "d038432b",
+        "league": "brazilian-serie-b"
+      },
+      "ponte-preta": {
+        "slug": "ponte-preta",
+        "name": "Ponte Preta",
+        "hash": "a461a44c",
+        "league": "brazilian-serie-b"
+      },
+      "sao-bernardo": {
+        "slug": "sao-bernardo",
+        "name": "São Bernardo",
+        "hash": "ecfbbad1",
+        "league": "brazilian-serie-b"
+      },
+      "sport-recife": {
+        "slug": "sport-recife",
+        "name": "Sport Recife",
+        "hash": "0ab1985b",
+        "league": "brazilian-serie-b"
+      },
+      "vila-nova": {
+        "slug": "vila-nova",
+        "name": "Vila Nova",
+        "hash": "1b978247",
+        "league": "brazilian-serie-b"
+      },
+      "amazonas": {
+        "slug": "amazonas",
+        "name": "Amazonas",
+        "hash": "fd1afdde",
+        "league": "brazilian-serie-c"
+      },
+      "ferroviaria": {
+        "slug": "ferroviaria",
+        "name": "Ferroviaria",
+        "hash": "e1524309",
+        "league": "brazilian-serie-c"
+      },
+      "paysandu": {
+        "slug": "paysandu",
+        "name": "Paysandu",
+        "hash": "b580a1df",
+        "league": "brazilian-serie-c"
+      },
+      "volta-redonda": {
+        "slug": "volta-redonda",
+        "name": "Volta Redonda",
+        "hash": "193f02b7",
+        "league": "brazilian-serie-c"
+      },
+      "itabaiana": {
+        "slug": "itabaiana",
+        "name": "Itabaiana",
+        "hash": "870971e3",
+        "league": "brazilian-serie-c"
+      },
+      "anapolis": {
+        "slug": "anapolis",
+        "name": "Anápolis",
+        "hash": "34fc43f5",
+        "league": "brazilian-serie-c"
+      },
+      "barra": {
+        "slug": "barra",
+        "name": "Barra",
+        "hash": "89fab286",
+        "league": "brazilian-serie-c"
+      },
+      "botafogo-pb": {
+        "slug": "botafogo-pb",
+        "name": "Botafogo PB",
+        "hash": "68e6f37f",
+        "league": "brazilian-serie-c"
+      },
+      "brusque": {
+        "slug": "brusque",
+        "name": "Brusque",
+        "hash": "a294cd18",
+        "league": "brazilian-serie-c"
+      },
+      "caxias": {
+        "slug": "caxias",
+        "name": "Caxias",
+        "hash": "238711fb",
+        "league": "brazilian-serie-c"
+      },
+      "confianca": {
+        "slug": "confianca",
+        "name": "Confiança",
+        "hash": "a7baa7a9",
+        "league": "brazilian-serie-c"
+      },
+      "figueirense": {
+        "slug": "figueirense",
+        "name": "Figueirense",
+        "hash": "1bf04240",
+        "league": "brazilian-serie-c"
+      },
+      "floresta": {
+        "slug": "floresta",
+        "name": "Floresta",
+        "hash": "c03ba929",
+        "league": "brazilian-serie-c"
+      },
+      "inter-de-limeira": {
+        "slug": "inter-de-limeira",
+        "name": "Inter de Limeira",
+        "hash": "460433de",
+        "league": "brazilian-serie-c"
+      },
+      "ituano": {
+        "slug": "ituano",
+        "name": "Ituano",
+        "hash": "a862d826",
+        "league": "brazilian-serie-c"
+      },
+      "maranhao": {
+        "slug": "maranhao",
+        "name": "Maranhão",
+        "hash": "2d42d260",
+        "league": "brazilian-serie-c"
+      },
+      "maringa": {
+        "slug": "maringa",
+        "name": "Maringá",
+        "hash": "9baf66b9",
+        "league": "brazilian-serie-c"
+      },
+      "santa-cruz": {
+        "slug": "santa-cruz",
+        "name": "Santa Cruz",
+        "hash": "3b83b4d0",
+        "league": "brazilian-serie-c"
+      },
+      "ypiranga": {
+        "slug": "ypiranga",
+        "name": "Ypiranga",
+        "hash": "db9c0659",
+        "league": "brazilian-serie-c"
+      },
+      "guarani": {
+        "slug": "guarani",
+        "name": "Guarani",
+        "hash": "85fa5b8c",
+        "league": "brazilian-serie-c"
+      },
+      "nacional-am": {
+        "slug": "nacional-am",
+        "name": "Nacional Futebol Clube",
+        "hash": "6325bd8c",
+        "league": "brazilian-serie-d"
+      },
+      "manauara": {
+        "slug": "manauara",
+        "name": "Manauara Esporte Clube",
+        "hash": "03da90a8",
+        "league": "brazilian-serie-d"
+      },
+      "sao-raimundo-rr": {
+        "slug": "sao-raimundo-rr",
+        "name": "São Raimundo-RR",
+        "hash": "bc76ee1b",
+        "league": "brazilian-serie-d"
+      },
+      "manaus": {
+        "slug": "manaus",
+        "name": "Manaus Futebol Clube",
+        "hash": "4053c925",
+        "league": "brazilian-serie-d"
+      },
+      "gremio-atletico-sampaio": {
+        "slug": "gremio-atletico-sampaio",
+        "name": "Grêmio Atlético Sampaio (GAS)",
+        "hash": "982a3fdf",
+        "league": "brazilian-serie-d"
+      },
+      "monte-roraima": {
+        "slug": "monte-roraima",
+        "name": "Monte Roraima",
+        "hash": "ea89cacd",
+        "league": "brazilian-serie-d"
+      },
+      "porto-velho": {
+        "slug": "porto-velho",
+        "name": "Porto Velho Esporte Clube",
+        "hash": "672cc9cb",
+        "league": "brazilian-serie-d"
+      },
+      "araguaina": {
+        "slug": "araguaina",
+        "name": "Araguaína Futebol e Regatas",
+        "hash": "dd4aa7f5",
+        "league": "brazilian-serie-d"
+      },
+      "guapore": {
+        "slug": "guapore",
+        "name": "Guaporé Futebol Clube",
+        "hash": "99a6f80e",
+        "league": "brazilian-serie-d"
+      },
+      "independencia-ac": {
+        "slug": "independencia-ac",
+        "name": "Independência Futebol Clube",
+        "hash": "c816cefe",
+        "league": "brazilian-serie-d"
+      },
+      "galvez": {
+        "slug": "galvez",
+        "name": "Galvez Esporte Clube",
+        "hash": "010151de",
+        "league": "brazilian-serie-d"
+      },
+      "humaita-ac": {
+        "slug": "humaita-ac",
+        "name": "Sport Clube Humaitá",
+        "hash": "853f8bca",
+        "league": "brazilian-serie-d"
+      },
+      "gama": {
+        "slug": "gama",
+        "name": "Sociedade Esportiva do Gama",
+        "hash": "cf4135e5",
+        "league": "brazilian-serie-d"
+      },
+      "luverdense": {
+        "slug": "luverdense",
+        "name": "Luverdense Esporte Clube",
+        "hash": "58ead161",
+        "league": "brazilian-serie-d"
+      },
+      "aparecidense": {
+        "slug": "aparecidense",
+        "name": "Associação Atlética Aparecidense",
+        "hash": "603bcb86",
+        "league": "brazilian-serie-d"
+      },
+      "brasiliense": {
+        "slug": "brasiliense",
+        "name": "Brasiliense Futebol Clube",
+        "hash": "bcfe5d22",
+        "league": "brazilian-serie-d"
+      },
+      "primavera": {
+        "slug": "primavera",
+        "name": "Primavera Atlético Clube",
+        "hash": "7c3eb09c",
+        "league": "brazilian-serie-d"
+      },
+      "inhumas": {
+        "slug": "inhumas",
+        "name": "Inhumas Esporte Clube",
+        "hash": "1331ea49",
+        "league": "brazilian-serie-d"
+      },
+      "capital-cf": {
+        "slug": "capital-cf",
+        "name": "Capital Clube de Futebol",
+        "hash": "e9c3f006",
+        "league": "brazilian-serie-d"
+      },
+      "goiatuba": {
+        "slug": "goiatuba",
+        "name": "Goiatuba Esporte Clube",
+        "hash": "f35f6ac5",
+        "league": "brazilian-serie-d"
+      },
+      "mixto": {
+        "slug": "mixto",
+        "name": "Mixto Esporte Clube",
+        "hash": "a380bc04",
+        "league": "brazilian-serie-d"
+      },
+      "operario-varzea-grandense": {
+        "slug": "operario-varzea-grandense",
+        "name": "Operário Várzea-Grandense",
+        "hash": "1d608cf6",
+        "league": "brazilian-serie-d"
+      },
+      "uniao-rondonopolis": {
+        "slug": "uniao-rondonopolis",
+        "name": "União Esporte Clube",
+        "hash": "53753cec",
+        "league": "brazilian-serie-d"
+      },
+      "ceilandia": {
+        "slug": "ceilandia",
+        "name": "Ceilândia Esporte Clube",
+        "hash": "5ff35c33",
+        "league": "brazilian-serie-d"
+      },
+      "imperatriz": {
+        "slug": "imperatriz",
+        "name": "Sociedade Imperatriz de Desportos",
+        "hash": "46b2a66a",
+        "league": "brazilian-serie-d"
+      },
+      "trem": {
+        "slug": "trem",
+        "name": "Trem Desportivo Clube",
+        "hash": "0d21089e",
+        "league": "brazilian-serie-d"
+      },
+      "aguia-de-maraba": {
+        "slug": "aguia-de-maraba",
+        "name": "Águia de Marabá Futebol Clube",
+        "hash": "46d5fe77",
+        "league": "brazilian-serie-d"
+      },
+      "tuna-luso": {
+        "slug": "tuna-luso",
+        "name": "Tuna Luso Brasileira",
+        "hash": "9d50914f",
+        "league": "brazilian-serie-d"
+      },
+      "tocantinopolis": {
+        "slug": "tocantinopolis",
+        "name": "Tocantinópolis Esporte Clube",
+        "hash": "e6770921",
+        "league": "brazilian-serie-d"
+      },
+      "oratorio": {
+        "slug": "oratorio",
+        "name": "Oratório Recreativo Clube",
+        "hash": "7c268273",
+        "league": "brazilian-serie-d"
+      },
+      "maracana": {
+        "slug": "maracana",
+        "name": "Maracanã Esporte Clube",
+        "hash": "6a447a13",
+        "league": "brazilian-serie-d"
+      },
+      "iguatu": {
+        "slug": "iguatu",
+        "name": "Associação Desportiva Iguatu",
+        "hash": "661de6a2",
+        "league": "brazilian-serie-d"
+      },
+      "iape": {
+        "slug": "iape",
+        "name": "Instituto de Administração de Projetos Educacionais Futebol Clube",
+        "hash": "d94b17c4",
+        "league": "brazilian-serie-d"
+      },
+      "sampaio-correa": {
+        "slug": "sampaio-correa",
+        "name": "Sampaio Corrêa Futebol Clube",
+        "hash": "fa39e87e",
+        "league": "brazilian-serie-d"
+      },
+      "moto-club-sao-luis": {
+        "slug": "moto-club-sao-luis",
+        "name": "Moto Club de São Luís",
+        "hash": "7428e0c5",
+        "league": "brazilian-serie-d"
+      },
+      "parnahyba": {
+        "slug": "parnahyba",
+        "name": "Parnahyba Sport Club",
+        "hash": "1c75a0d8",
+        "league": "brazilian-serie-d"
+      },
+      "fluminense-pi": {
+        "slug": "fluminense-pi",
+        "name": "Fluminense Esporte Clube",
+        "hash": "fe6eca17",
+        "league": "brazilian-serie-d"
+      },
+      "piaui": {
+        "slug": "piaui",
+        "name": "Piauí Esporte Clube",
+        "hash": "31e17deb",
+        "league": "brazilian-serie-d"
+      },
+      "ferroviario-ce": {
+        "slug": "ferroviario-ce",
+        "name": "Ferroviário Atlético Clube",
+        "hash": "24c77b40",
+        "league": "brazilian-serie-d"
+      },
+      "altos": {
+        "slug": "altos",
+        "name": "Associação Atlética de Altos",
+        "hash": "3a2bc370",
+        "league": "brazilian-serie-d"
+      },
+      "atletico-cearense": {
+        "slug": "atletico-cearense",
+        "name": "Futebol Clube Atlético Cearense",
+        "hash": "c4601898",
+        "league": "brazilian-serie-d"
+      },
+      "tirol": {
+        "slug": "tirol",
+        "name": "Centro de Formação de Atletas Tirol",
+        "hash": "3a213974",
+        "league": "brazilian-serie-d"
+      },
+      "america-rn": {
+        "slug": "america-rn",
+        "name": "América de Natal",
+        "hash": "0e8d7a06",
+        "league": "brazilian-serie-d"
+      },
+      "maguary-pe": {
+        "slug": "maguary-pe",
+        "name": "Associação Atlética Maguary",
+        "hash": "44a551d7",
+        "league": "brazilian-serie-d"
+      },
+      "abc": {
+        "slug": "abc",
+        "name": "ABC Futebol Clube",
+        "hash": "e5642bb5",
+        "league": "brazilian-serie-d"
+      },
+      "sousa": {
+        "slug": "sousa",
+        "name": "Sousa Esporte Clube",
+        "hash": "da4b25dc",
+        "league": "brazilian-serie-d"
+      },
+      "central-pe": {
+        "slug": "central-pe",
+        "name": "Central Sport Club",
+        "hash": "fe4c7b95",
+        "league": "brazilian-serie-d"
+      },
+      "laguna-rn": {
+        "slug": "laguna-rn",
+        "name": "Clube Laguna SAF",
+        "hash": "c9295979",
+        "league": "brazilian-serie-d"
+      },
+      "treze": {
+        "slug": "treze",
+        "name": "Treze FC",
+        "hash": "c9925d9e",
+        "league": "brazilian-serie-d"
+      },
+      "sergipe": {
+        "slug": "sergipe",
+        "name": "Club Sportivo Sergipe",
+        "hash": "f43367ac",
+        "league": "brazilian-serie-d"
+      },
+      "serra-branca": {
+        "slug": "serra-branca",
+        "name": "Serra Branca EC",
+        "hash": "3deb7a9f",
+        "league": "brazilian-serie-d"
+      },
+      "lagarto": {
+        "slug": "lagarto",
+        "name": "Lagarto FC",
+        "hash": "142915aa",
+        "league": "brazilian-serie-d"
+      },
+      "retro": {
+        "slug": "retro",
+        "name": "Retrô FC",
+        "hash": "3b54f52a",
+        "league": "brazilian-serie-d"
+      },
+      "decisao": {
+        "slug": "decisao",
+        "name": "Decisão Goiana FC",
+        "hash": "fc78571d",
+        "league": "brazilian-serie-d"
+      },
+      "csa": {
+        "slug": "csa",
+        "name": "CSA",
+        "hash": "e2c4c66b",
+        "league": "brazilian-serie-d"
+      },
+      "juazeirense": {
+        "slug": "juazeirense",
+        "name": "Juazeirense",
+        "hash": "3aa01f71",
+        "league": "brazilian-serie-d"
+      },
+      "asa": {
+        "slug": "asa",
+        "name": "ASA de Arapiraca",
+        "hash": "5640e474",
+        "league": "brazilian-serie-d"
+      },
+      "jacuipense": {
+        "slug": "jacuipense",
+        "name": "EC Jacuipense",
+        "hash": "755efaf4",
+        "league": "brazilian-serie-d"
+      },
+      "cse": {
+        "slug": "cse",
+        "name": "CSE",
+        "hash": "1fdf516c",
+        "league": "brazilian-serie-d"
+      },
+      "atletico-de-alagoinhas": {
+        "slug": "atletico-de-alagoinhas",
+        "name": "Atlético de Alagoinhas",
+        "hash": "cba5c9b8",
+        "league": "brazilian-serie-d"
+      },
+      "uberlandia": {
+        "slug": "uberlandia",
+        "name": "Uberlândia Esporte Clube",
+        "hash": "e404458c",
+        "league": "brazilian-serie-d"
+      },
+      "betim": {
+        "slug": "betim",
+        "name": "Betim Futebol",
+        "hash": "1d528b7a",
+        "league": "brazilian-serie-d"
+      },
+      "crac": {
+        "slug": "crac",
+        "name": "CRAC",
+        "hash": "33f768e2",
+        "league": "brazilian-serie-d"
+      },
+      "ivinhema": {
+        "slug": "ivinhema",
+        "name": "Ivinhema Futebol Clube",
+        "hash": "71282037",
+        "league": "brazilian-serie-d"
+      },
+      "abecat-ouvidorense": {
+        "slug": "abecat-ouvidorense",
+        "name": "ABECAT Ouvidorense",
+        "hash": "e1f99c60",
+        "league": "brazilian-serie-d"
+      },
+      "operario-ms": {
+        "slug": "operario-ms",
+        "name": "Operário-MS",
+        "hash": "61eab293",
+        "league": "brazilian-serie-d"
+      },
+      "democrata-gv": {
+        "slug": "democrata-gv",
+        "name": "Democrata-GV",
+        "hash": "f0740c10",
+        "league": "brazilian-serie-d"
+      },
+      "tombense": {
+        "slug": "tombense",
+        "name": "Tombense FC",
+        "hash": "80688178",
+        "league": "brazilian-serie-d"
+      },
+      "vitoria-es": {
+        "slug": "vitoria-es",
+        "name": "Vitória-ES",
+        "hash": "6700648b",
+        "league": "brazilian-serie-d"
+      },
+      "rio-branco-es": {
+        "slug": "rio-branco-es",
+        "name": "Rio Branco-ES",
+        "hash": "5cf77f3f",
+        "league": "brazilian-serie-d"
+      },
+      "porto-ba": {
+        "slug": "porto-ba",
+        "name": "Porto-BA",
+        "hash": "9605d72f",
+        "league": "brazilian-serie-d"
+      },
+      "real-noroeste": {
+        "slug": "real-noroeste",
+        "name": "Real Noroeste",
+        "hash": "c5d30d0e",
+        "league": "brazilian-serie-d"
+      },
+      "portuguesa": {
+        "slug": "portuguesa",
+        "name": "Associação Portuguesa de Desportos",
+        "hash": "1c9e22c2",
+        "league": "brazilian-serie-d"
+      },
+      "agua-santa": {
+        "slug": "agua-santa",
+        "name": "Esporte Clube Água Santa",
+        "hash": "b68f0930",
+        "league": "brazilian-serie-d"
+      },
+      "portuguesa-rj": {
+        "slug": "portuguesa-rj",
+        "name": "Associação Atlética Portuguesa (RJ)",
+        "hash": "830b193b",
+        "league": "brazilian-serie-d"
+      },
+      "america-rj": {
+        "slug": "america-rj",
+        "name": "America Football Club (RJ)",
+        "hash": "d4664f2c",
+        "league": "brazilian-serie-d"
+      },
+      "madureira": {
+        "slug": "madureira",
+        "name": "Madureira Esporte Clube",
+        "hash": "224ba56c",
+        "league": "brazilian-serie-d"
+      },
+      "pouso-alegre": {
+        "slug": "pouso-alegre",
+        "name": "Pouso Alegre Futebol Clube",
+        "hash": "fdc25623",
+        "league": "brazilian-serie-d"
+      },
+      "xv-de-piracicaba": {
+        "slug": "xv-de-piracicaba",
+        "name": "XV de Piracicaba",
+        "hash": "120d9a30",
+        "league": "brazilian-serie-d"
+      },
+      "noroeste": {
+        "slug": "noroeste",
+        "name": "Noroeste",
+        "hash": "34b1ba4a",
+        "league": "brazilian-serie-d"
+      },
+      "velo-clube": {
+        "slug": "velo-clube",
+        "name": "Velo Clube",
+        "hash": "05c9e38d",
+        "league": "brazilian-serie-d"
+      },
+      "sampaio-correa-rj": {
+        "slug": "sampaio-correa-rj",
+        "name": "Sampaio Corrêa-RJ",
+        "hash": "fc2f829f",
+        "league": "brazilian-serie-d"
+      },
+      "nova-iguacu": {
+        "slug": "nova-iguacu",
+        "name": "Nova Iguaçu FC",
+        "hash": "73a51e5b",
+        "league": "brazilian-serie-d"
+      },
+      "marica": {
+        "slug": "marica",
+        "name": "Maricá FC",
+        "hash": "b4f2dfdd",
+        "league": "brazilian-serie-d"
+      },
+      "santa-catarina": {
+        "slug": "santa-catarina",
+        "name": "Santa Catarina Clube",
+        "hash": "1598b64b",
+        "league": "brazilian-serie-d"
+      },
+      "cianorte": {
+        "slug": "cianorte",
+        "name": "Cianorte FC",
+        "hash": "ded57143",
+        "league": "brazilian-serie-d"
+      },
+      "fc-cascavel": {
+        "slug": "fc-cascavel",
+        "name": "FC Cascavel",
+        "hash": "307d664f",
+        "league": "brazilian-serie-d"
+      },
+      "sao-luiz": {
+        "slug": "sao-luiz",
+        "name": "EC São Luiz",
+        "hash": "b4e2c7d7",
+        "league": "brazilian-serie-d"
+      },
+      "joinville": {
+        "slug": "joinville",
+        "name": "Joinville Esporte Clube",
+        "hash": "98329e54",
+        "league": "brazilian-serie-d"
+      },
+      "guarany-de-bage": {
+        "slug": "guarany-de-bage",
+        "name": "Guarany de Bagé",
+        "hash": "da705886",
+        "league": "brazilian-serie-d"
+      },
+      "blumenau": {
+        "slug": "blumenau",
+        "name": "Blumenau Esporte Clube",
+        "hash": "1cab90e0",
+        "league": "brazilian-serie-d"
+      },
+      "marcilio-dias": {
+        "slug": "marcilio-dias",
+        "name": "Marcílio Dias",
+        "hash": "efca3b4f",
+        "league": "brazilian-serie-d"
+      },
+      "sao-joseense": {
+        "slug": "sao-joseense",
+        "name": "São Joseense",
+        "hash": "80d1185f",
+        "league": "brazilian-serie-d"
+      },
+      "sao-jose-rs": {
+        "slug": "sao-jose-rs",
+        "name": "EC São José",
+        "hash": "d6e343b9",
+        "league": "brazilian-serie-d"
+      },
+      "brasil-de-pelotas": {
+        "slug": "brasil-de-pelotas",
+        "name": "Brasil de Pelotas",
+        "hash": "a1c4fd29",
+        "league": "brazilian-serie-d"
+      },
+      "azuriz": {
+        "slug": "azuriz",
+        "name": "Azuriz FC",
+        "hash": "432aa364",
+        "league": "brazilian-serie-d"
+      },
+      "copa-do-brasil": {
+        "slug": "copa-do-brasil",
+        "name": "Copa do Brasil",
+        "hash": "740a14fc",
+        "league": ""
+      },
+      "copa-do-nordeste": {
+        "slug": "copa-do-nordeste",
+        "name": "Copa do Nordeste",
+        "hash": "58784b49",
+        "league": ""
+      },
+      "varzea-grande": {
+        "slug": "varzea-grande",
+        "name": "Várzea Grande Esporte Clube",
+        "hash": "0169b4b1",
+        "league": ""
+      },
+      "alegrense": {
+        "slug": "alegrense",
+        "name": "Alegrense",
+        "hash": "eb0fc60e",
+        "league": ""
+      },
+      "america-go": {
+        "slug": "america-go",
+        "name": "América-GO",
+        "hash": "41a483d3",
+        "league": ""
+      },
+      "america-pe": {
+        "slug": "america-pe",
+        "name": "América-PE",
+        "hash": "58ead6c0",
+        "league": ""
+      },
+      "america-de-joinville": {
+        "slug": "america-de-joinville",
+        "name": "América de Joinville",
+        "hash": "e49b212c",
+        "league": ""
+      },
+      "anapolina": {
+        "slug": "anapolina",
+        "name": "Anapolina",
+        "hash": "22d3b7bd",
+        "league": ""
+      },
+      "caldense": {
+        "slug": "caldense",
+        "name": "Caldense",
+        "hash": "14cf067e",
+        "league": ""
+      },
+      "cabofriense": {
+        "slug": "cabofriense",
+        "name": "Cabofriense",
+        "hash": "ccf0f2cd",
+        "league": ""
+      },
+      "atletico-acreano": {
+        "slug": "atletico-acreano",
+        "name": "Atlético Acreano",
+        "hash": "2f89da4d",
+        "league": ""
+      },
+      "bangu": {
+        "slug": "bangu",
+        "name": "Bangu",
+        "hash": "f722c5c4",
+        "league": ""
+      },
+      "boa-esporte": {
+        "slug": "boa-esporte",
+        "name": "Boa Esporte",
+        "hash": "ad73f029",
+        "league": ""
+      },
+      "campinense": {
+        "slug": "campinense",
+        "name": "Campinense",
+        "hash": "6d755197",
+        "league": ""
+      },
+      "campo-grande-rj": {
+        "slug": "campo-grande-rj",
+        "name": "Campo Grande-RJ",
+        "hash": "36577634",
+        "league": ""
+      },
+      "15-de-novembro": {
+        "slug": "15-de-novembro",
+        "name": "15 de Novembro",
+        "hash": "74b7a2b1",
+        "league": ""
+      },
+      "juventus-da-mooca": {
+        "slug": "juventus-da-mooca",
+        "name": "Juventus da Mooca",
+        "hash": "4d22da82",
+        "league": ""
+      },
+      "taquaritinga": {
+        "slug": "taquaritinga",
+        "name": "Taquaritinga",
+        "hash": "bd9abd97",
+        "league": ""
+      },
+      "ypiranga-sp": {
+        "slug": "ypiranga-sp",
+        "name": "Ypiranga-SP",
+        "hash": "69f96d1a",
+        "league": ""
+      },
+      "esportivo-bento-goncalves": {
+        "slug": "esportivo-bento-goncalves",
+        "name": "Esportivo Bento Gonçalves",
+        "hash": "7a484222",
+        "league": ""
+      },
+      "lajeadense": {
+        "slug": "lajeadense",
+        "name": "Lajeadense",
+        "hash": "d4fcb9d5",
+        "league": ""
+      },
+      "internacional-de-lages": {
+        "slug": "internacional-de-lages",
+        "name": "Internacional de Lages",
+        "hash": "a3db4440",
+        "league": ""
+      },
+      "taubate": {
+        "slug": "taubate",
+        "name": "Taubaté",
+        "hash": "dbc847a3",
+        "league": ""
+      },
+      "goiania": {
+        "slug": "goiania",
+        "name": "Goiânia",
+        "hash": "35492af3",
+        "league": ""
+      },
+      "santanense": {
+        "slug": "santanense",
+        "name": "Santanense",
+        "hash": "9bb6478e",
+        "league": ""
+      },
+      "olimpico-se": {
+        "slug": "olimpico-se",
+        "name": "Olímpico-SE",
+        "hash": "fd105c9c",
+        "league": ""
+      },
+      "sul-america-am": {
+        "slug": "sul-america-am",
+        "name": "Sul América-AM",
+        "hash": "d298bf73",
+        "league": ""
+      },
+      "villa-nova-mg": {
+        "slug": "villa-nova-mg",
+        "name": "Villa Nova-MG",
+        "hash": "5b3f831e",
+        "league": ""
+      },
+      "marilia": {
+        "slug": "marilia",
+        "name": "Marília",
+        "hash": "409d34f6",
+        "league": ""
+      },
+      "abaete": {
+        "slug": "abaete",
+        "name": "Abaeté",
+        "hash": "f7817f31",
+        "league": ""
+      },
+      "metropolitano": {
+        "slug": "metropolitano",
+        "name": "Metropolitano",
+        "hash": "3be446e1",
+        "league": ""
+      },
+      "atletico-gloriense": {
+        "slug": "atletico-gloriense",
+        "name": "Atlético Gloriense",
+        "hash": "da09a8e9",
+        "league": ""
+      },
+      "adesg": {
+        "slug": "adesg",
+        "name": "ADESG",
+        "hash": "b477a3a4",
+        "league": ""
+      },
+      "holanda-am": {
+        "slug": "holanda-am",
+        "name": "Holanda-AM",
+        "hash": "516bcf10",
+        "league": ""
+      },
+      "osasco-sporting": {
+        "slug": "osasco-sporting",
+        "name": "Osasco Sporting",
+        "hash": "66b475ea",
+        "league": ""
+      },
+      "macae": {
+        "slug": "macae",
+        "name": "Macaé",
+        "hash": "fa35c6b0",
+        "league": ""
+      },
+      "paulista": {
+        "slug": "paulista",
+        "name": "Paulista",
+        "hash": "2543f164",
+        "league": ""
+      },
+      "vitoria-da-conquista": {
+        "slug": "vitoria-da-conquista",
+        "name": "Vitória da Conquista",
+        "hash": "c4fbb1e8",
+        "league": ""
+      }
+    }
+  }
+}

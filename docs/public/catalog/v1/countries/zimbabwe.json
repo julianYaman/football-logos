@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "zimbabwe",
+    "iso2": "ZW",
+    "name": "Zimbabwe",
+    "defaultLeague": "zimbabwe-national-team",
+    "leagues": {
+      "zimbabwe-national-team": {
+        "slug": "zimbabwe-national-team",
+        "name": "Zimbabwe National Team",
+        "hash": "7c9b9b0c",
+        "kind": "league",
+        "code": "ZW"
+      }
+    },
+    "clubs": {}
+  }
+}

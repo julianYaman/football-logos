@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "turkmenistan",
+    "iso2": "TM",
+    "name": "Turkmenistan",
+    "defaultLeague": "turkmenistan-national-team",
+    "leagues": {
+      "turkmenistan-national-team": {
+        "slug": "turkmenistan-national-team",
+        "name": "Turkmenistan National Team",
+        "hash": "af70e13e",
+        "kind": "league",
+        "code": "TM"
+      }
+    },
+    "clubs": {}
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "grenada",
+    "iso2": "GD",
+    "name": "Grenada",
+    "defaultLeague": "grenada-national-team",
+    "leagues": {
+      "grenada-national-team": {
+        "slug": "grenada-national-team",
+        "name": "Grenada National Team",
+        "hash": "2abedac0",
+        "kind": "league",
+        "code": "GD"
+      }
+    },
+    "clubs": {}
+  }
+}

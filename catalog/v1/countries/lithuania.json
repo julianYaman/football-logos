@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "lithuania",
+    "iso2": "LT",
+    "name": "Lithuania",
+    "defaultLeague": "toplyga",
+    "leagues": {
+      "toplyga": {
+        "slug": "toplyga",
+        "name": "TOPLYGA",
+        "hash": "e04eeb8b",
+        "kind": "league",
+        "code": "LT"
+      },
+      "lithuania-national-team": {
+        "slug": "lithuania-national-team",
+        "name": "Lithuania National Team",
+        "hash": "7146cff1",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "banga": {
+        "slug": "banga",
+        "name": "Banga",
+        "hash": "911773cf",
+        "league": "toplyga"
+      },
+      "dziugas": {
+        "slug": "dziugas",
+        "name": "Džiugas",
+        "hash": "3322b7ec",
+        "league": "toplyga"
+      },
+      "hegelmann": {
+        "slug": "hegelmann",
+        "name": "Hegelmann",
+        "hash": "07708230",
+        "league": "toplyga"
+      },
+      "kauno-zalgiris": {
+        "slug": "kauno-zalgiris",
+        "name": "Kauno Žalgiris",
+        "hash": "55ffbeea",
+        "league": "toplyga"
+      },
+      "panevezys": {
+        "slug": "panevezys",
+        "name": "Panevėžys",
+        "hash": "24c2c307",
+        "league": "toplyga"
+      },
+      "siauliai": {
+        "slug": "siauliai",
+        "name": "Šiauliai",
+        "hash": "e1d290c5",
+        "league": "toplyga"
+      },
+      "suduva": {
+        "slug": "suduva",
+        "name": "Sūduva",
+        "hash": "6c7ffa3d",
+        "league": "toplyga"
+      },
+      "transinvest": {
+        "slug": "transinvest",
+        "name": "TransINVEST",
+        "hash": "e06fc33d",
+        "league": "toplyga"
+      },
+      "zalgiris-vilnius": {
+        "slug": "zalgiris-vilnius",
+        "name": "Žalgiris Vilnius",
+        "hash": "e0f03a59",
+        "league": "toplyga"
+      },
+      "dainava": {
+        "slug": "dainava",
+        "name": "Dainava",
+        "hash": "9220039e",
+        "league": ""
+      },
+      "ekranas": {
+        "slug": "ekranas",
+        "name": "Ekranas",
+        "hash": "cd8c7f6e",
+        "league": ""
+      },
+      "jonava": {
+        "slug": "jonava",
+        "name": "Jonava",
+        "hash": "0b504ba4",
+        "league": ""
+      },
+      "riteriai": {
+        "slug": "riteriai",
+        "name": "Riteriai",
+        "hash": "04f3fcbf",
+        "league": ""
+      },
+      "tauras": {
+        "slug": "tauras",
+        "name": "Tauras",
+        "hash": "3152599b",
+        "league": ""
+      }
+    }
+  }
+}

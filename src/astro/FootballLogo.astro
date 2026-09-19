@@ -1,0 +1,61 @@
+---
+import {
+  getFootballLogoUrl,
+  LogoResolveError,
+  resolveFootballLogo,
+} from "football-logos";
+
+interface Props {
+  country: string;
+  club?: string | null;
+  size?: number;
+  alt?: string;
+  class?: string;
+  loading?: "lazy" | "eager";
+  decoding?: "async" | "auto" | "sync";
+}
+
+const {
+  country,
+  club,
+  size = 48,
+  alt,
+  class: className,
+  loading = "lazy",
+  decoding = "async",
+} = Astro.props;
+
+let src: string | null = null;
+let name = alt ?? "Unknown football logo";
+
+try {
+  const record = resolveFootballLogo({ country, club });
+  src = getFootballLogoUrl({ country, club });
+  name = alt ?? record.name;
+} catch (error) {
+  if (!(error instanceof LogoResolveError)) throw error;
+}
+---
+
+{
+  src ? (
+    <img
+      src={src}
+      width={size}
+      height={size}
+      alt={name}
+      class={className}
+      loading={loading}
+      decoding={decoding}
+    />
+  ) : (
+    <slot>
+      <span
+        role="img"
+        aria-label={name}
+        class={className}
+        style={`display:inline-block;width:${size}px;height:${size}px;border-radius:999px;background:color-mix(in srgb, currentColor 12%, transparent);`}
+      />
+    </slot>
+  )
+}

@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "tournaments",
+    "iso2": "INT",
+    "name": "Tournaments",
+    "defaultLeague": "uefa-champions-league",
+    "leagues": {
+      "fifa-world-cup-2026": {
+        "slug": "fifa-world-cup-2026",
+        "name": "FIFA World Cup 2026",
+        "hash": "9737ad74",
+        "kind": "league"
+      },
+      "uefa-champions-league": {
+        "slug": "uefa-champions-league",
+        "name": "UEFA Champions League",
+        "hash": "effc906c",
+        "kind": "league",
+        "code": "UCL"
+      },
+      "uefa-europa-league": {
+        "slug": "uefa-europa-league",
+        "name": "UEFA Europa League",
+        "hash": "ac37661c",
+        "kind": "league",
+        "code": "UEL"
+      },
+      "uefa-conference-league": {
+        "slug": "uefa-conference-league",
+        "name": "UEFA Conference League",
+        "hash": "f5da1108",
+        "kind": "league",
+        "code": "UECL"
+      },
+      "concacaf-nations-league": {
+        "slug": "concacaf-nations-league",
+        "name": "CONCACAF Nations League",
+        "hash": "5950a94e",
+        "kind": "league"
+      },
+      "conmebol-libertadores": {
+        "slug": "conmebol-libertadores",
+        "name": "Copa Libertadores",
+        "hash": "38816506",
+        "kind": "league"
+      },
+      "conmebol-copa-sudamericana": {
+        "slug": "conmebol-copa-sudamericana",
+        "name": "Copa Sudamericana",
+        "hash": "64cf81d3",
+        "kind": "league"
+      },
+      "uefa-womens-champions-league": {
+        "slug": "uefa-womens-champions-league",
+        "name": "UEFA Women's Champions League",
+        "hash": "d50fa655",
+        "kind": "league"
+      },
+      "fifa-womens-world-cup-2027": {
+        "slug": "fifa-womens-world-cup-2027",
+        "name": "2027 FIFA Women's World Cup",
+        "hash": "a7750fc1",
+        "kind": "league"
+      },
+      "fifa-asean-cup": {
+        "slug": "fifa-asean-cup",
+        "name": "FIFA ASEAN Cup",
+        "hash": "ba11b7de",
+        "kind": "league"
+      },
+      "asean-championship": {
+        "slug": "asean-championship",
+        "name": "ASEAN Championship",
+        "hash": "fb5b8575",
+        "kind": "league"
+      },
+      "afc-asian-cup": {
+        "slug": "afc-asian-cup",
+        "name": "AFC Asian Cup",
+        "hash": "af4647a4",
+        "kind": "league"
+      },
+      "leagues-cup": {
+        "slug": "leagues-cup",
+        "name": "Leagues Cup",
+        "hash": "88c0f698",
+        "kind": "league"
+      },
+      "uefa-euro-2028": {
+        "slug": "uefa-euro-2028",
+        "name": "UEFA Euro 2028",
+        "hash": "da413c98",
+        "kind": "league"
+      },
+      "caf-champions-league": {
+        "slug": "caf-champions-league",
+        "name": "CAF Champions League",
+        "hash": "4147d293",
+        "kind": "league"
+      },
+      "concacaf-champions-cup": {
+        "slug": "concacaf-champions-cup",
+        "name": "CONCACAF Champions Cup",
+        "hash": "fcd3ac56",
+        "kind": "league"
+      },
+      "uefa-super-cup": {
+        "slug": "uefa-super-cup",
+        "name": "UEFA Super Cup",
+        "hash": "116afe2f",
+        "kind": "league"
+      },
+      "fifa-intercontinental-cup": {
+        "slug": "fifa-intercontinental-cup",
+        "name": "FIFA Intercontinental Cup",
+        "hash": "6bbe30e3",
+        "kind": "league"
+      },
+      "concacaf-w-champions-cup": {
+        "slug": "concacaf-w-champions-cup",
+        "name": "CONCACAF W Champions Cup",
+        "hash": "de8802ac",
+        "kind": "league"
+      },
+      "concacaf-caribbean-cup": {
+        "slug": "concacaf-caribbean-cup",
+        "name": "CONCACAF Caribbean Cup",
+        "hash": "9b5f9909",
+        "kind": "league"
+      },
+      "concacaf-central-american-cup": {
+        "slug": "concacaf-central-american-cup",
+        "name": "CONCACAF Central American Cup",
+        "hash": "4ad0a19c",
+        "kind": "league"
+      },
+      "arabian-gulf-cup": {
+        "slug": "arabian-gulf-cup",
+        "name": "Arabian Gulf Cup",
+        "hash": "218925ff",
+        "kind": "league"
+      },
+      "fifa-club-world-cup": {
+        "slug": "fifa-club-world-cup",
+        "name": "FIFA Club World Cup",
+        "hash": "75620a01",
+        "kind": "league"
+      },
+      "fifa-world-cup-2030": {
+        "slug": "fifa-world-cup-2030",
+        "name": "FIFA World Cup 2030 (unofficial)",
+        "hash": "a0f36ae3",
+        "kind": "league"
+      },
+      "fifa-world-cup-2022": {
+        "slug": "fifa-world-cup-2022",
+        "name": "FIFA World Cup 2022",
+        "hash": "40013e68",
+        "kind": "league"
+      },
+      "fifa-world-cup-2018": {
+        "slug": "fifa-world-cup-2018",
+        "name": "FIFA World Cup 2018",
+        "hash": "7b6d5e95",
+        "kind": "league"
+      },
+      "fifa-world-cup-2014": {
+        "slug": "fifa-world-cup-2014",
+        "name": "FIFA World Cup 2014",
+        "hash": "9e81d949",
+        "kind": "league"
+      },
+      "fifa-world-cup-2010": {
+        "slug": "fifa-world-cup-2010",
+        "name": "FIFA World Cup 2010",
+        "hash": "2a0b6431",
+        "kind": "league"
+      },
+      "fifa-world-cup-2006": {
+        "slug": "fifa-world-cup-2006",
+        "name": "FIFA World Cup 2006",
+        "hash": "79406938",
+        "kind": "league"
+      },
+      "fifa-world-cup-2002": {
+        "slug": "fifa-world-cup-2002",
+        "name": "FIFA World Cup 2002",
+        "hash": "1a7c409f",
+        "kind": "league"
+      },
+      "fifa-world-cup-1998": {
+        "slug": "fifa-world-cup-1998",
+        "name": "FIFA World Cup 1998",
+        "hash": "8f1c6da0",
+        "kind": "league"
+      },
+      "fifa-world-cup-1994": {
+        "slug": "fifa-world-cup-1994",
+        "name": "FIFA World Cup 1994",
+        "hash": "49babfaf",
+        "kind": "league"
+      },
+      "fifa-world-cup-1990": {
+        "slug": "fifa-world-cup-1990",
+        "name": "FIFA World Cup 1990",
+        "hash": "ef54d3fa",
+        "kind": "league"
+      },
+      "fifa-world-cup-1986": {
+        "slug": "fifa-world-cup-1986",
+        "name": "FIFA World Cup 1986",
+        "hash": "b6146c34",
+        "kind": "league"
+      },
+      "fifa-world-cup-1982": {
+        "slug": "fifa-world-cup-1982",
+        "name": "FIFA World Cup 1982",
+        "hash": "14c4e7e3",
+        "kind": "league"
+      },
+      "fifa-world-cup-1978": {
+        "slug": "fifa-world-cup-1978",
+        "name": "FIFA World Cup 1978",
+        "hash": "c3605c2c",
+        "kind": "league"
+      },
+      "fifa-world-cup-1974": {
+        "slug": "fifa-world-cup-1974",
+        "name": "FIFA World Cup 1974",
+        "hash": "395f5ee7",
+        "kind": "league"
+      },
+      "fifa-world-cup-1970": {
+        "slug": "fifa-world-cup-1970",
+        "name": "FIFA World Cup 1970",
+        "hash": "5930087b",
+        "kind": "league"
+      },
+      "fifa-world-cup-1966": {
+        "slug": "fifa-world-cup-1966",
+        "name": "FIFA World Cup 1966",
+        "hash": "99a36ddc",
+        "kind": "league"
+      },
+      "fifa-world-cup-1962": {
+        "slug": "fifa-world-cup-1962",
+        "name": "FIFA World Cup 1962",
+        "hash": "0f8283c7",
+        "kind": "league"
+      },
+      "fifa-world-cup-1958": {
+        "slug": "fifa-world-cup-1958",
+        "name": "FIFA World Cup 1958",
+        "hash": "85f56417",
+        "kind": "league"
+      },
+      "fifa-world-cup-1954": {
+        "slug": "fifa-world-cup-1954",
+        "name": "FIFA World Cup 1954",
+        "hash": "6c15cf1b",
+        "kind": "league"
+      },
+      "fifa-world-cup-1950": {
+        "slug": "fifa-world-cup-1950",
+        "name": "FIFA World Cup 1950",
+        "hash": "f9bcd4cd",
+        "kind": "league"
+      },
+      "fifa-world-cup-1938": {
+        "slug": "fifa-world-cup-1938",
+        "name": "FIFA World Cup 1938",
+        "hash": "6196b104",
+        "kind": "league"
+      },
+      "fifa-world-cup-1934": {
+        "slug": "fifa-world-cup-1934",
+        "name": "FIFA World Cup 1934",
+        "hash": "a8929f42",
+        "kind": "league"
+      },
+      "fifa-world-cup-1930": {
+        "slug": "fifa-world-cup-1930",
+        "name": "FIFA World Cup 1930",
+        "hash": "a70f13ec",
+        "kind": "league"
+      },
+      "uefa-nations-league": {
+        "slug": "uefa-nations-league",
+        "name": "UEFA Nations League",
+        "hash": "509681b5",
+        "kind": "league"
+      },
+      "uefa-euro-2024": {
+        "slug": "uefa-euro-2024",
+        "name": "UEFA Euro 2024",
+        "hash": "7a8c77e7",
+        "kind": "league"
+      },
+      "uefa-euro-2020": {
+        "slug": "uefa-euro-2020",
+        "name": "UEFA Euro 2020",
+        "hash": "24b9a3fc",
+        "kind": "league"
+      },
+      "uefa-euro-2016": {
+        "slug": "uefa-euro-2016",
+        "name": "UEFA Euro 2016",
+        "hash": "bc760ab2",
+        "kind": "league"
+      },
+      "uefa-euro-2012": {
+        "slug": "uefa-euro-2012",
+        "name": "UEFA Euro 2012",
+        "hash": "b37e26f0",
+        "kind": "league"
+      },
+      "uefa-euro-2008": {
+        "slug": "uefa-euro-2008",
+        "name": "UEFA Euro 2008",
+        "hash": "f55714db",
+        "kind": "league"
+      },
+      "uefa-euro-2004": {
+        "slug": "uefa-euro-2004",
+        "name": "UEFA Euro 2004",
+        "hash": "8165db80",
+        "kind": "league"
+      },
+      "uefa-euro-2000": {
+        "slug": "uefa-euro-2000",
+        "name": "UEFA Euro 2000",
+        "hash": "326e3214",
+        "kind": "league"
+      },
+      "conmebol-copa-america-2024": {
+        "slug": "conmebol-copa-america-2024",
+        "name": "CONMEBOL Copa América 2024",
+        "hash": "e4b7ac5e",
+        "kind": "league"
+      },
+      "conmebol-copa-america-2021": {
+        "slug": "conmebol-copa-america-2021",
+        "name": "CONMEBOL Copa América 2021",
+        "hash": "27d9ae6d",
+        "kind": "league"
+      },
+      "conmebol-copa-america-2019": {
+        "slug": "conmebol-copa-america-2019",
+        "name": "CONMEBOL Copa América 2019",
+        "hash": "0748cc3a",
+        "kind": "league"
+      },
+      "conmebol-copa-america-2016": {
+        "slug": "conmebol-copa-america-2016",
+        "name": "CONMEBOL Copa América 2016",
+        "hash": "ba3ee719",
+        "kind": "league"
+      },
+      "conmebol-copa-america-2015": {
+        "slug": "conmebol-copa-america-2015",
+        "name": "CONMEBOL Copa América 2015",
+        "hash": "b4d9fc68",
+        "kind": "league"
+      },
+      "conmebol-copa-america-2011": {
+        "slug": "conmebol-copa-america-2011",
+        "name": "CONMEBOL Copa América 2011",
+        "hash": "70275d36",
+        "kind": "league"
+      },
+      "conmebol-copa-america-2007": {
+        "slug": "conmebol-copa-america-2007",
+        "name": "CONMEBOL Copa América 2007",
+        "hash": "ae8865d6",
+        "kind": "league"
+      },
+      "conmebol-copa-america-2004": {
+        "slug": "conmebol-copa-america-2004",
+        "name": "CONMEBOL Copa América 2004",
+        "hash": "0a3d1d63",
+        "kind": "league"
+      },
+      "conmebol-copa-america-2001": {
+        "slug": "conmebol-copa-america-2001",
+        "name": "CONMEBOL Copa América 2001",
+        "hash": "dc03fec6",
+        "kind": "league"
+      },
+      "conmebol-copa-america-1999": {
+        "slug": "conmebol-copa-america-1999",
+        "name": "CONMEBOL Copa América 1999",
+        "hash": "e7f1c39c",
+        "kind": "league"
+      },
+      "afc-champions-league-elite": {
+        "slug": "afc-champions-league-elite",
+        "name": "AFC Champions League Elite",
+        "hash": "bb0766a4",
+        "kind": "league"
+      },
+      "afc-champions-league-two": {
+        "slug": "afc-champions-league-two",
+        "name": "AFC Champions League Two",
+        "hash": "88f221d1",
+        "kind": "league"
+      },
+      "africa-cup-of-nations-2025": {
+        "slug": "africa-cup-of-nations-2025",
+        "name": "Africa Cup of Nations 2025",
+        "hash": "bd5f9ca3",
+        "kind": "league"
+      },
+      "fifa-arab-world-cup-2025": {
+        "slug": "fifa-arab-world-cup-2025",
+        "name": "FIFA Arab World Cup 2025",
+        "hash": "93bcb1dc",
+        "kind": "league"
+      },
+      "baltic-cup": {
+        "slug": "baltic-cup",
+        "name": "Baltic Cup",
+        "hash": "7b465d46",
+        "kind": "league"
+      }
+    },
+    "clubs": {}
+  }
+}

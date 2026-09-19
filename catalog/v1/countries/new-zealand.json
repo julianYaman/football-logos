@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "new-zealand",
+    "iso2": "NZ",
+    "name": "New Zealand",
+    "defaultLeague": "new-zealand-national-league",
+    "leagues": {
+      "new-zealand-national-league": {
+        "slug": "new-zealand-national-league",
+        "name": "New Zealand National League",
+        "hash": "b0486d7c",
+        "kind": "league",
+        "code": "NZ"
+      },
+      "new-zealand-national-team": {
+        "slug": "new-zealand-national-team",
+        "name": "New Zealand National Team",
+        "hash": "b85989ee",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "wellington-olympic": {
+        "slug": "wellington-olympic",
+        "name": "Wellington Olympic",
+        "hash": "b75e7f00",
+        "league": "new-zealand-national-league"
+      },
+      "auckland-city-fc": {
+        "slug": "auckland-city-fc",
+        "name": "Auckland City FC",
+        "hash": "28f6d4ad",
+        "league": "new-zealand-national-league"
+      },
+      "miramar-rangers": {
+        "slug": "miramar-rangers",
+        "name": "Miramar Rangers",
+        "hash": "c8bc357a",
+        "league": "new-zealand-national-league"
+      },
+      "western-springs-afc": {
+        "slug": "western-springs-afc",
+        "name": "Western Springs AFC",
+        "hash": "fa88dccf",
+        "league": "new-zealand-national-league"
+      },
+      "birkenhead-united": {
+        "slug": "birkenhead-united",
+        "name": "Birkenhead United",
+        "hash": "78c901bb",
+        "league": "new-zealand-national-league"
+      },
+      "christchurch-united": {
+        "slug": "christchurch-united",
+        "name": "Christchurch United",
+        "hash": "b7e4bd6e",
+        "league": "new-zealand-national-league"
+      },
+      "western-suburbs-fc": {
+        "slug": "western-suburbs-fc",
+        "name": "Western Suburbs FC",
+        "hash": "8f00ba50",
+        "league": "new-zealand-national-league"
+      },
+      "auckland-united-fc": {
+        "slug": "auckland-united-fc",
+        "name": "Auckland United FC",
+        "hash": "b35ee8c5",
+        "league": "new-zealand-national-league"
+      },
+      "coastal-spirit": {
+        "slug": "coastal-spirit",
+        "name": "Coastal Spirit",
+        "hash": "e0ace235",
+        "league": "new-zealand-national-league"
+      },
+      "auckland-fc": {
+        "slug": "auckland-fc",
+        "name": "Auckland FC",
+        "hash": "a671f569",
+        "league": ""
+      },
+      "wellington-phoenix": {
+        "slug": "wellington-phoenix",
+        "name": "Wellington Phoenix FC",
+        "hash": "9823ac7a",
+        "league": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "vanuatu",
+    "iso2": "VU",
+    "name": "Vanuatu",
+    "defaultLeague": "vanuatu-national-team",
+    "leagues": {
+      "vanuatu-national-team": {
+        "slug": "vanuatu-national-team",
+        "name": "Vanuatu National Team",
+        "hash": "3d1c95f9",
+        "kind": "league",
+        "code": "VU"
+      }
+    },
+    "clubs": {}
+  }
+}

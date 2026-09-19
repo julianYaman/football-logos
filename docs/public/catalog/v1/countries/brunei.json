@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "brunei",
+    "iso2": "BN",
+    "name": "Brunei",
+    "defaultLeague": "brunei-national-team",
+    "leagues": {
+      "brunei-national-team": {
+        "slug": "brunei-national-team",
+        "name": "Brunei National Team",
+        "hash": "99adb16f",
+        "kind": "league",
+        "code": "BN"
+      }
+    },
+    "clubs": {}
+  }
+}

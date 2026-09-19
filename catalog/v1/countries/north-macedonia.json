@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "north-macedonia",
+    "iso2": "MK",
+    "name": "North Macedonia",
+    "defaultLeague": "north-macedonia-national-team",
+    "leagues": {
+      "north-macedonia-national-team": {
+        "slug": "north-macedonia-national-team",
+        "name": "North Macedonia National Team",
+        "hash": "af3ea295",
+        "kind": "league",
+        "code": "MK"
+      }
+    },
+    "clubs": {
+      "belasica": {
+        "slug": "belasica",
+        "name": "Belasica",
+        "hash": "2603e227",
+        "league": ""
+      },
+      "brera-strumica": {
+        "slug": "brera-strumica",
+        "name": "Brera Strumica",
+        "hash": "7d604fc1",
+        "league": ""
+      },
+      "fk-borec-veles": {
+        "slug": "fk-borec-veles",
+        "name": "FK Borec Veles",
+        "hash": "a92fb5b2",
+        "league": ""
+      },
+      "makedonija": {
+        "slug": "makedonija",
+        "name": "Makedonija",
+        "hash": "ce47c692",
+        "league": ""
+      },
+      "pelister": {
+        "slug": "pelister",
+        "name": "Pelister",
+        "hash": "ae496913",
+        "league": ""
+      },
+      "pobeda": {
+        "slug": "pobeda",
+        "name": "Pobeda",
+        "hash": "039ae011",
+        "league": ""
+      },
+      "rabotnicki": {
+        "slug": "rabotnicki",
+        "name": "Rabotnicki",
+        "hash": "4686f94a",
+        "league": ""
+      },
+      "shkendija": {
+        "slug": "shkendija",
+        "name": "Shkëndija",
+        "hash": "96cbf401",
+        "league": ""
+      },
+      "shkupi": {
+        "slug": "shkupi",
+        "name": "Shkupi",
+        "hash": "22bbc961",
+        "league": ""
+      },
+      "sileks": {
+        "slug": "sileks",
+        "name": "Sileks",
+        "hash": "d2d47e08",
+        "league": ""
+      },
+      "struga": {
+        "slug": "struga",
+        "name": "Struga",
+        "hash": "3c9f4a2a",
+        "league": ""
+      },
+      "tikves": {
+        "slug": "tikves",
+        "name": "Tikves",
+        "hash": "ffe74eaf",
+        "league": ""
+      },
+      "vardar": {
+        "slug": "vardar",
+        "name": "Vardar",
+        "hash": "7db663cf",
+        "league": ""
+      }
+    }
+  }
+}

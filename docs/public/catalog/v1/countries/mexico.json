@@ -1,0 +1,363 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "mexico",
+    "iso2": "MX",
+    "name": "Mexico",
+    "defaultLeague": "liga-mx",
+    "leagues": {
+      "liga-mx": {
+        "slug": "liga-mx",
+        "name": "Liga MX",
+        "hash": "15273233",
+        "kind": "league",
+        "code": "MX"
+      },
+      "liga-de-expansion-mx": {
+        "slug": "liga-de-expansion-mx",
+        "name": "Liga de Expansión MX",
+        "hash": "042e2028",
+        "kind": "league"
+      },
+      "liga-premier-a": {
+        "slug": "liga-premier-a",
+        "name": "Liga Premier A",
+        "hash": "6bb48536",
+        "kind": "league"
+      },
+      "mexico-national-team": {
+        "slug": "mexico-national-team",
+        "name": "Mexico National Team",
+        "hash": "3a360b20",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "cruz-azul": {
+        "slug": "cruz-azul",
+        "name": "Cruz Azul",
+        "hash": "362dd0d8",
+        "league": "liga-mx"
+      },
+      "toluca": {
+        "slug": "toluca",
+        "name": "Toluca",
+        "hash": "49d3cb47",
+        "league": "liga-mx"
+      },
+      "tigres-uanl": {
+        "slug": "tigres-uanl",
+        "name": "Tigres UANL",
+        "hash": "131ba45a",
+        "league": "liga-mx"
+      },
+      "unam-pumas": {
+        "slug": "unam-pumas",
+        "name": "UNAM Pumas",
+        "hash": "e789e47d",
+        "league": "liga-mx"
+      },
+      "monterrey": {
+        "slug": "monterrey",
+        "name": "Monterrey",
+        "hash": "a1095acb",
+        "league": "liga-mx"
+      },
+      "atletico-de-san-luis": {
+        "slug": "atletico-de-san-luis",
+        "name": "Atletico de San Luis",
+        "hash": "3e32a0dc",
+        "league": "liga-mx"
+      },
+      "club-tijuana": {
+        "slug": "club-tijuana",
+        "name": "Club Tijuana",
+        "hash": "49ce66eb",
+        "league": "liga-mx"
+      },
+      "club-america": {
+        "slug": "club-america",
+        "name": "Club America",
+        "hash": "5eace7cd",
+        "league": "liga-mx"
+      },
+      "cd-guadalajara": {
+        "slug": "cd-guadalajara",
+        "name": "CD Guadalajara",
+        "hash": "08214880",
+        "league": "liga-mx"
+      },
+      "atlas": {
+        "slug": "atlas",
+        "name": "Atlas",
+        "hash": "80357dcb",
+        "league": "liga-mx"
+      },
+      "club-leon": {
+        "slug": "club-leon",
+        "name": "Club Leon",
+        "hash": "ac0a9d9d",
+        "league": "liga-mx"
+      },
+      "fc-juarez": {
+        "slug": "fc-juarez",
+        "name": "FC Juarez",
+        "hash": "c80537a7",
+        "league": "liga-mx"
+      },
+      "necaxa": {
+        "slug": "necaxa",
+        "name": "Necaxa",
+        "hash": "87f8d0cb",
+        "league": "liga-mx"
+      },
+      "puebla": {
+        "slug": "puebla",
+        "name": "Puebla",
+        "hash": "c34edf64",
+        "league": "liga-mx"
+      },
+      "pachuca": {
+        "slug": "pachuca",
+        "name": "Pachuca",
+        "hash": "d85b771a",
+        "league": "liga-mx"
+      },
+      "queretaro-fc": {
+        "slug": "queretaro-fc",
+        "name": "Queretaro FC",
+        "hash": "abb3cfa3",
+        "league": "liga-mx"
+      },
+      "santos-laguna": {
+        "slug": "santos-laguna",
+        "name": "Santos Laguna",
+        "hash": "3e1cc24f",
+        "league": "liga-mx"
+      },
+      "atlante": {
+        "slug": "atlante",
+        "name": "Atlante FC",
+        "hash": "ada290ba",
+        "league": "liga-mx"
+      },
+      "tepatitlan-fc": {
+        "slug": "tepatitlan-fc",
+        "name": "Tepatitlán FC",
+        "hash": "c9d85d4e",
+        "league": "liga-de-expansion-mx"
+      },
+      "cancun-fc": {
+        "slug": "cancun-fc",
+        "name": "Cancún FC",
+        "hash": "ea986239",
+        "league": "liga-de-expansion-mx"
+      },
+      "atletico-morelia": {
+        "slug": "atletico-morelia",
+        "name": "Club Atlético Morelia",
+        "hash": "2941c603",
+        "league": "liga-de-expansion-mx"
+      },
+      "atletico-la-paz": {
+        "slug": "atletico-la-paz",
+        "name": "Club Atlético La Paz",
+        "hash": "26d20b28",
+        "league": "liga-de-expansion-mx"
+      },
+      "jaiba-brava": {
+        "slug": "jaiba-brava",
+        "name": "Jaiba Brava",
+        "hash": "87377add",
+        "league": "liga-de-expansion-mx"
+      },
+      "mineros-de-zacatecas": {
+        "slug": "mineros-de-zacatecas",
+        "name": "Mineros de Zacatecas",
+        "hash": "ee09d131",
+        "league": "liga-de-expansion-mx"
+      },
+      "tapatio": {
+        "slug": "tapatio",
+        "name": "CD Tapatío",
+        "hash": "d0a3ec97",
+        "league": "liga-de-expansion-mx"
+      },
+      "irapuato": {
+        "slug": "irapuato",
+        "name": "CD Irapuato",
+        "hash": "296cc5e4",
+        "league": "liga-de-expansion-mx"
+      },
+      "tlaxcala-fc": {
+        "slug": "tlaxcala-fc",
+        "name": "Tlaxcala FC",
+        "hash": "5916324c",
+        "league": "liga-de-expansion-mx"
+      },
+      "venados-fc": {
+        "slug": "venados-fc",
+        "name": "Venados FC",
+        "hash": "341663e8",
+        "league": "liga-de-expansion-mx"
+      },
+      "alebrijes-de-oaxaca": {
+        "slug": "alebrijes-de-oaxaca",
+        "name": "Alebrijes de Oaxaca",
+        "hash": "ba554324",
+        "league": "liga-de-expansion-mx"
+      },
+      "dorados-de-sinaloa": {
+        "slug": "dorados-de-sinaloa",
+        "name": "Dorados de Sinaloa",
+        "hash": "4667c468",
+        "league": "liga-de-expansion-mx"
+      },
+      "correcaminos-uat": {
+        "slug": "correcaminos-uat",
+        "name": "Correcaminos UAT",
+        "hash": "5b433e74",
+        "league": "liga-de-expansion-mx"
+      },
+      "leones-negros-udeg": {
+        "slug": "leones-negros-udeg",
+        "name": "Leones Negros UdeG",
+        "hash": "dcf32a89",
+        "league": "liga-de-expansion-mx"
+      },
+      "acf-zapotlanejo": {
+        "slug": "acf-zapotlanejo",
+        "name": "ACF Zapotlanejo",
+        "hash": "49927c31",
+        "league": "liga-premier-a"
+      },
+      "heroes-de-zaci-fc": {
+        "slug": "heroes-de-zaci-fc",
+        "name": "Héroes de Zaci FC",
+        "hash": "6306d8c4",
+        "league": "liga-premier-a"
+      },
+      "la-tribu-de-ciudad-juarez": {
+        "slug": "la-tribu-de-ciudad-juarez",
+        "name": "La Tribu de Ciudad Juárez",
+        "hash": "1b9f3ccc",
+        "league": "liga-premier-a"
+      },
+      "mineros-de-fresnillo": {
+        "slug": "mineros-de-fresnillo",
+        "name": "Mineros de Fresnillo",
+        "hash": "58256821",
+        "league": "liga-premier-a"
+      },
+      "real-apodaca-fc": {
+        "slug": "real-apodaca-fc",
+        "name": "Real Apodaca FC",
+        "hash": "a51f0ee1",
+        "league": "liga-premier-a"
+      },
+      "saltillo-soccer-fc": {
+        "slug": "saltillo-soccer-fc",
+        "name": "Saltillo Soccer FC",
+        "hash": "e31b338b",
+        "league": "liga-premier-a"
+      },
+      "santiago-fc": {
+        "slug": "santiago-fc",
+        "name": "Santiago FC",
+        "hash": "44dd8140",
+        "league": "liga-premier-a"
+      },
+      "vaqueros-reynosa-fc": {
+        "slug": "vaqueros-reynosa-fc",
+        "name": "Vaqueros Reynosa FC",
+        "hash": "d8094ac2",
+        "league": "liga-premier-a"
+      },
+      "guerreros-de-autlan": {
+        "slug": "guerreros-de-autlan",
+        "name": "Guerreros de Autlán",
+        "hash": "3b9843b0",
+        "league": "liga-premier-a"
+      },
+      "acambaro-fc": {
+        "slug": "acambaro-fc",
+        "name": "Acámbaro FC",
+        "hash": "f485be0d",
+        "league": "liga-premier-a"
+      },
+      "artesanos-metepec-fc": {
+        "slug": "artesanos-metepec-fc",
+        "name": "Artesanos Metepec FC",
+        "hash": "2b9fd656",
+        "league": "liga-premier-a"
+      },
+      "club-calor": {
+        "slug": "club-calor",
+        "name": "Club Calor",
+        "hash": "35e52286",
+        "league": "liga-premier-a"
+      },
+      "club-de-ciervos": {
+        "slug": "club-de-ciervos",
+        "name": "Club de Ciervos FC",
+        "hash": "defa36ae",
+        "league": "liga-premier-a"
+      },
+      "canoneros-marina": {
+        "slug": "canoneros-marina",
+        "name": "Cañoneros Marina",
+        "hash": "6054a8aa",
+        "league": "liga-premier-a"
+      },
+      "delfines-de-coatzacoalcos": {
+        "slug": "delfines-de-coatzacoalcos",
+        "name": "Delfines de Coatzacoalcos",
+        "hash": "ecee2606",
+        "league": "liga-premier-a"
+      },
+      "dragones-de-oaxaca": {
+        "slug": "dragones-de-oaxaca",
+        "name": "Dragones de Oaxaca",
+        "hash": "d1a276b9",
+        "league": "liga-premier-a"
+      },
+      "halcones-negros-fc": {
+        "slug": "halcones-negros-fc",
+        "name": "Halcones Negros FC",
+        "hash": "c3cd9907",
+        "league": "liga-premier-a"
+      },
+      "real-refineros": {
+        "slug": "real-refineros",
+        "name": "Real Refineros",
+        "hash": "3d1c2f85",
+        "league": "liga-premier-a"
+      },
+      "avispones-de-chilpancingo": {
+        "slug": "avispones-de-chilpancingo",
+        "name": "Avispones de Chilpancingo",
+        "hash": "a70dd4e8",
+        "league": "liga-premier-a"
+      },
+      "copa-mx": {
+        "slug": "copa-mx",
+        "name": "Copa MX",
+        "hash": "8df024b1",
+        "league": ""
+      },
+      "mazatlan-fc": {
+        "slug": "mazatlan-fc",
+        "name": "Mazatlan FC",
+        "hash": "2e781536",
+        "league": ""
+      },
+      "guerreros-del-pacifico": {
+        "slug": "guerreros-del-pacifico",
+        "name": "Guerreros del Pacífico",
+        "hash": "7a580b35",
+        "league": ""
+      }
+    }
+  }
+}

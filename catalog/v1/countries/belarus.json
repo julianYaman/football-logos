@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "belarus",
+    "iso2": "BY",
+    "name": "Belarus",
+    "defaultLeague": "belarusian-premier-league",
+    "leagues": {
+      "belarusian-premier-league": {
+        "slug": "belarusian-premier-league",
+        "name": "Belarusian Premier League",
+        "hash": "79f4f419",
+        "kind": "league",
+        "code": "BY"
+      },
+      "belarus-national-team": {
+        "slug": "belarus-national-team",
+        "name": "Belarus National Team",
+        "hash": "f01c7aa4",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "arsenal-dzerzhinsk": {
+        "slug": "arsenal-dzerzhinsk",
+        "name": "Arsenal Dzerzhinsk",
+        "hash": "42d03166",
+        "league": "belarusian-premier-league"
+      },
+      "baranovichi": {
+        "slug": "baranovichi",
+        "name": "Baranovichi",
+        "hash": "09c89ef7",
+        "league": "belarusian-premier-league"
+      },
+      "bate-borisov": {
+        "slug": "bate-borisov",
+        "name": "BATE Borisov",
+        "hash": "79d932ec",
+        "league": "belarusian-premier-league"
+      },
+      "dinamo-brest": {
+        "slug": "dinamo-brest",
+        "name": "Dinamo Brest",
+        "hash": "a55cecf0",
+        "league": "belarusian-premier-league"
+      },
+      "dinamo-minsk": {
+        "slug": "dinamo-minsk",
+        "name": "Dinamo-Minsk",
+        "hash": "1144dbf2",
+        "league": "belarusian-premier-league"
+      },
+      "dnepr": {
+        "slug": "dnepr",
+        "name": "Dnepr Mogilev",
+        "hash": "7a745a35",
+        "league": "belarusian-premier-league"
+      },
+      "fc-torpedo": {
+        "slug": "fc-torpedo",
+        "name": "FC Torpedo Belaz",
+        "hash": "feffde55",
+        "league": "belarusian-premier-league"
+      },
+      "gomel": {
+        "slug": "gomel",
+        "name": "Gomel",
+        "hash": "28951b18",
+        "league": "belarusian-premier-league"
+      },
+      "isloch": {
+        "slug": "isloch",
+        "name": "Isloch",
+        "hash": "d4e1ffbd",
+        "league": "belarusian-premier-league"
+      },
+      "minsk": {
+        "slug": "minsk",
+        "name": "Minsk",
+        "hash": "ccb3de5e",
+        "league": "belarusian-premier-league"
+      },
+      "naftan": {
+        "slug": "naftan",
+        "name": "Naftan",
+        "hash": "47661cce",
+        "league": "belarusian-premier-league"
+      },
+      "neman": {
+        "slug": "neman",
+        "name": "Neman",
+        "hash": "71529b3e",
+        "league": "belarusian-premier-league"
+      },
+      "slavia-mozyr": {
+        "slug": "slavia-mozyr",
+        "name": "Slavia-Mozyr",
+        "hash": "fbe94e7a",
+        "league": "belarusian-premier-league"
+      },
+      "vitebsk": {
+        "slug": "vitebsk",
+        "name": "Vitebsk",
+        "hash": "05aae1c1",
+        "league": "belarusian-premier-league"
+      },
+      "ml-vitebsk": {
+        "slug": "ml-vitebsk",
+        "name": "ML Vitebsk",
+        "hash": "7934f130",
+        "league": "belarusian-premier-league"
+      },
+      "belshina-bobruisk": {
+        "slug": "belshina-bobruisk",
+        "name": "Belshina Bobruisk",
+        "hash": "fe60b0bc",
+        "league": "belarusian-premier-league"
+      },
+      "lokomotiv-gomel": {
+        "slug": "lokomotiv-gomel",
+        "name": "Lokomotiv Gomel",
+        "hash": "337d47ff",
+        "league": ""
+      },
+      "slonim-2017": {
+        "slug": "slonim-2017",
+        "name": "Slonim-2017",
+        "hash": "fba53603",
+        "league": ""
+      },
+      "lida": {
+        "slug": "lida",
+        "name": "Lida",
+        "hash": "7d30121a",
+        "league": ""
+      },
+      "shakhtyor": {
+        "slug": "shakhtyor",
+        "name": "Shakhtyor Soligorsk",
+        "hash": "adb2c757",
+        "league": ""
+      },
+      "slutsk": {
+        "slug": "slutsk",
+        "name": "Slutsk",
+        "hash": "67a390a3",
+        "league": ""
+      },
+      "smorgon": {
+        "slug": "smorgon",
+        "name": "Smorgon",
+        "hash": "4db1f237",
+        "league": ""
+      },
+      "torpedo-minsk": {
+        "slug": "torpedo-minsk",
+        "name": "Torpedo Minsk",
+        "hash": "244744e6",
+        "league": ""
+      },
+      "zvezda": {
+        "slug": "zvezda",
+        "name": "Zvezda",
+        "hash": "fa593a35",
+        "league": ""
+      }
+    }
+  }
+}

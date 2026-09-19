@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "american-samoa",
+    "iso2": "AS",
+    "name": "American Samoa",
+    "defaultLeague": "american-samoa-national-team",
+    "leagues": {
+      "american-samoa-national-team": {
+        "slug": "american-samoa-national-team",
+        "name": "American Samoa National Team",
+        "hash": "c97d8c3c",
+        "kind": "league",
+        "code": "AS"
+      }
+    },
+    "clubs": {}
+  }
+}

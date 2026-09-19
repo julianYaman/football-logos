@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "san-marino",
+    "iso2": "SM",
+    "name": "San Marino",
+    "defaultLeague": "san-marino-national-team",
+    "leagues": {
+      "san-marino-national-team": {
+        "slug": "san-marino-national-team",
+        "name": "San Marino National Team",
+        "hash": "7ea72ab8",
+        "kind": "league",
+        "code": "SM"
+      }
+    },
+    "clubs": {
+      "cailungo": {
+        "slug": "cailungo",
+        "name": "Cailungo",
+        "hash": "2240e28e",
+        "league": ""
+      },
+      "cosmos": {
+        "slug": "cosmos",
+        "name": "Cosmos",
+        "hash": "50366b09",
+        "league": ""
+      },
+      "faetano": {
+        "slug": "faetano",
+        "name": "Faetano",
+        "hash": "dd689a02",
+        "league": ""
+      },
+      "fiorentino": {
+        "slug": "fiorentino",
+        "name": "Fiorentino",
+        "hash": "e0d9c060",
+        "league": ""
+      },
+      "folgore": {
+        "slug": "folgore",
+        "name": "Folgore",
+        "hash": "64da7531",
+        "league": ""
+      },
+      "juvenes-dogana": {
+        "slug": "juvenes-dogana",
+        "name": "Juvenes/Dogana",
+        "hash": "9b8078f8",
+        "league": ""
+      },
+      "la-fiorita": {
+        "slug": "la-fiorita",
+        "name": "La Fiorita",
+        "hash": "6a20125e",
+        "league": ""
+      },
+      "libertas": {
+        "slug": "libertas",
+        "name": "Libertas",
+        "hash": "ab7a5fbc",
+        "league": ""
+      },
+      "murata": {
+        "slug": "murata",
+        "name": "Murata",
+        "hash": "8510a09f",
+        "league": ""
+      },
+      "pennarossa": {
+        "slug": "pennarossa",
+        "name": "Pennarossa",
+        "hash": "7b356ca4",
+        "league": ""
+      },
+      "san-giovanni": {
+        "slug": "san-giovanni",
+        "name": "San Giovanni",
+        "hash": "28d3f675",
+        "league": ""
+      },
+      "tre-fiori": {
+        "slug": "tre-fiori",
+        "name": "Tre Fiori",
+        "hash": "218eb403",
+        "league": ""
+      },
+      "tre-penne": {
+        "slug": "tre-penne",
+        "name": "Tre Penne",
+        "hash": "7ff81e17",
+        "league": ""
+      },
+      "virtus": {
+        "slug": "virtus",
+        "name": "Virtus",
+        "hash": "93e60210",
+        "league": ""
+      }
+    }
+  }
+}

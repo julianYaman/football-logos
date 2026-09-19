@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "romania",
+    "iso2": "RO",
+    "name": "Romania",
+    "defaultLeague": "superliga",
+    "leagues": {
+      "superliga": {
+        "slug": "superliga",
+        "name": "Superliga",
+        "hash": "a99edb29",
+        "kind": "league",
+        "code": "RO"
+      },
+      "romania-national-team": {
+        "slug": "romania-national-team",
+        "name": "Romania National Team",
+        "hash": "4555dc3c",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "arges-pitesti": {
+        "slug": "arges-pitesti",
+        "name": "Argeș Pitești",
+        "hash": "52bf060f",
+        "league": "superliga"
+      },
+      "botosani": {
+        "slug": "botosani",
+        "name": "Botoşani",
+        "hash": "05cce968",
+        "league": "superliga"
+      },
+      "cfr-cluj": {
+        "slug": "cfr-cluj",
+        "name": "CFR Cluj",
+        "hash": "86802553",
+        "league": "superliga"
+      },
+      "csikszereda": {
+        "slug": "csikszereda",
+        "name": "Csíkszereda",
+        "hash": "768c0fe0",
+        "league": "superliga"
+      },
+      "dinamo-bucuresti": {
+        "slug": "dinamo-bucuresti",
+        "name": "Dinamo Bucureşti",
+        "hash": "11c8242e",
+        "league": "superliga"
+      },
+      "farul-constanta": {
+        "slug": "farul-constanta",
+        "name": "Farul Constanța",
+        "hash": "7ad9e65d",
+        "league": "superliga"
+      },
+      "fcsb": {
+        "slug": "fcsb",
+        "name": "FC Steaua București",
+        "hash": "3c928009",
+        "league": "superliga"
+      },
+      "otelul": {
+        "slug": "otelul",
+        "name": "Oțelul Galați",
+        "hash": "0810f923",
+        "league": "superliga"
+      },
+      "petrolul-ploiesti": {
+        "slug": "petrolul-ploiesti",
+        "name": "Petrolul Ploiești",
+        "hash": "f21ab903",
+        "league": "superliga"
+      },
+      "rapid-bucuresti": {
+        "slug": "rapid-bucuresti",
+        "name": "Rapid Bucureşti",
+        "hash": "bfafca10",
+        "league": "superliga"
+      },
+      "sepsi": {
+        "slug": "sepsi",
+        "name": "Sepsi",
+        "hash": "ad5b78cc",
+        "league": "superliga"
+      },
+      "u-cluj": {
+        "slug": "u-cluj",
+        "name": "Universitatea Cluj",
+        "hash": "50c4dde7",
+        "league": "superliga"
+      },
+      "u-craiova": {
+        "slug": "u-craiova",
+        "name": "Universitatea Craiova",
+        "hash": "37f687d9",
+        "league": "superliga"
+      },
+      "uta": {
+        "slug": "uta",
+        "name": "UTA Arad",
+        "hash": "46d8041a",
+        "league": "superliga"
+      },
+      "voluntari": {
+        "slug": "voluntari",
+        "name": "Voluntari",
+        "hash": "af99472f",
+        "league": "superliga"
+      },
+      "corvinul-hunedoara": {
+        "slug": "corvinul-hunedoara",
+        "name": "Corvinul Hunedoara",
+        "hash": "812d99b6",
+        "league": "superliga"
+      },
+      "chindia-targoviste": {
+        "slug": "chindia-targoviste",
+        "name": "Chindia Targoviste",
+        "hash": "ac2c2c4c",
+        "league": ""
+      },
+      "concordia": {
+        "slug": "concordia",
+        "name": "Concordia",
+        "hash": "14b82d1f",
+        "league": ""
+      },
+      "dunarea-calarasi": {
+        "slug": "dunarea-calarasi",
+        "name": "Dunărea Călărași",
+        "hash": "b639e325",
+        "league": ""
+      },
+      "hermannstadt": {
+        "slug": "hermannstadt",
+        "name": "Hermannstadt",
+        "hash": "b75ac40a",
+        "league": ""
+      },
+      "metaloglobus": {
+        "slug": "metaloglobus",
+        "name": "Metaloglobus",
+        "hash": "896cda54",
+        "league": ""
+      },
+      "poli-iasi": {
+        "slug": "poli-iasi",
+        "name": "Politehnica Iași",
+        "hash": "9f41ecfa",
+        "league": ""
+      },
+      "u-1948": {
+        "slug": "u-1948",
+        "name": "U Craiova 1948",
+        "hash": "d86ab428",
+        "league": ""
+      },
+      "unirea-slobozia": {
+        "slug": "unirea-slobozia",
+        "name": "Unirea Slobozia",
+        "hash": "01523424",
+        "league": ""
+      }
+    }
+  }
+}

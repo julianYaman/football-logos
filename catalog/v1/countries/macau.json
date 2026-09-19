@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "macau",
+    "iso2": "MO",
+    "name": "Macau",
+    "defaultLeague": "macau-national-team",
+    "leagues": {
+      "macau-national-team": {
+        "slug": "macau-national-team",
+        "name": "Macao National Team",
+        "hash": "2cc629c8",
+        "kind": "league",
+        "code": "MO"
+      }
+    },
+    "clubs": {}
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "trinidad-and-tobago",
+    "iso2": "TT",
+    "name": "Trinidad and Tobago",
+    "defaultLeague": "trinidad-and-tobago-national-team",
+    "leagues": {
+      "trinidad-and-tobago-national-team": {
+        "slug": "trinidad-and-tobago-national-team",
+        "name": "Trinidad and Tobago National Team",
+        "hash": "4749b082",
+        "kind": "league",
+        "code": "TT"
+      }
+    },
+    "clubs": {}
+  }
+}

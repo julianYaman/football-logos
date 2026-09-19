@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "taiwan",
+    "iso2": "TW",
+    "name": "Taiwan",
+    "defaultLeague": "taiwan-football-premier-league",
+    "leagues": {
+      "taiwan-national-team": {
+        "slug": "taiwan-national-team",
+        "name": "Taiwan National Team",
+        "hash": "986fbc5d",
+        "kind": "league"
+      },
+      "taiwan-football-premier-league": {
+        "slug": "taiwan-football-premier-league",
+        "name": "Taiwan Football Premier League",
+        "hash": "f68c8638",
+        "kind": "league",
+        "code": "TW"
+      }
+    },
+    "clubs": {
+      "taiwan-city": {
+        "slug": "taiwan-city",
+        "name": "Taiwan City",
+        "hash": "266fe7a5",
+        "league": ""
+      },
+      "hang-yuan": {
+        "slug": "hang-yuan",
+        "name": "Hang Yuan",
+        "hash": "cb6699e3",
+        "league": ""
+      },
+      "sunny-bank-ac-taipei": {
+        "slug": "sunny-bank-ac-taipei",
+        "name": "Sunny Bank AC Taipei",
+        "hash": "ff629f9f",
+        "league": ""
+      },
+      "taichung-rock": {
+        "slug": "taichung-rock",
+        "name": "Taichung Rock",
+        "hash": "651f67b0",
+        "league": ""
+      },
+      "taichung-futuro": {
+        "slug": "taichung-futuro",
+        "name": "Taichung Futuro",
+        "hash": "b877f3f8",
+        "league": ""
+      },
+      "tatung": {
+        "slug": "tatung",
+        "name": "Tatung FC",
+        "hash": "e90437db",
+        "league": ""
+      },
+      "taipower": {
+        "slug": "taipower",
+        "name": "Taipower FC",
+        "hash": "bfbc7769",
+        "league": ""
+      },
+      "ming-chuan-university": {
+        "slug": "ming-chuan-university",
+        "name": "Ming Chuan University",
+        "hash": "34d04241",
+        "league": ""
+      }
+    }
+  }
+}

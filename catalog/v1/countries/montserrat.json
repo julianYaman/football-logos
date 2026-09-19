@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "montserrat",
+    "iso2": "MS",
+    "name": "Montserrat",
+    "defaultLeague": "montserrat-national-team",
+    "leagues": {
+      "montserrat-national-team": {
+        "slug": "montserrat-national-team",
+        "name": "Montserrat National Team",
+        "hash": "022656fa",
+        "kind": "league",
+        "code": "MS"
+      }
+    },
+    "clubs": {}
+  }
+}

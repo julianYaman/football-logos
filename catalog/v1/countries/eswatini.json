@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "eswatini",
+    "iso2": "SZ",
+    "name": "Eswatini",
+    "defaultLeague": "eswatini-national-team",
+    "leagues": {
+      "eswatini-national-team": {
+        "slug": "eswatini-national-team",
+        "name": "Eswatini National Team",
+        "hash": "7cc0522f",
+        "kind": "league",
+        "code": "SZ"
+      }
+    },
+    "clubs": {}
+  }
+}

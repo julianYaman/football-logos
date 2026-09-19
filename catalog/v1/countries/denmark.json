@@ -1,0 +1,321 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "denmark",
+    "iso2": "DK",
+    "name": "Denmark",
+    "defaultLeague": "danish-super-liga",
+    "leagues": {
+      "danish-super-liga": {
+        "slug": "danish-super-liga",
+        "name": "Danish Super League",
+        "hash": "d6485ddb",
+        "kind": "league",
+        "code": "DK"
+      },
+      "1st-division": {
+        "slug": "1st-division",
+        "name": "1st Division",
+        "hash": "57f4f672",
+        "kind": "league"
+      },
+      "2nd-division": {
+        "slug": "2nd-division",
+        "name": "2nd Division",
+        "hash": "75e8c161",
+        "kind": "league"
+      },
+      "denmark-national-team": {
+        "slug": "denmark-national-team",
+        "name": "Denmark National Team",
+        "hash": "62482d4b",
+        "kind": "league"
+      },
+      "danish-cup": {
+        "slug": "danish-cup",
+        "name": "Danish Cup",
+        "hash": "69fa65eb",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "copenhagen": {
+        "slug": "copenhagen",
+        "name": "F.C. Copenhagen",
+        "hash": "2271b52a",
+        "league": "danish-super-liga"
+      },
+      "randers": {
+        "slug": "randers",
+        "name": "Randers FC",
+        "hash": "84e20429",
+        "league": "danish-super-liga"
+      },
+      "brondby": {
+        "slug": "brondby",
+        "name": "Brøndby IF",
+        "hash": "840b1eeb",
+        "league": "danish-super-liga"
+      },
+      "viborg": {
+        "slug": "viborg",
+        "name": "Viborg FF",
+        "hash": "923af2e3",
+        "league": "danish-super-liga"
+      },
+      "midtjylland": {
+        "slug": "midtjylland",
+        "name": "FC Midtjylland",
+        "hash": "560464fe",
+        "league": "danish-super-liga"
+      },
+      "agf": {
+        "slug": "agf",
+        "name": "AGF",
+        "hash": "e91c3900",
+        "league": "danish-super-liga"
+      },
+      "odense-boldklub": {
+        "slug": "odense-boldklub",
+        "name": "OB",
+        "hash": "39f42db3",
+        "league": "danish-super-liga"
+      },
+      "sonderjyske": {
+        "slug": "sonderjyske",
+        "name": "Sonderjyske",
+        "hash": "698119cc",
+        "league": "danish-super-liga"
+      },
+      "nordsjaelland": {
+        "slug": "nordsjaelland",
+        "name": "FC Nordsjælland",
+        "hash": "e66c6eed",
+        "league": "danish-super-liga"
+      },
+      "silkeborg": {
+        "slug": "silkeborg",
+        "name": "Silkeborg IF",
+        "hash": "d79194d5",
+        "league": "danish-super-liga"
+      },
+      "horsens": {
+        "slug": "horsens",
+        "name": "Horsens",
+        "hash": "7c419609",
+        "league": "danish-super-liga"
+      },
+      "lyngby": {
+        "slug": "lyngby",
+        "name": "Lyngby",
+        "hash": "f80c9096",
+        "league": "danish-super-liga"
+      },
+      "vejle-boldklub": {
+        "slug": "vejle-boldklub",
+        "name": "VB",
+        "hash": "dde56acf",
+        "league": "1st-division"
+      },
+      "fredericia": {
+        "slug": "fredericia",
+        "name": "FC Fredericia",
+        "hash": "df8c9e61",
+        "league": "1st-division"
+      },
+      "aab": {
+        "slug": "aab",
+        "name": "AaB",
+        "hash": "77acfaa7",
+        "league": "1st-division"
+      },
+      "ab": {
+        "slug": "ab",
+        "name": "AB",
+        "hash": "b6b4804f",
+        "league": "1st-division"
+      },
+      "esbjerg": {
+        "slug": "esbjerg",
+        "name": "Esbjerg",
+        "hash": "fd61cdb9",
+        "league": "1st-division"
+      },
+      "hvidovre-if": {
+        "slug": "hvidovre-if",
+        "name": "Hvidovre IF",
+        "hash": "ccbaf6b5",
+        "league": "1st-division"
+      },
+      "koge": {
+        "slug": "koge",
+        "name": "Køge",
+        "hash": "6d41f164",
+        "league": "1st-division"
+      },
+      "vendsyssel": {
+        "slug": "vendsyssel",
+        "name": "Vendsyssel",
+        "hash": "2a0a910d",
+        "league": "1st-division"
+      },
+      "aarhus-fremad": {
+        "slug": "aarhus-fremad",
+        "name": "Aarhus Fremad",
+        "hash": "f9ec840b",
+        "league": "1st-division"
+      },
+      "kolding-if": {
+        "slug": "kolding-if",
+        "name": "Kolding IF",
+        "hash": "ab6f0c3d",
+        "league": "1st-division"
+      },
+      "hobro-ik": {
+        "slug": "hobro-ik",
+        "name": "Hobro IK",
+        "hash": "b4fc1cd4",
+        "league": "1st-division"
+      },
+      "hillerod-fodbold": {
+        "slug": "hillerod-fodbold",
+        "name": "Hillerød Fodbold",
+        "hash": "5ba08c08",
+        "league": "1st-division"
+      },
+      "naestved": {
+        "slug": "naestved",
+        "name": "Næstved",
+        "hash": "54374dcc",
+        "league": "2nd-division"
+      },
+      "skive": {
+        "slug": "skive",
+        "name": "Skive",
+        "hash": "fbc119d3",
+        "league": "2nd-division"
+      },
+      "b-93": {
+        "slug": "b-93",
+        "name": "B.93",
+        "hash": "e2422a4b",
+        "league": "2nd-division"
+      },
+      "brabrand-if": {
+        "slug": "brabrand-if",
+        "name": "Brabrand IF",
+        "hash": "aca3beba",
+        "league": "2nd-division"
+      },
+      "fa-2000": {
+        "slug": "fa-2000",
+        "name": "FA 2000",
+        "hash": "ca588c33",
+        "league": "2nd-division"
+      },
+      "fc-roskilde": {
+        "slug": "fc-roskilde",
+        "name": "FC Roskilde",
+        "hash": "c1b543fd",
+        "league": "2nd-division"
+      },
+      "fremad-amager": {
+        "slug": "fremad-amager",
+        "name": "Fremad Amager",
+        "hash": "bc4e835c",
+        "league": "2nd-division"
+      },
+      "hik": {
+        "slug": "hik",
+        "name": "HIK",
+        "hash": "aa51f7a0",
+        "league": "2nd-division"
+      },
+      "middelfart-boldklub": {
+        "slug": "middelfart-boldklub",
+        "name": "Middelfart Boldklub",
+        "hash": "5ef4db50",
+        "league": "2nd-division"
+      },
+      "nykobing-fc": {
+        "slug": "nykobing-fc",
+        "name": "Nykøbing FC",
+        "hash": "b764a3d8",
+        "league": "2nd-division"
+      },
+      "thisted-fc": {
+        "slug": "thisted-fc",
+        "name": "Thisted FC",
+        "hash": "897a6243",
+        "league": "2nd-division"
+      },
+      "vsk-aarhus": {
+        "slug": "vsk-aarhus",
+        "name": "VSK Aarhus",
+        "hash": "25e85e16",
+        "league": "2nd-division"
+      },
+      "b-1908": {
+        "slug": "b-1908",
+        "name": "B 1908",
+        "hash": "24c768f9",
+        "league": ""
+      },
+      "b-1913": {
+        "slug": "b-1913",
+        "name": "B 1913",
+        "hash": "a729fd12",
+        "league": ""
+      },
+      "bronshoj": {
+        "slug": "bronshoj",
+        "name": "Brønshøj",
+        "hash": "121771a1",
+        "league": ""
+      },
+      "frem": {
+        "slug": "frem",
+        "name": "Frem",
+        "hash": "9ba90524",
+        "league": ""
+      },
+      "fc-helsingor": {
+        "slug": "fc-helsingor",
+        "name": "FC Helsingør",
+        "hash": "44eb8528",
+        "league": ""
+      },
+      "aia-tranbjerg": {
+        "slug": "aia-tranbjerg",
+        "name": "AIA-Tranbjerg",
+        "hash": "2db541d9",
+        "league": ""
+      },
+      "bk-avarta": {
+        "slug": "bk-avarta",
+        "name": "BK Avarta",
+        "hash": "618c608c",
+        "league": ""
+      },
+      "bk-skjold": {
+        "slug": "bk-skjold",
+        "name": "BK Skjold",
+        "hash": "89e08c44",
+        "league": ""
+      },
+      "koge-nord-fc": {
+        "slug": "koge-nord-fc",
+        "name": "Køge Nord FC",
+        "hash": "098301d7",
+        "league": ""
+      },
+      "vanlose-if": {
+        "slug": "vanlose-if",
+        "name": "Vanløse IF",
+        "hash": "d7c55950",
+        "league": ""
+      }
+    }
+  }
+}

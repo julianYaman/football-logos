@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "slovakia",
+    "iso2": "SK",
+    "name": "Slovakia",
+    "defaultLeague": "slovak-first-football-league",
+    "leagues": {
+      "slovak-first-football-league": {
+        "slug": "slovak-first-football-league",
+        "name": "Slovak First Football League",
+        "hash": "8b39d081",
+        "kind": "league",
+        "code": "SK"
+      },
+      "slovakia-national-team": {
+        "slug": "slovakia-national-team",
+        "name": "Slovakia National Team",
+        "hash": "02dd9aa5",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "dunajska-streda": {
+        "slug": "dunajska-streda",
+        "name": "Dunajská Streda",
+        "hash": "f1c05ef8",
+        "league": "slovak-first-football-league"
+      },
+      "komarno": {
+        "slug": "komarno",
+        "name": "Komárno",
+        "hash": "b6ca1a1b",
+        "league": "slovak-first-football-league"
+      },
+      "kosice": {
+        "slug": "kosice",
+        "name": "Košice",
+        "hash": "3f0f4b67",
+        "league": "slovak-first-football-league"
+      },
+      "zemplin-michalovce": {
+        "slug": "zemplin-michalovce",
+        "name": "Zemplín Michalovce",
+        "hash": "8d06476c",
+        "league": "slovak-first-football-league"
+      },
+      "podbrezova": {
+        "slug": "podbrezova",
+        "name": "Podbrezová",
+        "hash": "0b3453a7",
+        "league": "slovak-first-football-league"
+      },
+      "ruzomberok": {
+        "slug": "ruzomberok",
+        "name": "MFK Ružomberok",
+        "hash": "2ed8ca38",
+        "league": "slovak-first-football-league"
+      },
+      "s-bratislava": {
+        "slug": "s-bratislava",
+        "name": "Slovan Bratislava",
+        "hash": "7ff3b71c",
+        "league": "slovak-first-football-league"
+      },
+      "skalica": {
+        "slug": "skalica",
+        "name": "Skalica",
+        "hash": "c7a7c7e7",
+        "league": "slovak-first-football-league"
+      },
+      "spartak-trnava": {
+        "slug": "spartak-trnava",
+        "name": "Spartak Trnava",
+        "hash": "839f4cf3",
+        "league": "slovak-first-football-league"
+      },
+      "trencin": {
+        "slug": "trencin",
+        "name": "Trenčín",
+        "hash": "86f029a9",
+        "league": "slovak-first-football-league"
+      },
+      "zilina": {
+        "slug": "zilina",
+        "name": "Žilina",
+        "hash": "0384a246",
+        "league": "slovak-first-football-league"
+      },
+      "dukla-banska-bystrica": {
+        "slug": "dukla-banska-bystrica",
+        "name": "Dukla Banská Bystrica",
+        "hash": "622d8b2f",
+        "league": "slovak-first-football-league"
+      },
+      "nitra": {
+        "slug": "nitra",
+        "name": "Nitra",
+        "hash": "959bfb3c",
+        "league": ""
+      },
+      "pohronie": {
+        "slug": "pohronie",
+        "name": "Pohronie",
+        "hash": "ff915774",
+        "league": ""
+      },
+      "puchov": {
+        "slug": "puchov",
+        "name": "MSK Púchov",
+        "hash": "1bdcdb86",
+        "league": ""
+      },
+      "sered": {
+        "slug": "sered",
+        "name": "ŠKF Sereď",
+        "hash": "2192d0e5",
+        "league": ""
+      },
+      "spartak-myjava": {
+        "slug": "spartak-myjava",
+        "name": "Spartak Myjava",
+        "hash": "146bcad6",
+        "league": ""
+      },
+      "tatran": {
+        "slug": "tatran",
+        "name": "Tatran",
+        "hash": "c46a8807",
+        "league": ""
+      },
+      "zlate-moravce": {
+        "slug": "zlate-moravce",
+        "name": "ViOn Zlaté Moravce",
+        "hash": "492a36db",
+        "league": ""
+      }
+    }
+  }
+}

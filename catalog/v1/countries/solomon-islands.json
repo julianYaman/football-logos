@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "solomon-islands",
+    "iso2": "SB",
+    "name": "Solomon Islands",
+    "defaultLeague": "solomon-islands-national-team",
+    "leagues": {
+      "solomon-islands-national-team": {
+        "slug": "solomon-islands-national-team",
+        "name": "Solomon Islands National Team",
+        "hash": "ff8abf6a",
+        "kind": "league",
+        "code": "SB"
+      }
+    },
+    "clubs": {}
+  }
+}

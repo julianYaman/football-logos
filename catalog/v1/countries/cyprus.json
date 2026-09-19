@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "cyprus",
+    "iso2": "CY",
+    "name": "Cyprus",
+    "defaultLeague": "cypriot-first-division",
+    "leagues": {
+      "cypriot-first-division": {
+        "slug": "cypriot-first-division",
+        "name": "Cypriot First Division",
+        "hash": "2abbdfc7",
+        "kind": "league",
+        "code": "CY"
+      },
+      "cyprus-national-team": {
+        "slug": "cyprus-national-team",
+        "name": "Cyprus National Team",
+        "hash": "197bd3ee",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "aek-larnaca": {
+        "slug": "aek-larnaca",
+        "name": "AEK Larnaca",
+        "hash": "252ba12a",
+        "league": "cypriot-first-division"
+      },
+      "ael": {
+        "slug": "ael",
+        "name": "AEL Limassol",
+        "hash": "94aae1ee",
+        "league": "cypriot-first-division"
+      },
+      "anorthosis": {
+        "slug": "anorthosis",
+        "name": "Anorthosis Famagusta",
+        "hash": "f22df44b",
+        "league": "cypriot-first-division"
+      },
+      "apoel": {
+        "slug": "apoel",
+        "name": "APOEL",
+        "hash": "ba9856fe",
+        "league": "cypriot-first-division"
+      },
+      "apollon": {
+        "slug": "apollon",
+        "name": "Apollon Limassol",
+        "hash": "69ed3c94",
+        "league": "cypriot-first-division"
+      },
+      "aris-limassol": {
+        "slug": "aris-limassol",
+        "name": "Aris Limassol",
+        "hash": "e1bfd116",
+        "league": "cypriot-first-division"
+      },
+      "karmiotissa": {
+        "slug": "karmiotissa",
+        "name": "Karmiotissa",
+        "hash": "4e624853",
+        "league": "cypriot-first-division"
+      },
+      "krasava-ypsonas": {
+        "slug": "krasava-ypsonas",
+        "name": "Krasava Ypsonas",
+        "hash": "ebf13227",
+        "league": "cypriot-first-division"
+      },
+      "nea-salamis": {
+        "slug": "nea-salamis",
+        "name": "Nea Salamis",
+        "hash": "af6e6f77",
+        "league": "cypriot-first-division"
+      },
+      "olympiakos": {
+        "slug": "olympiakos",
+        "name": "Olympiakos Nicosia",
+        "hash": "3e45cbd7",
+        "league": "cypriot-first-division"
+      },
+      "omonia-aradippou": {
+        "slug": "omonia-aradippou",
+        "name": "Omonia Aradippou",
+        "hash": "ea851667",
+        "league": "cypriot-first-division"
+      },
+      "omonoia": {
+        "slug": "omonoia",
+        "name": "Omonoia Nicosia",
+        "hash": "fa9fe288",
+        "league": "cypriot-first-division"
+      },
+      "pafos": {
+        "slug": "pafos",
+        "name": "Pafos",
+        "hash": "a73c39ef",
+        "league": "cypriot-first-division"
+      },
+      "omonia-29m": {
+        "slug": "omonia-29m",
+        "name": "Omonia 29M",
+        "hash": "95f78f94",
+        "league": "cypriot-first-division"
+      },
+      "aez": {
+        "slug": "aez",
+        "name": "AEZ Zakakiou",
+        "hash": "85e6c8c3",
+        "league": ""
+      },
+      "akritas-chlorakas": {
+        "slug": "akritas-chlorakas",
+        "name": "Akritas Chlorakas",
+        "hash": "93f157d9",
+        "league": ""
+      },
+      "anagennisis": {
+        "slug": "anagennisis",
+        "name": "Anagennisis",
+        "hash": "dd032b7d",
+        "league": ""
+      },
+      "ayia-napa": {
+        "slug": "ayia-napa",
+        "name": "Ayia Napa",
+        "hash": "01383d74",
+        "league": ""
+      },
+      "doxa": {
+        "slug": "doxa",
+        "name": "Doxa",
+        "hash": "11a742c4",
+        "league": ""
+      },
+      "ethnikos-achnas": {
+        "slug": "ethnikos-achnas",
+        "name": "Ethnikos Achnas",
+        "hash": "d9f8c9ac",
+        "league": ""
+      },
+      "othellos": {
+        "slug": "othellos",
+        "name": "Othellos",
+        "hash": "addbf687",
+        "league": ""
+      },
+      "enosis-neon-paralimniou": {
+        "slug": "enosis-neon-paralimniou",
+        "name": "Enosis Neon Paralimniou",
+        "hash": "fbc14cd3",
+        "league": ""
+      }
+    }
+  }
+}

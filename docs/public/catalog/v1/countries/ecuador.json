@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "ecuador",
+    "iso2": "EC",
+    "name": "Ecuador",
+    "defaultLeague": "liga-pro-serie-a",
+    "leagues": {
+      "liga-pro-serie-a": {
+        "slug": "liga-pro-serie-a",
+        "name": "Liga Pro Serie A",
+        "hash": "9a546764",
+        "kind": "league",
+        "code": "EC"
+      },
+      "liga-de-quito": {
+        "slug": "liga-de-quito",
+        "name": "Liga de Quito",
+        "hash": "76d36211",
+        "kind": "league"
+      },
+      "ecuador-national-team": {
+        "slug": "ecuador-national-team",
+        "name": "Ecuador National Team",
+        "hash": "fe2a3844",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "independiente-del-valle": {
+        "slug": "independiente-del-valle",
+        "name": "Independiente del Valle",
+        "hash": "0fd5cb37",
+        "league": "liga-pro-serie-a"
+      },
+      "barcelona-sc": {
+        "slug": "barcelona-sc",
+        "name": "Barcelona SC",
+        "hash": "3d0a5e2b",
+        "league": "liga-pro-serie-a"
+      },
+      "deportivo-cuenca": {
+        "slug": "deportivo-cuenca",
+        "name": "Deportivo Cuenca",
+        "hash": "b8a46aa6",
+        "league": "liga-pro-serie-a"
+      },
+      "universidad-catolica-quito": {
+        "slug": "universidad-catolica-quito",
+        "name": "Universidad Católica",
+        "hash": "56d48891",
+        "league": "liga-pro-serie-a"
+      },
+      "orense": {
+        "slug": "orense",
+        "name": "Orense",
+        "hash": "9564cb5b",
+        "league": "liga-pro-serie-a"
+      },
+      "aucas": {
+        "slug": "aucas",
+        "name": "Aucas",
+        "hash": "d7f0ecb6",
+        "league": "liga-pro-serie-a"
+      },
+      "emelec": {
+        "slug": "emelec",
+        "name": "Emelec",
+        "hash": "f7cbb804",
+        "league": "liga-pro-serie-a"
+      },
+      "macara": {
+        "slug": "macara",
+        "name": "Macará",
+        "hash": "1551613e",
+        "league": "liga-pro-serie-a"
+      },
+      "delfin": {
+        "slug": "delfin",
+        "name": "Delfín",
+        "hash": "4e5fd46f",
+        "league": "liga-pro-serie-a"
+      },
+      "manta-fc": {
+        "slug": "manta-fc",
+        "name": "Manta F.C.",
+        "hash": "10bb9839",
+        "league": "liga-pro-serie-a"
+      },
+      "tecnico-universitario": {
+        "slug": "tecnico-universitario",
+        "name": "Técnico Universitario",
+        "hash": "9a577725",
+        "league": "liga-pro-serie-a"
+      },
+      "libertad": {
+        "slug": "libertad",
+        "name": "Libertad Fútbol Club",
+        "hash": "ca9ff0e1",
+        "league": "liga-pro-serie-a"
+      },
+      "mushuc-runa": {
+        "slug": "mushuc-runa",
+        "name": "Mushuc Runa Sporting Club",
+        "hash": "6ff8f21b",
+        "league": "liga-pro-serie-a"
+      },
+      "guayaquil-city": {
+        "slug": "guayaquil-city",
+        "name": "Guayaquil City",
+        "hash": "d9847262",
+        "league": "liga-pro-serie-a"
+      },
+      "leones-del-norte": {
+        "slug": "leones-del-norte",
+        "name": "Leones del Norte",
+        "hash": "8d20bd4d",
+        "league": "liga-pro-serie-a"
+      },
+      "el-nacional": {
+        "slug": "el-nacional",
+        "name": "El Nacional",
+        "hash": "b1191fdd",
+        "league": ""
+      },
+      "vinotinto": {
+        "slug": "vinotinto",
+        "name": "Vinotinto",
+        "hash": "b9272ab9",
+        "league": ""
+      },
+      "deportivo-quito": {
+        "slug": "deportivo-quito",
+        "name": "Deportivo Quito",
+        "hash": "4d993840",
+        "league": ""
+      }
+    }
+  }
+}

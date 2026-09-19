@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "guinea",
+    "iso2": "GN",
+    "name": "Guinea",
+    "defaultLeague": "guinea-national-team",
+    "leagues": {
+      "guinea-national-team": {
+        "slug": "guinea-national-team",
+        "name": "Guinea National Team",
+        "hash": "59e7e8cb",
+        "kind": "league",
+        "code": "GN"
+      }
+    },
+    "clubs": {}
+  }
+}

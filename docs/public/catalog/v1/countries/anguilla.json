@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "anguilla",
+    "iso2": "AI",
+    "name": "Anguilla",
+    "defaultLeague": "anguilla-national-team",
+    "leagues": {
+      "anguilla-national-team": {
+        "slug": "anguilla-national-team",
+        "name": "Anguilla National Team",
+        "hash": "c576a725",
+        "kind": "league",
+        "code": "AI"
+      }
+    },
+    "clubs": {}
+  }
+}

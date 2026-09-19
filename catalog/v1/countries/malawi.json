@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "malawi",
+    "iso2": "MW",
+    "name": "Malawi",
+    "defaultLeague": "malawi-national-team",
+    "leagues": {
+      "malawi-national-team": {
+        "slug": "malawi-national-team",
+        "name": "Malawi National Team",
+        "hash": "3ade0059",
+        "kind": "league",
+        "code": "MW"
+      }
+    },
+    "clubs": {}
+  }
+}

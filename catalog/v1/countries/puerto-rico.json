@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "puerto-rico",
+    "iso2": "PR",
+    "name": "Puerto Rico",
+    "defaultLeague": "liga-puerto-rico-apertura",
+    "leagues": {
+      "liga-puerto-rico-apertura": {
+        "slug": "liga-puerto-rico-apertura",
+        "name": "Liga Puerto Rico Apertura",
+        "hash": "70b010a0",
+        "kind": "league",
+        "code": "PR"
+      },
+      "puerto-rico-national-team": {
+        "slug": "puerto-rico-national-team",
+        "name": "Puerto Rico National Team",
+        "hash": "60f959ae",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "academia-quintana": {
+        "slug": "academia-quintana",
+        "name": "Academia Quintana",
+        "hash": "0fe850c1",
+        "league": "liga-puerto-rico-apertura"
+      },
+      "metropolitan-fa": {
+        "slug": "metropolitan-fa",
+        "name": "Metropolitan FA",
+        "hash": "1f2c4145",
+        "league": "liga-puerto-rico-apertura"
+      },
+      "ponce-fc": {
+        "slug": "ponce-fc",
+        "name": "Ponce FC",
+        "hash": "9d3d53b3",
+        "league": "liga-puerto-rico-apertura"
+      },
+      "puerto-rico-surf-sc": {
+        "slug": "puerto-rico-surf-sc",
+        "name": "Puerto Rico Surf SC",
+        "hash": "ed9127ed",
+        "league": "liga-puerto-rico-apertura"
+      },
+      "caguas-sporting-fc": {
+        "slug": "caguas-sporting-fc",
+        "name": "Caguas Sporting FC",
+        "hash": "92391b8a",
+        "league": "liga-puerto-rico-apertura"
+      },
+      "san-juan-fc": {
+        "slug": "san-juan-fc",
+        "name": "San Juan FC",
+        "hash": "387cad12",
+        "league": "liga-puerto-rico-apertura"
+      },
+      "ds-edusoccer": {
+        "slug": "ds-edusoccer",
+        "name": "DS Edusoccer",
+        "hash": "755a7a83",
+        "league": "liga-puerto-rico-apertura"
+      },
+      "ef-taurinos-de-cayey": {
+        "slug": "ef-taurinos-de-cayey",
+        "name": "EF Taurinos de Cayey",
+        "hash": "d5990634",
+        "league": "liga-puerto-rico-apertura"
+      },
+      "guayama-fc": {
+        "slug": "guayama-fc",
+        "name": "Guayama FC",
+        "hash": "6fd6e6da",
+        "league": "liga-puerto-rico-apertura"
+      },
+      "guaynabo-fc": {
+        "slug": "guaynabo-fc",
+        "name": "Guaynabo FC",
+        "hash": "599fbc2c",
+        "league": "liga-puerto-rico-apertura"
+      },
+      "fc-mayaguez": {
+        "slug": "fc-mayaguez",
+        "name": "FC Mayagüez",
+        "hash": "f74957cc",
+        "league": "liga-puerto-rico-apertura"
+      }
+    }
+  }
+}

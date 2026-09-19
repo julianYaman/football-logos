@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "canada",
+    "iso2": "CA",
+    "name": "Canada",
+    "defaultLeague": "canadian-premier-league",
+    "leagues": {
+      "canadian-premier-league": {
+        "slug": "canadian-premier-league",
+        "name": "Canadian Premier League",
+        "hash": "bd0e6f5e",
+        "kind": "league",
+        "code": "CA"
+      },
+      "canada-national-team": {
+        "slug": "canada-national-team",
+        "name": "Canada National Team",
+        "hash": "1ecbb8ed",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "forge": {
+        "slug": "forge",
+        "name": "Forge",
+        "hash": "e654e9e0",
+        "league": "canadian-premier-league"
+      },
+      "atletico-ottawa": {
+        "slug": "atletico-ottawa",
+        "name": "Atlético Ottawa",
+        "hash": "0fefa489",
+        "league": "canadian-premier-league"
+      },
+      "cavalry": {
+        "slug": "cavalry",
+        "name": "Cavalry",
+        "hash": "cd1685ba",
+        "league": "canadian-premier-league"
+      },
+      "hfx-wanderers": {
+        "slug": "hfx-wanderers",
+        "name": "HFX Wanderers",
+        "hash": "f1fc7ef4",
+        "league": "canadian-premier-league"
+      },
+      "pacific": {
+        "slug": "pacific",
+        "name": "Pacific",
+        "hash": "39f6ce13",
+        "league": "canadian-premier-league"
+      },
+      "vancouver-fc": {
+        "slug": "vancouver-fc",
+        "name": "Vancouver FC",
+        "hash": "130006b5",
+        "league": "canadian-premier-league"
+      },
+      "fc-supra-du-quebec": {
+        "slug": "fc-supra-du-quebec",
+        "name": "FC Supra du Québec",
+        "hash": "5b6810d5",
+        "league": "canadian-premier-league"
+      },
+      "inter-toronto-fc": {
+        "slug": "inter-toronto-fc",
+        "name": "Inter Toronto FC",
+        "hash": "ffb04867",
+        "league": "canadian-premier-league"
+      },
+      "york-united": {
+        "slug": "york-united",
+        "name": "York United",
+        "hash": "a6078d89",
+        "league": ""
+      },
+      "valour": {
+        "slug": "valour",
+        "name": "Valour",
+        "hash": "711c90c2",
+        "league": ""
+      },
+      "calgary-wild-fc": {
+        "slug": "calgary-wild-fc",
+        "name": "Calgary Wild FC",
+        "hash": "2c77557e",
+        "league": ""
+      },
+      "halifax-tides-fc": {
+        "slug": "halifax-tides-fc",
+        "name": "Halifax Tides FC",
+        "hash": "23b72414",
+        "league": ""
+      }
+    }
+  }
+}

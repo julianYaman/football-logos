@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "honduras",
+    "iso2": "HN",
+    "name": "Honduras",
+    "defaultLeague": "honduras-national-team",
+    "leagues": {
+      "honduras-national-team": {
+        "slug": "honduras-national-team",
+        "name": "Honduras National Team",
+        "hash": "d3f2108b",
+        "kind": "league",
+        "code": "HN"
+      }
+    },
+    "clubs": {}
+  }
+}

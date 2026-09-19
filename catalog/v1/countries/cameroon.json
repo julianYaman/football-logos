@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "cameroon",
+    "iso2": "CM",
+    "name": "Cameroon",
+    "defaultLeague": "cameroon-national-team",
+    "leagues": {
+      "cameroon-national-team": {
+        "slug": "cameroon-national-team",
+        "name": "Cameroon National Team",
+        "hash": "60645beb",
+        "kind": "league",
+        "code": "CM"
+      },
+      "cameroonian-football-federation": {
+        "slug": "cameroonian-football-federation",
+        "name": "Cameroonian Football Federation",
+        "hash": "13e6ef39",
+        "kind": "league"
+      }
+    },
+    "clubs": {}
+  }
+}

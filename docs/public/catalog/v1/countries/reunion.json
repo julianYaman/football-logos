@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "reunion",
+    "iso2": "RE",
+    "name": "Réunion",
+    "defaultLeague": "reunion-national-team",
+    "leagues": {
+      "reunion-national-team": {
+        "slug": "reunion-national-team",
+        "name": "Réunion National Team",
+        "hash": "8aafffa7",
+        "kind": "league",
+        "code": "RE"
+      }
+    },
+    "clubs": {
+      "saint-pauloise-fc": {
+        "slug": "saint-pauloise-fc",
+        "name": "Saint-Pauloise FC",
+        "hash": "ceac8346",
+        "league": ""
+      }
+    }
+  }
+}

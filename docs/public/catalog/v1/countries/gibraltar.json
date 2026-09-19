@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "gibraltar",
+    "iso2": "GI",
+    "name": "Gibraltar",
+    "defaultLeague": "gibraltar-national-team",
+    "leagues": {
+      "gibraltar-national-team": {
+        "slug": "gibraltar-national-team",
+        "name": "Gibraltar National Team",
+        "hash": "f2b89cca",
+        "kind": "league",
+        "code": "GI"
+      }
+    },
+    "clubs": {
+      "college": {
+        "slug": "college",
+        "name": "College",
+        "hash": "478954c8",
+        "league": ""
+      },
+      "europa": {
+        "slug": "europa",
+        "name": "Europa",
+        "hash": "447a5646",
+        "league": ""
+      },
+      "europa-point": {
+        "slug": "europa-point",
+        "name": "Europa Point",
+        "hash": "5c8b3294",
+        "league": ""
+      },
+      "glacis": {
+        "slug": "glacis",
+        "name": "Glacis",
+        "hash": "dc3347de",
+        "league": ""
+      },
+      "hound-dogs-fc": {
+        "slug": "hound-dogs-fc",
+        "name": "Hound Dogs FC",
+        "hash": "1968f055",
+        "league": ""
+      },
+      "lincoln-red-imps": {
+        "slug": "lincoln-red-imps",
+        "name": "Lincoln Red Imps",
+        "hash": "0ecf17e7",
+        "league": ""
+      },
+      "lions-gibraltar": {
+        "slug": "lions-gibraltar",
+        "name": "Lions Gibraltar",
+        "hash": "726d1c41",
+        "league": ""
+      },
+      "lynx": {
+        "slug": "lynx",
+        "name": "Lynx",
+        "hash": "1511ae5b",
+        "league": ""
+      },
+      "magpies": {
+        "slug": "magpies",
+        "name": "Magpies",
+        "hash": "8da14b1e",
+        "league": ""
+      },
+      "manchester-62": {
+        "slug": "manchester-62",
+        "name": "Manchester 62",
+        "hash": "5270a310",
+        "league": ""
+      },
+      "mons-calpe": {
+        "slug": "mons-calpe",
+        "name": "Mons Calpe",
+        "hash": "dd8101a9",
+        "league": ""
+      },
+      "st-joseph-s": {
+        "slug": "st-joseph-s",
+        "name": "St Joseph&#39;s",
+        "hash": "8f73c27a",
+        "league": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "australia",
+    "iso2": "AU",
+    "name": "Australia",
+    "defaultLeague": "a-league",
+    "leagues": {
+      "a-league": {
+        "slug": "a-league",
+        "name": "A-League",
+        "hash": "eca13dc8",
+        "kind": "league",
+        "code": "AU"
+      },
+      "australia-national-team": {
+        "slug": "australia-national-team",
+        "name": "Australia National Team",
+        "hash": "529324b3",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "adelaide-united": {
+        "slug": "adelaide-united",
+        "name": "Adelaide United FC",
+        "hash": "e09ecd91",
+        "league": "a-league"
+      },
+      "brisbane-roar": {
+        "slug": "brisbane-roar",
+        "name": "Brisbane Roar FC",
+        "hash": "687e8062",
+        "league": "a-league"
+      },
+      "central-coast-mariners": {
+        "slug": "central-coast-mariners",
+        "name": "Central Coast Mariners FC",
+        "hash": "903a7980",
+        "league": "a-league"
+      },
+      "macarthur-fc": {
+        "slug": "macarthur-fc",
+        "name": "Macarthur FC",
+        "hash": "e34d86c9",
+        "league": "a-league"
+      },
+      "melbourne-city": {
+        "slug": "melbourne-city",
+        "name": "Melbourne City FC",
+        "hash": "384a4e43",
+        "league": "a-league"
+      },
+      "melbourne-victory": {
+        "slug": "melbourne-victory",
+        "name": "Melbourne Victory FC",
+        "hash": "4ecac2e3",
+        "league": "a-league"
+      },
+      "newcastle-jets": {
+        "slug": "newcastle-jets",
+        "name": "Newcastle Jets FC",
+        "hash": "a4237d2c",
+        "league": "a-league"
+      },
+      "perth-glory": {
+        "slug": "perth-glory",
+        "name": "Perth Glory FC",
+        "hash": "ba75d480",
+        "league": "a-league"
+      },
+      "sydney-fc": {
+        "slug": "sydney-fc",
+        "name": "Sydney FC",
+        "hash": "67ec9509",
+        "league": "a-league"
+      },
+      "western-sydney-wanderers": {
+        "slug": "western-sydney-wanderers",
+        "name": "Western Sydney Wanderers FC",
+        "hash": "9d941252",
+        "league": "a-league"
+      },
+      "football-australia": {
+        "slug": "football-australia",
+        "name": "Football Australia",
+        "hash": "07c0d03c",
+        "league": ""
+      },
+      "canberra-united": {
+        "slug": "canberra-united",
+        "name": "Canberra United FC",
+        "hash": "bab053f6",
+        "league": ""
+      },
+      "western-united": {
+        "slug": "western-united",
+        "name": "Western United FC",
+        "hash": "6983cb53",
+        "league": ""
+      },
+      "south-melbourne": {
+        "slug": "south-melbourne",
+        "name": "South Melbourne",
+        "hash": "f8bb9d44",
+        "league": ""
+      },
+      "wollongong-wolves": {
+        "slug": "wollongong-wolves",
+        "name": "Wollongong Wolves",
+        "hash": "0d5c44c7",
+        "league": ""
+      }
+    }
+  }
+}

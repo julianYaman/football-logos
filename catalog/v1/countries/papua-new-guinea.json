@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "papua-new-guinea",
+    "iso2": "PG",
+    "name": "Papua New Guinea",
+    "defaultLeague": "papua-new-guinea-national-team",
+    "leagues": {
+      "papua-new-guinea-national-team": {
+        "slug": "papua-new-guinea-national-team",
+        "name": "Papua New Guinea National Team",
+        "hash": "a58b3cf8",
+        "kind": "league",
+        "code": "PG"
+      }
+    },
+    "clubs": {}
+  }
+}

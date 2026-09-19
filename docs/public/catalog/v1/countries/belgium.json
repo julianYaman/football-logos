@@ -1,0 +1,261 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "belgium",
+    "iso2": "BE",
+    "name": "Belgium",
+    "defaultLeague": "jupiler-pro-league",
+    "leagues": {
+      "jupiler-pro-league": {
+        "slug": "jupiler-pro-league",
+        "name": "Jupiler Pro League",
+        "hash": "93c1eb39",
+        "kind": "league",
+        "code": "BE"
+      },
+      "challenger-pro-league": {
+        "slug": "challenger-pro-league",
+        "name": "Challenger Pro League",
+        "hash": "d74f9fca",
+        "kind": "league"
+      },
+      "belgium-national-team": {
+        "slug": "belgium-national-team",
+        "name": "Belgium National Team",
+        "hash": "7eb3e80b",
+        "kind": "league"
+      },
+      "belgian-pro-league": {
+        "slug": "belgian-pro-league",
+        "name": "Belgian Pro League",
+        "hash": "af260e34",
+        "kind": "league"
+      },
+      "belgian-cup": {
+        "slug": "belgian-cup",
+        "name": "Belgian Cup",
+        "hash": "9e6131c0",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "anderlecht": {
+        "slug": "anderlecht",
+        "name": "RSC Anderlecht",
+        "hash": "b94329d9",
+        "league": "jupiler-pro-league"
+      },
+      "antwerp": {
+        "slug": "antwerp",
+        "name": "Royal Antwerp FC",
+        "hash": "89e84f75",
+        "league": "jupiler-pro-league"
+      },
+      "cercle-brugge": {
+        "slug": "cercle-brugge",
+        "name": "Cercle Brugge KSV",
+        "hash": "6419c71e",
+        "league": "jupiler-pro-league"
+      },
+      "club-brugge": {
+        "slug": "club-brugge",
+        "name": "Club Brugge",
+        "hash": "ad7d3798",
+        "league": "jupiler-pro-league"
+      },
+      "genk": {
+        "slug": "genk",
+        "name": "KRC Genk",
+        "hash": "c28e8502",
+        "league": "jupiler-pro-league"
+      },
+      "gent": {
+        "slug": "gent",
+        "name": "KAA Gent",
+        "hash": "b32c5beb",
+        "league": "jupiler-pro-league"
+      },
+      "mechelen": {
+        "slug": "mechelen",
+        "name": "KV Mechelen",
+        "hash": "d3df8905",
+        "league": "jupiler-pro-league"
+      },
+      "oud-heverlee-leuven": {
+        "slug": "oud-heverlee-leuven",
+        "name": "Oud-Heverlee Leuven",
+        "hash": "5058093b",
+        "league": "jupiler-pro-league"
+      },
+      "raal-la-louviere": {
+        "slug": "raal-la-louviere",
+        "name": "RAAL La Louvière",
+        "hash": "49dba7cc",
+        "league": "jupiler-pro-league"
+      },
+      "sint-truidense": {
+        "slug": "sint-truidense",
+        "name": "Sint-Truidense VV",
+        "hash": "49b7c951",
+        "league": "jupiler-pro-league"
+      },
+      "charleroi": {
+        "slug": "charleroi",
+        "name": "Royal Charleroi S.C.",
+        "hash": "753a5f31",
+        "league": "jupiler-pro-league"
+      },
+      "standard-liege": {
+        "slug": "standard-liege",
+        "name": "Standard Liège",
+        "hash": "9e24459d",
+        "league": "jupiler-pro-league"
+      },
+      "union-saint-gilloise": {
+        "slug": "union-saint-gilloise",
+        "name": "Union Saint-Gilloise",
+        "hash": "50eea2a3",
+        "league": "jupiler-pro-league"
+      },
+      "westerlo": {
+        "slug": "westerlo",
+        "name": "KVC Westerlo",
+        "hash": "13e09113",
+        "league": "jupiler-pro-league"
+      },
+      "zulte-waregem": {
+        "slug": "zulte-waregem",
+        "name": "Zulte Waregem",
+        "hash": "fcf32549",
+        "league": "jupiler-pro-league"
+      },
+      "beveren": {
+        "slug": "beveren",
+        "name": "S.K. Beveren",
+        "hash": "cdaec87f",
+        "league": "jupiler-pro-league"
+      },
+      "kortrijk": {
+        "slug": "kortrijk",
+        "name": "KV Kortrijk",
+        "hash": "53b58cc0",
+        "league": "jupiler-pro-league"
+      },
+      "lommel": {
+        "slug": "lommel",
+        "name": "Lommel SK",
+        "hash": "57d1670a",
+        "league": "jupiler-pro-league"
+      },
+      "fcv-dender-eh": {
+        "slug": "fcv-dender-eh",
+        "name": "FCV Dender EH",
+        "hash": "237a3edb",
+        "league": "challenger-pro-league"
+      },
+      "beerschot-wilrijk": {
+        "slug": "beerschot-wilrijk",
+        "name": "Beerschot",
+        "hash": "6204312f",
+        "league": "challenger-pro-league"
+      },
+      "eupen": {
+        "slug": "eupen",
+        "name": "KAS Eupen",
+        "hash": "612afd94",
+        "league": "challenger-pro-league"
+      },
+      "seraing": {
+        "slug": "seraing",
+        "name": "RFC Seraing",
+        "hash": "dac35194",
+        "league": "challenger-pro-league"
+      },
+      "rfc-liege": {
+        "slug": "rfc-liege",
+        "name": "RFC Liège",
+        "hash": "9894b817",
+        "league": "challenger-pro-league"
+      },
+      "lokeren": {
+        "slug": "lokeren",
+        "name": "KSC Lokeren-Temse",
+        "hash": "ad5fead8",
+        "league": "challenger-pro-league"
+      },
+      "francs-borains": {
+        "slug": "francs-borains",
+        "name": "Royal Francs Borains",
+        "hash": "3d378ee8",
+        "league": "challenger-pro-league"
+      },
+      "patro-eisden-maasmechelen": {
+        "slug": "patro-eisden-maasmechelen",
+        "name": "Patro Eisden Maasmechelen",
+        "hash": "9a435ac1",
+        "league": "challenger-pro-league"
+      },
+      "lierse": {
+        "slug": "lierse",
+        "name": "K. Lierse S.K.",
+        "hash": "ed6eb1d2",
+        "league": "challenger-pro-league"
+      },
+      "virton": {
+        "slug": "virton",
+        "name": "Royal Excelsior Virton",
+        "hash": "d5949b98",
+        "league": "challenger-pro-league"
+      },
+      "sporting-hasselt": {
+        "slug": "sporting-hasselt",
+        "name": "Sporting Hasselt",
+        "hash": "43dfcecc",
+        "league": "challenger-pro-league"
+      },
+      "dessel": {
+        "slug": "dessel",
+        "name": "KFC Dessel Sport",
+        "hash": "3583c565",
+        "league": ""
+      },
+      "oostende": {
+        "slug": "oostende",
+        "name": "KV Oostende",
+        "hash": "8a929321",
+        "league": ""
+      },
+      "rupel-boom": {
+        "slug": "rupel-boom",
+        "name": "K. Rupel Boom F.C.",
+        "hash": "d49dfcf8",
+        "league": ""
+      },
+      "rwd-molenbeek": {
+        "slug": "rwd-molenbeek",
+        "name": "RWDM Brussels",
+        "hash": "ddba13b6",
+        "league": ""
+      },
+      "olympic-charleroi": {
+        "slug": "olympic-charleroi",
+        "name": "Olympic Charleroi",
+        "hash": "1687c5ff",
+        "league": ""
+      },
+      "kmsk-deinze": {
+        "slug": "kmsk-deinze",
+        "name": "KMSK Deinze",
+        "hash": "f26258ec",
+        "league": ""
+      },
+      "eendracht-wervik": {
+        "slug": "eendracht-wervik",
+        "name": "Eendracht Wervik",
+        "hash": "0095d589",
+        "league": ""
+      }
+    }
+  }
+}

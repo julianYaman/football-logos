@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "montenegro",
+    "iso2": "ME",
+    "name": "Montenegro",
+    "defaultLeague": "montenegro-national-team",
+    "leagues": {
+      "montenegro-national-team": {
+        "slug": "montenegro-national-team",
+        "name": "Montenegro National Team",
+        "hash": "81a1cd7d",
+        "kind": "league",
+        "code": "ME"
+      }
+    },
+    "clubs": {
+      "arsenal-tivat": {
+        "slug": "arsenal-tivat",
+        "name": "Arsenal Tivat",
+        "hash": "45f0af73",
+        "league": ""
+      },
+      "bokelj": {
+        "slug": "bokelj",
+        "name": "Bokelj",
+        "hash": "de60602f",
+        "league": ""
+      },
+      "buducnost-podgorica": {
+        "slug": "buducnost-podgorica",
+        "name": "Budućnost Podgorica",
+        "hash": "1ae10b5d",
+        "league": ""
+      },
+      "decic": {
+        "slug": "decic",
+        "name": "Dečić",
+        "hash": "4ebc1c9c",
+        "league": ""
+      },
+      "fk-podgorica": {
+        "slug": "fk-podgorica",
+        "name": "FK Podgorica",
+        "hash": "295bb6ba",
+        "league": ""
+      },
+      "iskra": {
+        "slug": "iskra",
+        "name": "Iskra",
+        "hash": "c0b3d496",
+        "league": ""
+      },
+      "jezero": {
+        "slug": "jezero",
+        "name": "Jezero",
+        "hash": "e34bef4d",
+        "league": ""
+      },
+      "mornar": {
+        "slug": "mornar",
+        "name": "Mornar",
+        "hash": "941d5456",
+        "league": ""
+      },
+      "petrovac": {
+        "slug": "petrovac",
+        "name": "Petrovac",
+        "hash": "b3e65bde",
+        "league": ""
+      },
+      "rudar-pljevlja": {
+        "slug": "rudar-pljevlja",
+        "name": "Rudar Pljevlja",
+        "hash": "f11b0003",
+        "league": ""
+      },
+      "sutjeska": {
+        "slug": "sutjeska",
+        "name": "Sutjeska",
+        "hash": "557f0042",
+        "league": ""
+      }
+    }
+  }
+}

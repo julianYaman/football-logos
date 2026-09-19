@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "afghanistan",
+    "iso2": "AF",
+    "name": "Afghanistan",
+    "defaultLeague": "afghanistan-national-team",
+    "leagues": {
+      "afghanistan-national-team": {
+        "slug": "afghanistan-national-team",
+        "name": "Afghanistan National Team",
+        "hash": "32399539",
+        "kind": "league",
+        "code": "AF"
+      }
+    },
+    "clubs": {}
+  }
+}

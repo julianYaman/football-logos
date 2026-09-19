@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "st-kitts-and-nevis",
+    "iso2": "KN",
+    "name": "St Kitts and Nevis",
+    "defaultLeague": "st-kitts-and-nevis-national-team",
+    "leagues": {
+      "st-kitts-and-nevis-national-team": {
+        "slug": "st-kitts-and-nevis-national-team",
+        "name": "St Kitts and Nevis National Team",
+        "hash": "0b52884e",
+        "kind": "league",
+        "code": "KN"
+      }
+    },
+    "clubs": {}
+  }
+}

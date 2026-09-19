@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "gambia",
+    "iso2": "GM",
+    "name": "Gambia",
+    "defaultLeague": "gambia-national-team",
+    "leagues": {
+      "gambia-national-team": {
+        "slug": "gambia-national-team",
+        "name": "Gambia National Team",
+        "hash": "e98b4b85",
+        "kind": "league",
+        "code": "GM"
+      }
+    },
+    "clubs": {}
+  }
+}

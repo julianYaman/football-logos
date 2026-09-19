@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "armenia",
+    "iso2": "AM",
+    "name": "Armenia",
+    "defaultLeague": "armenian-premier-league",
+    "leagues": {
+      "armenian-premier-league": {
+        "slug": "armenian-premier-league",
+        "name": "Armenian Premier League",
+        "hash": "183b27bc",
+        "kind": "league",
+        "code": "AM"
+      },
+      "armenia-national-team": {
+        "slug": "armenia-national-team",
+        "name": "Armenia National Team",
+        "hash": "2d39bd55",
+        "kind": "league"
+      }
+    },
+    "clubs": {
+      "alashkert": {
+        "slug": "alashkert",
+        "name": "Alashkert",
+        "hash": "6fe9661a",
+        "league": "armenian-premier-league"
+      },
+      "ararat": {
+        "slug": "ararat",
+        "name": "Ararat",
+        "hash": "fc1fc01f",
+        "league": "armenian-premier-league"
+      },
+      "ararat-armenia": {
+        "slug": "ararat-armenia",
+        "name": "Ararat-Armenia",
+        "hash": "e8b04e5a",
+        "league": "armenian-premier-league"
+      },
+      "gandzasar": {
+        "slug": "gandzasar",
+        "name": "Gandzasar",
+        "hash": "a93ba4ba",
+        "league": "armenian-premier-league"
+      },
+      "noah": {
+        "slug": "noah",
+        "name": "Noah",
+        "hash": "fc3e7cf4",
+        "league": "armenian-premier-league"
+      },
+      "pyunik": {
+        "slug": "pyunik",
+        "name": "Pyunik",
+        "hash": "fb58e0ea",
+        "league": "armenian-premier-league"
+      },
+      "shirak": {
+        "slug": "shirak",
+        "name": "Shirak",
+        "hash": "4466f4ee",
+        "league": "armenian-premier-league"
+      },
+      "urartu": {
+        "slug": "urartu",
+        "name": "Urartu",
+        "hash": "f31a9a46",
+        "league": "armenian-premier-league"
+      },
+      "van": {
+        "slug": "van",
+        "name": "Van",
+        "hash": "32eed082",
+        "league": "armenian-premier-league"
+      },
+      "bkma-yerevan": {
+        "slug": "bkma-yerevan",
+        "name": "BKMA Yerevan",
+        "hash": "bbe6e7fc",
+        "league": "armenian-premier-league"
+      },
+      "sardarapat-fc": {
+        "slug": "sardarapat-fc",
+        "name": "Sardarapat FC",
+        "hash": "1074d34e",
+        "league": "armenian-premier-league"
+      },
+      "fc-syunik": {
+        "slug": "fc-syunik",
+        "name": "FC Syunik",
+        "hash": "9b164da3",
+        "league": "armenian-premier-league"
+      }
+    }
+  }
+}

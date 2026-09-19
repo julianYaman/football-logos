@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "saint-lucia",
+    "iso2": "LC",
+    "name": "Saint Lucia",
+    "defaultLeague": "saint-lucia-national-team",
+    "leagues": {
+      "saint-lucia-national-team": {
+        "slug": "saint-lucia-national-team",
+        "name": "Saint Lucia National Team",
+        "hash": "3ae7ad04",
+        "kind": "league",
+        "code": "LC"
+      }
+    },
+    "clubs": {}
+  }
+}

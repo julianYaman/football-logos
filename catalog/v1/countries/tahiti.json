@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "country": {
+    "slug": "tahiti",
+    "iso2": "TAH",
+    "name": "Tahiti",
+    "defaultLeague": "tahiti-national-team",
+    "leagues": {
+      "tahiti-national-team": {
+        "slug": "tahiti-national-team",
+        "name": "Tahiti National Team",
+        "hash": "11870932",
+        "kind": "league",
+        "code": "TAH"
+      }
+    },
+    "clubs": {}
+  }
+}
