@@ -14,10 +14,5 @@ export default defineConfig({
   },
   test: {
     environment: "node",
-    environmentMatchGlobs: [
-      ["src/react/**", "jsdom"],
-      ["src/vue/**", "jsdom"],
-      ["src/svelte/**", "jsdom"],
-    ],
   },
 });
