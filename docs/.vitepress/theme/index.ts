@@ -2,6 +2,7 @@ import { h } from "vue";
 import DefaultTheme from "vitepress/theme";
 import CatalogSlug from "./CatalogSlug.vue";
 import FrameworkExample from "./FrameworkExample.vue";
+import GitHubStars from "./GitHubStars.vue";
 import HeroVersion from "./HeroVersion.vue";
 import InstallCommand from "./InstallCommand.vue";
 import type { Theme } from "vitepress";
@@ -17,6 +18,8 @@ const theme: Theme = {
     return h(DefaultTheme.Layout, null, {
       "home-hero-before": () => h(HeroVersion),
       "home-hero-image": () => h(InstallCommand),
+      "nav-bar-content-after": () => h(GitHubStars, { variant: "nav" }),
+      "nav-screen-content-after": () => h(GitHubStars, { variant: "screen" }),
     });
   },
 };
