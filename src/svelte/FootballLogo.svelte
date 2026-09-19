@@ -16,22 +16,20 @@
 
   let record: ResolvedLogo | null = null;
   let src: string | null = null;
-  let failed = false;
 
   $: {
     try {
       record = resolveFootballLogo({ country, club });
       src = getFootballLogoUrl({ country, club });
-      failed = false;
     } catch (error) {
+      if (!(error instanceof LogoResolveError)) throw error;
       record = null;
       src = null;
-      failed = error instanceof LogoResolveError;
     }
   }
 </script>
 
-{#if src && record && !failed}
+{#if src && record}
   <img
     {src}
     width={size}

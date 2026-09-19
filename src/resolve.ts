@@ -2,17 +2,18 @@ import type {
   Catalog,
   CountryRecord,
   LeagueRecord,
+  LogoResolveCode,
   LookupInput,
   ResolvedLogo,
 } from "./types.js";
 
-export const CDN_SIZE = 512;
-export const DEFAULT_ASSET_BASE = "https://assets.football-logos.cc/logos";
+const CDN_SIZE = 512;
+const DEFAULT_ASSET_BASE = "https://assets.football-logos.cc/logos";
 
 export class LogoResolveError extends Error {
-  readonly code: "INVALID" | "NOT_FOUND" | "AMBIGUOUS";
+  readonly code: LogoResolveCode;
 
-  constructor(code: "INVALID" | "NOT_FOUND" | "AMBIGUOUS", message: string) {
+  constructor(code: LogoResolveCode, message: string) {
     super(message);
     this.name = "LogoResolveError";
     this.code = code;
@@ -302,7 +303,7 @@ function findLeague(leagueInput: string, country: CountryRecord) {
   return undefined;
 }
 
-export function normalizeKey(value: string): string {
+function normalizeKey(value: string): string {
   return String(value ?? "")
     .normalize("NFKD")
     .replace(/[\u0300-\u036f]/g, "")

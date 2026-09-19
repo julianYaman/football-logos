@@ -114,7 +114,7 @@ export function extractLogos(html, countrySlug) {
 export function classifyLogos(logos, spec) {
   const leagues = {};
   const clubs = {};
-  const sectionToLeague = { ...(spec.sectionAliases ?? {}) };
+  const sectionToLeague = {};
   const firstInSection = new Set();
   const seenSection = new Set();
 
@@ -125,7 +125,6 @@ export function classifyLogos(logos, spec) {
   }
 
   for (const logo of logos) {
-    if (spec.onlyPrefix && !logo.slug.startsWith(spec.onlyPrefix)) continue;
     const name = spec.leagueNames?.[logo.slug] || logo.name;
     const league = {
       slug: logo.slug,

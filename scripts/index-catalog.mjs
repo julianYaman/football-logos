@@ -131,7 +131,6 @@ function specFor(slug, directory) {
     codes: override.codes,
     leagueNames: override.leagueNames,
     allAsLeagues: override.allAsLeagues === true,
-    onlyPrefix: override.onlyPrefix,
   };
 }
 
