@@ -1,21 +1,23 @@
-# Publishes to npm when a GitHub Release is published.
+# Stages the package on npm when a GitHub Release is published.
+# A maintainer must then approve it (2FA) before it is installable:
+#   npm stage list football-logos
+#   npm stage approve <stage-id>
 #
 # How this works:
 # 1. Bump `version` in package.json, commit, and push.
 # 2. Create a GitHub Release whose tag is `v<that version>` (for example v0.2.0).
 # 3. This workflow checks out the tagged commit, verifies package.json matches
-#    the tag, then runs `npm publish --provenance --access public`.
+#    the tag, then runs `npm stage publish --provenance --access public`.
 #
-# Auth: npm trusted publishing (OIDC) is preferred — on npmjs.com, add this
-# GitHub repo and this workflow filename as a trusted publisher. A classic
-# Automation token also works if you set the `NPM_TOKEN` repository secret.
-# Do not set NODE_AUTH_TOKEN when using only OIDC trusted publishing.
+# Auth: npm trusted publishing (OIDC). On npmjs.com, add this GitHub repo and
+# this workflow filename as a trusted publisher with "npm stage publish" only.
 
 name: Publish npm
 
 on:
   release:
     types: [published]
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -39,6 +41,7 @@ jobs:
       - run: npm install -g npm@11.19.0
       - run: npm ci
       - name: Check package version matches release tag
+        if: github.event_name == 'release'
         run: |
           set -euo pipefail
           TAG="${GITHUB_REF_NAME#v}"
@@ -50,12 +53,5 @@ jobs:
           fi
       - run: npm test
       - run: npm run build
-      - name: Publish
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-        run: |
-          set -euo pipefail
-          if [ -z "${NODE_AUTH_TOKEN}" ]; then
-            unset NODE_AUTH_TOKEN
-          fi
-          npm publish --provenance --access public
+      - name: Stage publish
+        run: npm stage publish --provenance --access public
