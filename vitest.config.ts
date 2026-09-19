@@ -11,13 +11,9 @@ export default defineConfig({
         new URL("./src/index.ts", import.meta.url),
       ),
     },
+    conditions: ["browser", "development", "import"],
   },
   test: {
     environment: "node",
-    environmentMatchGlobs: [
-      ["src/react/**", "jsdom"],
-      ["src/vue/**", "jsdom"],
-      ["src/svelte/**", "jsdom"],
-    ],
   },
 });
