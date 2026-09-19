@@ -35,12 +35,26 @@
   margin-inline: auto;
 }
 
+.hero-title-row {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
+  flex-wrap: wrap;
+  width: fit-content;
+  max-width: 100%;
+  margin-inline: auto;
+}
+
+.hero-title-row .name {
+  margin-inline: 0;
+}
+
 .hero-version {
   display: inline-flex;
   align-items: center;
-  align-self: flex-start;
+  flex-shrink: 0;
   width: max-content;
-  margin: 0.35rem 0 0.85rem;
+  margin: 0;
   padding: 0.15rem 0.6rem;
   color: var(--vp-c-brand-1);
   font-size: 0.8125rem;
@@ -68,7 +82,8 @@
 
   .VPHero:has(.hero-install) .name,
   .VPHero:has(.hero-install) .text,
-  .VPHero:has(.hero-install) .tagline {
+  .VPHero:has(.hero-install) .tagline,
+  .hero-title-row {
     margin-inline: 0;
   }
 
@@ -79,10 +94,6 @@
   .VPHero:has(.hero-install) .hero-install {
     margin-inline: 0;
     max-width: none;
-  }
-
-  .hero-version {
-    margin-inline: 0;
   }
 }
 
