@@ -1,9 +1,5 @@
 ---
-import {
-  getFootballLogoUrl,
-  LogoResolveError,
-  resolveFootballLogo,
-} from "football-logos";
+import { LogoResolveError, resolveFootballLogo } from "football-logos";
 
 interface Props {
   country: string;
@@ -30,7 +26,7 @@ let name = alt ?? "Unknown football logo";
 
 try {
   const record = resolveFootballLogo({ country, club });
-  src = getFootballLogoUrl({ country, club });
+  src = record.url;
   name = alt ?? record.name;
 } catch (error) {
   if (!(error instanceof LogoResolveError)) throw error;

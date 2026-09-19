@@ -18,7 +18,6 @@ export type LeagueRecord = {
   slug: string;
   name: string;
   hash: string;
-  kind: "league";
   code?: string;
 };
 
@@ -48,5 +47,6 @@ export type ResolvedLogo = {
   name: string;
   hash: string;
   pagePath: string;
+  url: string;
   league?: string;
 };

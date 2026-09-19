@@ -25,14 +25,12 @@ const catalog: Catalog = {
           slug: "bundesliga",
           name: "Bundesliga",
           hash: "24d9c6f9",
-          kind: "league",
           code: "DE",
         },
         "2-bundesliga": {
           slug: "2-bundesliga",
           name: "2. Bundesliga",
           hash: "11755b17",
-          kind: "league",
           code: "GER2",
         },
       },
@@ -67,14 +65,12 @@ const catalog: Catalog = {
           slug: "english-premier-league",
           name: "English Premier League",
           hash: "b597f797",
-          kind: "league",
           code: "ENG",
         },
         "efl-championship": {
           slug: "efl-championship",
           name: "EFL Championship",
           hash: "2766b536",
-          kind: "league",
           code: "ENG2",
         },
       },
@@ -157,11 +153,14 @@ describe("resolveFootballLogo", () => {
   });
 
   it("builds a hashed 512 CDN URL", () => {
+    const url =
+      "https://assets.football-logos.cc/logos/england/512x512/liverpool.bc7f4063.png";
     expect(
       getFootballLogoUrl({ country: "england", club: "liverpool" }),
-    ).toBe(
-      "https://assets.football-logos.cc/logos/england/512x512/liverpool.bc7f4063.png",
-    );
+    ).toBe(url);
+    expect(
+      resolveFootballLogo({ country: "england", club: "liverpool" }).url,
+    ).toBe(url);
   });
 
   it("does not resolve club nicknames", () => {

@@ -1,10 +1,6 @@
 <script setup lang="ts">
 import { computed, useAttrs } from "vue";
-import {
-  getFootballLogoUrl,
-  LogoResolveError,
-  resolveFootballLogo,
-} from "football-logos";
+import { LogoResolveError, resolveFootballLogo } from "football-logos";
 
 defineOptions({ inheritAttrs: false });
 
@@ -28,17 +24,10 @@ const attrs = useAttrs();
 
 const resolved = computed(() => {
   try {
-    const record = resolveFootballLogo({
+    return resolveFootballLogo({
       country: props.country,
       club: props.club,
     });
-    return {
-      record,
-      src: getFootballLogoUrl({
-        country: props.country,
-        club: props.club,
-      }),
-    };
   } catch (error) {
     if (error instanceof LogoResolveError) return null;
     throw error;
@@ -50,10 +39,10 @@ const resolved = computed(() => {
   <img
     v-if="resolved"
     v-bind="attrs"
-    :src="resolved.src"
+    :src="resolved.url"
     :width="size"
     :height="size"
-    :alt="alt ?? resolved.record.name"
+    :alt="alt ?? resolved.name"
     :loading="loading"
     :decoding="decoding"
   />

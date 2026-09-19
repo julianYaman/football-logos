@@ -1,6 +1,6 @@
 # resolveFootballLogo()
 
-Resolves a country and optional club to a crest record: slug, name, hash, and football-logos.cc page path.
+Resolves a country and optional club to a crest record: slug, name, hash, PNG URL, and football-logos.cc page path.
 
 ```ts
 import { resolveFootballLogo } from "football-logos";
@@ -23,10 +23,11 @@ function resolveFootballLogo(input: {
   name: string;
   hash: string;
   pagePath: string;
+  url: string;
   league?: string;
 };
 ```
 
 Official names resolve as `club` as well as slugs. Nicknames do not.
 
-Throws `LogoResolveError` (`INVALID`, `NOT_FOUND`, or `AMBIGUOUS`) when the lookup fails. [`getFootballLogoUrl()`](./get-football-logo-url) builds the PNG URL from the same record.
+Throws `LogoResolveError` (`INVALID`, `NOT_FOUND`, or `AMBIGUOUS`) when the lookup fails. `url` is the same hashed PNG [`getFootballLogoUrl()`](./get-football-logo-url) returns.

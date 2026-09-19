@@ -1,6 +1,5 @@
 <script lang="ts">
   import {
-    getFootballLogoUrl,
     LogoResolveError,
     resolveFootballLogo,
     type ResolvedLogo,
@@ -15,23 +14,20 @@
   export let decoding: "async" | "auto" | "sync" = "async";
 
   let record: ResolvedLogo | null = null;
-  let src: string | null = null;
 
   $: {
     try {
       record = resolveFootballLogo({ country, club });
-      src = getFootballLogoUrl({ country, club });
     } catch (error) {
       if (!(error instanceof LogoResolveError)) throw error;
       record = null;
-      src = null;
     }
   }
 </script>
 
-{#if src && record}
+{#if record}
   <img
-    {src}
+    src={record.url}
     width={size}
     height={size}
     alt={alt ?? record.name}

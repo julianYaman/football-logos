@@ -2,11 +2,7 @@ import type {
   ImgHTMLAttributes,
   ReactNode,
 } from "react";
-import {
-  getFootballLogoUrl,
-  LogoResolveError,
-  resolveFootballLogo,
-} from "../index.js";
+import { LogoResolveError, resolveFootballLogo } from "../index.js";
 
 export type FootballLogoProps = {
   country: string;
@@ -30,10 +26,9 @@ export function FootballLogo({
 }: FootballLogoProps) {
   try {
     const record = resolveFootballLogo({ country, club });
-    const src = getFootballLogoUrl({ country, club });
     return (
       <img
-        src={src}
+        src={record.url}
         width={size}
         height={size}
         alt={alt ?? record.name}

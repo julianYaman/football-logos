@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- `resolveFootballLogo()` now includes the hashed PNG `url` on the record; framework wrappers use that instead of a second lookup
+
 ## [0.1.0] - 2026-09-19
 
 ### Added

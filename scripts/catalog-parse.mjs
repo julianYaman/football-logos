@@ -4,20 +4,13 @@ const SKIP_HEADING =
   /^(logos by country|logos by league|official shirt partners)$/i;
 
 export function isCompetitionSlug(slug, sectionSlug) {
-  if (!slug) return true;
   if (sectionSlug && slug === sectionSlug) return true;
   if (COMPETITION_SLUG.test(slug)) return true;
-  if (/^\d+-/.test(slug) && /liga|bundesliga|league|lig$/.test(slug)) return true;
-  if (/^(serie|ligue|national)-[a-d0-9]+$/i.test(slug)) return true;
   if (/^(eerste|tweede|challenger)-/.test(slug)) return true;
-  if (/^[123]-lig$/.test(slug)) return true;
-  if (/^(1|2)-liga$/.test(slug)) return true;
   if (/-national-team$/.test(slug)) return true;
-  if (/(association|federation|verband|federacja|epo)$/.test(slug)) return true;
-  if (/^brazilian-serie-[a-d]$/.test(slug)) return true;
-  if (/^(mls|nwsl|mls-cup)$/.test(slug)) return true;
-  if (/^(j1|j2|j3|k)-league/.test(slug)) return true;
-  if (/^(a-league|ispl|isl|i-league)$/.test(slug)) return true;
+  if (/^national-[a-d0-9]+$/i.test(slug)) return true;
+  if (/epo$/.test(slug)) return true;
+  if (/^(ispl|isl)$/.test(slug)) return true;
   return false;
 }
 
@@ -130,7 +123,6 @@ export function classifyLogos(logos, spec) {
       slug: logo.slug,
       name,
       hash: logo.hash,
-      kind: "league",
     };
     const code =
       spec.codes?.[logo.slug] ??

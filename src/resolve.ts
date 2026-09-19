@@ -47,7 +47,7 @@ export function resolveFootballLogo(
   }
 
   if (input.club == null || input.club === "") {
-    return leagueLogo(match.country, match.league, match.code);
+    return leagueLogo(match.country, match.league, match.code, catalog);
   }
 
   const club = findClub(
@@ -56,16 +56,19 @@ export function resolveFootballLogo(
     match.scoped ? match.league.slug : undefined,
   );
   if (club) {
-    return {
-      kind: "club",
-      country: match.country.slug,
-      iso2: match.code,
-      slug: club.slug,
-      name: club.name,
-      hash: club.hash,
-      pagePath: `/${match.country.slug}/${club.slug}/`,
-      league: club.league || undefined,
-    };
+    return withUrl(
+      {
+        kind: "club",
+        country: match.country.slug,
+        iso2: match.code,
+        slug: club.slug,
+        name: club.name,
+        hash: club.hash,
+        pagePath: `/${match.country.slug}/${club.slug}/`,
+        league: club.league || undefined,
+      },
+      catalog,
+    );
   }
 
   const league = findLeague(input.club, match.country);
@@ -74,6 +77,7 @@ export function resolveFootballLogo(
       match.country,
       league,
       league.code ?? match.country.iso2,
+      catalog,
     );
   }
 
@@ -88,8 +92,9 @@ export function getFootballLogoUrl(
   catalog: Catalog,
 ): string {
   const record = resolveFootballLogo(input, catalog);
-  const base = input.assetBase ?? catalog.assetBase ?? DEFAULT_ASSET_BASE;
-  return `${base}/${record.country}/${CDN_SIZE}x${CDN_SIZE}/${record.slug}.${record.hash}.png`;
+  return input.assetBase
+    ? assetUrl(record, catalog, input.assetBase)
+    : record.url;
 }
 
 export function listCountries(catalog: Catalog) {
@@ -179,20 +184,41 @@ export function findCountry(
   return findCountryMatch(countryInput, catalog)?.country;
 }
 
+function assetUrl(
+  record: Pick<ResolvedLogo, "country" | "slug" | "hash">,
+  catalog: Catalog,
+  assetBase?: string,
+): string {
+  const base = assetBase ?? catalog.assetBase ?? DEFAULT_ASSET_BASE;
+  const size = catalog.defaultSize ?? CDN_SIZE;
+  return `${base}/${record.country}/${size}x${size}/${record.slug}.${record.hash}.png`;
+}
+
+function withUrl(
+  record: Omit<ResolvedLogo, "url">,
+  catalog: Catalog,
+): ResolvedLogo {
+  return { ...record, url: assetUrl(record, catalog) };
+}
+
 function leagueLogo(
   country: CountryRecord,
   league: LeagueRecord,
   iso2: string,
+  catalog: Catalog,
 ): ResolvedLogo {
-  return {
-    kind: "league",
-    country: country.slug,
-    iso2,
-    slug: league.slug,
-    name: league.name,
-    hash: league.hash,
-    pagePath: `/${country.slug}/${league.slug}/`,
-  };
+  return withUrl(
+    {
+      kind: "league",
+      country: country.slug,
+      iso2,
+      slug: league.slug,
+      name: league.name,
+      hash: league.hash,
+      pagePath: `/${country.slug}/${league.slug}/`,
+    },
+    catalog,
+  );
 }
 
 function findCountryMatch(
