@@ -41,9 +41,9 @@
     "README.md",
     "catalog/v1",
     "dist",
-    "src/astro",
-    "src/svelte",
-    "src/vue"
+    "src/astro/FootballLogo.astro",
+    "src/svelte/FootballLogo.svelte",
+    "src/vue/FootballLogo.vue"
   ],
   "exports": {
     ".": {
