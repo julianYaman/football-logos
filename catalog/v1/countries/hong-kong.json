@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "hong-kong",
     "iso2": "HK",
@@ -11,14 +11,12 @@
         "slug": "hong-kong-premier-league",
         "name": "Hong Kong Premier League",
         "hash": "f6bd6964",
-        "kind": "league",
         "code": "HK"
       },
       "hong-kong-national-team": {
         "slug": "hong-kong-national-team",
         "name": "Hong Kong National Team",
-        "hash": "3a4cbf45",
-        "kind": "league"
+        "hash": "3a4cbf45"
       }
     },
     "clubs": {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "vietnam",
     "iso2": "VN",
@@ -11,20 +11,17 @@
         "slug": "v-league",
         "name": "V League 1",
         "hash": "53143aa4",
-        "kind": "league",
         "code": "VN"
       },
       "vietnam-national-team": {
         "slug": "vietnam-national-team",
         "name": "Vietnam National Team",
-        "hash": "8afd8315",
-        "kind": "league"
+        "hash": "8afd8315"
       },
       "vietnam-football-federation": {
         "slug": "vietnam-football-federation",
         "name": "Vietnam Football Federation",
-        "hash": "1a3db655",
-        "kind": "league"
+        "hash": "1a3db655"
       }
     },
     "clubs": {

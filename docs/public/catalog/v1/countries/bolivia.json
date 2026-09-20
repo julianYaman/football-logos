@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "bolivia",
     "iso2": "BO",
@@ -11,14 +11,12 @@
         "slug": "primera-division-de-bolivia",
         "name": "Primera División de Bolivia",
         "hash": "203cd822",
-        "kind": "league",
         "code": "BO"
       },
       "bolivia-national-team": {
         "slug": "bolivia-national-team",
         "name": "Bolivia National Team",
-        "hash": "f28e1e12",
-        "kind": "league"
+        "hash": "f28e1e12"
       }
     },
     "clubs": {

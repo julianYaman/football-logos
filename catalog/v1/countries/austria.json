@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "austria",
     "iso2": "AT",
@@ -11,20 +11,17 @@
         "slug": "austrian-football-bundesliga",
         "name": "Austrian Football Bundesliga",
         "hash": "bdc8c58e",
-        "kind": "league",
         "code": "AT"
       },
       "2-liga": {
         "slug": "2-liga",
         "name": "2. Liga",
-        "hash": "6386f2aa",
-        "kind": "league"
+        "hash": "6386f2aa"
       },
       "austria-national-team": {
         "slug": "austria-national-team",
         "name": "Austria National Team",
-        "hash": "f42ec863",
-        "kind": "league"
+        "hash": "f42ec863"
       }
     },
     "clubs": {
@@ -32,73 +29,73 @@
         "slug": "altach",
         "name": "Rheindorf Altach",
         "hash": "6a574014",
-        "league": "austrian-bundesliga"
+        "league": "austrian-football-bundesliga"
       },
       "austria-wien": {
         "slug": "austria-wien",
         "name": "Austria Wien",
         "hash": "24f7ffd5",
-        "league": "austrian-bundesliga"
+        "league": "austrian-football-bundesliga"
       },
       "grazer-ak": {
         "slug": "grazer-ak",
         "name": "Grazer AK",
         "hash": "10a00445",
-        "league": "austrian-bundesliga"
+        "league": "austrian-football-bundesliga"
       },
       "hartberg": {
         "slug": "hartberg",
         "name": "Hartberg",
         "hash": "495b359e",
-        "league": "austrian-bundesliga"
+        "league": "austrian-football-bundesliga"
       },
       "lask": {
         "slug": "lask",
         "name": "LASK",
         "hash": "79c6d580",
-        "league": "austrian-bundesliga"
+        "league": "austrian-football-bundesliga"
       },
       "lustenau": {
         "slug": "lustenau",
         "name": "Lustenau",
         "hash": "72a9e517",
-        "league": "austrian-bundesliga"
+        "league": "austrian-football-bundesliga"
       },
       "ried": {
         "slug": "ried",
         "name": "Ried",
         "hash": "1582abee",
-        "league": "austrian-bundesliga"
+        "league": "austrian-football-bundesliga"
       },
       "salzburg": {
         "slug": "salzburg",
         "name": "Salzburg",
         "hash": "45a1ca60",
-        "league": "austrian-bundesliga"
+        "league": "austrian-football-bundesliga"
       },
       "rapid-vienna": {
         "slug": "rapid-vienna",
         "name": "Rapid Vienna",
         "hash": "765127d7",
-        "league": "austrian-bundesliga"
+        "league": "austrian-football-bundesliga"
       },
       "sturm-graz": {
         "slug": "sturm-graz",
         "name": "Sturm Graz",
         "hash": "7b84f400",
-        "league": "austrian-bundesliga"
+        "league": "austrian-football-bundesliga"
       },
       "tirol": {
         "slug": "tirol",
         "name": "Tirol",
         "hash": "fc401d0e",
-        "league": "austrian-bundesliga"
+        "league": "austrian-football-bundesliga"
       },
       "wolfsberg": {
         "slug": "wolfsberg",
         "name": "Wolfsberg",
         "hash": "ab6c004f",
-        "league": "austrian-bundesliga"
+        "league": "austrian-football-bundesliga"
       },
       "admira": {
         "slug": "admira",
@@ -224,6 +221,12 @@
         "slug": "sv-stripfing",
         "name": "SV Stripfing",
         "hash": "ff7212a1",
+        "league": ""
+      },
+      "sv-mattersburg": {
+        "slug": "sv-mattersburg",
+        "name": "SV Mattersburg",
+        "hash": "8efdddce",
         "league": ""
       }
     }

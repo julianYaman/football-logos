@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "el-salvador",
     "iso2": "SV",
@@ -11,14 +11,12 @@
         "slug": "el-salvador-national-team",
         "name": "El Salvador National Team",
         "hash": "338a88f9",
-        "kind": "league",
         "code": "SV"
       },
       "salvadoran-football-federation": {
         "slug": "salvadoran-football-federation",
         "name": "Salvadoran Football Federation",
-        "hash": "e83f7e3c",
-        "kind": "league"
+        "hash": "e83f7e3c"
       }
     },
     "clubs": {}

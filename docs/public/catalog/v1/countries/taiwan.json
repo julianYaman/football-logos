@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "taiwan",
     "iso2": "TW",
@@ -10,14 +10,12 @@
       "taiwan-national-team": {
         "slug": "taiwan-national-team",
         "name": "Taiwan National Team",
-        "hash": "986fbc5d",
-        "kind": "league"
+        "hash": "986fbc5d"
       },
       "taiwan-football-premier-league": {
         "slug": "taiwan-football-premier-league",
         "name": "Taiwan Football Premier League",
         "hash": "f68c8638",
-        "kind": "league",
         "code": "TW"
       }
     },

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "iran",
     "iso2": "IR",
@@ -10,14 +10,12 @@
       "iran-national-team": {
         "slug": "iran-national-team",
         "name": "Iran National Team",
-        "hash": "fc7f0f0e",
-        "kind": "league"
+        "hash": "fc7f0f0e"
       },
       "persian-gulf-pro-league": {
         "slug": "persian-gulf-pro-league",
         "name": "Persian Gulf Pro League",
         "hash": "4828a5be",
-        "kind": "league",
         "code": "IR"
       }
     },

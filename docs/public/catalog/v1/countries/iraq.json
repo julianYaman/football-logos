@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "iraq",
     "iso2": "IQ",
@@ -11,14 +11,12 @@
         "slug": "iraq-stars-league",
         "name": "Iraq Stars League",
         "hash": "40518707",
-        "kind": "league",
         "code": "IQ"
       },
       "iraq-national-team": {
         "slug": "iraq-national-team",
         "name": "Iraq National Team",
-        "hash": "c6540c39",
-        "kind": "league"
+        "hash": "c6540c39"
       }
     },
     "clubs": {

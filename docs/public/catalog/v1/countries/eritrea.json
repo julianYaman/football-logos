@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "eritrea",
     "iso2": "ER",
@@ -11,7 +11,6 @@
         "slug": "eritrea-national-team",
         "name": "Eritrea National Team",
         "hash": "a184f112",
-        "kind": "league",
         "code": "ER"
       }
     },

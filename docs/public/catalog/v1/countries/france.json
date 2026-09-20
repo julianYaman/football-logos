@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "france",
     "iso2": "FR",
@@ -11,44 +11,37 @@
         "slug": "ligue-1",
         "name": "Ligue 1",
         "hash": "bcb13eb0",
-        "kind": "league",
         "code": "FR"
       },
       "ligue-2": {
         "slug": "ligue-2",
         "name": "Ligue 2",
-        "hash": "f12004c1",
-        "kind": "league"
+        "hash": "f12004c1"
       },
       "ligue-3": {
         "slug": "ligue-3",
         "name": "Ligue 3",
-        "hash": "4dabe4bb",
-        "kind": "league"
+        "hash": "4dabe4bb"
       },
       "national-1": {
         "slug": "national-1",
         "name": "National 1",
-        "hash": "abaaa6ec",
-        "kind": "league"
+        "hash": "abaaa6ec"
       },
       "france-national-team": {
         "slug": "france-national-team",
         "name": "France National Team",
-        "hash": "a17f83af",
-        "kind": "league"
+        "hash": "a17f83af"
       },
       "french-football-federation": {
         "slug": "french-football-federation",
         "name": "French Football Federation",
-        "hash": "87cacfde",
-        "kind": "league"
+        "hash": "87cacfde"
       },
       "french-cup": {
         "slug": "french-cup",
         "name": "French Cup",
-        "hash": "10cbf91f",
-        "kind": "league"
+        "hash": "10cbf91f"
       }
     },
     "clubs": {
@@ -712,6 +705,12 @@
         "hash": "d4305c43",
         "league": ""
       },
+      "as-aixoise": {
+        "slug": "as-aixoise",
+        "name": "AS Aixoise",
+        "hash": "ab156d15",
+        "league": ""
+      },
       "as-baume-les-dames": {
         "slug": "as-baume-les-dames",
         "name": "AS Baume-les-Dames",
@@ -722,6 +721,12 @@
         "slug": "as-beziers",
         "name": "AS Béziers",
         "hash": "390cae21",
+        "league": ""
+      },
+      "as-brest": {
+        "slug": "as-brest",
+        "name": "AS Brest",
+        "hash": "0f78d10f",
         "league": ""
       },
       "as-gien": {
@@ -736,6 +741,12 @@
         "hash": "42bf7f00",
         "league": ""
       },
+      "as-marck-football": {
+        "slug": "as-marck-football",
+        "name": "AS Marck Football",
+        "hash": "6cead90c",
+        "league": ""
+      },
       "as-strasbourg": {
         "slug": "as-strasbourg",
         "name": "AS Strasbourg",
@@ -746,6 +757,12 @@
         "slug": "as-vitre",
         "name": "AS Vitré",
         "hash": "27f4e235",
+        "league": ""
+      },
+      "asca-wittelsheim": {
+        "slug": "asca-wittelsheim",
+        "name": "ASCA Wittelsheim",
+        "hash": "aa101b29",
         "league": ""
       },
       "avoine-olympique-chinon-cinais": {
@@ -774,13 +791,13 @@
       },
       "c-chartres-football": {
         "slug": "c-chartres-football",
-        "name": "C'Chartres Football",
+        "name": "C&#39;Chartres Football",
         "hash": "35a8f536",
         "league": ""
       },
       "ca-lisieux-pays-d-auge": {
         "slug": "ca-lisieux-pays-d-auge",
-        "name": "CA Lisieux Pays d'Auge",
+        "name": "CA Lisieux Pays d&#39;Auge",
         "hash": "cf2886f8",
         "league": ""
       },
@@ -926,6 +943,12 @@
         "slug": "fc-nevers",
         "name": "FC Nevers",
         "hash": "34c9e50b",
+        "league": ""
+      },
+      "fc-saint-lo-manche": {
+        "slug": "fc-saint-lo-manche",
+        "name": "FC Saint-Lô Manche",
+        "hash": "9bf7526f",
         "league": ""
       },
       "fc-saint-medard-en-jalles": {
@@ -1134,7 +1157,7 @@
       },
       "sca-saint-jean-d-angely": {
         "slug": "sca-saint-jean-d-angely",
-        "name": "SCA Saint-Jean d'Angély",
+        "name": "SCA Saint-Jean d&#39;Angély",
         "hash": "70be8ab8",
         "league": ""
       },
@@ -1160,6 +1183,12 @@
         "slug": "so-merlebach",
         "name": "SO Merlebach",
         "hash": "af88e8ec",
+        "league": ""
+      },
+      "so-millau-football": {
+        "slug": "so-millau-football",
+        "name": "SO Millau Football",
+        "hash": "807e0821",
         "league": ""
       },
       "spn-vernon-football": {

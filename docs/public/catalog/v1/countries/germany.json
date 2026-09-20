@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -11,75 +11,63 @@
         "slug": "bundesliga",
         "name": "Bundesliga",
         "hash": "24d9c6f9",
-        "kind": "league",
         "code": "DE"
       },
       "2-bundesliga": {
         "slug": "2-bundesliga",
         "name": "2. Bundesliga",
         "hash": "11755b17",
-        "kind": "league",
         "code": "GER2"
       },
       "3-liga": {
         "slug": "3-liga",
         "name": "3. Liga",
-        "hash": "86275a77",
-        "kind": "league"
+        "hash": "86275a77"
       },
       "regionalliga-nord": {
         "slug": "regionalliga-nord",
         "name": "Regionalliga Nord",
-        "hash": "bb7cd698",
-        "kind": "league"
+        "hash": "bb7cd698"
       },
       "regionalliga-nordost": {
         "slug": "regionalliga-nordost",
         "name": "Regionalliga Nordost",
-        "hash": "5881ffa8",
-        "kind": "league"
+        "hash": "5881ffa8"
       },
       "regionalliga-west": {
         "slug": "regionalliga-west",
         "name": "Regionalliga West",
-        "hash": "bec28f81",
-        "kind": "league"
+        "hash": "bec28f81"
       },
       "regionalliga-sudwest": {
         "slug": "regionalliga-sudwest",
         "name": "Regionalliga Südwest",
-        "hash": "7c292e60",
-        "kind": "league"
+        "hash": "7c292e60"
       },
       "regionalliga-bayern": {
         "slug": "regionalliga-bayern",
         "name": "Regionalliga Bayern",
-        "hash": "a4012fce",
-        "kind": "league"
+        "hash": "a4012fce"
       },
       "germany-national-team": {
         "slug": "germany-national-team",
         "name": "Germany National Team",
-        "hash": "d354ad14",
-        "kind": "league"
+        "hash": "d354ad14"
       },
       "dfb-german-football-association": {
         "slug": "dfb-german-football-association",
         "name": "DFB German Football Association",
-        "hash": "416c0153",
-        "kind": "league"
+        "hash": "416c0153"
       },
       "dfb-pokal": {
         "slug": "dfb-pokal",
         "name": "DFB Pokal",
-        "hash": "f99edcba",
-        "kind": "league"
+        "hash": "f99edcba"
       },
       "franz-beckenbauer-supercup": {
         "slug": "franz-beckenbauer-supercup",
         "name": "Franz Beckenbauer Supercup",
-        "hash": "81fd4a13",
-        "kind": "league"
+        "hash": "81fd4a13"
       }
     },
     "clubs": {
@@ -959,6 +947,12 @@
         "hash": "714cac90",
         "league": ""
       },
+      "1-cfr-pforzheim": {
+        "slug": "1-cfr-pforzheim",
+        "name": "1. CfR Pforzheim",
+        "hash": "7c62fef5",
+        "league": ""
+      },
       "1-fc-gera-03": {
         "slug": "1-fc-gera-03",
         "name": "1. FC Gera 03",
@@ -1103,10 +1097,22 @@
         "hash": "337a55cd",
         "league": ""
       },
+      "fsv-hettstedt": {
+        "slug": "fsv-hettstedt",
+        "name": "FSV Hettstedt",
+        "hash": "b8ae0cf1",
+        "league": ""
+      },
       "germania-wernigerode": {
         "slug": "germania-wernigerode",
         "name": "Germania Wernigerode",
         "hash": "2b411eb0",
+        "league": ""
+      },
+      "hasper-sv": {
+        "slug": "hasper-sv",
+        "name": "Hasper SV",
+        "hash": "71fe7531",
         "league": ""
       },
       "ludwigshafener-sc": {
@@ -1169,6 +1175,12 @@
         "hash": "d74718a2",
         "league": ""
       },
+      "spvgg-burgbrohl": {
+        "slug": "spvgg-burgbrohl",
+        "name": "SpVgg Burgbrohl",
+        "hash": "a5dc6dfb",
+        "league": ""
+      },
       "spvgg-egc-wirges": {
         "slug": "spvgg-egc-wirges",
         "name": "SpVgg EGC Wirges",
@@ -1191,6 +1203,12 @@
         "slug": "stuttgarter-sc",
         "name": "Stuttgarter SC",
         "hash": "8959e218",
+        "league": ""
+      },
+      "sus-stadtlohn": {
+        "slug": "sus-stadtlohn",
+        "name": "SuS Stadtlohn",
+        "hash": "d1e01059",
         "league": ""
       },
       "sv-bevern": {
@@ -1271,6 +1289,12 @@
         "hash": "45df5076",
         "league": ""
       },
+      "tsg-concordia-schonkirchen": {
+        "slug": "tsg-concordia-schonkirchen",
+        "name": "TSG Concordia Schönkirchen",
+        "hash": "93c8af8a",
+        "league": ""
+      },
       "tsg-sprockhovel": {
         "slug": "tsg-sprockhovel",
         "name": "TSG Sprockhövel",
@@ -1295,6 +1319,12 @@
         "hash": "f93e0908",
         "league": ""
       },
+      "tsv-mannheim": {
+        "slug": "tsv-mannheim",
+        "name": "TSV Mannheim",
+        "hash": "6ea45f41",
+        "league": ""
+      },
       "tsv-reinbek": {
         "slug": "tsv-reinbek",
         "name": "TSV Reinbek",
@@ -1305,6 +1335,12 @@
         "slug": "tsv-sasel",
         "name": "TSV Sasel",
         "hash": "02688454",
+        "league": ""
+      },
+      "tsv-verden": {
+        "slug": "tsv-verden",
+        "name": "TSV Verden",
+        "hash": "d0e37202",
         "league": ""
       },
       "turkgucu-munchen": {

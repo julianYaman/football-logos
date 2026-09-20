@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "uruguay",
     "iso2": "UY",
@@ -11,20 +11,17 @@
         "slug": "liga-auf-uruguaya",
         "name": "Liga AUF Uruguaya",
         "hash": "619c9202",
-        "kind": "league",
         "code": "UY"
       },
       "segunda-division": {
         "slug": "segunda-division",
         "name": "Segunda División de Uruguay",
-        "hash": "c1a43d13",
-        "kind": "league"
+        "hash": "c1a43d13"
       },
       "uruguay-national-team": {
         "slug": "uruguay-national-team",
         "name": "Uruguay National Team",
-        "hash": "9ba8eb09",
-        "kind": "league"
+        "hash": "9ba8eb09"
       }
     },
     "clubs": {

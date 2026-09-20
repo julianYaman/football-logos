@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "argentina",
     "iso2": "AR",
@@ -11,32 +11,27 @@
         "slug": "argentina-primera-division",
         "name": "Argentina Primera Division",
         "hash": "98bf8e3e",
-        "kind": "league",
         "code": "AR"
       },
       "primera-nacional": {
         "slug": "primera-nacional",
         "name": "Primera Nacional",
-        "hash": "47bfedd8",
-        "kind": "league"
+        "hash": "47bfedd8"
       },
       "primera-b-metropolitana": {
         "slug": "primera-b-metropolitana",
         "name": "Primera B Metropolitana",
-        "hash": "5e0da685",
-        "kind": "league"
+        "hash": "5e0da685"
       },
       "primera-c-metropolitana": {
         "slug": "primera-c-metropolitana",
         "name": "Primera C Metropolitana",
-        "hash": "7e3f390a",
-        "kind": "league"
+        "hash": "7e3f390a"
       },
       "argentina-national-team": {
         "slug": "argentina-national-team",
         "name": "Argentina National Team",
-        "hash": "5c235057",
-        "kind": "league"
+        "hash": "5c235057"
       }
     },
     "clubs": {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "switzerland",
     "iso2": "CH",
@@ -11,26 +11,22 @@
         "slug": "swiss-football-league",
         "name": "Swiss Super League",
         "hash": "1d8f9f9d",
-        "kind": "league",
         "code": "CH"
       },
       "swiss-challenge-league": {
         "slug": "swiss-challenge-league",
         "name": "Swiss Challenge League",
-        "hash": "9e0822e9",
-        "kind": "league"
+        "hash": "9e0822e9"
       },
       "switzerland-national-team": {
         "slug": "switzerland-national-team",
         "name": "Switzerland National Team",
-        "hash": "3f12a8c9",
-        "kind": "league"
+        "hash": "3f12a8c9"
       },
       "swiss-football-association": {
         "slug": "swiss-football-association",
         "name": "Swiss Football Association",
-        "hash": "7996d790",
-        "kind": "league"
+        "hash": "7996d790"
       }
     },
     "clubs": {

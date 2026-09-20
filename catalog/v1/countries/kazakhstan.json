@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "kazakhstan",
     "iso2": "KZ",
@@ -10,14 +10,12 @@
       "kazakhstan-national-team": {
         "slug": "kazakhstan-national-team",
         "name": "Kazakhstan National Team",
-        "hash": "b812e635",
-        "kind": "league"
+        "hash": "b812e635"
       },
       "kazakhstan-premier-league": {
         "slug": "kazakhstan-premier-league",
         "name": "Kazakhstan Premier League",
         "hash": "5bc15ecf",
-        "kind": "league",
         "code": "KZ"
       }
     },

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "latvia",
     "iso2": "LV",
@@ -11,14 +11,12 @@
         "slug": "virsliga",
         "name": "Latvian Higher League",
         "hash": "4e77b277",
-        "kind": "league",
         "code": "LV"
       },
       "latvia-national-team": {
         "slug": "latvia-national-team",
         "name": "Latvia National Team",
-        "hash": "5e07b38f",
-        "kind": "league"
+        "hash": "5e07b38f"
       }
     },
     "clubs": {

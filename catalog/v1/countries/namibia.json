@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "namibia",
     "iso2": "NA",
@@ -11,14 +11,12 @@
         "slug": "namibia-national-team",
         "name": "Namibia National Team",
         "hash": "86eb5218",
-        "kind": "league",
         "code": "NA"
       },
       "namibia-football-association": {
         "slug": "namibia-football-association",
         "name": "Namibia Football Association",
-        "hash": "358944da",
-        "kind": "league"
+        "hash": "358944da"
       }
     },
     "clubs": {}

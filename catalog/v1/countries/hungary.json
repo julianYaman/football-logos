@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "hungary",
     "iso2": "HU",
@@ -11,26 +11,22 @@
         "slug": "nemzeti-bajnoksag",
         "name": "Nemzeti Bajnokság I",
         "hash": "78ab7c27",
-        "kind": "league",
         "code": "HU"
       },
       "nemzeti-bajnoksag-2": {
         "slug": "nemzeti-bajnoksag-2",
         "name": "Nemzeti Bajnokság II",
-        "hash": "13293d56",
-        "kind": "league"
+        "hash": "13293d56"
       },
       "hungary-national-team": {
         "slug": "hungary-national-team",
         "name": "Hungary National Team",
-        "hash": "4e837a59",
-        "kind": "league"
+        "hash": "4e837a59"
       },
       "hungarian-football-federation": {
         "slug": "hungarian-football-federation",
         "name": "Hungarian Football Federation",
-        "hash": "f570e900",
-        "kind": "league"
+        "hash": "f570e900"
       }
     },
     "clubs": {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "thailand",
     "iso2": "TH",
@@ -11,14 +11,12 @@
         "slug": "thai-league-1",
         "name": "Thai League 1",
         "hash": "f07a6a31",
-        "kind": "league",
         "code": "TH"
       },
       "thailand-national-team": {
         "slug": "thailand-national-team",
         "name": "Thailand National Team",
-        "hash": "1148bc6e",
-        "kind": "league"
+        "hash": "1148bc6e"
       }
     },
     "clubs": {

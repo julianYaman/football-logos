@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "iceland",
     "iso2": "IS",
@@ -11,14 +11,12 @@
         "slug": "besta-deild-karla",
         "name": "Besta deild karla",
         "hash": "df67490a",
-        "kind": "league",
         "code": "IS"
       },
       "iceland-national-team": {
         "slug": "iceland-national-team",
         "name": "Iceland National Team",
-        "hash": "7f7eb9fd",
-        "kind": "league"
+        "hash": "7f7eb9fd"
       }
     },
     "clubs": {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "ukraine",
     "iso2": "UA",
@@ -11,20 +11,17 @@
         "slug": "ukrainian-premier-league",
         "name": "Ukrainian Premier League",
         "hash": "eeab3831",
-        "kind": "league",
         "code": "UA"
       },
       "persha-liga": {
         "slug": "persha-liga",
         "name": "Persha Liga",
-        "hash": "6a63a70f",
-        "kind": "league"
+        "hash": "6a63a70f"
       },
       "ukraine-national-team": {
         "slug": "ukraine-national-team",
         "name": "Ukraine National Team",
-        "hash": "efc25066",
-        "kind": "league"
+        "hash": "efc25066"
       }
     },
     "clubs": {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "american-samoa",
     "iso2": "AS",
@@ -11,7 +11,6 @@
         "slug": "american-samoa-national-team",
         "name": "American Samoa National Team",
         "hash": "c97d8c3c",
-        "kind": "league",
         "code": "AS"
       }
     },

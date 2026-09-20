@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "armenia",
     "iso2": "AM",
@@ -11,14 +11,12 @@
         "slug": "armenian-premier-league",
         "name": "Armenian Premier League",
         "hash": "183b27bc",
-        "kind": "league",
         "code": "AM"
       },
       "armenia-national-team": {
         "slug": "armenia-national-team",
         "name": "Armenia National Team",
-        "hash": "2d39bd55",
-        "kind": "league"
+        "hash": "2d39bd55"
       }
     },
     "clubs": {

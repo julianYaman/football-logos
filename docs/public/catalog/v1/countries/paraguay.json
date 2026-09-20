@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "paraguay",
     "iso2": "PY",
@@ -11,14 +11,12 @@
         "slug": "copa-de-primera",
         "name": "Copa de Primera",
         "hash": "416ff0b7",
-        "kind": "league",
         "code": "PY"
       },
       "paraguay-national-team": {
         "slug": "paraguay-national-team",
         "name": "Paraguay National Team",
-        "hash": "c9681fdb",
-        "kind": "league"
+        "hash": "c9681fdb"
       }
     },
     "clubs": {

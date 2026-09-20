@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "cyprus",
     "iso2": "CY",
@@ -11,14 +11,12 @@
         "slug": "cypriot-first-division",
         "name": "Cypriot First Division",
         "hash": "2abbdfc7",
-        "kind": "league",
         "code": "CY"
       },
       "cyprus-national-team": {
         "slug": "cyprus-national-team",
         "name": "Cyprus National Team",
-        "hash": "197bd3ee",
-        "kind": "league"
+        "hash": "197bd3ee"
       }
     },
     "clubs": {

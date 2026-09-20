@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "slovenia",
     "iso2": "SI",
@@ -11,14 +11,12 @@
         "slug": "slovenian-prvaliga",
         "name": "Slovenian PrvaLiga",
         "hash": "a92de257",
-        "kind": "league",
         "code": "SI"
       },
       "slovenia-national-team": {
         "slug": "slovenia-national-team",
         "name": "Slovenia National Team",
-        "hash": "7c55fea8",
-        "kind": "league"
+        "hash": "7c55fea8"
       }
     },
     "clubs": {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "georgia",
     "iso2": "GE",
@@ -11,14 +11,12 @@
         "slug": "erovnuli-liga",
         "name": "Erovnuli Liga",
         "hash": "6b1d4973",
-        "kind": "league",
         "code": "GE"
       },
       "georgia-national-team": {
         "slug": "georgia-national-team",
         "name": "Georgia National Team",
-        "hash": "5924503a",
-        "kind": "league"
+        "hash": "5924503a"
       }
     },
     "clubs": {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "morocco",
     "iso2": "MA",
@@ -11,14 +11,12 @@
         "slug": "botola-pro",
         "name": "Botola Pro",
         "hash": "b4277f0c",
-        "kind": "league",
         "code": "MA"
       },
       "morocco-national-team": {
         "slug": "morocco-national-team",
         "name": "Morocco National Team",
-        "hash": "b1090da0",
-        "kind": "league"
+        "hash": "b1090da0"
       }
     },
     "clubs": {

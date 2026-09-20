@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "northern-mariana-islands",
     "iso2": "MP",
@@ -11,7 +11,6 @@
         "slug": "northern-mariana-islands-national-team",
         "name": "Northern Mariana Islands National Team",
         "hash": "aa03ee0c",
-        "kind": "league",
         "code": "MP"
       }
     },

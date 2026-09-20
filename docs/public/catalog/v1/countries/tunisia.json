@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "tunisia",
     "iso2": "TN",
@@ -11,14 +11,12 @@
         "slug": "ligue-1",
         "name": "Ligue 1",
         "hash": "3edd788e",
-        "kind": "league",
         "code": "TN"
       },
       "tunisia-national-team": {
         "slug": "tunisia-national-team",
         "name": "Tunisia National Team",
-        "hash": "add7228e",
-        "kind": "league"
+        "hash": "add7228e"
       }
     },
     "clubs": {

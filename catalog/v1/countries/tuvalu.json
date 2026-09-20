@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "tuvalu",
     "iso2": "TV",
@@ -11,7 +11,6 @@
         "slug": "tuvalu-national-team",
         "name": "Tuvalu National Team",
         "hash": "82e468d6",
-        "kind": "league",
         "code": "TV"
       }
     },

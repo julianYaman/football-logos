@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "belgium",
     "iso2": "BE",
@@ -11,32 +11,27 @@
         "slug": "jupiler-pro-league",
         "name": "Jupiler Pro League",
         "hash": "93c1eb39",
-        "kind": "league",
         "code": "BE"
       },
       "challenger-pro-league": {
         "slug": "challenger-pro-league",
         "name": "Challenger Pro League",
-        "hash": "d74f9fca",
-        "kind": "league"
+        "hash": "d74f9fca"
       },
       "belgium-national-team": {
         "slug": "belgium-national-team",
         "name": "Belgium National Team",
-        "hash": "7eb3e80b",
-        "kind": "league"
+        "hash": "7eb3e80b"
       },
       "belgian-pro-league": {
         "slug": "belgian-pro-league",
         "name": "Belgian Pro League",
-        "hash": "af260e34",
-        "kind": "league"
+        "hash": "af260e34"
       },
       "belgian-cup": {
         "slug": "belgian-cup",
         "name": "Belgian Cup",
-        "hash": "9e6131c0",
-        "kind": "league"
+        "hash": "9e6131c0"
       }
     },
     "clubs": {

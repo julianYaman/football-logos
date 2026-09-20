@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "guatemala",
     "iso2": "GT",
@@ -11,14 +11,12 @@
         "slug": "liga-nacional-de-futbol-de-guatemala",
         "name": "Liga Nacional de Fútbol de Guatemala",
         "hash": "c8921781",
-        "kind": "league",
         "code": "GT"
       },
       "guatemala-national-team": {
         "slug": "guatemala-national-team",
         "name": "Guatemala National Team",
-        "hash": "e5f28365",
-        "kind": "league"
+        "hash": "e5f28365"
       }
     },
     "clubs": {

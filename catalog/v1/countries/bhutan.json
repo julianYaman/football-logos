@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "bhutan",
     "iso2": "BT",
@@ -11,7 +11,6 @@
         "slug": "bhutan-national-team",
         "name": "Bhutan National Team",
         "hash": "2e83465d",
-        "kind": "league",
         "code": "BT"
       }
     },

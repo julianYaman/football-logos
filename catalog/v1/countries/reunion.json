@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "reunion",
     "iso2": "RE",
@@ -11,7 +11,6 @@
         "slug": "reunion-national-team",
         "name": "Réunion National Team",
         "hash": "8aafffa7",
-        "kind": "league",
         "code": "RE"
       }
     },

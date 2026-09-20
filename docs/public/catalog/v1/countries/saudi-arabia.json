@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "saudi-arabia",
     "iso2": "SA",
@@ -11,26 +11,22 @@
         "slug": "saudi-professional-league",
         "name": "Saudi Professional League",
         "hash": "59d5c8af",
-        "kind": "league",
         "code": "SA"
       },
       "saudi-arabia-national-team": {
         "slug": "saudi-arabia-national-team",
         "name": "Saudi Arabia National Team",
-        "hash": "8792787c",
-        "kind": "league"
+        "hash": "8792787c"
       },
       "saudi-arabian-football-federation": {
         "slug": "saudi-arabian-football-federation",
         "name": "Saudi Arabian Football Federation",
-        "hash": "ba3fe8e8",
-        "kind": "league"
+        "hash": "ba3fe8e8"
       },
       "saudi-first-division-league": {
         "slug": "saudi-first-division-league",
         "name": "Saudi First Division League SDL",
-        "hash": "ebe12da1",
-        "kind": "league"
+        "hash": "ebe12da1"
       }
     },
     "clubs": {

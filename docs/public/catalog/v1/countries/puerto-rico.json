@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "puerto-rico",
     "iso2": "PR",
@@ -11,14 +11,12 @@
         "slug": "liga-puerto-rico-apertura",
         "name": "Liga Puerto Rico Apertura",
         "hash": "70b010a0",
-        "kind": "league",
         "code": "PR"
       },
       "puerto-rico-national-team": {
         "slug": "puerto-rico-national-team",
         "name": "Puerto Rico National Team",
-        "hash": "60f959ae",
-        "kind": "league"
+        "hash": "60f959ae"
       }
     },
     "clubs": {

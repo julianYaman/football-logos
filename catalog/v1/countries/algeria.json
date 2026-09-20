@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "algeria",
     "iso2": "DZ",
@@ -11,14 +11,12 @@
         "slug": "ligue-1",
         "name": "Ligue 1",
         "hash": "61533d7b",
-        "kind": "league",
         "code": "DZ"
       },
       "algeria-national-team": {
         "slug": "algeria-national-team",
         "name": "Algeria National Team",
-        "hash": "d40ad9dc",
-        "kind": "league"
+        "hash": "d40ad9dc"
       }
     },
     "clubs": {

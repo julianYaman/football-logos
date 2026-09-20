@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "nigeria",
     "iso2": "NG",
@@ -11,14 +11,12 @@
         "slug": "nigeria-premier-football-league",
         "name": "Nigeria Premier Football League",
         "hash": "3dab23c7",
-        "kind": "league",
         "code": "NG"
       },
       "nigeria-national-team": {
         "slug": "nigeria-national-team",
         "name": "Nigeria National Team",
-        "hash": "7422d443",
-        "kind": "league"
+        "hash": "7422d443"
       }
     },
     "clubs": {

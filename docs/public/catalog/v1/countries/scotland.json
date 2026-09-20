@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "scotland",
     "iso2": "SCO",
@@ -11,38 +11,32 @@
         "slug": "scottish-premiership",
         "name": "Scottish Premiership",
         "hash": "3c584285",
-        "kind": "league",
         "code": "SCO"
       },
       "scottish-championship": {
         "slug": "scottish-championship",
         "name": "Scottish Championship",
-        "hash": "c81d6b7c",
-        "kind": "league"
+        "hash": "c81d6b7c"
       },
       "scottish-league-one": {
         "slug": "scottish-league-one",
         "name": "Scottish League One",
-        "hash": "46579e15",
-        "kind": "league"
+        "hash": "46579e15"
       },
       "scottish-league-two": {
         "slug": "scottish-league-two",
         "name": "Scottish League Two",
-        "hash": "a3014e78",
-        "kind": "league"
+        "hash": "a3014e78"
       },
       "scotland-national-team": {
         "slug": "scotland-national-team",
         "name": "Scotland National Team",
-        "hash": "6fd08824",
-        "kind": "league"
+        "hash": "6fd08824"
       },
       "scottish-football-association": {
         "slug": "scottish-football-association",
         "name": "Scottish Football Association",
-        "hash": "094789eb",
-        "kind": "league"
+        "hash": "094789eb"
       }
     },
     "clubs": {

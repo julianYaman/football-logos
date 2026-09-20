@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "italy",
     "iso2": "IT",
@@ -11,38 +11,32 @@
         "slug": "serie-a",
         "name": "Serie A",
         "hash": "1289b16a",
-        "kind": "league",
         "code": "IT"
       },
       "serie-b": {
         "slug": "serie-b",
         "name": "Serie B",
-        "hash": "bb0c0fde",
-        "kind": "league"
+        "hash": "bb0c0fde"
       },
       "serie-c": {
         "slug": "serie-c",
         "name": "Serie C",
-        "hash": "62cc6092",
-        "kind": "league"
+        "hash": "62cc6092"
       },
       "serie-d": {
         "slug": "serie-d",
         "name": "Serie D",
-        "hash": "d175a24e",
-        "kind": "league"
+        "hash": "d175a24e"
       },
       "italy-national-team": {
         "slug": "italy-national-team",
         "name": "Italy National Team",
-        "hash": "2d467c1f",
-        "kind": "league"
+        "hash": "2d467c1f"
       },
       "italian-super-cup": {
         "slug": "italian-super-cup",
         "name": "Italian Super Cup",
-        "hash": "81cbc2b3",
-        "kind": "league"
+        "hash": "81cbc2b3"
       }
     },
     "clubs": {
@@ -996,7 +990,7 @@
       },
       "sant-angelo": {
         "slug": "sant-angelo",
-        "name": "AC Sant'Angelo 1907",
+        "name": "AC Sant&#39;Angelo 1907",
         "hash": "f60eb4ab",
         "league": "serie-d"
       },
@@ -1164,7 +1158,7 @@
       },
       "laquila-1927": {
         "slug": "laquila-1927",
-        "name": "L'Aquila 1927",
+        "name": "L&#39;Aquila 1927",
         "hash": "f449874e",
         "league": "serie-d"
       },

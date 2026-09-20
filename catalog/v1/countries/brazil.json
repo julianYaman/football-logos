@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -11,32 +11,27 @@
         "slug": "brazilian-serie-a",
         "name": "Brazilian Serie A",
         "hash": "f7cd00c8",
-        "kind": "league",
         "code": "BR"
       },
       "brazilian-serie-b": {
         "slug": "brazilian-serie-b",
         "name": "Brazilian Serie B",
-        "hash": "a0ac6514",
-        "kind": "league"
+        "hash": "a0ac6514"
       },
       "brazilian-serie-c": {
         "slug": "brazilian-serie-c",
         "name": "Brazilian Serie C",
-        "hash": "76235b53",
-        "kind": "league"
+        "hash": "76235b53"
       },
       "brazilian-serie-d": {
         "slug": "brazilian-serie-d",
         "name": "Brazilian Serie D",
-        "hash": "a8df073f",
-        "kind": "league"
+        "hash": "a8df073f"
       },
       "brazil-national-team": {
         "slug": "brazil-national-team",
         "name": "Brazil National Team",
-        "hash": "004213f2",
-        "kind": "league"
+        "hash": "004213f2"
       }
     },
     "clubs": {
@@ -1028,6 +1023,12 @@
         "slug": "caldense",
         "name": "Caldense",
         "hash": "14cf067e",
+        "league": ""
+      },
+      "bahia-de-feira": {
+        "slug": "bahia-de-feira",
+        "name": "Bahia de Feira",
+        "hash": "588e26e2",
         "league": ""
       },
       "cabofriense": {

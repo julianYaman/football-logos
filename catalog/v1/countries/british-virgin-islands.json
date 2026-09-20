@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "british-virgin-islands",
     "iso2": "VG",
@@ -11,7 +11,6 @@
         "slug": "british-virgin-islands-national-team",
         "name": "British Virgin Islands National Team",
         "hash": "9d2a5ac1",
-        "kind": "league",
         "code": "VG"
       }
     },

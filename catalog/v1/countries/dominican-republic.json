@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "dominican-republic",
     "iso2": "DO",
@@ -11,7 +11,6 @@
         "slug": "dominican-republic-national-team",
         "name": "Dominican Republic National Team",
         "hash": "d941cbd1",
-        "kind": "league",
         "code": "DO"
       }
     },

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "kurdistan",
     "iso2": "KUR",
@@ -11,7 +11,6 @@
         "slug": "kurdistan-national-team",
         "name": "Kurdistan National Team",
         "hash": "2b160e71",
-        "kind": "league",
         "code": "KUR"
       }
     },

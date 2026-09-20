@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "peru",
     "iso2": "PE",
@@ -11,14 +11,12 @@
         "slug": "peruvian-primera-division",
         "name": "Peruvian Primera División",
         "hash": "b1901309",
-        "kind": "league",
         "code": "PE"
       },
       "peru-national-team": {
         "slug": "peru-national-team",
         "name": "Peru National Team",
-        "hash": "4da8d8d1",
-        "kind": "league"
+        "hash": "4da8d8d1"
       }
     },
     "clubs": {

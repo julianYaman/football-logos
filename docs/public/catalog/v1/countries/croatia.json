@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "croatia",
     "iso2": "HR",
@@ -11,14 +11,12 @@
         "slug": "croatian-football-league",
         "name": "Croatian Football League",
         "hash": "5e5816b9",
-        "kind": "league",
         "code": "HR"
       },
       "croatia-national-team": {
         "slug": "croatia-national-team",
         "name": "Croatia National Team",
-        "hash": "7268cb93",
-        "kind": "league"
+        "hash": "7268cb93"
       }
     },
     "clubs": {
@@ -104,6 +102,12 @@
         "slug": "vukovar",
         "name": "HNK Vukovar",
         "hash": "8988d3e9",
+        "league": ""
+      },
+      "nk-dugopolje": {
+        "slug": "nk-dugopolje",
+        "name": "NK Dugopolje",
+        "hash": "2e5480f8",
         "league": ""
       },
       "hnk-segesta-sisak": {

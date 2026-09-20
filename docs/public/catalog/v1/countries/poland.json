@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "poland",
     "iso2": "PL",
@@ -11,26 +11,22 @@
         "slug": "ekstraklasa",
         "name": "PKO BP Ekstraklasa",
         "hash": "4bd2cb11",
-        "kind": "league",
         "code": "PL"
       },
       "1-liga": {
         "slug": "1-liga",
         "name": "Polish 1 Liga",
-        "hash": "c038970f",
-        "kind": "league"
+        "hash": "c038970f"
       },
       "poland-national-team": {
         "slug": "poland-national-team",
         "name": "Poland National Team",
-        "hash": "3e5f1d10",
-        "kind": "league"
+        "hash": "3e5f1d10"
       },
       "polish-football-association": {
         "slug": "polish-football-association",
         "name": "Polish Football Association",
-        "hash": "9bcecb3e",
-        "kind": "league"
+        "hash": "9bcecb3e"
       }
     },
     "clubs": {

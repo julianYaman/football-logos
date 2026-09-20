@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "usa",
     "iso2": "US",
@@ -11,50 +11,42 @@
         "slug": "mls",
         "name": "MLS - Major League Soccer",
         "hash": "389fae67",
-        "kind": "league",
         "code": "US"
       },
       "usl-championship": {
         "slug": "usl-championship",
         "name": "USL Championship",
-        "hash": "d0b4a189",
-        "kind": "league"
+        "hash": "d0b4a189"
       },
       "usl-league-one": {
         "slug": "usl-league-one",
         "name": "USL League One",
-        "hash": "13082d2f",
-        "kind": "league"
+        "hash": "13082d2f"
       },
       "nwsl": {
         "slug": "nwsl",
-        "name": "National Women's Soccer League",
-        "hash": "9e008d97",
-        "kind": "league"
+        "name": "National Women&#39;s Soccer League",
+        "hash": "9e008d97"
       },
       "usa-national-team": {
         "slug": "usa-national-team",
         "name": "USA National Team",
-        "hash": "6a84d485",
-        "kind": "league"
+        "hash": "6a84d485"
       },
       "us-open-cup": {
         "slug": "us-open-cup",
         "name": "U.S. Open Cup",
-        "hash": "88b0978c",
-        "kind": "league"
+        "hash": "88b0978c"
       },
       "usl-super-league": {
         "slug": "usl-super-league",
         "name": "USL Super League",
-        "hash": "fd35ea33",
-        "kind": "league"
+        "hash": "fd35ea33"
       },
       "mls-cup": {
         "slug": "mls-cup",
         "name": "MLS Cup",
-        "hash": "7c9b0552",
-        "kind": "league"
+        "hash": "7c9b0552"
       }
     },
     "clubs": {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "zanzibar",
     "iso2": "ZAN",
@@ -11,7 +11,6 @@
         "slug": "zanzibar-national-team",
         "name": "Zanzibar National Team",
         "hash": "7071b7e9",
-        "kind": "league",
         "code": "ZAN"
       }
     },

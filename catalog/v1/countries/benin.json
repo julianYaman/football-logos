@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "benin",
     "iso2": "BJ",
@@ -11,7 +11,6 @@
         "slug": "benin-national-team",
         "name": "Benin National Team",
         "hash": "c9ad9a8e",
-        "kind": "league",
         "code": "BJ"
       }
     },

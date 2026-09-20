@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "russia",
     "iso2": "RU",
@@ -11,26 +11,22 @@
         "slug": "russian-premier-league",
         "name": "Russian Premier League",
         "hash": "02e3c017",
-        "kind": "league",
         "code": "RU"
       },
       "russian-first-league": {
         "slug": "russian-first-league",
         "name": "Russian First League",
-        "hash": "959433eb",
-        "kind": "league"
+        "hash": "959433eb"
       },
       "russia-national-team": {
         "slug": "russia-national-team",
         "name": "Russia National Team",
-        "hash": "7ce0f003",
-        "kind": "league"
+        "hash": "7ce0f003"
       },
       "soviet-union-national-team": {
         "slug": "soviet-union-national-team",
         "name": "Soviet Union National Team",
-        "hash": "745a8272",
-        "kind": "league"
+        "hash": "745a8272"
       }
     },
     "clubs": {

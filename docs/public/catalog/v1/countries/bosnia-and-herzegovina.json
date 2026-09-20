@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "bosnia-and-herzegovina",
     "iso2": "BA",
@@ -11,14 +11,12 @@
         "slug": "premier-league",
         "name": "Premijer liga",
         "hash": "98edb27e",
-        "kind": "league",
         "code": "BA"
       },
       "bosnia-and-herzegovina-national-team": {
         "slug": "bosnia-and-herzegovina-national-team",
         "name": "Bosnia and Herzegovina National Team",
-        "hash": "409e347c",
-        "kind": "league"
+        "hash": "409e347c"
       }
     },
     "clubs": {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "mongolia",
     "iso2": "MN",
@@ -11,7 +11,6 @@
         "slug": "mongolia-national-team",
         "name": "Mongolia National Team",
         "hash": "97df2486",
-        "kind": "league",
         "code": "MN"
       }
     },

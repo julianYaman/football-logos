@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "oman",
     "iso2": "OM",
@@ -11,7 +11,6 @@
         "slug": "oman-national-team",
         "name": "Oman National Team",
         "hash": "2f50c5ad",
-        "kind": "league",
         "code": "OM"
       }
     },

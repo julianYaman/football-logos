@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "south-korea",
     "iso2": "KR",
@@ -11,20 +11,17 @@
         "slug": "k-league-1",
         "name": "K League 1",
         "hash": "0ffd4f72",
-        "kind": "league",
         "code": "KR"
       },
       "k-league-2": {
         "slug": "k-league-2",
         "name": "K League 2",
-        "hash": "09590cd6",
-        "kind": "league"
+        "hash": "09590cd6"
       },
       "south-korea-national-team": {
         "slug": "south-korea-national-team",
         "name": "South Korea National Team",
-        "hash": "e9b844d9",
-        "kind": "league"
+        "hash": "e9b844d9"
       }
     },
     "clubs": {

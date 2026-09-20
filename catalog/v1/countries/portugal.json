@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "portugal",
     "iso2": "PT",
@@ -11,32 +11,27 @@
         "slug": "primeira-liga",
         "name": "Primeira Liga",
         "hash": "0c7575ca",
-        "kind": "league",
         "code": "PT"
       },
       "liga-portugal-2": {
         "slug": "liga-portugal-2",
         "name": "Liga Portugal 2",
-        "hash": "90a1494e",
-        "kind": "league"
+        "hash": "90a1494e"
       },
       "liga-3": {
         "slug": "liga-3",
         "name": "Liga 3",
-        "hash": "d4aef233",
-        "kind": "league"
+        "hash": "d4aef233"
       },
       "campeonato-de-portugal": {
         "slug": "campeonato-de-portugal",
         "name": "Campeonato de Portugal",
-        "hash": "0ecf8213",
-        "kind": "league"
+        "hash": "0ecf8213"
       },
       "portuguese-football-federation": {
         "slug": "portuguese-football-federation",
         "name": "Portuguese Football Federation",
-        "hash": "1a0b6707",
-        "kind": "league"
+        "hash": "1a0b6707"
       }
     },
     "clubs": {
@@ -152,91 +147,91 @@
         "slug": "academica-de-coimbra",
         "name": "Académica de Coimbra",
         "hash": "ec457901",
-        "league": "liga-2"
+        "league": "liga-portugal-2"
       },
       "amarante": {
         "slug": "amarante",
         "name": "Amarante",
         "hash": "513dc84a",
-        "league": "liga-2"
+        "league": "liga-portugal-2"
       },
       "avs-futebol-sad": {
         "slug": "avs-futebol-sad",
         "name": "AVS Futebol SAD",
         "hash": "85fade6a",
-        "league": "liga-2"
+        "league": "liga-portugal-2"
       },
       "chaves": {
         "slug": "chaves",
         "name": "Grupo Desportivo de Chaves",
         "hash": "e26e1200",
-        "league": "liga-2"
+        "league": "liga-portugal-2"
       },
       "farense": {
         "slug": "farense",
         "name": "Farense",
         "hash": "435971af",
-        "league": "liga-2"
+        "league": "liga-portugal-2"
       },
       "feirense": {
         "slug": "feirense",
         "name": "Feirense",
         "hash": "ebb76786",
-        "league": "liga-2"
+        "league": "liga-portugal-2"
       },
       "felgueiras": {
         "slug": "felgueiras",
         "name": "Felgueiras",
         "hash": "1c8a7ea3",
-        "league": "liga-2"
+        "league": "liga-portugal-2"
       },
       "leiria": {
         "slug": "leiria",
         "name": "União de Leiria",
         "hash": "b1713c87",
-        "league": "liga-2"
+        "league": "liga-portugal-2"
       },
       "leixoes": {
         "slug": "leixoes",
         "name": "Leixões",
         "hash": "f73ab5b7",
-        "league": "liga-2"
+        "league": "liga-portugal-2"
       },
       "lusitania": {
         "slug": "lusitania",
         "name": "Lusitânia de Lourosa",
         "hash": "3e8fc427",
-        "league": "liga-2"
+        "league": "liga-portugal-2"
       },
       "penafiel": {
         "slug": "penafiel",
         "name": "Penafiel",
         "hash": "7a28d902",
-        "league": "liga-2"
+        "league": "liga-portugal-2"
       },
       "portimonense": {
         "slug": "portimonense",
         "name": "Portimonense",
         "hash": "ea48aec4",
-        "league": "liga-2"
+        "league": "liga-portugal-2"
       },
       "tondela": {
         "slug": "tondela",
         "name": "Tondela",
         "hash": "bf99e6f5",
-        "league": "liga-2"
+        "league": "liga-portugal-2"
       },
       "torreense": {
         "slug": "torreense",
         "name": "S.C.U. Torreense",
         "hash": "fdcc5fe6",
-        "league": "liga-2"
+        "league": "liga-portugal-2"
       },
       "vizela": {
         "slug": "vizela",
         "name": "Vizela",
         "hash": "619563e8",
-        "league": "liga-2"
+        "league": "liga-portugal-2"
       },
       "ad-fafe": {
         "slug": "ad-fafe",

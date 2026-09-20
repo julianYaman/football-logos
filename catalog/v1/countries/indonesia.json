@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "indonesia",
     "iso2": "ID",
@@ -11,26 +11,22 @@
         "slug": "indonesian-super-league",
         "name": "Indonesian Super League",
         "hash": "8f0de64e",
-        "kind": "league",
         "code": "ID"
       },
       "pegadaian-championship": {
         "slug": "pegadaian-championship",
         "name": "Pegadaian Championship (Kejuaraan)",
-        "hash": "7d77c011",
-        "kind": "league"
+        "hash": "7d77c011"
       },
       "indonesia-national-team": {
         "slug": "indonesia-national-team",
         "name": "Indonesia National Team",
-        "hash": "8126e8bb",
-        "kind": "league"
+        "hash": "8126e8bb"
       },
       "liga-nusantara": {
         "slug": "liga-nusantara",
         "name": "Liga Nusantara",
-        "hash": "c7129b2d",
-        "kind": "league"
+        "hash": "c7129b2d"
       }
     },
     "clubs": {

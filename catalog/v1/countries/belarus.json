@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "belarus",
     "iso2": "BY",
@@ -11,14 +11,12 @@
         "slug": "belarusian-premier-league",
         "name": "Belarusian Premier League",
         "hash": "79f4f419",
-        "kind": "league",
         "code": "BY"
       },
       "belarus-national-team": {
         "slug": "belarus-national-team",
         "name": "Belarus National Team",
-        "hash": "f01c7aa4",
-        "kind": "league"
+        "hash": "f01c7aa4"
       }
     },
     "clubs": {

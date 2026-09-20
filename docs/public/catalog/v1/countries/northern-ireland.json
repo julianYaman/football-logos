@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "northern-ireland",
     "iso2": "NIR",
@@ -11,20 +11,17 @@
         "slug": "nifl-premiership",
         "name": "NIFL Premiership",
         "hash": "1722d4b0",
-        "kind": "league",
         "code": "NIR"
       },
       "northern-ireland-national-team": {
         "slug": "northern-ireland-national-team",
         "name": "Northern Ireland National Team",
-        "hash": "2e78b902",
-        "kind": "league"
+        "hash": "2e78b902"
       },
       "northern-ireland-football-league": {
         "slug": "northern-ireland-football-league",
         "name": "Northern Ireland Football League",
-        "hash": "c5938771",
-        "kind": "league"
+        "hash": "c5938771"
       }
     },
     "clubs": {

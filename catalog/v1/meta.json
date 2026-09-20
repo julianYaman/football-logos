@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -93,7 +93,7 @@
       "iso2": "AT",
       "name": "Austria",
       "defaultLeague": "austrian-football-bundesliga",
-      "clubCount": 33
+      "clubCount": 34
     },
     {
       "slug": "azerbaijan",
@@ -205,7 +205,7 @@
       "iso2": "BR",
       "name": "Brazil",
       "defaultLeague": "brazilian-serie-a",
-      "clubCount": 194
+      "clubCount": 195
     },
     {
       "slug": "british-virgin-islands",
@@ -303,7 +303,7 @@
       "iso2": "CL",
       "name": "Chile",
       "defaultLeague": "liga-de-primera",
-      "clubCount": 33
+      "clubCount": 34
     },
     {
       "slug": "china",
@@ -366,7 +366,7 @@
       "iso2": "HR",
       "name": "Croatia",
       "defaultLeague": "croatian-football-league",
-      "clubCount": 15
+      "clubCount": 16
     },
     {
       "slug": "cuba",
@@ -450,7 +450,7 @@
       "iso2": "ENG",
       "name": "England",
       "defaultLeague": "english-premier-league",
-      "clubCount": 339
+      "clubCount": 344
     },
     {
       "slug": "equatorial-guinea",
@@ -506,14 +506,14 @@
       "iso2": "FI",
       "name": "Finland",
       "defaultLeague": "veikkausliiga",
-      "clubCount": 28
+      "clubCount": 29
     },
     {
       "slug": "france",
       "iso2": "FR",
       "name": "France",
       "defaultLeague": "ligue-1",
-      "clubCount": 217
+      "clubCount": 223
     },
     {
       "slug": "french-guiana",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 217
+      "clubCount": 225
     },
     {
       "slug": "ghana",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "163174595ce4d222"
+  "contentHash": "7c15cbe3ac9874d9"
 }

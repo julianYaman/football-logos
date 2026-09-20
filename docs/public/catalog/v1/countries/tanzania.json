@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "tanzania",
     "iso2": "TZ",
@@ -11,14 +11,12 @@
         "slug": "nbc-premier-league",
         "name": "NBC Premier League",
         "hash": "d0998d49",
-        "kind": "league",
         "code": "TZ"
       },
       "tanzania-national-team": {
         "slug": "tanzania-national-team",
         "name": "Tanzania National Team",
-        "hash": "7480b0e9",
-        "kind": "league"
+        "hash": "7480b0e9"
       }
     },
     "clubs": {

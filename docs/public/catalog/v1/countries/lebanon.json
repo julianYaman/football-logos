@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "lebanon",
     "iso2": "LB",
@@ -11,7 +11,6 @@
         "slug": "lebanon-national-team",
         "name": "Lebanon National Team",
         "hash": "2603a790",
-        "kind": "league",
         "code": "LB"
       }
     },

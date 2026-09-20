@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "uae",
     "iso2": "AE",
@@ -11,14 +11,12 @@
         "slug": "uae-pro-league",
         "name": "UAE Pro League",
         "hash": "73628727",
-        "kind": "league",
         "code": "AE"
       },
       "uae-national-team": {
         "slug": "uae-national-team",
         "name": "UAE National Team",
-        "hash": "f9f14db5",
-        "kind": "league"
+        "hash": "f9f14db5"
       }
     },
     "clubs": {

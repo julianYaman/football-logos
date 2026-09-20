@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "slovakia",
     "iso2": "SK",
@@ -11,14 +11,12 @@
         "slug": "slovak-first-football-league",
         "name": "Slovak First Football League",
         "hash": "8b39d081",
-        "kind": "league",
         "code": "SK"
       },
       "slovakia-national-team": {
         "slug": "slovakia-national-team",
         "name": "Slovakia National Team",
-        "hash": "02dd9aa5",
-        "kind": "league"
+        "hash": "02dd9aa5"
       }
     },
     "clubs": {

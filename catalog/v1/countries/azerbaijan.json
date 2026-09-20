@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "azerbaijan",
     "iso2": "AZ",
@@ -11,14 +11,12 @@
         "slug": "azerbaijan-premier-league",
         "name": "Azerbaijan Premier League",
         "hash": "1ae12162",
-        "kind": "league",
         "code": "AZ"
       },
       "azerbaijan-national-team": {
         "slug": "azerbaijan-national-team",
         "name": "Azerbaijan National Team",
-        "hash": "35869350",
-        "kind": "league"
+        "hash": "35869350"
       }
     },
     "clubs": {

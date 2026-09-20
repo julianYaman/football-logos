@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "australia",
     "iso2": "AU",
@@ -11,14 +11,12 @@
         "slug": "a-league",
         "name": "A-League",
         "hash": "eca13dc8",
-        "kind": "league",
         "code": "AU"
       },
       "australia-national-team": {
         "slug": "australia-national-team",
         "name": "Australia National Team",
-        "hash": "529324b3",
-        "kind": "league"
+        "hash": "529324b3"
       }
     },
     "clubs": {

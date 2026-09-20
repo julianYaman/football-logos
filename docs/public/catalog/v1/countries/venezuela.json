@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "venezuela",
     "iso2": "VE",
@@ -11,14 +11,12 @@
         "slug": "primera-division-de-venezuela",
         "name": "Primera División de Venezuela",
         "hash": "343b6a0c",
-        "kind": "league",
         "code": "VE"
       },
       "venezuela-national-team": {
         "slug": "venezuela-national-team",
         "name": "Venezuela National Team",
-        "hash": "8df14fc6",
-        "kind": "league"
+        "hash": "8df14fc6"
       }
     },
     "clubs": {

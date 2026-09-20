@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -11,20 +11,17 @@
         "slug": "super-league-1",
         "name": "Super League Greece",
         "hash": "ea9b3a50",
-        "kind": "league",
         "code": "GR"
       },
       "super-league-2": {
         "slug": "super-league-2",
         "name": "Super League 2",
-        "hash": "89b34ef1",
-        "kind": "league"
+        "hash": "89b34ef1"
       },
       "greece-national-team": {
         "slug": "greece-national-team",
         "name": "Greece National Team",
-        "hash": "b76f5101",
-        "kind": "league"
+        "hash": "b76f5101"
       }
     },
     "clubs": {
@@ -32,85 +29,85 @@
         "slug": "aek-athens",
         "name": "AEK Athens",
         "hash": "1cb95263",
-        "league": "super-league"
+        "league": "super-league-1"
       },
       "aris-thessaloniki": {
         "slug": "aris-thessaloniki",
         "name": "Aris Thessaloniki",
         "hash": "ff1171e6",
-        "league": "super-league"
+        "league": "super-league-1"
       },
       "asteras": {
         "slug": "asteras",
         "name": "Asteras Tripolis",
         "hash": "2ffde67e",
-        "league": "super-league"
+        "league": "super-league-1"
       },
       "atromitos": {
         "slug": "atromitos",
         "name": "Atromitos",
         "hash": "27b3c8db",
-        "league": "super-league"
+        "league": "super-league-1"
       },
       "kifisia": {
         "slug": "kifisia",
         "name": "A.E. Kifisia",
         "hash": "c9b0502a",
-        "league": "super-league"
+        "league": "super-league-1"
       },
       "levadiakos": {
         "slug": "levadiakos",
         "name": "Levadiakos",
         "hash": "b6725b28",
-        "league": "super-league"
+        "league": "super-league-1"
       },
       "ofi": {
         "slug": "ofi",
         "name": "OFI",
         "hash": "540bf65b",
-        "league": "super-league"
+        "league": "super-league-1"
       },
       "olympiacos": {
         "slug": "olympiacos",
         "name": "Olympiacos",
         "hash": "d38a410a",
-        "league": "super-league"
+        "league": "super-league-1"
       },
       "panathinaikos": {
         "slug": "panathinaikos",
         "name": "Panathinaikos",
         "hash": "443a2548",
-        "league": "super-league"
+        "league": "super-league-1"
       },
       "panetolikos": {
         "slug": "panetolikos",
         "name": "Panetolikos",
         "hash": "0df589a9",
-        "league": "super-league"
+        "league": "super-league-1"
       },
       "paok": {
         "slug": "paok",
         "name": "PAOK",
         "hash": "7c1401e1",
-        "league": "super-league"
+        "league": "super-league-1"
       },
       "volos": {
         "slug": "volos",
         "name": "Volos NFC",
         "hash": "3d0d9ed5",
-        "league": "super-league"
+        "league": "super-league-1"
       },
       "iraklis-thessaloniki": {
         "slug": "iraklis-thessaloniki",
         "name": "Iraklis Thessaloniki",
         "hash": "8af081b4",
-        "league": "super-league"
+        "league": "super-league-1"
       },
       "kalamata": {
         "slug": "kalamata",
         "name": "Kalamata",
         "hash": "57174d1a",
-        "league": "super-league"
+        "league": "super-league-1"
       },
       "egaleo": {
         "slug": "egaleo",

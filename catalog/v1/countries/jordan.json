@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "jordan",
     "iso2": "JO",
@@ -11,7 +11,6 @@
         "slug": "jordan-national-team",
         "name": "Jordan National Team",
         "hash": "5bd8d6e4",
-        "kind": "league",
         "code": "JO"
       }
     },

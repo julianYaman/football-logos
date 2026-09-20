@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "chile",
     "iso2": "CL",
@@ -11,20 +11,17 @@
         "slug": "liga-de-primera",
         "name": "Liga de Primera",
         "hash": "15ab230f",
-        "kind": "league",
         "code": "CL"
       },
       "liga-de-ascenso": {
         "slug": "liga-de-ascenso",
         "name": "Liga de Ascenso",
-        "hash": "a43b2619",
-        "kind": "league"
+        "hash": "a43b2619"
       },
       "chile-national-team": {
         "slug": "chile-national-team",
         "name": "Chile National Team",
-        "hash": "1bc4c30d",
-        "kind": "league"
+        "hash": "1bc4c30d"
       }
     },
     "clubs": {
@@ -224,6 +221,12 @@
         "slug": "independiente-cauquenes",
         "name": "Independiente de Cauquenes",
         "hash": "2530a481",
+        "league": ""
+      },
+      "colchagua": {
+        "slug": "colchagua",
+        "name": "Colchagua",
+        "hash": "b60a5968",
         "league": ""
       }
     }

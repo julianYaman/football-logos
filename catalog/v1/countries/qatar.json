@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "qatar",
     "iso2": "QA",
@@ -11,14 +11,12 @@
         "slug": "qatar-stars-league",
         "name": "Qatar Stars League",
         "hash": "b9acaae6",
-        "kind": "league",
         "code": "QA"
       },
       "qatar-national-team": {
         "slug": "qatar-national-team",
         "name": "Qatar National Team",
-        "hash": "990ed921",
-        "kind": "league"
+        "hash": "990ed921"
       }
     },
     "clubs": {

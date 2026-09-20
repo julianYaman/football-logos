@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "japan",
     "iso2": "JP",
@@ -11,26 +11,22 @@
         "slug": "j-league",
         "name": "J1 League",
         "hash": "337e64b4",
-        "kind": "league",
         "code": "JP"
       },
       "j2-league": {
         "slug": "j2-league",
         "name": "J2 League",
-        "hash": "89069c7e",
-        "kind": "league"
+        "hash": "89069c7e"
       },
       "j3-league": {
         "slug": "j3-league",
         "name": "J3 League",
-        "hash": "20fb8229",
-        "kind": "league"
+        "hash": "20fb8229"
       },
       "japan-national-team": {
         "slug": "japan-national-team",
         "name": "Japan National Team",
-        "hash": "2aebfdef",
-        "kind": "league"
+        "hash": "2aebfdef"
       }
     },
     "clubs": {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "bulgaria",
     "iso2": "BG",
@@ -11,14 +11,12 @@
         "slug": "parva-liga",
         "name": "Parva Liga",
         "hash": "3169d48a",
-        "kind": "league",
         "code": "BG"
       },
       "bulgaria-national-team": {
         "slug": "bulgaria-national-team",
         "name": "Bulgaria National Team",
-        "hash": "98775b36",
-        "kind": "league"
+        "hash": "98775b36"
       }
     },
     "clubs": {

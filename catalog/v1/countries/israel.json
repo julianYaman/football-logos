@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "israel",
     "iso2": "IL",
@@ -11,14 +11,12 @@
         "slug": "israeli-premier-league",
         "name": "Israeli Premier League",
         "hash": "ad630dd2",
-        "kind": "league",
         "code": "IL"
       },
       "israel-national-team": {
         "slug": "israel-national-team",
         "name": "Israel National Team",
-        "hash": "0760da24",
-        "kind": "league"
+        "hash": "0760da24"
       }
     },
     "clubs": {

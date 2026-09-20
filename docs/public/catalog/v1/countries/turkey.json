@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "turkey",
     "iso2": "TR",
@@ -11,38 +11,32 @@
         "slug": "super-lig",
         "name": "Super Lig",
         "hash": "e5930ec5",
-        "kind": "league",
         "code": "TR"
       },
       "1st-lig": {
         "slug": "1st-lig",
         "name": "1. Lig",
-        "hash": "5c243aa9",
-        "kind": "league"
+        "hash": "5c243aa9"
       },
       "2nd-lig": {
         "slug": "2nd-lig",
         "name": "2. Lig",
-        "hash": "43b1178b",
-        "kind": "league"
+        "hash": "43b1178b"
       },
       "turkey-national-team": {
         "slug": "turkey-national-team",
         "name": "Turkey National Team",
-        "hash": "4d49e062",
-        "kind": "league"
+        "hash": "4d49e062"
       },
       "turkish-football-federation": {
         "slug": "turkish-football-federation",
         "name": "Turkish Football Federation",
-        "hash": "91d55f3a",
-        "kind": "league"
+        "hash": "91d55f3a"
       },
       "turkish-cup": {
         "slug": "turkish-cup",
         "name": "Turkish Cup",
-        "hash": "4a2b9eb1",
-        "kind": "league"
+        "hash": "4a2b9eb1"
       }
     },
     "clubs": {

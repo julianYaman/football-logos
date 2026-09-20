@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "czech-republic",
     "iso2": "CZ",
@@ -11,26 +11,22 @@
         "slug": "chance-liga",
         "name": "Chance Liga",
         "hash": "8511af91",
-        "kind": "league",
         "code": "CZ"
       },
       "chance-narodni-liga": {
         "slug": "chance-narodni-liga",
         "name": "Chance Narodní Liga",
-        "hash": "2bd970c0",
-        "kind": "league"
+        "hash": "2bd970c0"
       },
       "czech-republic-national-team": {
         "slug": "czech-republic-national-team",
         "name": "Czech Republic National Team",
-        "hash": "17b57caa",
-        "kind": "league"
+        "hash": "17b57caa"
       },
       "czech-republic-football-association": {
         "slug": "czech-republic-football-association",
         "name": "Czech Republic Football Association",
-        "hash": "89b7b43a",
-        "kind": "league"
+        "hash": "89b7b43a"
       }
     },
     "clubs": {
@@ -192,7 +188,7 @@
       },
       "sellier-bellot-vlasim": {
         "slug": "sellier-bellot-vlasim",
-        "name": "FC Sellier & Bellot Vlašim",
+        "name": "FC Sellier &amp; Bellot Vlašim",
         "hash": "3904e090",
         "league": "chance-narodni-liga"
       },

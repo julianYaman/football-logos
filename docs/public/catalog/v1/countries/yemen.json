@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "yemen",
     "iso2": "YE",
@@ -11,7 +11,6 @@
         "slug": "yemen-national-team",
         "name": "Yemen National Team",
         "hash": "5d35fcbf",
-        "kind": "league",
         "code": "YE"
       }
     },

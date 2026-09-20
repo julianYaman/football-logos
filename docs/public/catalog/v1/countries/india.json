@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "india",
     "iso2": "IN",
@@ -11,20 +11,17 @@
         "slug": "indian-super-league",
         "name": "Indian Super League",
         "hash": "8fd5406f",
-        "kind": "league",
         "code": "IN"
       },
       "i-league-2": {
         "slug": "i-league-2",
         "name": "I-League 2",
-        "hash": "bc02cdfd",
-        "kind": "league"
+        "hash": "bc02cdfd"
       },
       "india-national-team": {
         "slug": "india-national-team",
         "name": "India National Team",
-        "hash": "81575a29",
-        "kind": "league"
+        "hash": "81575a29"
       }
     },
     "clubs": {

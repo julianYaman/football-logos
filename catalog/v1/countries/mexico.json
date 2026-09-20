@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "mexico",
     "iso2": "MX",
@@ -11,26 +11,22 @@
         "slug": "liga-mx",
         "name": "Liga MX",
         "hash": "15273233",
-        "kind": "league",
         "code": "MX"
       },
       "liga-de-expansion-mx": {
         "slug": "liga-de-expansion-mx",
         "name": "Liga de Expansión MX",
-        "hash": "042e2028",
-        "kind": "league"
+        "hash": "042e2028"
       },
       "liga-premier-a": {
         "slug": "liga-premier-a",
         "name": "Liga Premier A",
-        "hash": "6bb48536",
-        "kind": "league"
+        "hash": "6bb48536"
       },
       "mexico-national-team": {
         "slug": "mexico-national-team",
         "name": "Mexico National Team",
-        "hash": "3a360b20",
-        "kind": "league"
+        "hash": "3a360b20"
       }
     },
     "clubs": {

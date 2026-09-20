@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "norway",
     "iso2": "NO",
@@ -11,20 +11,17 @@
         "slug": "eliteserien",
         "name": "Eliteserien",
         "hash": "4ffe28e9",
-        "kind": "league",
         "code": "NO"
       },
       "norwegian-first-division": {
         "slug": "norwegian-first-division",
         "name": "Norwegian First Division",
-        "hash": "d451c55a",
-        "kind": "league"
+        "hash": "d451c55a"
       },
       "norway-national-team": {
         "slug": "norway-national-team",
         "name": "Norway National Team",
-        "hash": "45b68be8",
-        "kind": "league"
+        "hash": "45b68be8"
       }
     },
     "clubs": {

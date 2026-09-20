@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "estonia",
     "iso2": "EE",
@@ -11,14 +11,12 @@
         "slug": "premium-liiga",
         "name": "Premium Liiga",
         "hash": "997e80f8",
-        "kind": "league",
         "code": "EE"
       },
       "estonia-national-team": {
         "slug": "estonia-national-team",
         "name": "Estonia National Team",
-        "hash": "f5e3e2a7",
-        "kind": "league"
+        "hash": "f5e3e2a7"
       }
     },
     "clubs": {

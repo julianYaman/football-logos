@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "denmark",
     "iso2": "DK",
@@ -11,32 +11,27 @@
         "slug": "danish-super-liga",
         "name": "Danish Super League",
         "hash": "d6485ddb",
-        "kind": "league",
         "code": "DK"
       },
       "1st-division": {
         "slug": "1st-division",
         "name": "1st Division",
-        "hash": "57f4f672",
-        "kind": "league"
+        "hash": "57f4f672"
       },
       "2nd-division": {
         "slug": "2nd-division",
         "name": "2nd Division",
-        "hash": "75e8c161",
-        "kind": "league"
+        "hash": "75e8c161"
       },
       "denmark-national-team": {
         "slug": "denmark-national-team",
         "name": "Denmark National Team",
-        "hash": "62482d4b",
-        "kind": "league"
+        "hash": "62482d4b"
       },
       "danish-cup": {
         "slug": "danish-cup",
         "name": "Danish Cup",
-        "hash": "69fa65eb",
-        "kind": "league"
+        "hash": "69fa65eb"
       }
     },
     "clubs": {

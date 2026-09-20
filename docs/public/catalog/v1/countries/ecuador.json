@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "ecuador",
     "iso2": "EC",
@@ -11,20 +11,17 @@
         "slug": "liga-pro-serie-a",
         "name": "Liga Pro Serie A",
         "hash": "9a546764",
-        "kind": "league",
         "code": "EC"
       },
       "liga-de-quito": {
         "slug": "liga-de-quito",
         "name": "Liga de Quito",
-        "hash": "76d36211",
-        "kind": "league"
+        "hash": "76d36211"
       },
       "ecuador-national-team": {
         "slug": "ecuador-national-team",
         "name": "Ecuador National Team",
-        "hash": "fe2a3844",
-        "kind": "league"
+        "hash": "fe2a3844"
       }
     },
     "clubs": {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -14,7 +14,6 @@
           "slug": "afghanistan-national-team",
           "name": "Afghanistan National Team",
           "hash": "32399539",
-          "kind": "league",
           "code": "AF"
         }
       },
@@ -30,7 +29,6 @@
           "slug": "albania-national-team",
           "name": "Albania National Team",
           "hash": "0aed17bb",
-          "kind": "league",
           "code": "AL"
         }
       },
@@ -167,14 +165,12 @@
           "slug": "ligue-1",
           "name": "Ligue 1",
           "hash": "61533d7b",
-          "kind": "league",
           "code": "DZ"
         },
         "algeria-national-team": {
           "slug": "algeria-national-team",
           "name": "Algeria National Team",
-          "hash": "d40ad9dc",
-          "kind": "league"
+          "hash": "d40ad9dc"
         }
       },
       "clubs": {
@@ -304,7 +300,6 @@
           "slug": "american-samoa-national-team",
           "name": "American Samoa National Team",
           "hash": "c97d8c3c",
-          "kind": "league",
           "code": "AS"
         }
       },
@@ -320,7 +315,6 @@
           "slug": "andorra-national-team",
           "name": "Andorra National Team",
           "hash": "929205ce",
-          "kind": "league",
           "code": "AD"
         }
       },
@@ -385,7 +379,6 @@
           "slug": "angola-national-team",
           "name": "Angola National Team",
           "hash": "89bda365",
-          "kind": "league",
           "code": "AO"
         }
       },
@@ -401,7 +394,6 @@
           "slug": "anguilla-national-team",
           "name": "Anguilla National Team",
           "hash": "c576a725",
-          "kind": "league",
           "code": "AI"
         }
       },
@@ -417,7 +409,6 @@
           "slug": "antigua-and-barbuda-national-team",
           "name": "Antigua and Barbuda National Team",
           "hash": "008f7036",
-          "kind": "league",
           "code": "AG"
         }
       },
@@ -433,32 +424,27 @@
           "slug": "argentina-primera-division",
           "name": "Argentina Primera Division",
           "hash": "98bf8e3e",
-          "kind": "league",
           "code": "AR"
         },
         "primera-nacional": {
           "slug": "primera-nacional",
           "name": "Primera Nacional",
-          "hash": "47bfedd8",
-          "kind": "league"
+          "hash": "47bfedd8"
         },
         "primera-b-metropolitana": {
           "slug": "primera-b-metropolitana",
           "name": "Primera B Metropolitana",
-          "hash": "5e0da685",
-          "kind": "league"
+          "hash": "5e0da685"
         },
         "primera-c-metropolitana": {
           "slug": "primera-c-metropolitana",
           "name": "Primera C Metropolitana",
-          "hash": "7e3f390a",
-          "kind": "league"
+          "hash": "7e3f390a"
         },
         "argentina-national-team": {
           "slug": "argentina-national-team",
           "name": "Argentina National Team",
-          "hash": "5c235057",
-          "kind": "league"
+          "hash": "5c235057"
         }
       },
       "clubs": {
@@ -1236,14 +1222,12 @@
           "slug": "armenian-premier-league",
           "name": "Armenian Premier League",
           "hash": "183b27bc",
-          "kind": "league",
           "code": "AM"
         },
         "armenia-national-team": {
           "slug": "armenia-national-team",
           "name": "Armenia National Team",
-          "hash": "2d39bd55",
-          "kind": "league"
+          "hash": "2d39bd55"
         }
       },
       "clubs": {
@@ -1331,7 +1315,6 @@
           "slug": "aruba-national-team",
           "name": "Aruba National Team",
           "hash": "7c7231c6",
-          "kind": "league",
           "code": "AW"
         }
       },
@@ -1347,14 +1330,12 @@
           "slug": "a-league",
           "name": "A-League",
           "hash": "eca13dc8",
-          "kind": "league",
           "code": "AU"
         },
         "australia-national-team": {
           "slug": "australia-national-team",
           "name": "Australia National Team",
-          "hash": "529324b3",
-          "kind": "league"
+          "hash": "529324b3"
         }
       },
       "clubs": {
@@ -1460,20 +1441,17 @@
           "slug": "austrian-football-bundesliga",
           "name": "Austrian Football Bundesliga",
           "hash": "bdc8c58e",
-          "kind": "league",
           "code": "AT"
         },
         "2-liga": {
           "slug": "2-liga",
           "name": "2. Liga",
-          "hash": "6386f2aa",
-          "kind": "league"
+          "hash": "6386f2aa"
         },
         "austria-national-team": {
           "slug": "austria-national-team",
           "name": "Austria National Team",
-          "hash": "f42ec863",
-          "kind": "league"
+          "hash": "f42ec863"
         }
       },
       "clubs": {
@@ -1481,73 +1459,73 @@
           "slug": "altach",
           "name": "Rheindorf Altach",
           "hash": "6a574014",
-          "league": "austrian-bundesliga"
+          "league": "austrian-football-bundesliga"
         },
         "austria-wien": {
           "slug": "austria-wien",
           "name": "Austria Wien",
           "hash": "24f7ffd5",
-          "league": "austrian-bundesliga"
+          "league": "austrian-football-bundesliga"
         },
         "grazer-ak": {
           "slug": "grazer-ak",
           "name": "Grazer AK",
           "hash": "10a00445",
-          "league": "austrian-bundesliga"
+          "league": "austrian-football-bundesliga"
         },
         "hartberg": {
           "slug": "hartberg",
           "name": "Hartberg",
           "hash": "495b359e",
-          "league": "austrian-bundesliga"
+          "league": "austrian-football-bundesliga"
         },
         "lask": {
           "slug": "lask",
           "name": "LASK",
           "hash": "79c6d580",
-          "league": "austrian-bundesliga"
+          "league": "austrian-football-bundesliga"
         },
         "lustenau": {
           "slug": "lustenau",
           "name": "Lustenau",
           "hash": "72a9e517",
-          "league": "austrian-bundesliga"
+          "league": "austrian-football-bundesliga"
         },
         "ried": {
           "slug": "ried",
           "name": "Ried",
           "hash": "1582abee",
-          "league": "austrian-bundesliga"
+          "league": "austrian-football-bundesliga"
         },
         "salzburg": {
           "slug": "salzburg",
           "name": "Salzburg",
           "hash": "45a1ca60",
-          "league": "austrian-bundesliga"
+          "league": "austrian-football-bundesliga"
         },
         "rapid-vienna": {
           "slug": "rapid-vienna",
           "name": "Rapid Vienna",
           "hash": "765127d7",
-          "league": "austrian-bundesliga"
+          "league": "austrian-football-bundesliga"
         },
         "sturm-graz": {
           "slug": "sturm-graz",
           "name": "Sturm Graz",
           "hash": "7b84f400",
-          "league": "austrian-bundesliga"
+          "league": "austrian-football-bundesliga"
         },
         "tirol": {
           "slug": "tirol",
           "name": "Tirol",
           "hash": "fc401d0e",
-          "league": "austrian-bundesliga"
+          "league": "austrian-football-bundesliga"
         },
         "wolfsberg": {
           "slug": "wolfsberg",
           "name": "Wolfsberg",
           "hash": "ab6c004f",
-          "league": "austrian-bundesliga"
+          "league": "austrian-football-bundesliga"
         },
         "admira": {
           "slug": "admira",
@@ -1674,6 +1652,12 @@
           "name": "SV Stripfing",
           "hash": "ff7212a1",
           "league": ""
+        },
+        "sv-mattersburg": {
+          "slug": "sv-mattersburg",
+          "name": "SV Mattersburg",
+          "hash": "8efdddce",
+          "league": ""
         }
       }
     },
@@ -1687,14 +1671,12 @@
           "slug": "azerbaijan-premier-league",
           "name": "Azerbaijan Premier League",
           "hash": "1ae12162",
-          "kind": "league",
           "code": "AZ"
         },
         "azerbaijan-national-team": {
           "slug": "azerbaijan-national-team",
           "name": "Azerbaijan National Team",
-          "hash": "35869350",
-          "kind": "league"
+          "hash": "35869350"
         }
       },
       "clubs": {
@@ -1800,7 +1782,6 @@
           "slug": "bahamas-national-team",
           "name": "Bahamas National Team",
           "hash": "242e8a3c",
-          "kind": "league",
           "code": "BS"
         }
       },
@@ -1816,7 +1797,6 @@
           "slug": "bahrain-national-team",
           "name": "Bahrain National Team",
           "hash": "b6c0e7ab",
-          "kind": "league",
           "code": "BH"
         }
       },
@@ -1832,14 +1812,12 @@
           "slug": "bangladesh-football-league",
           "name": "Bangladesh Football League",
           "hash": "75c40e22",
-          "kind": "league",
           "code": "BD"
         },
         "bangladesh-national-team": {
           "slug": "bangladesh-national-team",
           "name": "Bangladesh National Team",
-          "hash": "951c9f7b",
-          "kind": "league"
+          "hash": "951c9f7b"
         }
       },
       "clubs": {
@@ -1933,7 +1911,6 @@
           "slug": "barbados-national-team",
           "name": "Barbados National Team",
           "hash": "95b051ef",
-          "kind": "league",
           "code": "BB"
         }
       },
@@ -1949,14 +1926,12 @@
           "slug": "belarusian-premier-league",
           "name": "Belarusian Premier League",
           "hash": "79f4f419",
-          "kind": "league",
           "code": "BY"
         },
         "belarus-national-team": {
           "slug": "belarus-national-team",
           "name": "Belarus National Team",
-          "hash": "f01c7aa4",
-          "kind": "league"
+          "hash": "f01c7aa4"
         }
       },
       "clubs": {
@@ -2116,32 +2091,27 @@
           "slug": "jupiler-pro-league",
           "name": "Jupiler Pro League",
           "hash": "93c1eb39",
-          "kind": "league",
           "code": "BE"
         },
         "challenger-pro-league": {
           "slug": "challenger-pro-league",
           "name": "Challenger Pro League",
-          "hash": "d74f9fca",
-          "kind": "league"
+          "hash": "d74f9fca"
         },
         "belgium-national-team": {
           "slug": "belgium-national-team",
           "name": "Belgium National Team",
-          "hash": "7eb3e80b",
-          "kind": "league"
+          "hash": "7eb3e80b"
         },
         "belgian-pro-league": {
           "slug": "belgian-pro-league",
           "name": "Belgian Pro League",
-          "hash": "af260e34",
-          "kind": "league"
+          "hash": "af260e34"
         },
         "belgian-cup": {
           "slug": "belgian-cup",
           "name": "Belgian Cup",
-          "hash": "9e6131c0",
-          "kind": "league"
+          "hash": "9e6131c0"
         }
       },
       "clubs": {
@@ -2373,7 +2343,6 @@
           "slug": "belize-national-team",
           "name": "Belize National Team",
           "hash": "daacd149",
-          "kind": "league",
           "code": "BZ"
         }
       },
@@ -2389,7 +2358,6 @@
           "slug": "benin-national-team",
           "name": "Benin National Team",
           "hash": "c9ad9a8e",
-          "kind": "league",
           "code": "BJ"
         }
       },
@@ -2405,7 +2373,6 @@
           "slug": "bermuda-national-team",
           "name": "Bermuda National Team",
           "hash": "de231568",
-          "kind": "league",
           "code": "BM"
         }
       },
@@ -2421,7 +2388,6 @@
           "slug": "bhutan-national-team",
           "name": "Bhutan National Team",
           "hash": "2e83465d",
-          "kind": "league",
           "code": "BT"
         }
       },
@@ -2437,14 +2403,12 @@
           "slug": "primera-division-de-bolivia",
           "name": "Primera División de Bolivia",
           "hash": "203cd822",
-          "kind": "league",
           "code": "BO"
         },
         "bolivia-national-team": {
           "slug": "bolivia-national-team",
           "name": "Bolivia National Team",
-          "hash": "f28e1e12",
-          "kind": "league"
+          "hash": "f28e1e12"
         }
       },
       "clubs": {
@@ -2568,7 +2532,6 @@
           "slug": "bonaire-national-team",
           "name": "Bonaire National Team",
           "hash": "0518cda8",
-          "kind": "league",
           "code": "BQ"
         }
       },
@@ -2584,14 +2547,12 @@
           "slug": "premier-league",
           "name": "Premijer liga",
           "hash": "98edb27e",
-          "kind": "league",
           "code": "BA"
         },
         "bosnia-and-herzegovina-national-team": {
           "slug": "bosnia-and-herzegovina-national-team",
           "name": "Bosnia and Herzegovina National Team",
-          "hash": "409e347c",
-          "kind": "league"
+          "hash": "409e347c"
         }
       },
       "clubs": {
@@ -2715,7 +2676,6 @@
           "slug": "botswana-national-team",
           "name": "Botswana National Team",
           "hash": "97d52ff2",
-          "kind": "league",
           "code": "BW"
         }
       },
@@ -2731,32 +2691,27 @@
           "slug": "brazilian-serie-a",
           "name": "Brazilian Serie A",
           "hash": "f7cd00c8",
-          "kind": "league",
           "code": "BR"
         },
         "brazilian-serie-b": {
           "slug": "brazilian-serie-b",
           "name": "Brazilian Serie B",
-          "hash": "a0ac6514",
-          "kind": "league"
+          "hash": "a0ac6514"
         },
         "brazilian-serie-c": {
           "slug": "brazilian-serie-c",
           "name": "Brazilian Serie C",
-          "hash": "76235b53",
-          "kind": "league"
+          "hash": "76235b53"
         },
         "brazilian-serie-d": {
           "slug": "brazilian-serie-d",
           "name": "Brazilian Serie D",
-          "hash": "a8df073f",
-          "kind": "league"
+          "hash": "a8df073f"
         },
         "brazil-national-team": {
           "slug": "brazil-national-team",
           "name": "Brazil National Team",
-          "hash": "004213f2",
-          "kind": "league"
+          "hash": "004213f2"
         }
       },
       "clubs": {
@@ -3750,6 +3705,12 @@
           "hash": "14cf067e",
           "league": ""
         },
+        "bahia-de-feira": {
+          "slug": "bahia-de-feira",
+          "name": "Bahia de Feira",
+          "hash": "588e26e2",
+          "league": ""
+        },
         "cabofriense": {
           "slug": "cabofriense",
           "name": "Cabofriense",
@@ -3936,7 +3897,6 @@
           "slug": "british-virgin-islands-national-team",
           "name": "British Virgin Islands National Team",
           "hash": "9d2a5ac1",
-          "kind": "league",
           "code": "VG"
         }
       },
@@ -3952,7 +3912,6 @@
           "slug": "brunei-national-team",
           "name": "Brunei National Team",
           "hash": "99adb16f",
-          "kind": "league",
           "code": "BN"
         }
       },
@@ -3968,14 +3927,12 @@
           "slug": "parva-liga",
           "name": "Parva Liga",
           "hash": "3169d48a",
-          "kind": "league",
           "code": "BG"
         },
         "bulgaria-national-team": {
           "slug": "bulgaria-national-team",
           "name": "Bulgaria National Team",
-          "hash": "98775b36",
-          "kind": "league"
+          "hash": "98775b36"
         }
       },
       "clubs": {
@@ -4135,7 +4092,6 @@
           "slug": "burkina-faso-national-team",
           "name": "Burkina Faso National Team",
           "hash": "6c9853b6",
-          "kind": "league",
           "code": "BF"
         }
       },
@@ -4151,7 +4107,6 @@
           "slug": "burundi-national-team",
           "name": "Burundi National Team",
           "hash": "b2abfd99",
-          "kind": "league",
           "code": "BI"
         }
       },
@@ -4174,7 +4129,6 @@
           "slug": "cabo-verde-national-team",
           "name": "Cabo Verde National Team",
           "hash": "6f0bf21a",
-          "kind": "league",
           "code": "CV"
         }
       },
@@ -4190,7 +4144,6 @@
           "slug": "cambodia-national-team",
           "name": "Cambodia National Team",
           "hash": "5b225d3c",
-          "kind": "league",
           "code": "KH"
         }
       },
@@ -4206,14 +4159,12 @@
           "slug": "cameroon-national-team",
           "name": "Cameroon National Team",
           "hash": "60645beb",
-          "kind": "league",
           "code": "CM"
         },
         "cameroonian-football-federation": {
           "slug": "cameroonian-football-federation",
           "name": "Cameroonian Football Federation",
-          "hash": "13e6ef39",
-          "kind": "league"
+          "hash": "13e6ef39"
         }
       },
       "clubs": {}
@@ -4228,14 +4179,12 @@
           "slug": "canadian-premier-league",
           "name": "Canadian Premier League",
           "hash": "bd0e6f5e",
-          "kind": "league",
           "code": "CA"
         },
         "canada-national-team": {
           "slug": "canada-national-team",
           "name": "Canada National Team",
-          "hash": "1ecbb8ed",
-          "kind": "league"
+          "hash": "1ecbb8ed"
         }
       },
       "clubs": {
@@ -4323,7 +4272,6 @@
           "slug": "catalonia-national-team",
           "name": "Catalonia National Team",
           "hash": "9c11d7f2",
-          "kind": "league",
           "code": "CAT"
         }
       },
@@ -4339,7 +4287,6 @@
           "slug": "cayman-islands-national-team",
           "name": "Cayman Islands National Team",
           "hash": "fbbf105b",
-          "kind": "league",
           "code": "KY"
         }
       },
@@ -4355,7 +4302,6 @@
           "slug": "central-african-republic-national-team",
           "name": "Central African Republic National Team",
           "hash": "d4477448",
-          "kind": "league",
           "code": "CF"
         }
       },
@@ -4371,7 +4317,6 @@
           "slug": "chad-national-team",
           "name": "Chad National Team",
           "hash": "9c890367",
-          "kind": "league",
           "code": "TD"
         }
       },
@@ -4387,20 +4332,17 @@
           "slug": "liga-de-primera",
           "name": "Liga de Primera",
           "hash": "15ab230f",
-          "kind": "league",
           "code": "CL"
         },
         "liga-de-ascenso": {
           "slug": "liga-de-ascenso",
           "name": "Liga de Ascenso",
-          "hash": "a43b2619",
-          "kind": "league"
+          "hash": "a43b2619"
         },
         "chile-national-team": {
           "slug": "chile-national-team",
           "name": "Chile National Team",
-          "hash": "1bc4c30d",
-          "kind": "league"
+          "hash": "1bc4c30d"
         }
       },
       "clubs": {
@@ -4601,6 +4543,12 @@
           "name": "Independiente de Cauquenes",
           "hash": "2530a481",
           "league": ""
+        },
+        "colchagua": {
+          "slug": "colchagua",
+          "name": "Colchagua",
+          "hash": "b60a5968",
+          "league": ""
         }
       }
     },
@@ -4614,14 +4562,12 @@
           "slug": "chinese-super-league",
           "name": "Chinese Super League",
           "hash": "13e4c13a",
-          "kind": "league",
           "code": "CN"
         },
         "china-national-team": {
           "slug": "china-national-team",
           "name": "China National Team",
-          "hash": "676b7c09",
-          "kind": "league"
+          "hash": "676b7c09"
         }
       },
       "clubs": {
@@ -4751,14 +4697,12 @@
           "slug": "categoria-primera-a",
           "name": "Categoria Primera A",
           "hash": "7a294f1b",
-          "kind": "league",
           "code": "CO"
         },
         "colombia-national-team": {
           "slug": "colombia-national-team",
           "name": "Colombia National Team",
-          "hash": "32611925",
-          "kind": "league"
+          "hash": "32611925"
         }
       },
       "clubs": {
@@ -4918,24 +4862,7 @@
           "slug": "comoros-national-team",
           "name": "Comoros National Team",
           "hash": "586747a2",
-          "kind": "league",
           "code": "KM"
-        }
-      },
-      "clubs": {}
-    },
-    "congo-dr": {
-      "slug": "congo-dr",
-      "iso2": "CD",
-      "name": "Congo DR",
-      "defaultLeague": "congo-dr-national-team",
-      "leagues": {
-        "congo-dr-national-team": {
-          "slug": "congo-dr-national-team",
-          "name": "Congo DR National Team",
-          "hash": "9b91ac6a",
-          "kind": "league",
-          "code": "CD"
         }
       },
       "clubs": {}
@@ -4950,8 +4877,22 @@
           "slug": "congo-national-team",
           "name": "Congo National Team",
           "hash": "beefca10",
-          "kind": "league",
           "code": "CG"
+        }
+      },
+      "clubs": {}
+    },
+    "congo-dr": {
+      "slug": "congo-dr",
+      "iso2": "CD",
+      "name": "Congo DR",
+      "defaultLeague": "congo-dr-national-team",
+      "leagues": {
+        "congo-dr-national-team": {
+          "slug": "congo-dr-national-team",
+          "name": "Congo DR National Team",
+          "hash": "9b91ac6a",
+          "code": "CD"
         }
       },
       "clubs": {}
@@ -4966,7 +4907,6 @@
           "slug": "cook-islands-national-team",
           "name": "Cook Islands National Team",
           "hash": "51ae0de8",
-          "kind": "league",
           "code": "CK"
         }
       },
@@ -4982,14 +4922,12 @@
           "slug": "primera-division",
           "name": "Primera División",
           "hash": "a1f41b18",
-          "kind": "league",
           "code": "CR"
         },
         "costa-rica-national-team": {
           "slug": "costa-rica-national-team",
           "name": "Costa Rica National Team",
-          "hash": "44703f4d",
-          "kind": "league"
+          "hash": "44703f4d"
         }
       },
       "clubs": {
@@ -5077,7 +5015,6 @@
           "slug": "cote-d-ivoire-national-team",
           "name": "Côte d&#39;Ivoire National Team",
           "hash": "e60d5271",
-          "kind": "league",
           "code": "CI"
         }
       },
@@ -5093,14 +5030,12 @@
           "slug": "croatian-football-league",
           "name": "Croatian Football League",
           "hash": "5e5816b9",
-          "kind": "league",
           "code": "HR"
         },
         "croatia-national-team": {
           "slug": "croatia-national-team",
           "name": "Croatia National Team",
-          "hash": "7268cb93",
-          "kind": "league"
+          "hash": "7268cb93"
         }
       },
       "clubs": {
@@ -5188,6 +5123,12 @@
           "hash": "8988d3e9",
           "league": ""
         },
+        "nk-dugopolje": {
+          "slug": "nk-dugopolje",
+          "name": "NK Dugopolje",
+          "hash": "2e5480f8",
+          "league": ""
+        },
         "hnk-segesta-sisak": {
           "slug": "hnk-segesta-sisak",
           "name": "HNK Segesta Sisak",
@@ -5206,7 +5147,6 @@
           "slug": "cuba-national-team",
           "name": "Cuba National Team",
           "hash": "137ca235",
-          "kind": "league",
           "code": "CU"
         }
       },
@@ -5222,7 +5162,6 @@
           "slug": "curacao-national-team",
           "name": "Curacao National Team",
           "hash": "9ef90a2e",
-          "kind": "league",
           "code": "CW"
         }
       },
@@ -5245,14 +5184,12 @@
           "slug": "cypriot-first-division",
           "name": "Cypriot First Division",
           "hash": "2abbdfc7",
-          "kind": "league",
           "code": "CY"
         },
         "cyprus-national-team": {
           "slug": "cyprus-national-team",
           "name": "Cyprus National Team",
-          "hash": "197bd3ee",
-          "kind": "league"
+          "hash": "197bd3ee"
         }
       },
       "clubs": {
@@ -5400,26 +5337,22 @@
           "slug": "chance-liga",
           "name": "Chance Liga",
           "hash": "8511af91",
-          "kind": "league",
           "code": "CZ"
         },
         "chance-narodni-liga": {
           "slug": "chance-narodni-liga",
           "name": "Chance Narodní Liga",
-          "hash": "2bd970c0",
-          "kind": "league"
+          "hash": "2bd970c0"
         },
         "czech-republic-national-team": {
           "slug": "czech-republic-national-team",
           "name": "Czech Republic National Team",
-          "hash": "17b57caa",
-          "kind": "league"
+          "hash": "17b57caa"
         },
         "czech-republic-football-association": {
           "slug": "czech-republic-football-association",
           "name": "Czech Republic Football Association",
-          "hash": "89b7b43a",
-          "kind": "league"
+          "hash": "89b7b43a"
         }
       },
       "clubs": {
@@ -5581,7 +5514,7 @@
         },
         "sellier-bellot-vlasim": {
           "slug": "sellier-bellot-vlasim",
-          "name": "FC Sellier & Bellot Vlašim",
+          "name": "FC Sellier &amp; Bellot Vlašim",
           "hash": "3904e090",
           "league": "chance-narodni-liga"
         },
@@ -5663,32 +5596,27 @@
           "slug": "danish-super-liga",
           "name": "Danish Super League",
           "hash": "d6485ddb",
-          "kind": "league",
           "code": "DK"
         },
         "1st-division": {
           "slug": "1st-division",
           "name": "1st Division",
-          "hash": "57f4f672",
-          "kind": "league"
+          "hash": "57f4f672"
         },
         "2nd-division": {
           "slug": "2nd-division",
           "name": "2nd Division",
-          "hash": "75e8c161",
-          "kind": "league"
+          "hash": "75e8c161"
         },
         "denmark-national-team": {
           "slug": "denmark-national-team",
           "name": "Denmark National Team",
-          "hash": "62482d4b",
-          "kind": "league"
+          "hash": "62482d4b"
         },
         "danish-cup": {
           "slug": "danish-cup",
           "name": "Danish Cup",
-          "hash": "69fa65eb",
-          "kind": "league"
+          "hash": "69fa65eb"
         }
       },
       "clubs": {
@@ -5980,7 +5908,6 @@
           "slug": "djibouti-national-team",
           "name": "Djibouti National Team",
           "hash": "e6a3b808",
-          "kind": "league",
           "code": "DJ"
         }
       },
@@ -5996,7 +5923,6 @@
           "slug": "dominica-national-team",
           "name": "Dominica National Team",
           "hash": "bffe44a8",
-          "kind": "league",
           "code": "DM"
         }
       },
@@ -6012,7 +5938,6 @@
           "slug": "dominican-republic-national-team",
           "name": "Dominican Republic National Team",
           "hash": "d941cbd1",
-          "kind": "league",
           "code": "DO"
         }
       },
@@ -6028,20 +5953,17 @@
           "slug": "liga-pro-serie-a",
           "name": "Liga Pro Serie A",
           "hash": "9a546764",
-          "kind": "league",
           "code": "EC"
         },
         "liga-de-quito": {
           "slug": "liga-de-quito",
           "name": "Liga de Quito",
-          "hash": "76d36211",
-          "kind": "league"
+          "hash": "76d36211"
         },
         "ecuador-national-team": {
           "slug": "ecuador-national-team",
           "name": "Ecuador National Team",
-          "hash": "fe2a3844",
-          "kind": "league"
+          "hash": "fe2a3844"
         }
       },
       "clubs": {
@@ -6165,14 +6087,12 @@
           "slug": "egyptian-premier-league",
           "name": "Egyptian Premier League",
           "hash": "b2e98144",
-          "kind": "league",
           "code": "EG"
         },
         "egypt-national-team": {
           "slug": "egypt-national-team",
           "name": "Egypt National Team",
-          "hash": "2ac3f46a",
-          "kind": "league"
+          "hash": "2ac3f46a"
         }
       },
       "clubs": {
@@ -6332,14 +6252,12 @@
           "slug": "el-salvador-national-team",
           "name": "El Salvador National Team",
           "hash": "338a88f9",
-          "kind": "league",
           "code": "SV"
         },
         "salvadoran-football-federation": {
           "slug": "salvadoran-football-federation",
           "name": "Salvadoran Football Federation",
-          "hash": "e83f7e3c",
-          "kind": "league"
+          "hash": "e83f7e3c"
         }
       },
       "clubs": {}
@@ -6354,105 +6272,88 @@
           "slug": "english-premier-league",
           "name": "Premier League",
           "hash": "b597f797",
-          "kind": "league",
           "code": "ENG"
         },
         "efl-championship": {
           "slug": "efl-championship",
           "name": "EFL Championship",
           "hash": "2766b536",
-          "kind": "league",
           "code": "ENG2"
         },
         "efl-league-one": {
           "slug": "efl-league-one",
           "name": "EFL League One",
-          "hash": "5e95a41e",
-          "kind": "league"
+          "hash": "5e95a41e"
         },
         "efl-league-two": {
           "slug": "efl-league-two",
           "name": "EFL League Two",
-          "hash": "bd6b1083",
-          "kind": "league"
+          "hash": "bd6b1083"
         },
         "national-league": {
           "slug": "national-league",
           "name": "National League",
-          "hash": "652256c7",
-          "kind": "league"
+          "hash": "652256c7"
         },
         "national-league-north": {
           "slug": "national-league-north",
           "name": "National League North",
-          "hash": "ae714a00",
-          "kind": "league"
+          "hash": "ae714a00"
         },
         "national-league-south": {
           "slug": "national-league-south",
           "name": "National League South",
-          "hash": "4a18eb9a",
-          "kind": "league"
+          "hash": "4a18eb9a"
         },
         "isthmian-league": {
           "slug": "isthmian-league",
           "name": "Isthmian League",
-          "hash": "c64ef79f",
-          "kind": "league"
+          "hash": "c64ef79f"
         },
         "northern-premier-league": {
           "slug": "northern-premier-league",
           "name": "Northern Premier League",
-          "hash": "6ebd0019",
-          "kind": "league"
+          "hash": "6ebd0019"
         },
         "southern-football-league-premier-south": {
           "slug": "southern-football-league-premier-south",
           "name": "Southern Football League Premier South",
-          "hash": "623f0411",
-          "kind": "league"
+          "hash": "623f0411"
         },
         "southern-football-league-premier-central": {
           "slug": "southern-football-league-premier-central",
           "name": "Southern Football League Premier Central",
-          "hash": "d3f8de38",
-          "kind": "league"
+          "hash": "d3f8de38"
         },
         "southern-football-league-division-one-central": {
           "slug": "southern-football-league-division-one-central",
           "name": "Southern Football League Division One Central",
-          "hash": "1d80c927",
-          "kind": "league"
+          "hash": "1d80c927"
         },
         "england-national-team": {
           "slug": "england-national-team",
           "name": "England National Team",
-          "hash": "daba5ba0",
-          "kind": "league"
+          "hash": "daba5ba0"
         },
         "english-football-league": {
           "slug": "english-football-league",
           "name": "English Football League",
-          "hash": "e73280a1",
-          "kind": "league"
+          "hash": "e73280a1"
         },
         "emirates-fa-cup": {
           "slug": "emirates-fa-cup",
           "name": "Emirates FA Cup",
-          "hash": "cb30a62f",
-          "kind": "league"
+          "hash": "cb30a62f"
         },
         "efl-cup": {
           "slug": "efl-cup",
           "name": "EFL Carabao Cup",
-          "hash": "667da864",
-          "kind": "league"
+          "hash": "667da864"
         },
         "fa-community-shield": {
           "slug": "fa-community-shield",
           "name": "FA Community Shield",
-          "hash": "3436f44c",
-          "kind": "league"
+          "hash": "3436f44c"
         }
       },
       "clubs": {
@@ -7250,7 +7151,7 @@
         },
         "kings-lynn-town": {
           "slug": "kings-lynn-town",
-          "name": "King's Lynn Town",
+          "name": "King&#39;s Lynn Town",
           "hash": "e745e355",
           "league": "national-league-north"
         },
@@ -7382,7 +7283,7 @@
         },
         "dagenham-and-redbridge": {
           "slug": "dagenham-and-redbridge",
-          "name": "Dagenham & Redbridge",
+          "name": "Dagenham &amp; Redbridge",
           "hash": "07fcb4ff",
           "league": "national-league-south"
         },
@@ -7400,7 +7301,7 @@
         },
         "hampton-and-richmond": {
           "slug": "hampton-and-richmond",
-          "name": "Hampton & Richmond Borough",
+          "name": "Hampton &amp; Richmond Borough",
           "hash": "f240c513",
           "league": "national-league-south"
         },
@@ -7430,7 +7331,7 @@
         },
         "walton-hersham": {
           "slug": "walton-hersham",
-          "name": "Walton & Hersham",
+          "name": "Walton &amp; Hersham",
           "hash": "4743c4c1",
           "league": "national-league-south"
         },
@@ -7526,7 +7427,7 @@
         },
         "maldon-tiptree": {
           "slug": "maldon-tiptree",
-          "name": "Maldon & Tiptree",
+          "name": "Maldon &amp; Tiptree",
           "hash": "107b0b0f",
           "league": "isthmian-league"
         },
@@ -7562,7 +7463,7 @@
         },
         "wingate-finchley": {
           "slug": "wingate-finchley",
-          "name": "Wingate & Finchley",
+          "name": "Wingate &amp; Finchley",
           "hash": "7bc02cd1",
           "league": "isthmian-league"
         },
@@ -7826,7 +7727,7 @@
         },
         "havant-and-waterlooville": {
           "slug": "havant-and-waterlooville",
-          "name": "Havant & Waterlooville",
+          "name": "Havant &amp; Waterlooville",
           "hash": "fab1f097",
           "league": "southern-football-league-premier-south"
         },
@@ -7952,7 +7853,7 @@
         },
         "bishops-stortford": {
           "slug": "bishops-stortford",
-          "name": "Bishop's Stortford",
+          "name": "Bishop&#39;s Stortford",
           "hash": "63ec3f1b",
           "league": "southern-football-league-premier-central"
         },
@@ -8244,6 +8145,12 @@
           "hash": "4de9ec3e",
           "league": ""
         },
+        "coggeshall-town": {
+          "slug": "coggeshall-town",
+          "name": "Coggeshall Town",
+          "hash": "761fbd2c",
+          "league": ""
+        },
         "concord-rangers": {
           "slug": "concord-rangers",
           "name": "Concord Rangers",
@@ -8270,7 +8177,7 @@
         },
         "erith-and-belvedere": {
           "slug": "erith-and-belvedere",
-          "name": "Erith & Belvedere",
+          "name": "Erith &amp; Belvedere",
           "hash": "9f716f8a",
           "league": ""
         },
@@ -8282,7 +8189,7 @@
         },
         "felixstowe-and-walton-united": {
           "slug": "felixstowe-and-walton-united",
-          "name": "Felixstowe & Walton United",
+          "name": "Felixstowe &amp; Walton United",
           "hash": "58b989bb",
           "league": ""
         },
@@ -8290,6 +8197,12 @@
           "slug": "frickley-athletic",
           "name": "Frickley Athletic",
           "hash": "77e02722",
+          "league": ""
+        },
+        "grimsby-borough": {
+          "slug": "grimsby-borough",
+          "name": "Grimsby Borough",
+          "hash": "519d47d0",
           "league": ""
         },
         "harlow-town": {
@@ -8306,7 +8219,7 @@
         },
         "hayes-and-yeading-united": {
           "slug": "hayes-and-yeading-united",
-          "name": "Hayes & Yeading United",
+          "name": "Hayes &amp; Yeading United",
           "hash": "005a48d7",
           "league": ""
         },
@@ -8326,6 +8239,12 @@
           "slug": "highgate-united",
           "name": "Highgate United",
           "hash": "7c4a353e",
+          "league": ""
+        },
+        "hinckley-afc": {
+          "slug": "hinckley-afc",
+          "name": "Hinckley AFC",
+          "hash": "7d223eda",
           "league": ""
         },
         "hucknall-town": {
@@ -8358,6 +8277,12 @@
           "hash": "c3ca2791",
           "league": ""
         },
+        "margate": {
+          "slug": "margate",
+          "name": "Margate",
+          "hash": "06aa49cd",
+          "league": ""
+        },
         "matlock-town": {
           "slug": "matlock-town",
           "name": "Matlock Town",
@@ -8388,6 +8313,12 @@
           "hash": "bbe75f84",
           "league": ""
         },
+        "northampton-on-chenecks": {
+          "slug": "northampton-on-chenecks",
+          "name": "Northampton ON Chenecks",
+          "hash": "2c69f350",
+          "league": ""
+        },
         "okehampton-argyle": {
           "slug": "okehampton-argyle",
           "name": "Okehampton Argyle",
@@ -8408,7 +8339,7 @@
         },
         "peacehaven-and-telscombe": {
           "slug": "peacehaven-and-telscombe",
-          "name": "Peacehaven & Telscombe",
+          "name": "Peacehaven &amp; Telscombe",
           "hash": "29f92d62",
           "league": ""
         },
@@ -8502,7 +8433,6 @@
           "slug": "equatorial-guinea-national-team",
           "name": "Equatorial Guinea National Team",
           "hash": "13d01904",
-          "kind": "league",
           "code": "GQ"
         }
       },
@@ -8518,7 +8448,6 @@
           "slug": "eritrea-national-team",
           "name": "Eritrea National Team",
           "hash": "a184f112",
-          "kind": "league",
           "code": "ER"
         }
       },
@@ -8534,14 +8463,12 @@
           "slug": "premium-liiga",
           "name": "Premium Liiga",
           "hash": "997e80f8",
-          "kind": "league",
           "code": "EE"
         },
         "estonia-national-team": {
           "slug": "estonia-national-team",
           "name": "Estonia National Team",
-          "hash": "f5e3e2a7",
-          "kind": "league"
+          "hash": "f5e3e2a7"
         }
       },
       "clubs": {
@@ -8635,7 +8562,6 @@
           "slug": "eswatini-national-team",
           "name": "Eswatini National Team",
           "hash": "7cc0522f",
-          "kind": "league",
           "code": "SZ"
         }
       },
@@ -8651,7 +8577,6 @@
           "slug": "ethiopia-national-team",
           "name": "Ethiopia National Team",
           "hash": "c0ba820f",
-          "kind": "league",
           "code": "ET"
         }
       },
@@ -8667,7 +8592,6 @@
           "slug": "faroe-islands-national-team",
           "name": "Faroe Islands National Team",
           "hash": "7f53b998",
-          "kind": "league",
           "code": "FO"
         }
       },
@@ -8768,7 +8692,6 @@
           "slug": "fiji-national-team",
           "name": "Fiji National Team",
           "hash": "a32fc16f",
-          "kind": "league",
           "code": "FJ"
         }
       },
@@ -8784,14 +8707,12 @@
           "slug": "veikkausliiga",
           "name": "Veikkausliiga",
           "hash": "8a948f05",
-          "kind": "league",
           "code": "FI"
         },
         "finland-national-team": {
           "slug": "finland-national-team",
           "name": "Finland National Team",
-          "hash": "d51cf503",
-          "kind": "league"
+          "hash": "d51cf503"
         }
       },
       "clubs": {
@@ -8939,6 +8860,12 @@
           "hash": "9c0222e6",
           "league": ""
         },
+        "gbk-kokkola": {
+          "slug": "gbk-kokkola",
+          "name": "GBK Kokkola",
+          "hash": "45f7fbbf",
+          "league": ""
+        },
         "helsingin-ponnistus": {
           "slug": "helsingin-ponnistus",
           "name": "Helsingin Ponnistus",
@@ -8975,44 +8902,37 @@
           "slug": "ligue-1",
           "name": "Ligue 1",
           "hash": "bcb13eb0",
-          "kind": "league",
           "code": "FR"
         },
         "ligue-2": {
           "slug": "ligue-2",
           "name": "Ligue 2",
-          "hash": "f12004c1",
-          "kind": "league"
+          "hash": "f12004c1"
         },
         "ligue-3": {
           "slug": "ligue-3",
           "name": "Ligue 3",
-          "hash": "4dabe4bb",
-          "kind": "league"
+          "hash": "4dabe4bb"
         },
         "national-1": {
           "slug": "national-1",
           "name": "National 1",
-          "hash": "abaaa6ec",
-          "kind": "league"
+          "hash": "abaaa6ec"
         },
         "france-national-team": {
           "slug": "france-national-team",
           "name": "France National Team",
-          "hash": "a17f83af",
-          "kind": "league"
+          "hash": "a17f83af"
         },
         "french-football-federation": {
           "slug": "french-football-federation",
           "name": "French Football Federation",
-          "hash": "87cacfde",
-          "kind": "league"
+          "hash": "87cacfde"
         },
         "french-cup": {
           "slug": "french-cup",
           "name": "French Cup",
-          "hash": "10cbf91f",
-          "kind": "league"
+          "hash": "10cbf91f"
         }
       },
       "clubs": {
@@ -9676,6 +9596,12 @@
           "hash": "d4305c43",
           "league": ""
         },
+        "as-aixoise": {
+          "slug": "as-aixoise",
+          "name": "AS Aixoise",
+          "hash": "ab156d15",
+          "league": ""
+        },
         "as-baume-les-dames": {
           "slug": "as-baume-les-dames",
           "name": "AS Baume-les-Dames",
@@ -9686,6 +9612,12 @@
           "slug": "as-beziers",
           "name": "AS Béziers",
           "hash": "390cae21",
+          "league": ""
+        },
+        "as-brest": {
+          "slug": "as-brest",
+          "name": "AS Brest",
+          "hash": "0f78d10f",
           "league": ""
         },
         "as-gien": {
@@ -9700,6 +9632,12 @@
           "hash": "42bf7f00",
           "league": ""
         },
+        "as-marck-football": {
+          "slug": "as-marck-football",
+          "name": "AS Marck Football",
+          "hash": "6cead90c",
+          "league": ""
+        },
         "as-strasbourg": {
           "slug": "as-strasbourg",
           "name": "AS Strasbourg",
@@ -9710,6 +9648,12 @@
           "slug": "as-vitre",
           "name": "AS Vitré",
           "hash": "27f4e235",
+          "league": ""
+        },
+        "asca-wittelsheim": {
+          "slug": "asca-wittelsheim",
+          "name": "ASCA Wittelsheim",
+          "hash": "aa101b29",
           "league": ""
         },
         "avoine-olympique-chinon-cinais": {
@@ -9738,13 +9682,13 @@
         },
         "c-chartres-football": {
           "slug": "c-chartres-football",
-          "name": "C'Chartres Football",
+          "name": "C&#39;Chartres Football",
           "hash": "35a8f536",
           "league": ""
         },
         "ca-lisieux-pays-d-auge": {
           "slug": "ca-lisieux-pays-d-auge",
-          "name": "CA Lisieux Pays d'Auge",
+          "name": "CA Lisieux Pays d&#39;Auge",
           "hash": "cf2886f8",
           "league": ""
         },
@@ -9890,6 +9834,12 @@
           "slug": "fc-nevers",
           "name": "FC Nevers",
           "hash": "34c9e50b",
+          "league": ""
+        },
+        "fc-saint-lo-manche": {
+          "slug": "fc-saint-lo-manche",
+          "name": "FC Saint-Lô Manche",
+          "hash": "9bf7526f",
           "league": ""
         },
         "fc-saint-medard-en-jalles": {
@@ -10098,7 +10048,7 @@
         },
         "sca-saint-jean-d-angely": {
           "slug": "sca-saint-jean-d-angely",
-          "name": "SCA Saint-Jean d'Angély",
+          "name": "SCA Saint-Jean d&#39;Angély",
           "hash": "70be8ab8",
           "league": ""
         },
@@ -10124,6 +10074,12 @@
           "slug": "so-merlebach",
           "name": "SO Merlebach",
           "hash": "af88e8ec",
+          "league": ""
+        },
+        "so-millau-football": {
+          "slug": "so-millau-football",
+          "name": "SO Millau Football",
+          "hash": "807e0821",
           "league": ""
         },
         "spn-vernon-football": {
@@ -10330,7 +10286,6 @@
           "slug": "french-guiana-national-team",
           "name": "French Guiana National Team",
           "hash": "ffb2cb13",
-          "kind": "league",
           "code": "GF"
         }
       },
@@ -10346,7 +10301,6 @@
           "slug": "gabon-national-team",
           "name": "Gabon National Team",
           "hash": "d849c1aa",
-          "kind": "league",
           "code": "GA"
         }
       },
@@ -10362,7 +10316,6 @@
           "slug": "gambia-national-team",
           "name": "Gambia National Team",
           "hash": "e98b4b85",
-          "kind": "league",
           "code": "GM"
         }
       },
@@ -10378,14 +10331,12 @@
           "slug": "erovnuli-liga",
           "name": "Erovnuli Liga",
           "hash": "6b1d4973",
-          "kind": "league",
           "code": "GE"
         },
         "georgia-national-team": {
           "slug": "georgia-national-team",
           "name": "Georgia National Team",
-          "hash": "5924503a",
-          "kind": "league"
+          "hash": "5924503a"
         }
       },
       "clubs": {
@@ -10527,75 +10478,63 @@
           "slug": "bundesliga",
           "name": "Bundesliga",
           "hash": "24d9c6f9",
-          "kind": "league",
           "code": "DE"
         },
         "2-bundesliga": {
           "slug": "2-bundesliga",
           "name": "2. Bundesliga",
           "hash": "11755b17",
-          "kind": "league",
           "code": "GER2"
         },
         "3-liga": {
           "slug": "3-liga",
           "name": "3. Liga",
-          "hash": "86275a77",
-          "kind": "league"
+          "hash": "86275a77"
         },
         "regionalliga-nord": {
           "slug": "regionalliga-nord",
           "name": "Regionalliga Nord",
-          "hash": "bb7cd698",
-          "kind": "league"
+          "hash": "bb7cd698"
         },
         "regionalliga-nordost": {
           "slug": "regionalliga-nordost",
           "name": "Regionalliga Nordost",
-          "hash": "5881ffa8",
-          "kind": "league"
+          "hash": "5881ffa8"
         },
         "regionalliga-west": {
           "slug": "regionalliga-west",
           "name": "Regionalliga West",
-          "hash": "bec28f81",
-          "kind": "league"
+          "hash": "bec28f81"
         },
         "regionalliga-sudwest": {
           "slug": "regionalliga-sudwest",
           "name": "Regionalliga Südwest",
-          "hash": "7c292e60",
-          "kind": "league"
+          "hash": "7c292e60"
         },
         "regionalliga-bayern": {
           "slug": "regionalliga-bayern",
           "name": "Regionalliga Bayern",
-          "hash": "a4012fce",
-          "kind": "league"
+          "hash": "a4012fce"
         },
         "germany-national-team": {
           "slug": "germany-national-team",
           "name": "Germany National Team",
-          "hash": "d354ad14",
-          "kind": "league"
+          "hash": "d354ad14"
         },
         "dfb-german-football-association": {
           "slug": "dfb-german-football-association",
           "name": "DFB German Football Association",
-          "hash": "416c0153",
-          "kind": "league"
+          "hash": "416c0153"
         },
         "dfb-pokal": {
           "slug": "dfb-pokal",
           "name": "DFB Pokal",
-          "hash": "f99edcba",
-          "kind": "league"
+          "hash": "f99edcba"
         },
         "franz-beckenbauer-supercup": {
           "slug": "franz-beckenbauer-supercup",
           "name": "Franz Beckenbauer Supercup",
-          "hash": "81fd4a13",
-          "kind": "league"
+          "hash": "81fd4a13"
         }
       },
       "clubs": {
@@ -11475,6 +11414,12 @@
           "hash": "714cac90",
           "league": ""
         },
+        "1-cfr-pforzheim": {
+          "slug": "1-cfr-pforzheim",
+          "name": "1. CfR Pforzheim",
+          "hash": "7c62fef5",
+          "league": ""
+        },
         "1-fc-gera-03": {
           "slug": "1-fc-gera-03",
           "name": "1. FC Gera 03",
@@ -11619,10 +11564,22 @@
           "hash": "337a55cd",
           "league": ""
         },
+        "fsv-hettstedt": {
+          "slug": "fsv-hettstedt",
+          "name": "FSV Hettstedt",
+          "hash": "b8ae0cf1",
+          "league": ""
+        },
         "germania-wernigerode": {
           "slug": "germania-wernigerode",
           "name": "Germania Wernigerode",
           "hash": "2b411eb0",
+          "league": ""
+        },
+        "hasper-sv": {
+          "slug": "hasper-sv",
+          "name": "Hasper SV",
+          "hash": "71fe7531",
           "league": ""
         },
         "ludwigshafener-sc": {
@@ -11685,6 +11642,12 @@
           "hash": "d74718a2",
           "league": ""
         },
+        "spvgg-burgbrohl": {
+          "slug": "spvgg-burgbrohl",
+          "name": "SpVgg Burgbrohl",
+          "hash": "a5dc6dfb",
+          "league": ""
+        },
         "spvgg-egc-wirges": {
           "slug": "spvgg-egc-wirges",
           "name": "SpVgg EGC Wirges",
@@ -11707,6 +11670,12 @@
           "slug": "stuttgarter-sc",
           "name": "Stuttgarter SC",
           "hash": "8959e218",
+          "league": ""
+        },
+        "sus-stadtlohn": {
+          "slug": "sus-stadtlohn",
+          "name": "SuS Stadtlohn",
+          "hash": "d1e01059",
           "league": ""
         },
         "sv-bevern": {
@@ -11787,6 +11756,12 @@
           "hash": "45df5076",
           "league": ""
         },
+        "tsg-concordia-schonkirchen": {
+          "slug": "tsg-concordia-schonkirchen",
+          "name": "TSG Concordia Schönkirchen",
+          "hash": "93c8af8a",
+          "league": ""
+        },
         "tsg-sprockhovel": {
           "slug": "tsg-sprockhovel",
           "name": "TSG Sprockhövel",
@@ -11811,6 +11786,12 @@
           "hash": "f93e0908",
           "league": ""
         },
+        "tsv-mannheim": {
+          "slug": "tsv-mannheim",
+          "name": "TSV Mannheim",
+          "hash": "6ea45f41",
+          "league": ""
+        },
         "tsv-reinbek": {
           "slug": "tsv-reinbek",
           "name": "TSV Reinbek",
@@ -11821,6 +11802,12 @@
           "slug": "tsv-sasel",
           "name": "TSV Sasel",
           "hash": "02688454",
+          "league": ""
+        },
+        "tsv-verden": {
+          "slug": "tsv-verden",
+          "name": "TSV Verden",
+          "hash": "d0e37202",
           "league": ""
         },
         "turkgucu-munchen": {
@@ -11913,14 +11900,12 @@
           "slug": "ghana-premier-league",
           "name": "Ghana Premier League",
           "hash": "f3a68714",
-          "kind": "league",
           "code": "GH"
         },
         "ghana-national-team": {
           "slug": "ghana-national-team",
           "name": "Ghana National Team",
-          "hash": "15f1ed45",
-          "kind": "league"
+          "hash": "15f1ed45"
         }
       },
       "clubs": {
@@ -12044,7 +12029,6 @@
           "slug": "gibraltar-national-team",
           "name": "Gibraltar National Team",
           "hash": "f2b89cca",
-          "kind": "league",
           "code": "GI"
         }
       },
@@ -12133,20 +12117,17 @@
           "slug": "super-league-1",
           "name": "Super League Greece",
           "hash": "ea9b3a50",
-          "kind": "league",
           "code": "GR"
         },
         "super-league-2": {
           "slug": "super-league-2",
           "name": "Super League 2",
-          "hash": "89b34ef1",
-          "kind": "league"
+          "hash": "89b34ef1"
         },
         "greece-national-team": {
           "slug": "greece-national-team",
           "name": "Greece National Team",
-          "hash": "b76f5101",
-          "kind": "league"
+          "hash": "b76f5101"
         }
       },
       "clubs": {
@@ -12154,85 +12135,85 @@
           "slug": "aek-athens",
           "name": "AEK Athens",
           "hash": "1cb95263",
-          "league": "super-league"
+          "league": "super-league-1"
         },
         "aris-thessaloniki": {
           "slug": "aris-thessaloniki",
           "name": "Aris Thessaloniki",
           "hash": "ff1171e6",
-          "league": "super-league"
+          "league": "super-league-1"
         },
         "asteras": {
           "slug": "asteras",
           "name": "Asteras Tripolis",
           "hash": "2ffde67e",
-          "league": "super-league"
+          "league": "super-league-1"
         },
         "atromitos": {
           "slug": "atromitos",
           "name": "Atromitos",
           "hash": "27b3c8db",
-          "league": "super-league"
+          "league": "super-league-1"
         },
         "kifisia": {
           "slug": "kifisia",
           "name": "A.E. Kifisia",
           "hash": "c9b0502a",
-          "league": "super-league"
+          "league": "super-league-1"
         },
         "levadiakos": {
           "slug": "levadiakos",
           "name": "Levadiakos",
           "hash": "b6725b28",
-          "league": "super-league"
+          "league": "super-league-1"
         },
         "ofi": {
           "slug": "ofi",
           "name": "OFI",
           "hash": "540bf65b",
-          "league": "super-league"
+          "league": "super-league-1"
         },
         "olympiacos": {
           "slug": "olympiacos",
           "name": "Olympiacos",
           "hash": "d38a410a",
-          "league": "super-league"
+          "league": "super-league-1"
         },
         "panathinaikos": {
           "slug": "panathinaikos",
           "name": "Panathinaikos",
           "hash": "443a2548",
-          "league": "super-league"
+          "league": "super-league-1"
         },
         "panetolikos": {
           "slug": "panetolikos",
           "name": "Panetolikos",
           "hash": "0df589a9",
-          "league": "super-league"
+          "league": "super-league-1"
         },
         "paok": {
           "slug": "paok",
           "name": "PAOK",
           "hash": "7c1401e1",
-          "league": "super-league"
+          "league": "super-league-1"
         },
         "volos": {
           "slug": "volos",
           "name": "Volos NFC",
           "hash": "3d0d9ed5",
-          "league": "super-league"
+          "league": "super-league-1"
         },
         "iraklis-thessaloniki": {
           "slug": "iraklis-thessaloniki",
           "name": "Iraklis Thessaloniki",
           "hash": "8af081b4",
-          "league": "super-league"
+          "league": "super-league-1"
         },
         "kalamata": {
           "slug": "kalamata",
           "name": "Kalamata",
           "hash": "57174d1a",
-          "league": "super-league"
+          "league": "super-league-1"
         },
         "egaleo": {
           "slug": "egaleo",
@@ -12396,7 +12377,6 @@
           "slug": "greenland-national-team",
           "name": "Greenland National Team",
           "hash": "1686f2aa",
-          "kind": "league",
           "code": "GL"
         }
       },
@@ -12412,7 +12392,6 @@
           "slug": "grenada-national-team",
           "name": "Grenada National Team",
           "hash": "2abedac0",
-          "kind": "league",
           "code": "GD"
         }
       },
@@ -12428,7 +12407,6 @@
           "slug": "guadeloupe-national-team",
           "name": "Guadeloupe National Team",
           "hash": "170d28ba",
-          "kind": "league",
           "code": "GP"
         }
       },
@@ -12444,7 +12422,6 @@
           "slug": "guam-national-team",
           "name": "Guam National Team",
           "hash": "ffd0c1eb",
-          "kind": "league",
           "code": "GU"
         }
       },
@@ -12460,14 +12437,12 @@
           "slug": "liga-nacional-de-futbol-de-guatemala",
           "name": "Liga Nacional de Fútbol de Guatemala",
           "hash": "c8921781",
-          "kind": "league",
           "code": "GT"
         },
         "guatemala-national-team": {
           "slug": "guatemala-national-team",
           "name": "Guatemala National Team",
-          "hash": "e5f28365",
-          "kind": "league"
+          "hash": "e5f28365"
         }
       },
       "clubs": {
@@ -12545,22 +12520,6 @@
         }
       }
     },
-    "guinea-bissau": {
-      "slug": "guinea-bissau",
-      "iso2": "GW",
-      "name": "Guinea-Bissau",
-      "defaultLeague": "guinea-bissau-national-team",
-      "leagues": {
-        "guinea-bissau-national-team": {
-          "slug": "guinea-bissau-national-team",
-          "name": "Guinea-Bissau National Team",
-          "hash": "913aca4a",
-          "kind": "league",
-          "code": "GW"
-        }
-      },
-      "clubs": {}
-    },
     "guinea": {
       "slug": "guinea",
       "iso2": "GN",
@@ -12571,8 +12530,22 @@
           "slug": "guinea-national-team",
           "name": "Guinea National Team",
           "hash": "59e7e8cb",
-          "kind": "league",
           "code": "GN"
+        }
+      },
+      "clubs": {}
+    },
+    "guinea-bissau": {
+      "slug": "guinea-bissau",
+      "iso2": "GW",
+      "name": "Guinea-Bissau",
+      "defaultLeague": "guinea-bissau-national-team",
+      "leagues": {
+        "guinea-bissau-national-team": {
+          "slug": "guinea-bissau-national-team",
+          "name": "Guinea-Bissau National Team",
+          "hash": "913aca4a",
+          "code": "GW"
         }
       },
       "clubs": {}
@@ -12587,7 +12560,6 @@
           "slug": "guyana-national-team",
           "name": "Guyana National Team",
           "hash": "eaf3e1f2",
-          "kind": "league",
           "code": "GY"
         }
       },
@@ -12603,7 +12575,6 @@
           "slug": "haiti-national-team",
           "name": "Haiti National Team",
           "hash": "ea93ea7e",
-          "kind": "league",
           "code": "HT"
         }
       },
@@ -12619,7 +12590,6 @@
           "slug": "honduras-national-team",
           "name": "Honduras National Team",
           "hash": "d3f2108b",
-          "kind": "league",
           "code": "HN"
         }
       },
@@ -12635,14 +12605,12 @@
           "slug": "hong-kong-premier-league",
           "name": "Hong Kong Premier League",
           "hash": "f6bd6964",
-          "kind": "league",
           "code": "HK"
         },
         "hong-kong-national-team": {
           "slug": "hong-kong-national-team",
           "name": "Hong Kong National Team",
-          "hash": "3a4cbf45",
-          "kind": "league"
+          "hash": "3a4cbf45"
         }
       },
       "clubs": {
@@ -12718,26 +12686,22 @@
           "slug": "nemzeti-bajnoksag",
           "name": "Nemzeti Bajnokság I",
           "hash": "78ab7c27",
-          "kind": "league",
           "code": "HU"
         },
         "nemzeti-bajnoksag-2": {
           "slug": "nemzeti-bajnoksag-2",
           "name": "Nemzeti Bajnokság II",
-          "hash": "13293d56",
-          "kind": "league"
+          "hash": "13293d56"
         },
         "hungary-national-team": {
           "slug": "hungary-national-team",
           "name": "Hungary National Team",
-          "hash": "4e837a59",
-          "kind": "league"
+          "hash": "4e837a59"
         },
         "hungarian-football-federation": {
           "slug": "hungarian-football-federation",
           "name": "Hungarian Football Federation",
-          "hash": "f570e900",
-          "kind": "league"
+          "hash": "f570e900"
         }
       },
       "clubs": {
@@ -12987,14 +12951,12 @@
           "slug": "besta-deild-karla",
           "name": "Besta deild karla",
           "hash": "df67490a",
-          "kind": "league",
           "code": "IS"
         },
         "iceland-national-team": {
           "slug": "iceland-national-team",
           "name": "Iceland National Team",
-          "hash": "7f7eb9fd",
-          "kind": "league"
+          "hash": "7f7eb9fd"
         }
       },
       "clubs": {
@@ -13166,20 +13128,17 @@
           "slug": "indian-super-league",
           "name": "Indian Super League",
           "hash": "8fd5406f",
-          "kind": "league",
           "code": "IN"
         },
         "i-league-2": {
           "slug": "i-league-2",
           "name": "I-League 2",
-          "hash": "bc02cdfd",
-          "kind": "league"
+          "hash": "bc02cdfd"
         },
         "india-national-team": {
           "slug": "india-national-team",
           "name": "India National Team",
-          "hash": "81575a29",
-          "kind": "league"
+          "hash": "81575a29"
         }
       },
       "clubs": {
@@ -13333,26 +13292,22 @@
           "slug": "indonesian-super-league",
           "name": "Indonesian Super League",
           "hash": "8f0de64e",
-          "kind": "league",
           "code": "ID"
         },
         "pegadaian-championship": {
           "slug": "pegadaian-championship",
           "name": "Pegadaian Championship (Kejuaraan)",
-          "hash": "7d77c011",
-          "kind": "league"
+          "hash": "7d77c011"
         },
         "indonesia-national-team": {
           "slug": "indonesia-national-team",
           "name": "Indonesia National Team",
-          "hash": "8126e8bb",
-          "kind": "league"
+          "hash": "8126e8bb"
         },
         "liga-nusantara": {
           "slug": "liga-nusantara",
           "name": "Liga Nusantara",
-          "hash": "c7129b2d",
-          "kind": "league"
+          "hash": "c7129b2d"
         }
       },
       "clubs": {
@@ -13685,14 +13640,12 @@
         "iran-national-team": {
           "slug": "iran-national-team",
           "name": "Iran National Team",
-          "hash": "fc7f0f0e",
-          "kind": "league"
+          "hash": "fc7f0f0e"
         },
         "persian-gulf-pro-league": {
           "slug": "persian-gulf-pro-league",
           "name": "Persian Gulf Pro League",
           "hash": "4828a5be",
-          "kind": "league",
           "code": "IR"
         }
       },
@@ -13805,14 +13758,12 @@
           "slug": "iraq-stars-league",
           "name": "Iraq Stars League",
           "hash": "40518707",
-          "kind": "league",
           "code": "IQ"
         },
         "iraq-national-team": {
           "slug": "iraq-national-team",
           "name": "Iraq National Team",
-          "hash": "c6540c39",
-          "kind": "league"
+          "hash": "c6540c39"
         }
       },
       "clubs": {
@@ -13966,14 +13917,12 @@
           "slug": "israeli-premier-league",
           "name": "Israeli Premier League",
           "hash": "ad630dd2",
-          "kind": "league",
           "code": "IL"
         },
         "israel-national-team": {
           "slug": "israel-national-team",
           "name": "Israel National Team",
-          "hash": "0760da24",
-          "kind": "league"
+          "hash": "0760da24"
         }
       },
       "clubs": {
@@ -14133,38 +14082,32 @@
           "slug": "serie-a",
           "name": "Serie A",
           "hash": "1289b16a",
-          "kind": "league",
           "code": "IT"
         },
         "serie-b": {
           "slug": "serie-b",
           "name": "Serie B",
-          "hash": "bb0c0fde",
-          "kind": "league"
+          "hash": "bb0c0fde"
         },
         "serie-c": {
           "slug": "serie-c",
           "name": "Serie C",
-          "hash": "62cc6092",
-          "kind": "league"
+          "hash": "62cc6092"
         },
         "serie-d": {
           "slug": "serie-d",
           "name": "Serie D",
-          "hash": "d175a24e",
-          "kind": "league"
+          "hash": "d175a24e"
         },
         "italy-national-team": {
           "slug": "italy-national-team",
           "name": "Italy National Team",
-          "hash": "2d467c1f",
-          "kind": "league"
+          "hash": "2d467c1f"
         },
         "italian-super-cup": {
           "slug": "italian-super-cup",
           "name": "Italian Super Cup",
-          "hash": "81cbc2b3",
-          "kind": "league"
+          "hash": "81cbc2b3"
         }
       },
       "clubs": {
@@ -15118,7 +15061,7 @@
         },
         "sant-angelo": {
           "slug": "sant-angelo",
-          "name": "AC Sant'Angelo 1907",
+          "name": "AC Sant&#39;Angelo 1907",
           "hash": "f60eb4ab",
           "league": "serie-d"
         },
@@ -15286,7 +15229,7 @@
         },
         "laquila-1927": {
           "slug": "laquila-1927",
-          "name": "L'Aquila 1927",
+          "name": "L&#39;Aquila 1927",
           "hash": "f449874e",
           "league": "serie-d"
         },
@@ -15770,7 +15713,6 @@
           "slug": "jamaica-national-team",
           "name": "Jamaica National Team",
           "hash": "40d0bb2c",
-          "kind": "league",
           "code": "JM"
         }
       },
@@ -15786,26 +15728,22 @@
           "slug": "j-league",
           "name": "J1 League",
           "hash": "337e64b4",
-          "kind": "league",
           "code": "JP"
         },
         "j2-league": {
           "slug": "j2-league",
           "name": "J2 League",
-          "hash": "89069c7e",
-          "kind": "league"
+          "hash": "89069c7e"
         },
         "j3-league": {
           "slug": "j3-league",
           "name": "J3 League",
-          "hash": "20fb8229",
-          "kind": "league"
+          "hash": "20fb8229"
         },
         "japan-national-team": {
           "slug": "japan-national-team",
           "name": "Japan National Team",
-          "hash": "2aebfdef",
-          "kind": "league"
+          "hash": "2aebfdef"
         }
       },
       "clubs": {
@@ -16181,7 +16119,6 @@
           "slug": "jordan-national-team",
           "name": "Jordan National Team",
           "hash": "5bd8d6e4",
-          "kind": "league",
           "code": "JO"
         }
       },
@@ -16196,14 +16133,12 @@
         "kazakhstan-national-team": {
           "slug": "kazakhstan-national-team",
           "name": "Kazakhstan National Team",
-          "hash": "b812e635",
-          "kind": "league"
+          "hash": "b812e635"
         },
         "kazakhstan-premier-league": {
           "slug": "kazakhstan-premier-league",
           "name": "Kazakhstan Premier League",
           "hash": "5bc15ecf",
-          "kind": "league",
           "code": "KZ"
         }
       },
@@ -16340,7 +16275,6 @@
           "slug": "kenya-national-team",
           "name": "Kenya National Team",
           "hash": "e36427d5",
-          "kind": "league",
           "code": "KE"
         }
       },
@@ -16363,7 +16297,6 @@
           "slug": "kiribati-national-team",
           "name": "Kiribati National Team",
           "hash": "d22badfc",
-          "kind": "league",
           "code": "KI"
         }
       },
@@ -16379,7 +16312,6 @@
           "slug": "kosovo-national-team",
           "name": "Kosovo National Team",
           "hash": "420a3417",
-          "kind": "league",
           "code": "XK"
         }
       },
@@ -16498,7 +16430,6 @@
           "slug": "kurdistan-national-team",
           "name": "Kurdistan National Team",
           "hash": "2b160e71",
-          "kind": "league",
           "code": "KUR"
         }
       },
@@ -16514,7 +16445,6 @@
           "slug": "kuwait-national-team",
           "name": "Kuwait National Team",
           "hash": "86deab91",
-          "kind": "league",
           "code": "KW"
         }
       },
@@ -16530,7 +16460,6 @@
           "slug": "kyrgyzstan-national-team",
           "name": "Kyrgyzstan National Team",
           "hash": "8c166810",
-          "kind": "league",
           "code": "KG"
         }
       },
@@ -16546,7 +16475,6 @@
           "slug": "laos-national-team",
           "name": "Laos National Team",
           "hash": "98d25ee2",
-          "kind": "league",
           "code": "LA"
         }
       },
@@ -16562,14 +16490,12 @@
           "slug": "virsliga",
           "name": "Latvian Higher League",
           "hash": "4e77b277",
-          "kind": "league",
           "code": "LV"
         },
         "latvia-national-team": {
           "slug": "latvia-national-team",
           "name": "Latvia National Team",
-          "hash": "5e07b38f",
-          "kind": "league"
+          "hash": "5e07b38f"
         }
       },
       "clubs": {
@@ -16669,7 +16595,6 @@
           "slug": "lebanon-national-team",
           "name": "Lebanon National Team",
           "hash": "2603a790",
-          "kind": "league",
           "code": "LB"
         }
       },
@@ -16685,7 +16610,6 @@
           "slug": "lesotho-national-team",
           "name": "Lesotho National Team",
           "hash": "e690bb92",
-          "kind": "league",
           "code": "LS"
         }
       },
@@ -16701,7 +16625,6 @@
           "slug": "liberia-national-team",
           "name": "Liberia National Team",
           "hash": "7d1c2cec",
-          "kind": "league",
           "code": "LR"
         }
       },
@@ -16717,7 +16640,6 @@
           "slug": "libya-national-team",
           "name": "Libya National Team",
           "hash": "328d19c2",
-          "kind": "league",
           "code": "LY"
         }
       },
@@ -16733,7 +16655,6 @@
           "slug": "liechtenstein-national-team",
           "name": "Liechtenstein National Team",
           "hash": "1a5ddf05",
-          "kind": "league",
           "code": "LI"
         }
       },
@@ -16768,14 +16689,12 @@
           "slug": "toplyga",
           "name": "TOPLYGA",
           "hash": "e04eeb8b",
-          "kind": "league",
           "code": "LT"
         },
         "lithuania-national-team": {
           "slug": "lithuania-national-team",
           "name": "Lithuania National Team",
-          "hash": "7146cff1",
-          "kind": "league"
+          "hash": "7146cff1"
         }
       },
       "clubs": {
@@ -16875,7 +16794,6 @@
           "slug": "luxembourg-national-team",
           "name": "Luxembourg National Team",
           "hash": "ed5aeb57",
-          "kind": "league",
           "code": "LU"
         }
       },
@@ -17024,7 +16942,6 @@
           "slug": "macau-national-team",
           "name": "Macao National Team",
           "hash": "2cc629c8",
-          "kind": "league",
           "code": "MO"
         }
       },
@@ -17040,7 +16957,6 @@
           "slug": "madagascar-national-team",
           "name": "Madagascar National Team",
           "hash": "248ef60d",
-          "kind": "league",
           "code": "MG"
         }
       },
@@ -17056,7 +16972,6 @@
           "slug": "malawi-national-team",
           "name": "Malawi National Team",
           "hash": "3ade0059",
-          "kind": "league",
           "code": "MW"
         }
       },
@@ -17072,7 +16987,6 @@
           "slug": "malaysia-national-team",
           "name": "Malaysia National Team",
           "hash": "7023587f",
-          "kind": "league",
           "code": "MY"
         }
       },
@@ -17149,7 +17063,6 @@
           "slug": "maldives-national-team",
           "name": "Maldives National Team",
           "hash": "295cc405",
-          "kind": "league",
           "code": "MV"
         }
       },
@@ -17165,7 +17078,6 @@
           "slug": "mali-national-team",
           "name": "Mali National Team",
           "hash": "7e4d33be",
-          "kind": "league",
           "code": "ML"
         }
       },
@@ -17181,7 +17093,6 @@
           "slug": "malta-national-team",
           "name": "Malta National Team",
           "hash": "73858b09",
-          "kind": "league",
           "code": "MT"
         }
       },
@@ -17312,7 +17223,6 @@
           "slug": "martinique-national-team",
           "name": "Martinique National Team",
           "hash": "c5690114",
-          "kind": "league",
           "code": "MQ"
         }
       },
@@ -17328,7 +17238,6 @@
           "slug": "mauritania-national-team",
           "name": "Mauritania National Team",
           "hash": "5066299f",
-          "kind": "league",
           "code": "MR"
         }
       },
@@ -17344,7 +17253,6 @@
           "slug": "mauritius-national-team",
           "name": "Mauritius National Team",
           "hash": "6a9f0407",
-          "kind": "league",
           "code": "MU"
         }
       },
@@ -17360,26 +17268,22 @@
           "slug": "liga-mx",
           "name": "Liga MX",
           "hash": "15273233",
-          "kind": "league",
           "code": "MX"
         },
         "liga-de-expansion-mx": {
           "slug": "liga-de-expansion-mx",
           "name": "Liga de Expansión MX",
-          "hash": "042e2028",
-          "kind": "league"
+          "hash": "042e2028"
         },
         "liga-premier-a": {
           "slug": "liga-premier-a",
           "name": "Liga Premier A",
-          "hash": "6bb48536",
-          "kind": "league"
+          "hash": "6bb48536"
         },
         "mexico-national-team": {
           "slug": "mexico-national-team",
           "name": "Mexico National Team",
-          "hash": "3a360b20",
-          "kind": "league"
+          "hash": "3a360b20"
         }
       },
       "clubs": {
@@ -17719,14 +17623,12 @@
           "slug": "moldovan-liga",
           "name": "Moldovan Liga",
           "hash": "39ba2b0d",
-          "kind": "league",
           "code": "MD"
         },
         "moldova-national-team": {
           "slug": "moldova-national-team",
           "name": "Moldova National Team",
-          "hash": "4bf50a82",
-          "kind": "league"
+          "hash": "4bf50a82"
         }
       },
       "clubs": {
@@ -17802,7 +17704,6 @@
           "slug": "mongolia-national-team",
           "name": "Mongolia National Team",
           "hash": "97df2486",
-          "kind": "league",
           "code": "MN"
         }
       },
@@ -17818,7 +17719,6 @@
           "slug": "montenegro-national-team",
           "name": "Montenegro National Team",
           "hash": "81a1cd7d",
-          "kind": "league",
           "code": "ME"
         }
       },
@@ -17901,7 +17801,6 @@
           "slug": "montserrat-national-team",
           "name": "Montserrat National Team",
           "hash": "022656fa",
-          "kind": "league",
           "code": "MS"
         }
       },
@@ -17917,14 +17816,12 @@
           "slug": "botola-pro",
           "name": "Botola Pro",
           "hash": "b4277f0c",
-          "kind": "league",
           "code": "MA"
         },
         "morocco-national-team": {
           "slug": "morocco-national-team",
           "name": "Morocco National Team",
-          "hash": "b1090da0",
-          "kind": "league"
+          "hash": "b1090da0"
         }
       },
       "clubs": {
@@ -18054,7 +17951,6 @@
           "slug": "mozambique-national-team",
           "name": "Mozambique National Team",
           "hash": "50b000d7",
-          "kind": "league",
           "code": "MZ"
         }
       },
@@ -18070,7 +17966,6 @@
           "slug": "myanmar-national-team",
           "name": "Myanmar National Team",
           "hash": "ee4dc68d",
-          "kind": "league",
           "code": "MM"
         }
       },
@@ -18086,14 +17981,12 @@
           "slug": "namibia-national-team",
           "name": "Namibia National Team",
           "hash": "86eb5218",
-          "kind": "league",
           "code": "NA"
         },
         "namibia-football-association": {
           "slug": "namibia-football-association",
           "name": "Namibia Football Association",
-          "hash": "358944da",
-          "kind": "league"
+          "hash": "358944da"
         }
       },
       "clubs": {}
@@ -18108,7 +18001,6 @@
           "slug": "nauru-national-team",
           "name": "Nauru National Team",
           "hash": "8843fcf3",
-          "kind": "league",
           "code": "NR"
         }
       },
@@ -18124,7 +18016,6 @@
           "slug": "nepal-national-team",
           "name": "Nepal National Team",
           "hash": "f832f0ec",
-          "kind": "league",
           "code": "NP"
         }
       },
@@ -18140,32 +18031,27 @@
           "slug": "eredivisie",
           "name": "Eredivisie",
           "hash": "a718427b",
-          "kind": "league",
           "code": "NL"
         },
         "eerste-divisie": {
           "slug": "eerste-divisie",
           "name": "Eerste Divisie",
-          "hash": "6e9e4bb3",
-          "kind": "league"
+          "hash": "6e9e4bb3"
         },
         "tweede-divisie": {
           "slug": "tweede-divisie",
           "name": "Tweede divisie",
-          "hash": "1e01321a",
-          "kind": "league"
+          "hash": "1e01321a"
         },
         "dutch-national-team": {
           "slug": "dutch-national-team",
           "name": "Dutch National Team",
-          "hash": "cb15dcd9",
-          "kind": "league"
+          "hash": "cb15dcd9"
         },
         "knvb-cup": {
           "slug": "knvb-cup",
           "name": "KNVB Cup",
-          "hash": "f3aae14f",
-          "kind": "league"
+          "hash": "f3aae14f"
         }
       },
       "clubs": {
@@ -18511,7 +18397,6 @@
           "slug": "new-caledonia-national-team",
           "name": "New Caledonia National Team",
           "hash": "af032110",
-          "kind": "league",
           "code": "NC"
         }
       },
@@ -18527,14 +18412,12 @@
           "slug": "new-zealand-national-league",
           "name": "New Zealand National League",
           "hash": "b0486d7c",
-          "kind": "league",
           "code": "NZ"
         },
         "new-zealand-national-team": {
           "slug": "new-zealand-national-team",
           "name": "New Zealand National Team",
-          "hash": "b85989ee",
-          "kind": "league"
+          "hash": "b85989ee"
         }
       },
       "clubs": {
@@ -18616,7 +18499,6 @@
           "slug": "nicaragua-national-team",
           "name": "Nicaragua National Team",
           "hash": "46eb8d5e",
-          "kind": "league",
           "code": "NI"
         }
       },
@@ -18632,7 +18514,6 @@
           "slug": "niger-national-team",
           "name": "Niger National Team",
           "hash": "95e4c959",
-          "kind": "league",
           "code": "NE"
         }
       },
@@ -18648,14 +18529,12 @@
           "slug": "nigeria-premier-football-league",
           "name": "Nigeria Premier Football League",
           "hash": "3dab23c7",
-          "kind": "league",
           "code": "NG"
         },
         "nigeria-national-team": {
           "slug": "nigeria-national-team",
           "name": "Nigeria National Team",
-          "hash": "7422d443",
-          "kind": "league"
+          "hash": "7422d443"
         }
       },
       "clubs": {
@@ -18791,7 +18670,6 @@
           "slug": "north-korea-national-team",
           "name": "North Korea National Team",
           "hash": "3299c157",
-          "kind": "league",
           "code": "KP"
         }
       },
@@ -18807,7 +18685,6 @@
           "slug": "north-macedonia-national-team",
           "name": "North Macedonia National Team",
           "hash": "af3ea295",
-          "kind": "league",
           "code": "MK"
         }
       },
@@ -18902,20 +18779,17 @@
           "slug": "nifl-premiership",
           "name": "NIFL Premiership",
           "hash": "1722d4b0",
-          "kind": "league",
           "code": "NIR"
         },
         "northern-ireland-national-team": {
           "slug": "northern-ireland-national-team",
           "name": "Northern Ireland National Team",
-          "hash": "2e78b902",
-          "kind": "league"
+          "hash": "2e78b902"
         },
         "northern-ireland-football-league": {
           "slug": "northern-ireland-football-league",
           "name": "Northern Ireland Football League",
-          "hash": "c5938771",
-          "kind": "league"
+          "hash": "c5938771"
         }
       },
       "clubs": {
@@ -19033,7 +18907,6 @@
           "slug": "northern-mariana-islands-national-team",
           "name": "Northern Mariana Islands National Team",
           "hash": "aa03ee0c",
-          "kind": "league",
           "code": "MP"
         }
       },
@@ -19049,20 +18922,17 @@
           "slug": "eliteserien",
           "name": "Eliteserien",
           "hash": "4ffe28e9",
-          "kind": "league",
           "code": "NO"
         },
         "norwegian-first-division": {
           "slug": "norwegian-first-division",
           "name": "Norwegian First Division",
-          "hash": "d451c55a",
-          "kind": "league"
+          "hash": "d451c55a"
         },
         "norway-national-team": {
           "slug": "norway-national-team",
           "name": "Norway National Team",
-          "hash": "45b68be8",
-          "kind": "league"
+          "hash": "45b68be8"
         }
       },
       "clubs": {
@@ -19324,7 +19194,6 @@
           "slug": "oman-national-team",
           "name": "Oman National Team",
           "hash": "2f50c5ad",
-          "kind": "league",
           "code": "OM"
         }
       },
@@ -19340,7 +19209,6 @@
           "slug": "pakistan-national-team",
           "name": "Pakistan National Team",
           "hash": "c81375eb",
-          "kind": "league",
           "code": "PK"
         }
       },
@@ -19356,7 +19224,6 @@
           "slug": "palau-national-team",
           "name": "Palau National Team",
           "hash": "b90f02eb",
-          "kind": "league",
           "code": "PW"
         }
       },
@@ -19372,7 +19239,6 @@
           "slug": "palestine-national-team",
           "name": "Palestine National Team",
           "hash": "487a447a",
-          "kind": "league",
           "code": "PS"
         }
       },
@@ -19388,14 +19254,12 @@
           "slug": "panamanian-football-league",
           "name": "Panamanian Football League",
           "hash": "74ec04b7",
-          "kind": "league",
           "code": "PA"
         },
         "panama-national-team": {
           "slug": "panama-national-team",
           "name": "Panama National Team",
-          "hash": "6451dd7e",
-          "kind": "league"
+          "hash": "6451dd7e"
         }
       },
       "clubs": {
@@ -19483,7 +19347,6 @@
           "slug": "papua-new-guinea-national-team",
           "name": "Papua New Guinea National Team",
           "hash": "a58b3cf8",
-          "kind": "league",
           "code": "PG"
         }
       },
@@ -19499,14 +19362,12 @@
           "slug": "copa-de-primera",
           "name": "Copa de Primera",
           "hash": "416ff0b7",
-          "kind": "league",
           "code": "PY"
         },
         "paraguay-national-team": {
           "slug": "paraguay-national-team",
           "name": "Paraguay National Team",
-          "hash": "c9681fdb",
-          "kind": "league"
+          "hash": "c9681fdb"
         }
       },
       "clubs": {
@@ -19606,14 +19467,12 @@
           "slug": "peruvian-primera-division",
           "name": "Peruvian Primera División",
           "hash": "b1901309",
-          "kind": "league",
           "code": "PE"
         },
         "peru-national-team": {
           "slug": "peru-national-team",
           "name": "Peru National Team",
-          "hash": "4da8d8d1",
-          "kind": "league"
+          "hash": "4da8d8d1"
         }
       },
       "clubs": {
@@ -19779,7 +19638,6 @@
           "slug": "philippines-national-team",
           "name": "Philippines National Team",
           "hash": "17ad18c8",
-          "kind": "league",
           "code": "PH"
         }
       },
@@ -19795,26 +19653,22 @@
           "slug": "ekstraklasa",
           "name": "PKO BP Ekstraklasa",
           "hash": "4bd2cb11",
-          "kind": "league",
           "code": "PL"
         },
         "1-liga": {
           "slug": "1-liga",
           "name": "Polish 1 Liga",
-          "hash": "c038970f",
-          "kind": "league"
+          "hash": "c038970f"
         },
         "poland-national-team": {
           "slug": "poland-national-team",
           "name": "Poland National Team",
-          "hash": "3e5f1d10",
-          "kind": "league"
+          "hash": "3e5f1d10"
         },
         "polish-football-association": {
           "slug": "polish-football-association",
           "name": "Polish Football Association",
-          "hash": "9bcecb3e",
-          "kind": "league"
+          "hash": "9bcecb3e"
         }
       },
       "clubs": {
@@ -20070,32 +19924,27 @@
           "slug": "primeira-liga",
           "name": "Primeira Liga",
           "hash": "0c7575ca",
-          "kind": "league",
           "code": "PT"
         },
         "liga-portugal-2": {
           "slug": "liga-portugal-2",
           "name": "Liga Portugal 2",
-          "hash": "90a1494e",
-          "kind": "league"
+          "hash": "90a1494e"
         },
         "liga-3": {
           "slug": "liga-3",
           "name": "Liga 3",
-          "hash": "d4aef233",
-          "kind": "league"
+          "hash": "d4aef233"
         },
         "campeonato-de-portugal": {
           "slug": "campeonato-de-portugal",
           "name": "Campeonato de Portugal",
-          "hash": "0ecf8213",
-          "kind": "league"
+          "hash": "0ecf8213"
         },
         "portuguese-football-federation": {
           "slug": "portuguese-football-federation",
           "name": "Portuguese Football Federation",
-          "hash": "1a0b6707",
-          "kind": "league"
+          "hash": "1a0b6707"
         }
       },
       "clubs": {
@@ -20211,91 +20060,91 @@
           "slug": "academica-de-coimbra",
           "name": "Académica de Coimbra",
           "hash": "ec457901",
-          "league": "liga-2"
+          "league": "liga-portugal-2"
         },
         "amarante": {
           "slug": "amarante",
           "name": "Amarante",
           "hash": "513dc84a",
-          "league": "liga-2"
+          "league": "liga-portugal-2"
         },
         "avs-futebol-sad": {
           "slug": "avs-futebol-sad",
           "name": "AVS Futebol SAD",
           "hash": "85fade6a",
-          "league": "liga-2"
+          "league": "liga-portugal-2"
         },
         "chaves": {
           "slug": "chaves",
           "name": "Grupo Desportivo de Chaves",
           "hash": "e26e1200",
-          "league": "liga-2"
+          "league": "liga-portugal-2"
         },
         "farense": {
           "slug": "farense",
           "name": "Farense",
           "hash": "435971af",
-          "league": "liga-2"
+          "league": "liga-portugal-2"
         },
         "feirense": {
           "slug": "feirense",
           "name": "Feirense",
           "hash": "ebb76786",
-          "league": "liga-2"
+          "league": "liga-portugal-2"
         },
         "felgueiras": {
           "slug": "felgueiras",
           "name": "Felgueiras",
           "hash": "1c8a7ea3",
-          "league": "liga-2"
+          "league": "liga-portugal-2"
         },
         "leiria": {
           "slug": "leiria",
           "name": "União de Leiria",
           "hash": "b1713c87",
-          "league": "liga-2"
+          "league": "liga-portugal-2"
         },
         "leixoes": {
           "slug": "leixoes",
           "name": "Leixões",
           "hash": "f73ab5b7",
-          "league": "liga-2"
+          "league": "liga-portugal-2"
         },
         "lusitania": {
           "slug": "lusitania",
           "name": "Lusitânia de Lourosa",
           "hash": "3e8fc427",
-          "league": "liga-2"
+          "league": "liga-portugal-2"
         },
         "penafiel": {
           "slug": "penafiel",
           "name": "Penafiel",
           "hash": "7a28d902",
-          "league": "liga-2"
+          "league": "liga-portugal-2"
         },
         "portimonense": {
           "slug": "portimonense",
           "name": "Portimonense",
           "hash": "ea48aec4",
-          "league": "liga-2"
+          "league": "liga-portugal-2"
         },
         "tondela": {
           "slug": "tondela",
           "name": "Tondela",
           "hash": "bf99e6f5",
-          "league": "liga-2"
+          "league": "liga-portugal-2"
         },
         "torreense": {
           "slug": "torreense",
           "name": "S.C.U. Torreense",
           "hash": "fdcc5fe6",
-          "league": "liga-2"
+          "league": "liga-portugal-2"
         },
         "vizela": {
           "slug": "vizela",
           "name": "Vizela",
           "hash": "619563e8",
-          "league": "liga-2"
+          "league": "liga-portugal-2"
         },
         "ad-fafe": {
           "slug": "ad-fafe",
@@ -21023,14 +20872,12 @@
           "slug": "liga-puerto-rico-apertura",
           "name": "Liga Puerto Rico Apertura",
           "hash": "70b010a0",
-          "kind": "league",
           "code": "PR"
         },
         "puerto-rico-national-team": {
           "slug": "puerto-rico-national-team",
           "name": "Puerto Rico National Team",
-          "hash": "60f959ae",
-          "kind": "league"
+          "hash": "60f959ae"
         }
       },
       "clubs": {
@@ -21112,14 +20959,12 @@
           "slug": "qatar-stars-league",
           "name": "Qatar Stars League",
           "hash": "b9acaae6",
-          "kind": "league",
           "code": "QA"
         },
         "qatar-national-team": {
           "slug": "qatar-national-team",
           "name": "Qatar National Team",
-          "hash": "990ed921",
-          "kind": "league"
+          "hash": "990ed921"
         }
       },
       "clubs": {
@@ -21255,26 +21100,22 @@
           "slug": "league-of-ireland-premier-division",
           "name": "League of Ireland Premier Division",
           "hash": "42e794ca",
-          "kind": "league",
           "code": "IE"
         },
         "league-of-ireland-first-division": {
           "slug": "league-of-ireland-first-division",
           "name": "League of Ireland First Division",
-          "hash": "20687687",
-          "kind": "league"
+          "hash": "20687687"
         },
         "republic-of-ireland-national-team": {
           "slug": "republic-of-ireland-national-team",
           "name": "Republic of Ireland National Team",
-          "hash": "b6a1580e",
-          "kind": "league"
+          "hash": "b6a1580e"
         },
         "league-of-ireland": {
           "slug": "league-of-ireland",
           "name": "League of Ireland",
-          "hash": "286682f0",
-          "kind": "league"
+          "hash": "286682f0"
         }
       },
       "clubs": {
@@ -21422,7 +21263,6 @@
           "slug": "reunion-national-team",
           "name": "Réunion National Team",
           "hash": "8aafffa7",
-          "kind": "league",
           "code": "RE"
         }
       },
@@ -21445,14 +21285,12 @@
           "slug": "superliga",
           "name": "Superliga",
           "hash": "a99edb29",
-          "kind": "league",
           "code": "RO"
         },
         "romania-national-team": {
           "slug": "romania-national-team",
           "name": "Romania National Team",
-          "hash": "4555dc3c",
-          "kind": "league"
+          "hash": "4555dc3c"
         }
       },
       "clubs": {
@@ -21612,26 +21450,22 @@
           "slug": "russian-premier-league",
           "name": "Russian Premier League",
           "hash": "02e3c017",
-          "kind": "league",
           "code": "RU"
         },
         "russian-first-league": {
           "slug": "russian-first-league",
           "name": "Russian First League",
-          "hash": "959433eb",
-          "kind": "league"
+          "hash": "959433eb"
         },
         "russia-national-team": {
           "slug": "russia-national-team",
           "name": "Russia National Team",
-          "hash": "7ce0f003",
-          "kind": "league"
+          "hash": "7ce0f003"
         },
         "soviet-union-national-team": {
           "slug": "soviet-union-national-team",
           "name": "Soviet Union National Team",
-          "hash": "745a8272",
-          "kind": "league"
+          "hash": "745a8272"
         }
       },
       "clubs": {
@@ -21893,7 +21727,6 @@
           "slug": "rwanda-national-team",
           "name": "Rwanda National Team",
           "hash": "4c662ba5",
-          "kind": "league",
           "code": "RW"
         }
       },
@@ -21909,7 +21742,6 @@
           "slug": "saint-lucia-national-team",
           "name": "Saint Lucia National Team",
           "hash": "3ae7ad04",
-          "kind": "league",
           "code": "LC"
         }
       },
@@ -21925,7 +21757,6 @@
           "slug": "saint-martin-national-team",
           "name": "Saint Martin National Team",
           "hash": "270def0b",
-          "kind": "league",
           "code": "MF"
         }
       },
@@ -21941,7 +21772,6 @@
           "slug": "saint-vincent-and-the-grenadines-national-team",
           "name": "Saint Vincent and the Grenadines National Team",
           "hash": "de9b837c",
-          "kind": "league",
           "code": "VC"
         }
       },
@@ -21957,7 +21787,6 @@
           "slug": "samoa-national-team",
           "name": "Samoa National Team",
           "hash": "4ac6f0fb",
-          "kind": "league",
           "code": "WS"
         }
       },
@@ -21973,7 +21802,6 @@
           "slug": "san-marino-national-team",
           "name": "San Marino National Team",
           "hash": "7ea72ab8",
-          "kind": "league",
           "code": "SM"
         }
       },
@@ -22074,7 +21902,6 @@
           "slug": "sao-tome-and-principe-national-team",
           "name": "Sao Tome and Principe National Team",
           "hash": "b406bf6d",
-          "kind": "league",
           "code": "ST"
         }
       },
@@ -22090,26 +21917,22 @@
           "slug": "saudi-professional-league",
           "name": "Saudi Professional League",
           "hash": "59d5c8af",
-          "kind": "league",
           "code": "SA"
         },
         "saudi-arabia-national-team": {
           "slug": "saudi-arabia-national-team",
           "name": "Saudi Arabia National Team",
-          "hash": "8792787c",
-          "kind": "league"
+          "hash": "8792787c"
         },
         "saudi-arabian-football-federation": {
           "slug": "saudi-arabian-football-federation",
           "name": "Saudi Arabian Football Federation",
-          "hash": "ba3fe8e8",
-          "kind": "league"
+          "hash": "ba3fe8e8"
         },
         "saudi-first-division-league": {
           "slug": "saudi-first-division-league",
           "name": "Saudi First Division League SDL",
-          "hash": "ebe12da1",
-          "kind": "league"
+          "hash": "ebe12da1"
         }
       },
       "clubs": {
@@ -22305,38 +22128,32 @@
           "slug": "scottish-premiership",
           "name": "Scottish Premiership",
           "hash": "3c584285",
-          "kind": "league",
           "code": "SCO"
         },
         "scottish-championship": {
           "slug": "scottish-championship",
           "name": "Scottish Championship",
-          "hash": "c81d6b7c",
-          "kind": "league"
+          "hash": "c81d6b7c"
         },
         "scottish-league-one": {
           "slug": "scottish-league-one",
           "name": "Scottish League One",
-          "hash": "46579e15",
-          "kind": "league"
+          "hash": "46579e15"
         },
         "scottish-league-two": {
           "slug": "scottish-league-two",
           "name": "Scottish League Two",
-          "hash": "a3014e78",
-          "kind": "league"
+          "hash": "a3014e78"
         },
         "scotland-national-team": {
           "slug": "scotland-national-team",
           "name": "Scotland National Team",
-          "hash": "6fd08824",
-          "kind": "league"
+          "hash": "6fd08824"
         },
         "scottish-football-association": {
           "slug": "scottish-football-association",
           "name": "Scottish Football Association",
-          "hash": "094789eb",
-          "kind": "league"
+          "hash": "094789eb"
         }
       },
       "clubs": {
@@ -22730,7 +22547,6 @@
           "slug": "senegal-national-team",
           "name": "Senegal National Team",
           "hash": "47d196a4",
-          "kind": "league",
           "code": "SN"
         }
       },
@@ -22746,14 +22562,12 @@
           "slug": "serbian-superliga",
           "name": "Serbian SuperLiga",
           "hash": "91e640ac",
-          "kind": "league",
           "code": "RS"
         },
         "serbia-national-team": {
           "slug": "serbia-national-team",
           "name": "Serbia National Team",
-          "hash": "a009b8d2",
-          "kind": "league"
+          "hash": "a009b8d2"
         }
       },
       "clubs": {
@@ -22901,7 +22715,6 @@
           "slug": "seychelles-national-team",
           "name": "Seychelles National Team",
           "hash": "5b023ed1",
-          "kind": "league",
           "code": "SC"
         }
       },
@@ -22917,7 +22730,6 @@
           "slug": "sierra-leone-national-team",
           "name": "Sierra Leone National Team",
           "hash": "27b8d15f",
-          "kind": "league",
           "code": "SL"
         }
       },
@@ -22933,14 +22745,12 @@
           "slug": "singapore-premier-league",
           "name": "Singapore Premier League",
           "hash": "5b4c37e8",
-          "kind": "league",
           "code": "SG"
         },
         "singapore-national-team": {
           "slug": "singapore-national-team",
           "name": "Singapore National Team",
-          "hash": "0e49dca0",
-          "kind": "league"
+          "hash": "0e49dca0"
         }
       },
       "clubs": {
@@ -23004,7 +22814,6 @@
           "slug": "sint-maarten-national-team",
           "name": "Sint Maarten National Team",
           "hash": "3a45bb60",
-          "kind": "league",
           "code": "SX"
         }
       },
@@ -23020,14 +22829,12 @@
           "slug": "slovak-first-football-league",
           "name": "Slovak First Football League",
           "hash": "8b39d081",
-          "kind": "league",
           "code": "SK"
         },
         "slovakia-national-team": {
           "slug": "slovakia-national-team",
           "name": "Slovakia National Team",
-          "hash": "02dd9aa5",
-          "kind": "league"
+          "hash": "02dd9aa5"
         }
       },
       "clubs": {
@@ -23157,14 +22964,12 @@
           "slug": "slovenian-prvaliga",
           "name": "Slovenian PrvaLiga",
           "hash": "a92de257",
-          "kind": "league",
           "code": "SI"
         },
         "slovenia-national-team": {
           "slug": "slovenia-national-team",
           "name": "Slovenia National Team",
-          "hash": "7c55fea8",
-          "kind": "league"
+          "hash": "7c55fea8"
         }
       },
       "clubs": {
@@ -23288,7 +23093,6 @@
           "slug": "solomon-islands-national-team",
           "name": "Solomon Islands National Team",
           "hash": "ff8abf6a",
-          "kind": "league",
           "code": "SB"
         }
       },
@@ -23304,7 +23108,6 @@
           "slug": "somalia-national-team",
           "name": "Somalia National Team",
           "hash": "0a679912",
-          "kind": "league",
           "code": "SO"
         }
       },
@@ -23320,14 +23123,12 @@
           "slug": "premier-soccer-league",
           "name": "Premier Soccer League",
           "hash": "3b6d47dc",
-          "kind": "league",
           "code": "ZA"
         },
         "south-africa-national-team": {
           "slug": "south-africa-national-team",
           "name": "South Africa National Team",
-          "hash": "48ee4470",
-          "kind": "league"
+          "hash": "48ee4470"
         }
       },
       "clubs": {
@@ -23463,20 +23264,17 @@
           "slug": "k-league-1",
           "name": "K League 1",
           "hash": "0ffd4f72",
-          "kind": "league",
           "code": "KR"
         },
         "k-league-2": {
           "slug": "k-league-2",
           "name": "K League 2",
-          "hash": "09590cd6",
-          "kind": "league"
+          "hash": "09590cd6"
         },
         "south-korea-national-team": {
           "slug": "south-korea-national-team",
           "name": "South Korea National Team",
-          "hash": "e9b844d9",
-          "kind": "league"
+          "hash": "e9b844d9"
         }
       },
       "clubs": {
@@ -23666,7 +23464,6 @@
           "slug": "south-sudan-national-team",
           "name": "South Sudan National Team",
           "hash": "e630285c",
-          "kind": "league",
           "code": "SS"
         }
       },
@@ -23682,38 +23479,32 @@
           "slug": "la-liga",
           "name": "La Liga",
           "hash": "0ea0b0c5",
-          "kind": "league",
           "code": "ES"
         },
         "la-liga-2": {
           "slug": "la-liga-2",
           "name": "La Liga 2",
-          "hash": "c56096b7",
-          "kind": "league"
+          "hash": "c56096b7"
         },
         "primera-federacion": {
           "slug": "primera-federacion",
           "name": "Primera Federación",
-          "hash": "8fd8615f",
-          "kind": "league"
+          "hash": "8fd8615f"
         },
         "segunda-federacion": {
           "slug": "segunda-federacion",
           "name": "Segunda Federación",
-          "hash": "4885e0a8",
-          "kind": "league"
+          "hash": "4885e0a8"
         },
         "spain-national-team": {
           "slug": "spain-national-team",
           "name": "Spain National Team",
-          "hash": "4ad85efc",
-          "kind": "league"
+          "hash": "4ad85efc"
         },
         "tercera-federacion": {
           "slug": "tercera-federacion",
           "name": "Tercera Federación",
-          "hash": "db8e4bd2",
-          "kind": "league"
+          "hash": "db8e4bd2"
         }
       },
       "clubs": {
@@ -24613,7 +24404,7 @@
         },
         "l-hospitalet": {
           "slug": "l-hospitalet",
-          "name": "L'Hospitalet",
+          "name": "L&#39;Hospitalet",
           "hash": "57ce2606",
           "league": ""
         },
@@ -24707,7 +24498,6 @@
           "slug": "sri-lanka-national-team",
           "name": "Sri Lanka National Team",
           "hash": "7ff4b01f",
-          "kind": "league",
           "code": "LK"
         }
       },
@@ -24723,7 +24513,6 @@
           "slug": "st-kitts-and-nevis-national-team",
           "name": "St Kitts and Nevis National Team",
           "hash": "0b52884e",
-          "kind": "league",
           "code": "KN"
         }
       },
@@ -24739,7 +24528,6 @@
           "slug": "sudan-national-team",
           "name": "Sudan National Team",
           "hash": "9e0d9c10",
-          "kind": "league",
           "code": "SD"
         }
       },
@@ -24755,7 +24543,6 @@
           "slug": "suriname-national-team",
           "name": "Suriname National Team",
           "hash": "c2135482",
-          "kind": "league",
           "code": "SR"
         }
       },
@@ -24771,20 +24558,17 @@
           "slug": "allsvenskan",
           "name": "Allsvenskan",
           "hash": "e55d5de4",
-          "kind": "league",
           "code": "SE"
         },
         "superettan": {
           "slug": "superettan",
           "name": "Superettan",
-          "hash": "6602ab6b",
-          "kind": "league"
+          "hash": "6602ab6b"
         },
         "sweden-national-team": {
           "slug": "sweden-national-team",
           "name": "Sweden National Team",
-          "hash": "82363952",
-          "kind": "league"
+          "hash": "82363952"
         }
       },
       "clubs": {
@@ -25130,26 +24914,22 @@
           "slug": "swiss-football-league",
           "name": "Swiss Super League",
           "hash": "1d8f9f9d",
-          "kind": "league",
           "code": "CH"
         },
         "swiss-challenge-league": {
           "slug": "swiss-challenge-league",
           "name": "Swiss Challenge League",
-          "hash": "9e0822e9",
-          "kind": "league"
+          "hash": "9e0822e9"
         },
         "switzerland-national-team": {
           "slug": "switzerland-national-team",
           "name": "Switzerland National Team",
-          "hash": "3f12a8c9",
-          "kind": "league"
+          "hash": "3f12a8c9"
         },
         "swiss-football-association": {
           "slug": "swiss-football-association",
           "name": "Swiss Football Association",
-          "hash": "7996d790",
-          "kind": "league"
+          "hash": "7996d790"
         }
       },
       "clubs": {
@@ -25297,7 +25077,6 @@
           "slug": "syria-national-team",
           "name": "Syria National Team",
           "hash": "47d97239",
-          "kind": "league",
           "code": "SY"
         }
       },
@@ -25313,7 +25092,6 @@
           "slug": "tahiti-national-team",
           "name": "Tahiti National Team",
           "hash": "11870932",
-          "kind": "league",
           "code": "TAH"
         }
       },
@@ -25328,14 +25106,12 @@
         "taiwan-national-team": {
           "slug": "taiwan-national-team",
           "name": "Taiwan National Team",
-          "hash": "986fbc5d",
-          "kind": "league"
+          "hash": "986fbc5d"
         },
         "taiwan-football-premier-league": {
           "slug": "taiwan-football-premier-league",
           "name": "Taiwan Football Premier League",
           "hash": "f68c8638",
-          "kind": "league",
           "code": "TW"
         }
       },
@@ -25400,7 +25176,6 @@
           "slug": "tajikistan-national-team",
           "name": "Tajikistan National Team",
           "hash": "6a9a84db",
-          "kind": "league",
           "code": "TJ"
         }
       },
@@ -25416,14 +25191,12 @@
           "slug": "nbc-premier-league",
           "name": "NBC Premier League",
           "hash": "d0998d49",
-          "kind": "league",
           "code": "TZ"
         },
         "tanzania-national-team": {
           "slug": "tanzania-national-team",
           "name": "Tanzania National Team",
-          "hash": "7480b0e9",
-          "kind": "league"
+          "hash": "7480b0e9"
         }
       },
       "clubs": {
@@ -25553,14 +25326,12 @@
           "slug": "thai-league-1",
           "name": "Thai League 1",
           "hash": "f07a6a31",
-          "kind": "league",
           "code": "TH"
         },
         "thailand-national-team": {
           "slug": "thailand-national-team",
           "name": "Thailand National Team",
-          "hash": "1148bc6e",
-          "kind": "league"
+          "hash": "1148bc6e"
         }
       },
       "clubs": {
@@ -25672,7 +25443,6 @@
           "slug": "timor-leste-national-team",
           "name": "Timor-Leste National Team",
           "hash": "9f3a2055",
-          "kind": "league",
           "code": "TL"
         }
       },
@@ -25688,7 +25458,6 @@
           "slug": "togo-national-team",
           "name": "Togo National Team",
           "hash": "63128923",
-          "kind": "league",
           "code": "TG"
         }
       },
@@ -25704,434 +25473,7 @@
           "slug": "tonga-national-team",
           "name": "Tonga National Team",
           "hash": "79a8134d",
-          "kind": "league",
           "code": "TO"
-        }
-      },
-      "clubs": {}
-    },
-    "tournaments": {
-      "slug": "tournaments",
-      "iso2": "INT",
-      "name": "Tournaments",
-      "defaultLeague": "uefa-champions-league",
-      "leagues": {
-        "fifa-world-cup-2026": {
-          "slug": "fifa-world-cup-2026",
-          "name": "FIFA World Cup 2026",
-          "hash": "9737ad74",
-          "kind": "league"
-        },
-        "uefa-champions-league": {
-          "slug": "uefa-champions-league",
-          "name": "UEFA Champions League",
-          "hash": "effc906c",
-          "kind": "league",
-          "code": "UCL"
-        },
-        "uefa-europa-league": {
-          "slug": "uefa-europa-league",
-          "name": "UEFA Europa League",
-          "hash": "ac37661c",
-          "kind": "league",
-          "code": "UEL"
-        },
-        "uefa-conference-league": {
-          "slug": "uefa-conference-league",
-          "name": "UEFA Conference League",
-          "hash": "f5da1108",
-          "kind": "league",
-          "code": "UECL"
-        },
-        "concacaf-nations-league": {
-          "slug": "concacaf-nations-league",
-          "name": "CONCACAF Nations League",
-          "hash": "5950a94e",
-          "kind": "league"
-        },
-        "conmebol-libertadores": {
-          "slug": "conmebol-libertadores",
-          "name": "Copa Libertadores",
-          "hash": "38816506",
-          "kind": "league"
-        },
-        "conmebol-copa-sudamericana": {
-          "slug": "conmebol-copa-sudamericana",
-          "name": "Copa Sudamericana",
-          "hash": "64cf81d3",
-          "kind": "league"
-        },
-        "uefa-womens-champions-league": {
-          "slug": "uefa-womens-champions-league",
-          "name": "UEFA Women's Champions League",
-          "hash": "d50fa655",
-          "kind": "league"
-        },
-        "fifa-womens-world-cup-2027": {
-          "slug": "fifa-womens-world-cup-2027",
-          "name": "2027 FIFA Women's World Cup",
-          "hash": "a7750fc1",
-          "kind": "league"
-        },
-        "fifa-asean-cup": {
-          "slug": "fifa-asean-cup",
-          "name": "FIFA ASEAN Cup",
-          "hash": "ba11b7de",
-          "kind": "league"
-        },
-        "asean-championship": {
-          "slug": "asean-championship",
-          "name": "ASEAN Championship",
-          "hash": "fb5b8575",
-          "kind": "league"
-        },
-        "afc-asian-cup": {
-          "slug": "afc-asian-cup",
-          "name": "AFC Asian Cup",
-          "hash": "af4647a4",
-          "kind": "league"
-        },
-        "leagues-cup": {
-          "slug": "leagues-cup",
-          "name": "Leagues Cup",
-          "hash": "88c0f698",
-          "kind": "league"
-        },
-        "uefa-euro-2028": {
-          "slug": "uefa-euro-2028",
-          "name": "UEFA Euro 2028",
-          "hash": "da413c98",
-          "kind": "league"
-        },
-        "caf-champions-league": {
-          "slug": "caf-champions-league",
-          "name": "CAF Champions League",
-          "hash": "4147d293",
-          "kind": "league"
-        },
-        "concacaf-champions-cup": {
-          "slug": "concacaf-champions-cup",
-          "name": "CONCACAF Champions Cup",
-          "hash": "fcd3ac56",
-          "kind": "league"
-        },
-        "uefa-super-cup": {
-          "slug": "uefa-super-cup",
-          "name": "UEFA Super Cup",
-          "hash": "116afe2f",
-          "kind": "league"
-        },
-        "fifa-intercontinental-cup": {
-          "slug": "fifa-intercontinental-cup",
-          "name": "FIFA Intercontinental Cup",
-          "hash": "6bbe30e3",
-          "kind": "league"
-        },
-        "concacaf-w-champions-cup": {
-          "slug": "concacaf-w-champions-cup",
-          "name": "CONCACAF W Champions Cup",
-          "hash": "de8802ac",
-          "kind": "league"
-        },
-        "concacaf-caribbean-cup": {
-          "slug": "concacaf-caribbean-cup",
-          "name": "CONCACAF Caribbean Cup",
-          "hash": "9b5f9909",
-          "kind": "league"
-        },
-        "concacaf-central-american-cup": {
-          "slug": "concacaf-central-american-cup",
-          "name": "CONCACAF Central American Cup",
-          "hash": "4ad0a19c",
-          "kind": "league"
-        },
-        "arabian-gulf-cup": {
-          "slug": "arabian-gulf-cup",
-          "name": "Arabian Gulf Cup",
-          "hash": "218925ff",
-          "kind": "league"
-        },
-        "fifa-club-world-cup": {
-          "slug": "fifa-club-world-cup",
-          "name": "FIFA Club World Cup",
-          "hash": "75620a01",
-          "kind": "league"
-        },
-        "fifa-world-cup-2030": {
-          "slug": "fifa-world-cup-2030",
-          "name": "FIFA World Cup 2030 (unofficial)",
-          "hash": "a0f36ae3",
-          "kind": "league"
-        },
-        "fifa-world-cup-2022": {
-          "slug": "fifa-world-cup-2022",
-          "name": "FIFA World Cup 2022",
-          "hash": "40013e68",
-          "kind": "league"
-        },
-        "fifa-world-cup-2018": {
-          "slug": "fifa-world-cup-2018",
-          "name": "FIFA World Cup 2018",
-          "hash": "7b6d5e95",
-          "kind": "league"
-        },
-        "fifa-world-cup-2014": {
-          "slug": "fifa-world-cup-2014",
-          "name": "FIFA World Cup 2014",
-          "hash": "9e81d949",
-          "kind": "league"
-        },
-        "fifa-world-cup-2010": {
-          "slug": "fifa-world-cup-2010",
-          "name": "FIFA World Cup 2010",
-          "hash": "2a0b6431",
-          "kind": "league"
-        },
-        "fifa-world-cup-2006": {
-          "slug": "fifa-world-cup-2006",
-          "name": "FIFA World Cup 2006",
-          "hash": "79406938",
-          "kind": "league"
-        },
-        "fifa-world-cup-2002": {
-          "slug": "fifa-world-cup-2002",
-          "name": "FIFA World Cup 2002",
-          "hash": "1a7c409f",
-          "kind": "league"
-        },
-        "fifa-world-cup-1998": {
-          "slug": "fifa-world-cup-1998",
-          "name": "FIFA World Cup 1998",
-          "hash": "8f1c6da0",
-          "kind": "league"
-        },
-        "fifa-world-cup-1994": {
-          "slug": "fifa-world-cup-1994",
-          "name": "FIFA World Cup 1994",
-          "hash": "49babfaf",
-          "kind": "league"
-        },
-        "fifa-world-cup-1990": {
-          "slug": "fifa-world-cup-1990",
-          "name": "FIFA World Cup 1990",
-          "hash": "ef54d3fa",
-          "kind": "league"
-        },
-        "fifa-world-cup-1986": {
-          "slug": "fifa-world-cup-1986",
-          "name": "FIFA World Cup 1986",
-          "hash": "b6146c34",
-          "kind": "league"
-        },
-        "fifa-world-cup-1982": {
-          "slug": "fifa-world-cup-1982",
-          "name": "FIFA World Cup 1982",
-          "hash": "14c4e7e3",
-          "kind": "league"
-        },
-        "fifa-world-cup-1978": {
-          "slug": "fifa-world-cup-1978",
-          "name": "FIFA World Cup 1978",
-          "hash": "c3605c2c",
-          "kind": "league"
-        },
-        "fifa-world-cup-1974": {
-          "slug": "fifa-world-cup-1974",
-          "name": "FIFA World Cup 1974",
-          "hash": "395f5ee7",
-          "kind": "league"
-        },
-        "fifa-world-cup-1970": {
-          "slug": "fifa-world-cup-1970",
-          "name": "FIFA World Cup 1970",
-          "hash": "5930087b",
-          "kind": "league"
-        },
-        "fifa-world-cup-1966": {
-          "slug": "fifa-world-cup-1966",
-          "name": "FIFA World Cup 1966",
-          "hash": "99a36ddc",
-          "kind": "league"
-        },
-        "fifa-world-cup-1962": {
-          "slug": "fifa-world-cup-1962",
-          "name": "FIFA World Cup 1962",
-          "hash": "0f8283c7",
-          "kind": "league"
-        },
-        "fifa-world-cup-1958": {
-          "slug": "fifa-world-cup-1958",
-          "name": "FIFA World Cup 1958",
-          "hash": "85f56417",
-          "kind": "league"
-        },
-        "fifa-world-cup-1954": {
-          "slug": "fifa-world-cup-1954",
-          "name": "FIFA World Cup 1954",
-          "hash": "6c15cf1b",
-          "kind": "league"
-        },
-        "fifa-world-cup-1950": {
-          "slug": "fifa-world-cup-1950",
-          "name": "FIFA World Cup 1950",
-          "hash": "f9bcd4cd",
-          "kind": "league"
-        },
-        "fifa-world-cup-1938": {
-          "slug": "fifa-world-cup-1938",
-          "name": "FIFA World Cup 1938",
-          "hash": "6196b104",
-          "kind": "league"
-        },
-        "fifa-world-cup-1934": {
-          "slug": "fifa-world-cup-1934",
-          "name": "FIFA World Cup 1934",
-          "hash": "a8929f42",
-          "kind": "league"
-        },
-        "fifa-world-cup-1930": {
-          "slug": "fifa-world-cup-1930",
-          "name": "FIFA World Cup 1930",
-          "hash": "a70f13ec",
-          "kind": "league"
-        },
-        "uefa-nations-league": {
-          "slug": "uefa-nations-league",
-          "name": "UEFA Nations League",
-          "hash": "509681b5",
-          "kind": "league"
-        },
-        "uefa-euro-2024": {
-          "slug": "uefa-euro-2024",
-          "name": "UEFA Euro 2024",
-          "hash": "7a8c77e7",
-          "kind": "league"
-        },
-        "uefa-euro-2020": {
-          "slug": "uefa-euro-2020",
-          "name": "UEFA Euro 2020",
-          "hash": "24b9a3fc",
-          "kind": "league"
-        },
-        "uefa-euro-2016": {
-          "slug": "uefa-euro-2016",
-          "name": "UEFA Euro 2016",
-          "hash": "bc760ab2",
-          "kind": "league"
-        },
-        "uefa-euro-2012": {
-          "slug": "uefa-euro-2012",
-          "name": "UEFA Euro 2012",
-          "hash": "b37e26f0",
-          "kind": "league"
-        },
-        "uefa-euro-2008": {
-          "slug": "uefa-euro-2008",
-          "name": "UEFA Euro 2008",
-          "hash": "f55714db",
-          "kind": "league"
-        },
-        "uefa-euro-2004": {
-          "slug": "uefa-euro-2004",
-          "name": "UEFA Euro 2004",
-          "hash": "8165db80",
-          "kind": "league"
-        },
-        "uefa-euro-2000": {
-          "slug": "uefa-euro-2000",
-          "name": "UEFA Euro 2000",
-          "hash": "326e3214",
-          "kind": "league"
-        },
-        "conmebol-copa-america-2024": {
-          "slug": "conmebol-copa-america-2024",
-          "name": "CONMEBOL Copa América 2024",
-          "hash": "e4b7ac5e",
-          "kind": "league"
-        },
-        "conmebol-copa-america-2021": {
-          "slug": "conmebol-copa-america-2021",
-          "name": "CONMEBOL Copa América 2021",
-          "hash": "27d9ae6d",
-          "kind": "league"
-        },
-        "conmebol-copa-america-2019": {
-          "slug": "conmebol-copa-america-2019",
-          "name": "CONMEBOL Copa América 2019",
-          "hash": "0748cc3a",
-          "kind": "league"
-        },
-        "conmebol-copa-america-2016": {
-          "slug": "conmebol-copa-america-2016",
-          "name": "CONMEBOL Copa América 2016",
-          "hash": "ba3ee719",
-          "kind": "league"
-        },
-        "conmebol-copa-america-2015": {
-          "slug": "conmebol-copa-america-2015",
-          "name": "CONMEBOL Copa América 2015",
-          "hash": "b4d9fc68",
-          "kind": "league"
-        },
-        "conmebol-copa-america-2011": {
-          "slug": "conmebol-copa-america-2011",
-          "name": "CONMEBOL Copa América 2011",
-          "hash": "70275d36",
-          "kind": "league"
-        },
-        "conmebol-copa-america-2007": {
-          "slug": "conmebol-copa-america-2007",
-          "name": "CONMEBOL Copa América 2007",
-          "hash": "ae8865d6",
-          "kind": "league"
-        },
-        "conmebol-copa-america-2004": {
-          "slug": "conmebol-copa-america-2004",
-          "name": "CONMEBOL Copa América 2004",
-          "hash": "0a3d1d63",
-          "kind": "league"
-        },
-        "conmebol-copa-america-2001": {
-          "slug": "conmebol-copa-america-2001",
-          "name": "CONMEBOL Copa América 2001",
-          "hash": "dc03fec6",
-          "kind": "league"
-        },
-        "conmebol-copa-america-1999": {
-          "slug": "conmebol-copa-america-1999",
-          "name": "CONMEBOL Copa América 1999",
-          "hash": "e7f1c39c",
-          "kind": "league"
-        },
-        "afc-champions-league-elite": {
-          "slug": "afc-champions-league-elite",
-          "name": "AFC Champions League Elite",
-          "hash": "bb0766a4",
-          "kind": "league"
-        },
-        "afc-champions-league-two": {
-          "slug": "afc-champions-league-two",
-          "name": "AFC Champions League Two",
-          "hash": "88f221d1",
-          "kind": "league"
-        },
-        "africa-cup-of-nations-2025": {
-          "slug": "africa-cup-of-nations-2025",
-          "name": "Africa Cup of Nations 2025",
-          "hash": "bd5f9ca3",
-          "kind": "league"
-        },
-        "fifa-arab-world-cup-2025": {
-          "slug": "fifa-arab-world-cup-2025",
-          "name": "FIFA Arab World Cup 2025",
-          "hash": "93bcb1dc",
-          "kind": "league"
-        },
-        "baltic-cup": {
-          "slug": "baltic-cup",
-          "name": "Baltic Cup",
-          "hash": "7b465d46",
-          "kind": "league"
         }
       },
       "clubs": {}
@@ -26146,7 +25488,6 @@
           "slug": "trinidad-and-tobago-national-team",
           "name": "Trinidad and Tobago National Team",
           "hash": "4749b082",
-          "kind": "league",
           "code": "TT"
         }
       },
@@ -26162,14 +25503,12 @@
           "slug": "ligue-1",
           "name": "Ligue 1",
           "hash": "3edd788e",
-          "kind": "league",
           "code": "TN"
         },
         "tunisia-national-team": {
           "slug": "tunisia-national-team",
           "name": "Tunisia National Team",
-          "hash": "add7228e",
-          "kind": "league"
+          "hash": "add7228e"
         }
       },
       "clubs": {
@@ -26299,38 +25638,32 @@
           "slug": "super-lig",
           "name": "Super Lig",
           "hash": "e5930ec5",
-          "kind": "league",
           "code": "TR"
         },
         "1st-lig": {
           "slug": "1st-lig",
           "name": "1. Lig",
-          "hash": "5c243aa9",
-          "kind": "league"
+          "hash": "5c243aa9"
         },
         "2nd-lig": {
           "slug": "2nd-lig",
           "name": "2. Lig",
-          "hash": "43b1178b",
-          "kind": "league"
+          "hash": "43b1178b"
         },
         "turkey-national-team": {
           "slug": "turkey-national-team",
           "name": "Turkey National Team",
-          "hash": "4d49e062",
-          "kind": "league"
+          "hash": "4d49e062"
         },
         "turkish-football-federation": {
           "slug": "turkish-football-federation",
           "name": "Turkish Football Federation",
-          "hash": "91d55f3a",
-          "kind": "league"
+          "hash": "91d55f3a"
         },
         "turkish-cup": {
           "slug": "turkish-cup",
           "name": "Turkish Cup",
-          "hash": "4a2b9eb1",
-          "kind": "league"
+          "hash": "4a2b9eb1"
         }
       },
       "clubs": {
@@ -26808,7 +26141,6 @@
           "slug": "turkmenistan-national-team",
           "name": "Turkmenistan National Team",
           "hash": "af70e13e",
-          "kind": "league",
           "code": "TM"
         }
       },
@@ -26824,7 +26156,6 @@
           "slug": "turks-and-caicos-islands-national-team",
           "name": "Turks and Caicos Islands National Team",
           "hash": "602b172f",
-          "kind": "league",
           "code": "TC"
         }
       },
@@ -26840,7 +26171,6 @@
           "slug": "tuvalu-national-team",
           "name": "Tuvalu National Team",
           "hash": "82e468d6",
-          "kind": "league",
           "code": "TV"
         }
       },
@@ -26856,14 +26186,12 @@
           "slug": "uae-pro-league",
           "name": "UAE Pro League",
           "hash": "73628727",
-          "kind": "league",
           "code": "AE"
         },
         "uae-national-team": {
           "slug": "uae-national-team",
           "name": "UAE National Team",
-          "hash": "f9f14db5",
-          "kind": "league"
+          "hash": "f9f14db5"
         }
       },
       "clubs": {
@@ -26975,7 +26303,6 @@
           "slug": "uganda-national-team",
           "name": "Uganda National Team",
           "hash": "54035583",
-          "kind": "league",
           "code": "UG"
         }
       },
@@ -26991,20 +26318,17 @@
           "slug": "ukrainian-premier-league",
           "name": "Ukrainian Premier League",
           "hash": "eeab3831",
-          "kind": "league",
           "code": "UA"
         },
         "persha-liga": {
           "slug": "persha-liga",
           "name": "Persha Liga",
-          "hash": "6a63a70f",
-          "kind": "league"
+          "hash": "6a63a70f"
         },
         "ukraine-national-team": {
           "slug": "ukraine-national-team",
           "name": "Ukraine National Team",
-          "hash": "efc25066",
-          "kind": "league"
+          "hash": "efc25066"
         }
       },
       "clubs": {
@@ -27230,20 +26554,17 @@
           "slug": "liga-auf-uruguaya",
           "name": "Liga AUF Uruguaya",
           "hash": "619c9202",
-          "kind": "league",
           "code": "UY"
         },
         "segunda-division": {
           "slug": "segunda-division",
           "name": "Segunda División de Uruguay",
-          "hash": "c1a43d13",
-          "kind": "league"
+          "hash": "c1a43d13"
         },
         "uruguay-national-team": {
           "slug": "uruguay-national-team",
           "name": "Uruguay National Team",
-          "hash": "9ba8eb09",
-          "kind": "league"
+          "hash": "9ba8eb09"
         }
       },
       "clubs": {
@@ -27451,7 +26772,6 @@
           "slug": "us-virgin-islands-national-team",
           "name": "U.S. Virgin Islands National Team",
           "hash": "4ced882e",
-          "kind": "league",
           "code": "VI"
         }
       },
@@ -27467,50 +26787,42 @@
           "slug": "mls",
           "name": "MLS - Major League Soccer",
           "hash": "389fae67",
-          "kind": "league",
           "code": "US"
         },
         "usl-championship": {
           "slug": "usl-championship",
           "name": "USL Championship",
-          "hash": "d0b4a189",
-          "kind": "league"
+          "hash": "d0b4a189"
         },
         "usl-league-one": {
           "slug": "usl-league-one",
           "name": "USL League One",
-          "hash": "13082d2f",
-          "kind": "league"
+          "hash": "13082d2f"
         },
         "nwsl": {
           "slug": "nwsl",
-          "name": "National Women's Soccer League",
-          "hash": "9e008d97",
-          "kind": "league"
+          "name": "National Women&#39;s Soccer League",
+          "hash": "9e008d97"
         },
         "usa-national-team": {
           "slug": "usa-national-team",
           "name": "USA National Team",
-          "hash": "6a84d485",
-          "kind": "league"
+          "hash": "6a84d485"
         },
         "us-open-cup": {
           "slug": "us-open-cup",
           "name": "U.S. Open Cup",
-          "hash": "88b0978c",
-          "kind": "league"
+          "hash": "88b0978c"
         },
         "usl-super-league": {
           "slug": "usl-super-league",
           "name": "USL Super League",
-          "hash": "fd35ea33",
-          "kind": "league"
+          "hash": "fd35ea33"
         },
         "mls-cup": {
           "slug": "mls-cup",
           "name": "MLS Cup",
-          "hash": "7c9b0552",
-          "kind": "league"
+          "hash": "7c9b0552"
         }
       },
       "clubs": {
@@ -28060,14 +27372,12 @@
           "slug": "uzbekistan-super-league",
           "name": "Uzbekistan Super League",
           "hash": "2258142f",
-          "kind": "league",
           "code": "UZ"
         },
         "uzbekistan-national-team": {
           "slug": "uzbekistan-national-team",
           "name": "Uzbekistan National Team",
-          "hash": "08cee166",
-          "kind": "league"
+          "hash": "08cee166"
         }
       },
       "clubs": {
@@ -28197,7 +27507,6 @@
           "slug": "vanuatu-national-team",
           "name": "Vanuatu National Team",
           "hash": "3d1c95f9",
-          "kind": "league",
           "code": "VU"
         }
       },
@@ -28213,7 +27522,6 @@
           "slug": "vatican-city-national-team",
           "name": "Vatican City National Team",
           "hash": "5c4e27cf",
-          "kind": "league",
           "code": "VA"
         }
       },
@@ -28229,14 +27537,12 @@
           "slug": "primera-division-de-venezuela",
           "name": "Primera División de Venezuela",
           "hash": "343b6a0c",
-          "kind": "league",
           "code": "VE"
         },
         "venezuela-national-team": {
           "slug": "venezuela-national-team",
           "name": "Venezuela National Team",
-          "hash": "8df14fc6",
-          "kind": "league"
+          "hash": "8df14fc6"
         }
       },
       "clubs": {
@@ -28348,20 +27654,17 @@
           "slug": "v-league",
           "name": "V League 1",
           "hash": "53143aa4",
-          "kind": "league",
           "code": "VN"
         },
         "vietnam-national-team": {
           "slug": "vietnam-national-team",
           "name": "Vietnam National Team",
-          "hash": "8afd8315",
-          "kind": "league"
+          "hash": "8afd8315"
         },
         "vietnam-football-federation": {
           "slug": "vietnam-football-federation",
           "name": "Vietnam Football Federation",
-          "hash": "1a3db655",
-          "kind": "league"
+          "hash": "1a3db655"
         }
       },
       "clubs": {
@@ -28473,26 +27776,22 @@
           "slug": "cymru-premier",
           "name": "Cymru Premier",
           "hash": "26097fd1",
-          "kind": "league",
           "code": "WAL"
         },
         "cymru-north": {
           "slug": "cymru-north",
           "name": "Cymru North",
-          "hash": "facab449",
-          "kind": "league"
+          "hash": "facab449"
         },
         "cymru-south": {
           "slug": "cymru-south",
           "name": "Cymru South",
-          "hash": "2272e9ab",
-          "kind": "league"
+          "hash": "2272e9ab"
         },
         "wales-national-team": {
           "slug": "wales-national-team",
           "name": "Wales National Team",
-          "hash": "71fe1f6e",
-          "kind": "league"
+          "hash": "71fe1f6e"
         }
       },
       "clubs": {
@@ -28850,7 +28149,6 @@
           "slug": "yemen-national-team",
           "name": "Yemen National Team",
           "hash": "5d35fcbf",
-          "kind": "league",
           "code": "YE"
         }
       },
@@ -28866,7 +28164,6 @@
           "slug": "zambia-national-team",
           "name": "Zambia National Team",
           "hash": "c9663e30",
-          "kind": "league",
           "code": "ZM"
         }
       },
@@ -28882,7 +28179,6 @@
           "slug": "zanzibar-national-team",
           "name": "Zanzibar National Team",
           "hash": "7071b7e9",
-          "kind": "league",
           "code": "ZAN"
         }
       },
@@ -28898,12 +28194,368 @@
           "slug": "zimbabwe-national-team",
           "name": "Zimbabwe National Team",
           "hash": "7c9b9b0c",
-          "kind": "league",
           "code": "ZW"
+        }
+      },
+      "clubs": {}
+    },
+    "tournaments": {
+      "slug": "tournaments",
+      "iso2": "INT",
+      "name": "Tournaments",
+      "defaultLeague": "uefa-champions-league",
+      "leagues": {
+        "fifa-world-cup-2026": {
+          "slug": "fifa-world-cup-2026",
+          "name": "FIFA World Cup 2026",
+          "hash": "9737ad74"
+        },
+        "uefa-champions-league": {
+          "slug": "uefa-champions-league",
+          "name": "UEFA Champions League",
+          "hash": "effc906c",
+          "code": "UCL"
+        },
+        "uefa-europa-league": {
+          "slug": "uefa-europa-league",
+          "name": "UEFA Europa League",
+          "hash": "ac37661c",
+          "code": "UEL"
+        },
+        "uefa-conference-league": {
+          "slug": "uefa-conference-league",
+          "name": "UEFA Conference League",
+          "hash": "f5da1108",
+          "code": "UECL"
+        },
+        "concacaf-nations-league": {
+          "slug": "concacaf-nations-league",
+          "name": "CONCACAF Nations League",
+          "hash": "5950a94e"
+        },
+        "conmebol-libertadores": {
+          "slug": "conmebol-libertadores",
+          "name": "Copa Libertadores",
+          "hash": "38816506"
+        },
+        "conmebol-copa-sudamericana": {
+          "slug": "conmebol-copa-sudamericana",
+          "name": "Copa Sudamericana",
+          "hash": "64cf81d3"
+        },
+        "uefa-womens-champions-league": {
+          "slug": "uefa-womens-champions-league",
+          "name": "UEFA Women&#39;s Champions League",
+          "hash": "d50fa655"
+        },
+        "fifa-womens-world-cup-2027": {
+          "slug": "fifa-womens-world-cup-2027",
+          "name": "2027 FIFA Women&#39;s World Cup",
+          "hash": "a7750fc1"
+        },
+        "fifa-asean-cup": {
+          "slug": "fifa-asean-cup",
+          "name": "FIFA ASEAN Cup",
+          "hash": "ba11b7de"
+        },
+        "asean-championship": {
+          "slug": "asean-championship",
+          "name": "ASEAN Championship",
+          "hash": "fb5b8575"
+        },
+        "afc-asian-cup": {
+          "slug": "afc-asian-cup",
+          "name": "AFC Asian Cup",
+          "hash": "af4647a4"
+        },
+        "leagues-cup": {
+          "slug": "leagues-cup",
+          "name": "Leagues Cup",
+          "hash": "88c0f698"
+        },
+        "uefa-euro-2028": {
+          "slug": "uefa-euro-2028",
+          "name": "UEFA Euro 2028",
+          "hash": "da413c98"
+        },
+        "caf-champions-league": {
+          "slug": "caf-champions-league",
+          "name": "CAF Champions League",
+          "hash": "4147d293"
+        },
+        "concacaf-champions-cup": {
+          "slug": "concacaf-champions-cup",
+          "name": "CONCACAF Champions Cup",
+          "hash": "fcd3ac56"
+        },
+        "uefa-super-cup": {
+          "slug": "uefa-super-cup",
+          "name": "UEFA Super Cup",
+          "hash": "116afe2f"
+        },
+        "fifa-intercontinental-cup": {
+          "slug": "fifa-intercontinental-cup",
+          "name": "FIFA Intercontinental Cup",
+          "hash": "6bbe30e3"
+        },
+        "concacaf-w-champions-cup": {
+          "slug": "concacaf-w-champions-cup",
+          "name": "CONCACAF W Champions Cup",
+          "hash": "de8802ac"
+        },
+        "concacaf-caribbean-cup": {
+          "slug": "concacaf-caribbean-cup",
+          "name": "CONCACAF Caribbean Cup",
+          "hash": "9b5f9909"
+        },
+        "concacaf-central-american-cup": {
+          "slug": "concacaf-central-american-cup",
+          "name": "CONCACAF Central American Cup",
+          "hash": "4ad0a19c"
+        },
+        "arabian-gulf-cup": {
+          "slug": "arabian-gulf-cup",
+          "name": "Arabian Gulf Cup",
+          "hash": "218925ff"
+        },
+        "fifa-club-world-cup": {
+          "slug": "fifa-club-world-cup",
+          "name": "FIFA Club World Cup",
+          "hash": "75620a01"
+        },
+        "fifa-world-cup-2030": {
+          "slug": "fifa-world-cup-2030",
+          "name": "FIFA World Cup 2030 (unofficial)",
+          "hash": "a0f36ae3"
+        },
+        "fifa-world-cup-2022": {
+          "slug": "fifa-world-cup-2022",
+          "name": "FIFA World Cup 2022",
+          "hash": "40013e68"
+        },
+        "fifa-world-cup-2018": {
+          "slug": "fifa-world-cup-2018",
+          "name": "FIFA World Cup 2018",
+          "hash": "7b6d5e95"
+        },
+        "fifa-world-cup-2014": {
+          "slug": "fifa-world-cup-2014",
+          "name": "FIFA World Cup 2014",
+          "hash": "9e81d949"
+        },
+        "fifa-world-cup-2010": {
+          "slug": "fifa-world-cup-2010",
+          "name": "FIFA World Cup 2010",
+          "hash": "2a0b6431"
+        },
+        "fifa-world-cup-2006": {
+          "slug": "fifa-world-cup-2006",
+          "name": "FIFA World Cup 2006",
+          "hash": "79406938"
+        },
+        "fifa-world-cup-2002": {
+          "slug": "fifa-world-cup-2002",
+          "name": "FIFA World Cup 2002",
+          "hash": "1a7c409f"
+        },
+        "fifa-world-cup-1998": {
+          "slug": "fifa-world-cup-1998",
+          "name": "FIFA World Cup 1998",
+          "hash": "8f1c6da0"
+        },
+        "fifa-world-cup-1994": {
+          "slug": "fifa-world-cup-1994",
+          "name": "FIFA World Cup 1994",
+          "hash": "49babfaf"
+        },
+        "fifa-world-cup-1990": {
+          "slug": "fifa-world-cup-1990",
+          "name": "FIFA World Cup 1990",
+          "hash": "ef54d3fa"
+        },
+        "fifa-world-cup-1986": {
+          "slug": "fifa-world-cup-1986",
+          "name": "FIFA World Cup 1986",
+          "hash": "b6146c34"
+        },
+        "fifa-world-cup-1982": {
+          "slug": "fifa-world-cup-1982",
+          "name": "FIFA World Cup 1982",
+          "hash": "14c4e7e3"
+        },
+        "fifa-world-cup-1978": {
+          "slug": "fifa-world-cup-1978",
+          "name": "FIFA World Cup 1978",
+          "hash": "c3605c2c"
+        },
+        "fifa-world-cup-1974": {
+          "slug": "fifa-world-cup-1974",
+          "name": "FIFA World Cup 1974",
+          "hash": "395f5ee7"
+        },
+        "fifa-world-cup-1970": {
+          "slug": "fifa-world-cup-1970",
+          "name": "FIFA World Cup 1970",
+          "hash": "5930087b"
+        },
+        "fifa-world-cup-1966": {
+          "slug": "fifa-world-cup-1966",
+          "name": "FIFA World Cup 1966",
+          "hash": "99a36ddc"
+        },
+        "fifa-world-cup-1962": {
+          "slug": "fifa-world-cup-1962",
+          "name": "FIFA World Cup 1962",
+          "hash": "0f8283c7"
+        },
+        "fifa-world-cup-1958": {
+          "slug": "fifa-world-cup-1958",
+          "name": "FIFA World Cup 1958",
+          "hash": "85f56417"
+        },
+        "fifa-world-cup-1954": {
+          "slug": "fifa-world-cup-1954",
+          "name": "FIFA World Cup 1954",
+          "hash": "6c15cf1b"
+        },
+        "fifa-world-cup-1950": {
+          "slug": "fifa-world-cup-1950",
+          "name": "FIFA World Cup 1950",
+          "hash": "f9bcd4cd"
+        },
+        "fifa-world-cup-1938": {
+          "slug": "fifa-world-cup-1938",
+          "name": "FIFA World Cup 1938",
+          "hash": "6196b104"
+        },
+        "fifa-world-cup-1934": {
+          "slug": "fifa-world-cup-1934",
+          "name": "FIFA World Cup 1934",
+          "hash": "a8929f42"
+        },
+        "fifa-world-cup-1930": {
+          "slug": "fifa-world-cup-1930",
+          "name": "FIFA World Cup 1930",
+          "hash": "a70f13ec"
+        },
+        "uefa-nations-league": {
+          "slug": "uefa-nations-league",
+          "name": "UEFA Nations League",
+          "hash": "509681b5"
+        },
+        "uefa-euro-2024": {
+          "slug": "uefa-euro-2024",
+          "name": "UEFA Euro 2024",
+          "hash": "7a8c77e7"
+        },
+        "uefa-euro-2020": {
+          "slug": "uefa-euro-2020",
+          "name": "UEFA Euro 2020",
+          "hash": "24b9a3fc"
+        },
+        "uefa-euro-2016": {
+          "slug": "uefa-euro-2016",
+          "name": "UEFA Euro 2016",
+          "hash": "bc760ab2"
+        },
+        "uefa-euro-2012": {
+          "slug": "uefa-euro-2012",
+          "name": "UEFA Euro 2012",
+          "hash": "b37e26f0"
+        },
+        "uefa-euro-2008": {
+          "slug": "uefa-euro-2008",
+          "name": "UEFA Euro 2008",
+          "hash": "f55714db"
+        },
+        "uefa-euro-2004": {
+          "slug": "uefa-euro-2004",
+          "name": "UEFA Euro 2004",
+          "hash": "8165db80"
+        },
+        "uefa-euro-2000": {
+          "slug": "uefa-euro-2000",
+          "name": "UEFA Euro 2000",
+          "hash": "326e3214"
+        },
+        "conmebol-copa-america-2024": {
+          "slug": "conmebol-copa-america-2024",
+          "name": "CONMEBOL Copa América 2024",
+          "hash": "e4b7ac5e"
+        },
+        "conmebol-copa-america-2021": {
+          "slug": "conmebol-copa-america-2021",
+          "name": "CONMEBOL Copa América 2021",
+          "hash": "27d9ae6d"
+        },
+        "conmebol-copa-america-2019": {
+          "slug": "conmebol-copa-america-2019",
+          "name": "CONMEBOL Copa América 2019",
+          "hash": "0748cc3a"
+        },
+        "conmebol-copa-america-2016": {
+          "slug": "conmebol-copa-america-2016",
+          "name": "CONMEBOL Copa América 2016",
+          "hash": "ba3ee719"
+        },
+        "conmebol-copa-america-2015": {
+          "slug": "conmebol-copa-america-2015",
+          "name": "CONMEBOL Copa América 2015",
+          "hash": "b4d9fc68"
+        },
+        "conmebol-copa-america-2011": {
+          "slug": "conmebol-copa-america-2011",
+          "name": "CONMEBOL Copa América 2011",
+          "hash": "70275d36"
+        },
+        "conmebol-copa-america-2007": {
+          "slug": "conmebol-copa-america-2007",
+          "name": "CONMEBOL Copa América 2007",
+          "hash": "ae8865d6"
+        },
+        "conmebol-copa-america-2004": {
+          "slug": "conmebol-copa-america-2004",
+          "name": "CONMEBOL Copa América 2004",
+          "hash": "0a3d1d63"
+        },
+        "conmebol-copa-america-2001": {
+          "slug": "conmebol-copa-america-2001",
+          "name": "CONMEBOL Copa América 2001",
+          "hash": "dc03fec6"
+        },
+        "conmebol-copa-america-1999": {
+          "slug": "conmebol-copa-america-1999",
+          "name": "CONMEBOL Copa América 1999",
+          "hash": "e7f1c39c"
+        },
+        "afc-champions-league-elite": {
+          "slug": "afc-champions-league-elite",
+          "name": "AFC Champions League Elite",
+          "hash": "bb0766a4"
+        },
+        "afc-champions-league-two": {
+          "slug": "afc-champions-league-two",
+          "name": "AFC Champions League Two",
+          "hash": "88f221d1"
+        },
+        "africa-cup-of-nations-2025": {
+          "slug": "africa-cup-of-nations-2025",
+          "name": "Africa Cup of Nations 2025",
+          "hash": "bd5f9ca3"
+        },
+        "fifa-arab-world-cup-2025": {
+          "slug": "fifa-arab-world-cup-2025",
+          "name": "FIFA Arab World Cup 2025",
+          "hash": "93bcb1dc"
+        },
+        "baltic-cup": {
+          "slug": "baltic-cup",
+          "name": "Baltic Cup",
+          "hash": "7b465d46"
         }
       },
       "clubs": {}
     }
   },
-  "contentHash": "163174595ce4d222"
+  "contentHash": "7c15cbe3ac9874d9"
 }

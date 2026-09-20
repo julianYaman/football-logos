@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "wales",
     "iso2": "WAL",
@@ -11,26 +11,22 @@
         "slug": "cymru-premier",
         "name": "Cymru Premier",
         "hash": "26097fd1",
-        "kind": "league",
         "code": "WAL"
       },
       "cymru-north": {
         "slug": "cymru-north",
         "name": "Cymru North",
-        "hash": "facab449",
-        "kind": "league"
+        "hash": "facab449"
       },
       "cymru-south": {
         "slug": "cymru-south",
         "name": "Cymru South",
-        "hash": "2272e9ab",
-        "kind": "league"
+        "hash": "2272e9ab"
       },
       "wales-national-team": {
         "slug": "wales-national-team",
         "name": "Wales National Team",
-        "hash": "71fe1f6e",
-        "kind": "league"
+        "hash": "71fe1f6e"
       }
     },
     "clubs": {

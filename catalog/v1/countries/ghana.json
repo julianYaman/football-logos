@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "ghana",
     "iso2": "GH",
@@ -11,14 +11,12 @@
         "slug": "ghana-premier-league",
         "name": "Ghana Premier League",
         "hash": "f3a68714",
-        "kind": "league",
         "code": "GH"
       },
       "ghana-national-team": {
         "slug": "ghana-national-team",
         "name": "Ghana National Team",
-        "hash": "15f1ed45",
-        "kind": "league"
+        "hash": "15f1ed45"
       }
     },
     "clubs": {

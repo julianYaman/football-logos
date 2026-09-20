@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "spain",
     "iso2": "ES",
@@ -11,38 +11,32 @@
         "slug": "la-liga",
         "name": "La Liga",
         "hash": "0ea0b0c5",
-        "kind": "league",
         "code": "ES"
       },
       "la-liga-2": {
         "slug": "la-liga-2",
         "name": "La Liga 2",
-        "hash": "c56096b7",
-        "kind": "league"
+        "hash": "c56096b7"
       },
       "primera-federacion": {
         "slug": "primera-federacion",
         "name": "Primera Federación",
-        "hash": "8fd8615f",
-        "kind": "league"
+        "hash": "8fd8615f"
       },
       "segunda-federacion": {
         "slug": "segunda-federacion",
         "name": "Segunda Federación",
-        "hash": "4885e0a8",
-        "kind": "league"
+        "hash": "4885e0a8"
       },
       "spain-national-team": {
         "slug": "spain-national-team",
         "name": "Spain National Team",
-        "hash": "4ad85efc",
-        "kind": "league"
+        "hash": "4ad85efc"
       },
       "tercera-federacion": {
         "slug": "tercera-federacion",
         "name": "Tercera Federación",
-        "hash": "db8e4bd2",
-        "kind": "league"
+        "hash": "db8e4bd2"
       }
     },
     "clubs": {
@@ -942,7 +936,7 @@
       },
       "l-hospitalet": {
         "slug": "l-hospitalet",
-        "name": "L'Hospitalet",
+        "name": "L&#39;Hospitalet",
         "hash": "57ce2606",
         "league": ""
       },

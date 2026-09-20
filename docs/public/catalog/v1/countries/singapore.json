@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "singapore",
     "iso2": "SG",
@@ -11,14 +11,12 @@
         "slug": "singapore-premier-league",
         "name": "Singapore Premier League",
         "hash": "5b4c37e8",
-        "kind": "league",
         "code": "SG"
       },
       "singapore-national-team": {
         "slug": "singapore-national-team",
         "name": "Singapore National Team",
-        "hash": "0e49dca0",
-        "kind": "league"
+        "hash": "0e49dca0"
       }
     },
     "clubs": {

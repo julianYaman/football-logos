@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "sweden",
     "iso2": "SE",
@@ -11,20 +11,17 @@
         "slug": "allsvenskan",
         "name": "Allsvenskan",
         "hash": "e55d5de4",
-        "kind": "league",
         "code": "SE"
       },
       "superettan": {
         "slug": "superettan",
         "name": "Superettan",
-        "hash": "6602ab6b",
-        "kind": "league"
+        "hash": "6602ab6b"
       },
       "sweden-national-team": {
         "slug": "sweden-national-team",
         "name": "Sweden National Team",
-        "hash": "82363952",
-        "kind": "league"
+        "hash": "82363952"
       }
     },
     "clubs": {

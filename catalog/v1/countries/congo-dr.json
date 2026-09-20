@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "congo-dr",
     "iso2": "CD",
@@ -11,7 +11,6 @@
         "slug": "congo-dr-national-team",
         "name": "Congo DR National Team",
         "hash": "9b91ac6a",
-        "kind": "league",
         "code": "CD"
       }
     },

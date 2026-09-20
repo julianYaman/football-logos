@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "egypt",
     "iso2": "EG",
@@ -11,14 +11,12 @@
         "slug": "egyptian-premier-league",
         "name": "Egyptian Premier League",
         "hash": "b2e98144",
-        "kind": "league",
         "code": "EG"
       },
       "egypt-national-team": {
         "slug": "egypt-national-team",
         "name": "Egypt National Team",
-        "hash": "2ac3f46a",
-        "kind": "league"
+        "hash": "2ac3f46a"
       }
     },
     "clubs": {

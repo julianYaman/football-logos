@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "republic-of-ireland",
     "iso2": "IE",
@@ -11,26 +11,22 @@
         "slug": "league-of-ireland-premier-division",
         "name": "League of Ireland Premier Division",
         "hash": "42e794ca",
-        "kind": "league",
         "code": "IE"
       },
       "league-of-ireland-first-division": {
         "slug": "league-of-ireland-first-division",
         "name": "League of Ireland First Division",
-        "hash": "20687687",
-        "kind": "league"
+        "hash": "20687687"
       },
       "republic-of-ireland-national-team": {
         "slug": "republic-of-ireland-national-team",
         "name": "Republic of Ireland National Team",
-        "hash": "b6a1580e",
-        "kind": "league"
+        "hash": "b6a1580e"
       },
       "league-of-ireland": {
         "slug": "league-of-ireland",
         "name": "League of Ireland",
-        "hash": "286682f0",
-        "kind": "league"
+        "hash": "286682f0"
       }
     },
     "clubs": {

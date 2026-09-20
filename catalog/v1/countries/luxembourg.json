@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "luxembourg",
     "iso2": "LU",
@@ -11,7 +11,6 @@
         "slug": "luxembourg-national-team",
         "name": "Luxembourg National Team",
         "hash": "ed5aeb57",
-        "kind": "league",
         "code": "LU"
       }
     },

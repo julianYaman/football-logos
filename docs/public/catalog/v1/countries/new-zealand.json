@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "new-zealand",
     "iso2": "NZ",
@@ -11,14 +11,12 @@
         "slug": "new-zealand-national-league",
         "name": "New Zealand National League",
         "hash": "b0486d7c",
-        "kind": "league",
         "code": "NZ"
       },
       "new-zealand-national-team": {
         "slug": "new-zealand-national-team",
         "name": "New Zealand National Team",
-        "hash": "b85989ee",
-        "kind": "league"
+        "hash": "b85989ee"
       }
     },
     "clubs": {

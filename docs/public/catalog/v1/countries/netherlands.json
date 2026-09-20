@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "netherlands",
     "iso2": "NL",
@@ -11,32 +11,27 @@
         "slug": "eredivisie",
         "name": "Eredivisie",
         "hash": "a718427b",
-        "kind": "league",
         "code": "NL"
       },
       "eerste-divisie": {
         "slug": "eerste-divisie",
         "name": "Eerste Divisie",
-        "hash": "6e9e4bb3",
-        "kind": "league"
+        "hash": "6e9e4bb3"
       },
       "tweede-divisie": {
         "slug": "tweede-divisie",
         "name": "Tweede divisie",
-        "hash": "1e01321a",
-        "kind": "league"
+        "hash": "1e01321a"
       },
       "dutch-national-team": {
         "slug": "dutch-national-team",
         "name": "Dutch National Team",
-        "hash": "cb15dcd9",
-        "kind": "league"
+        "hash": "cb15dcd9"
       },
       "knvb-cup": {
         "slug": "knvb-cup",
         "name": "KNVB Cup",
-        "hash": "f3aae14f",
-        "kind": "league"
+        "hash": "f3aae14f"
       }
     },
     "clubs": {

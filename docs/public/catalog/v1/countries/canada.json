@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "canada",
     "iso2": "CA",
@@ -11,14 +11,12 @@
         "slug": "canadian-premier-league",
         "name": "Canadian Premier League",
         "hash": "bd0e6f5e",
-        "kind": "league",
         "code": "CA"
       },
       "canada-national-team": {
         "slug": "canada-national-team",
         "name": "Canada National Team",
-        "hash": "1ecbb8ed",
-        "kind": "league"
+        "hash": "1ecbb8ed"
       }
     },
     "clubs": {

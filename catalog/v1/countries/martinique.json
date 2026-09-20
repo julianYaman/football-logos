@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:07.960Z",
+  "generatedAt": "2026-09-20T07:45:35.461Z",
   "country": {
     "slug": "martinique",
     "iso2": "MQ",
@@ -11,7 +11,6 @@
         "slug": "martinique-national-team",
         "name": "Martinique National Team",
         "hash": "c5690114",
-        "kind": "league",
         "code": "MQ"
       }
     },
