@@ -280,6 +280,20 @@ export function extractNewLogos(html, directory) {
   return logos;
 }
 
+export function extract512Hash(html, country, slug) {
+  if (!html) return "";
+  const escapedCountry = String(country).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const escapedSlug = String(slug).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const asset = html.match(
+    new RegExp(
+      `assets\\.football-logos\\.cc/logos/${escapedCountry}/512x512/${escapedSlug}\\.([a-f0-9]+)\\.png`,
+      "i",
+    ),
+  );
+  if (asset?.[1]) return asset[1];
+  return html.match(/value="512::([a-f0-9]+)"/)?.[1] || "";
+}
+
 export function parseNewLogoDate(value) {
   const match = String(value ?? "").match(
     /^([A-Za-z]+)\s+(\d{1,2}),\s+(\d{4})$/,

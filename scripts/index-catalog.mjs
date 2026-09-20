@@ -9,6 +9,7 @@ import dns from "node:dns";
 import {
   applyNewLogos,
   classifyLogos,
+  extract512Hash,
   extractNewLogos,
   inferDefaultLeague,
   parseCountryPage,
@@ -56,6 +57,14 @@ async function fetchWithPlaywright(url) {
     if (!response?.ok()) {
       throw new Error(`${response?.status() ?? "no-response"} ${url}`);
     }
+    await page
+      .waitForFunction(
+        () =>
+          document.documentElement.innerHTML.includes("512::") ||
+          document.documentElement.innerHTML.includes("/512x512/"),
+        { timeout: 20_000 },
+      )
+      .catch(() => {});
     return await page.content();
   } finally {
     await page.close();
@@ -301,17 +310,40 @@ async function writeCatalog(countries, { onlySlugs } = {}) {
   );
 }
 
+async function fillMissingHashes(logos) {
+  const pending = logos.filter((logo) => logo.slug && logo.country && !logo.hash);
+  for (const logo of pending) {
+    const url = `${BASE}/${logo.country}/${logo.slug}/`;
+    console.log(`Hash ${logo.country}/${logo.slug}…`);
+    try {
+      const html = await fetchText(url);
+      logo.hash = extract512Hash(html, logo.country, logo.slug);
+    } catch (error) {
+      console.warn(
+        `hash ${logo.country}/${logo.slug}: ${error instanceof Error ? error.message : error}`,
+      );
+    }
+  }
+  return logos;
+}
+
 async function ingestNew(directory) {
   const htmlPath = argValue("--from-new-html=");
-  const html = htmlPath
+  let html = htmlPath
     ? await readFile(htmlPath, "utf8")
     : await fetchText(`${BASE}/new/`);
+  if (!htmlPath) {
+    const preview = extractNewLogos(html, directory);
+    if (!preview.some((logo) => logo.hash)) {
+      console.warn(
+        "playwright https://football-logos.cc/new/ (fetched HTML had no 512 hashes)",
+      );
+      html = await fetchWithPlaywright(`${BASE}/new/`);
+    }
+  }
   const logos = extractNewLogos(html, directory);
   if (!logos.length) {
     throw new Error("No logos parsed from football-logos.cc/new/");
-  }
-  if (logos.every((logo) => !logo.hash)) {
-    throw new Error("No 512 PNG hashes found on football-logos.cc/new/");
   }
 
   const window = recentNewLogos(logos);
@@ -329,9 +361,15 @@ async function ingestNew(directory) {
     console.log("Catalog unchanged (no /new/ logos from today or yesterday)");
     return;
   }
+
+  await fillMissingHashes(window.recent);
   if (window.recent.every((logo) => !logo.hash)) {
+    const sample = window.recent
+      .slice(0, 3)
+      .map((logo) => `${logo.country}/${logo.slug}`)
+      .join(", ");
     throw new Error(
-      "No 512 PNG hashes found on today's or yesterday's football-logos.cc/new/ logos",
+      `No 512 PNG hashes found on today's or yesterday's /new/ logos (e.g. ${sample})`,
     );
   }
 

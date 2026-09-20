@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest";
 import {
   applyNewLogos,
+  extract512Hash,
   extractNewLogos,
   parseNewLogoDate,
   recentNewLogos,
@@ -272,5 +273,18 @@ describe("recentNewLogos", () => {
       new Date("2026-07-13T00:00:00Z"),
     );
     expect(parseNewLogoDate("not a date")).toBeNull();
+  });
+});
+
+describe("extract512Hash", () => {
+  it("prefers the matching 512 asset filename over other copy fields", () => {
+    const html = `
+      <input value="256::zzzzzzzz" />
+      <img src="https://assets.football-logos.cc/logos/france/512x512/as-brest.0f78d10f.png" />
+    `;
+    expect(extract512Hash(html, "france", "as-brest")).toBe("0f78d10f");
+    expect(extract512Hash(`<input value="512::abcdef12" />`, "france", "as-brest")).toBe(
+      "abcdef12",
+    );
   });
 });
