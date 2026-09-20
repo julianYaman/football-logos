@@ -327,8 +327,22 @@
   }
 }
 
-.VPFooter.has-sidebar {
-  display: block;
+.vp-doc .catalog-freshness-alert {
+  margin: 1.25rem 0;
+  padding: 0.9rem 1.15rem;
+  background: var(--vp-c-brand-soft);
+  border: 1px solid color-mix(in srgb, var(--vp-c-brand-1) 45%, transparent);
+  border-left: 4px solid var(--vp-c-brand-1);
+  border-radius: 8px;
+}
+
+.vp-doc .catalog-freshness-alert p {
+  margin: 0;
+  color: var(--vp-c-text-1);
+}
+
+.vp-doc .catalog-freshness-alert a {
+  font-weight: 600;
 }
 
 .VPFooter .message {

@@ -75,7 +75,7 @@ A snapshot of every football-logos.cc country page plus `/tournaments/` ships wi
 
 National teams use `club="{country}-national-team"` on that country, for example `country="senegal"` or `country="germany"` + `club="germany-national-team"`.
 
-Call `loadCatalog()` to refresh hashes from the GitHub `main` catalog on jsDelivr without an npm release; if that request fails, the snapshot is kept.
+Call `loadCatalog()` to refresh hashes from the GitHub `main` catalog on jsDelivr without an npm release; if that request fails, the snapshot is kept. On a long-lived Node server, `startCatalogRefresh()` does that on an interval.
 
 Browse clubs and competitions in the [docs catalog](https://football-logos.yamanlabs.com/guide/catalog/leagues).
 

@@ -83,6 +83,7 @@ export default defineConfig({
           { text: "listLeagues", link: "/guide/functions/list-leagues" },
           { text: "listLogos", link: "/guide/functions/list-logos" },
           { text: "loadCatalog", link: "/guide/functions/load-catalog" },
+          { text: "startCatalogRefresh", link: "/guide/functions/start-catalog-refresh" },
           { text: "getCatalog", link: "/guide/functions/get-catalog" },
           { text: "setCatalog", link: "/guide/functions/set-catalog" },
           { text: "setCatalogBaseUrl", link: "/guide/functions/set-catalog-base-url" },

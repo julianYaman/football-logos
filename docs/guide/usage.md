@@ -53,6 +53,12 @@ const tournamentExample = {
 
 **FootballLogo** renders one crest. `country` is the football-logos.cc country slug. `club` is the second slug — a club or a league.
 
+<div class="catalog-freshness-alert">
+
+See [Catalog freshness](#catalog-freshness) for how to keep the catalog up to date.
+
+</div>
+
 The site path is the same pair of slugs the component needs. Copy them off any logo page:
 
 ```
@@ -113,6 +119,12 @@ getFootballLogoUrl({ country: "england", club: "english-premier-league" });
 getFootballLogoUrl({ country: "tournaments", club: "uefa-champions-league" });
 getFootballLogoUrl({ country: "germany" });
 ```
+
+## Catalog freshness
+
+The shipped catalog is a snapshot. `FootballLogo` does not refresh it. Call [`startCatalogRefresh()`](/guide/functions/start-catalog-refresh) once in a long-lived Node process, not in the browser.
+
+See [that page](/guide/functions/start-catalog-refresh) for how to implement it in React, Vue, Svelte, and Astro.
 
 ## Caching
 

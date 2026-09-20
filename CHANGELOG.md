@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- `startCatalogRefresh()` / `stopCatalogRefresh()` to reload the hosted catalog on an interval in a long-lived Node process
+
 ## [0.3.0] - 2026-09-20
 
 ### Changed

@@ -8,7 +8,7 @@ Read `CONTEXT.md` for domain language. Component name is **FootballLogo**. `coun
 
 | Path | Role |
 | --- | --- |
-| `src/index.ts` | Public resolver: `getFootballLogoUrl`, `resolveFootballLogo`, `loadCatalog`, listings |
+| `src/index.ts` | Public resolver: `getFootballLogoUrl`, `resolveFootballLogo`, `loadCatalog`, `startCatalogRefresh`, listings |
 | `src/resolve.ts` | Lookup, ISO/name matching, URL construction |
 | `src/types.ts` | Catalog and resolve types |
 | `src/catalog.fallback.json` | Bundled catalog snapshot shipped with the package |

@@ -13,6 +13,8 @@ import {
 let catalog: Catalog = fallbackCatalog as Catalog;
 let catalogBaseUrl =
   "https://cdn.jsdelivr.net/gh/julianYaman/football-logos@main/catalog/v1";
+let refreshTimer: ReturnType<typeof setInterval> | undefined;
+const DEFAULT_REFRESH_INTERVAL_MS = 24 * 60 * 60 * 1000;
 
 export function getCatalog(): Catalog {
   return catalog;
@@ -97,6 +99,31 @@ export async function loadCatalog(options?: {
     return catalog;
   }
   return catalog;
+}
+
+export function startCatalogRefresh(options?: {
+  intervalMs?: number;
+  country?: string;
+  baseUrl?: string;
+}): () => void {
+  const intervalMs = options?.intervalMs ?? DEFAULT_REFRESH_INTERVAL_MS;
+  if (!Number.isFinite(intervalMs) || intervalMs <= 0) {
+    throw new RangeError("intervalMs must be a positive number");
+  }
+  stopCatalogRefresh();
+  void loadCatalog(options);
+  const timer = setInterval(() => {
+    void loadCatalog(options);
+  }, intervalMs);
+  refreshTimer = timer;
+  (timer as typeof timer & { unref?: () => void }).unref?.();
+  return stopCatalogRefresh;
+}
+
+export function stopCatalogRefresh(): void {
+  if (refreshTimer === undefined) return;
+  clearInterval(refreshTimer);
+  refreshTimer = undefined;
 }
 
 export type { Catalog, LookupInput, ResolvedLogo } from "./types.js";
