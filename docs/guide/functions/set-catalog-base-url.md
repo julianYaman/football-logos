@@ -13,4 +13,4 @@ await loadCatalog();
 function setCatalogBaseUrl(url: string): void;
 ```
 
-The default is `https://football-logos.yamanlabs.com/catalog/v1`. A trailing slash is ignored. Passing `baseUrl` to `loadCatalog()` overrides this for that call only.
+The default is `https://cdn.jsdelivr.net/gh/julianYaman/football-logos@main/catalog/v1`. A trailing slash is ignored. Passing `baseUrl` to `loadCatalog()` overrides this for that call only.

@@ -11,7 +11,8 @@ import {
 } from "./resolve.js";
 
 let catalog: Catalog = fallbackCatalog as Catalog;
-let catalogBaseUrl = "https://football-logos.yamanlabs.com/catalog/v1";
+let catalogBaseUrl =
+  "https://cdn.jsdelivr.net/gh/julianYaman/football-logos@main/catalog/v1";
 
 export function getCatalog(): Catalog {
   return catalog;

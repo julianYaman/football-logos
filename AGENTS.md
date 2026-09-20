@@ -16,7 +16,7 @@ Read `CONTEXT.md` for domain language. Component name is **FootballLogo**. `coun
 | `src/vue/FootballLogo.vue` | Source SFC (`football-logos/vue`) |
 | `src/svelte/FootballLogo.svelte` | Source Svelte component (`football-logos/svelte`) |
 | `src/astro/FootballLogo.astro` | Source Astro component (`football-logos/astro`) |
-| `catalog/v1/` | Hosted catalog (`meta.json` + `countries/{slug}.json`) |
+| `catalog/v1/` | Hosted catalog (`meta.json` + `countries/{slug}.json`), served from GitHub `main` via jsDelivr |
 | `docs/public/catalog/v1/` | Same catalog, copied for the VitePress site |
 | `scripts/index-catalog.mjs` | Indexes football-logos.cc into catalog + fallback. Default is a full country recrawl (local). `--from-new` ingests `/new/` only (GitHub Actions). |
 | `scripts/catalog-parse.mjs` | Shared HTML extract/classify used by the indexer, including `/new/` ingest |

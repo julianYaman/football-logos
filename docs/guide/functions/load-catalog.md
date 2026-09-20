@@ -1,6 +1,6 @@
 # loadCatalog()
 
-Fetches the hosted catalog and updates hashes in memory. The bundled snapshot stays in place if the request fails.
+Fetches the hosted catalog and updates hashes in memory. The bundled snapshot stays in place if the request fails. The default host is the `main` branch on jsDelivr: `https://cdn.jsdelivr.net/gh/julianYaman/football-logos@main/catalog/v1`.
 
 ```ts
 import { loadCatalog, getFootballLogoUrl } from "football-logos";
