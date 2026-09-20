@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-09-20T08:29:22.737Z",
   "country": {
     "slug": "england",
     "iso2": "ENG",
@@ -9,64 +9,64 @@
     "leagues": {
       "english-premier-league": {
         "slug": "english-premier-league",
-        "name": "Premier League",
+        "name": "English Premier League logo",
         "hash": "b597f797",
         "code": "ENG"
       },
       "efl-championship": {
         "slug": "efl-championship",
-        "name": "EFL Championship",
+        "name": "EFL Championship logo",
         "hash": "2766b536",
         "code": "ENG2"
       },
       "efl-league-one": {
         "slug": "efl-league-one",
-        "name": "EFL League One",
+        "name": "EFL League One logo",
         "hash": "5e95a41e"
       },
       "efl-league-two": {
         "slug": "efl-league-two",
-        "name": "EFL League Two",
+        "name": "EFL League Two logo",
         "hash": "bd6b1083"
       },
       "national-league": {
         "slug": "national-league",
-        "name": "National League",
+        "name": "National League logo",
         "hash": "652256c7"
       },
       "national-league-north": {
         "slug": "national-league-north",
-        "name": "National League North",
+        "name": "National League North logo",
         "hash": "ae714a00"
       },
       "national-league-south": {
         "slug": "national-league-south",
-        "name": "National League South",
+        "name": "National League South logo",
         "hash": "4a18eb9a"
       },
       "isthmian-league": {
         "slug": "isthmian-league",
-        "name": "Isthmian League",
+        "name": "Isthmian League logo",
         "hash": "c64ef79f"
       },
       "northern-premier-league": {
         "slug": "northern-premier-league",
-        "name": "Northern Premier League",
+        "name": "Northern Premier League logo",
         "hash": "6ebd0019"
       },
       "southern-football-league-premier-south": {
         "slug": "southern-football-league-premier-south",
-        "name": "Southern Football League Premier South",
+        "name": "Southern Football League Premier South logo",
         "hash": "623f0411"
       },
       "southern-football-league-premier-central": {
         "slug": "southern-football-league-premier-central",
-        "name": "Southern Football League Premier Central",
+        "name": "Southern Football League Premier Central logo",
         "hash": "d3f8de38"
       },
       "southern-football-league-division-one-central": {
         "slug": "southern-football-league-division-one-central",
-        "name": "Southern Football League Division One Central",
+        "name": "Southern Football League Division One Central logo",
         "hash": "1d80c927"
       },
       "england-national-team": {

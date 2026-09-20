@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-09-20T08:29:22.737Z",
   "country": {
     "slug": "tournaments",
     "iso2": "INT",
@@ -14,25 +14,25 @@
       },
       "uefa-champions-league": {
         "slug": "uefa-champions-league",
-        "name": "UEFA Champions League",
+        "name": "UEFA Champions League logo",
         "hash": "effc906c",
         "code": "UCL"
       },
       "uefa-europa-league": {
         "slug": "uefa-europa-league",
-        "name": "UEFA Europa League",
+        "name": "UEFA Europa League logo",
         "hash": "ac37661c",
         "code": "UEL"
       },
       "uefa-conference-league": {
         "slug": "uefa-conference-league",
-        "name": "UEFA Conference League",
+        "name": "UEFA Conference League logo",
         "hash": "f5da1108",
         "code": "UECL"
       },
       "concacaf-nations-league": {
         "slug": "concacaf-nations-league",
-        "name": "CONCACAF Nations League",
+        "name": "CONCACAF Nations League logo",
         "hash": "5950a94e"
       },
       "conmebol-libertadores": {
@@ -57,7 +57,7 @@
       },
       "fifa-asean-cup": {
         "slug": "fifa-asean-cup",
-        "name": "FIFA ASEAN Cup",
+        "name": "FIFA ASEAN Cup logo",
         "hash": "ba11b7de"
       },
       "asean-championship": {
@@ -242,7 +242,7 @@
       },
       "uefa-nations-league": {
         "slug": "uefa-nations-league",
-        "name": "UEFA Nations League",
+        "name": "UEFA Nations League logo",
         "hash": "509681b5"
       },
       "uefa-euro-2024": {

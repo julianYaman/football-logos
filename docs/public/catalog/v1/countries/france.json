@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-09-20T08:29:22.737Z",
   "country": {
     "slug": "france",
     "iso2": "FR",
@@ -9,23 +9,23 @@
     "leagues": {
       "ligue-1": {
         "slug": "ligue-1",
-        "name": "Ligue 1",
+        "name": "Ligue 1 logo",
         "hash": "bcb13eb0",
         "code": "FR"
       },
       "ligue-2": {
         "slug": "ligue-2",
-        "name": "Ligue 2",
+        "name": "Ligue 2 logo",
         "hash": "f12004c1"
       },
       "ligue-3": {
         "slug": "ligue-3",
-        "name": "Ligue 3",
+        "name": "Ligue 3 logo",
         "hash": "4dabe4bb"
       },
       "national-1": {
         "slug": "national-1",
-        "name": "National 1",
+        "name": "National 1 logo",
         "hash": "abaaa6ec"
       },
       "france-national-team": {

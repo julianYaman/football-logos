@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-09-20T08:29:22.737Z",
   "country": {
     "slug": "portugal",
     "iso2": "PT",
@@ -9,13 +9,13 @@
     "leagues": {
       "primeira-liga": {
         "slug": "primeira-liga",
-        "name": "Primeira Liga",
+        "name": "Primeira Liga logo",
         "hash": "0c7575ca",
         "code": "PT"
       },
       "liga-portugal-2": {
         "slug": "liga-portugal-2",
-        "name": "Liga Portugal 2",
+        "name": "Liga 2 logo",
         "hash": "90a1494e"
       },
       "liga-3": {

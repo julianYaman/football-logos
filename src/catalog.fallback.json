@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-09-20T08:29:22.737Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -6270,64 +6270,64 @@
       "leagues": {
         "english-premier-league": {
           "slug": "english-premier-league",
-          "name": "Premier League",
+          "name": "English Premier League logo",
           "hash": "b597f797",
           "code": "ENG"
         },
         "efl-championship": {
           "slug": "efl-championship",
-          "name": "EFL Championship",
+          "name": "EFL Championship logo",
           "hash": "2766b536",
           "code": "ENG2"
         },
         "efl-league-one": {
           "slug": "efl-league-one",
-          "name": "EFL League One",
+          "name": "EFL League One logo",
           "hash": "5e95a41e"
         },
         "efl-league-two": {
           "slug": "efl-league-two",
-          "name": "EFL League Two",
+          "name": "EFL League Two logo",
           "hash": "bd6b1083"
         },
         "national-league": {
           "slug": "national-league",
-          "name": "National League",
+          "name": "National League logo",
           "hash": "652256c7"
         },
         "national-league-north": {
           "slug": "national-league-north",
-          "name": "National League North",
+          "name": "National League North logo",
           "hash": "ae714a00"
         },
         "national-league-south": {
           "slug": "national-league-south",
-          "name": "National League South",
+          "name": "National League South logo",
           "hash": "4a18eb9a"
         },
         "isthmian-league": {
           "slug": "isthmian-league",
-          "name": "Isthmian League",
+          "name": "Isthmian League logo",
           "hash": "c64ef79f"
         },
         "northern-premier-league": {
           "slug": "northern-premier-league",
-          "name": "Northern Premier League",
+          "name": "Northern Premier League logo",
           "hash": "6ebd0019"
         },
         "southern-football-league-premier-south": {
           "slug": "southern-football-league-premier-south",
-          "name": "Southern Football League Premier South",
+          "name": "Southern Football League Premier South logo",
           "hash": "623f0411"
         },
         "southern-football-league-premier-central": {
           "slug": "southern-football-league-premier-central",
-          "name": "Southern Football League Premier Central",
+          "name": "Southern Football League Premier Central logo",
           "hash": "d3f8de38"
         },
         "southern-football-league-division-one-central": {
           "slug": "southern-football-league-division-one-central",
-          "name": "Southern Football League Division One Central",
+          "name": "Southern Football League Division One Central logo",
           "hash": "1d80c927"
         },
         "england-national-team": {
@@ -8900,23 +8900,23 @@
       "leagues": {
         "ligue-1": {
           "slug": "ligue-1",
-          "name": "Ligue 1",
+          "name": "Ligue 1 logo",
           "hash": "bcb13eb0",
           "code": "FR"
         },
         "ligue-2": {
           "slug": "ligue-2",
-          "name": "Ligue 2",
+          "name": "Ligue 2 logo",
           "hash": "f12004c1"
         },
         "ligue-3": {
           "slug": "ligue-3",
-          "name": "Ligue 3",
+          "name": "Ligue 3 logo",
           "hash": "4dabe4bb"
         },
         "national-1": {
           "slug": "national-1",
-          "name": "National 1",
+          "name": "National 1 logo",
           "hash": "abaaa6ec"
         },
         "france-national-team": {
@@ -10476,44 +10476,44 @@
       "leagues": {
         "bundesliga": {
           "slug": "bundesliga",
-          "name": "Bundesliga",
+          "name": "Bundesliga logo",
           "hash": "24d9c6f9",
           "code": "DE"
         },
         "2-bundesliga": {
           "slug": "2-bundesliga",
-          "name": "2. Bundesliga",
+          "name": "2. Bundesliga logo",
           "hash": "11755b17",
           "code": "GER2"
         },
         "3-liga": {
           "slug": "3-liga",
-          "name": "3. Liga",
+          "name": "3. Liga logo",
           "hash": "86275a77"
         },
         "regionalliga-nord": {
           "slug": "regionalliga-nord",
-          "name": "Regionalliga Nord",
+          "name": "Regionalliga Nord logo",
           "hash": "bb7cd698"
         },
         "regionalliga-nordost": {
           "slug": "regionalliga-nordost",
-          "name": "Regionalliga Nordost",
+          "name": "Regionalliga Nordost logo",
           "hash": "5881ffa8"
         },
         "regionalliga-west": {
           "slug": "regionalliga-west",
-          "name": "Regionalliga West",
+          "name": "Regionalliga West logo",
           "hash": "bec28f81"
         },
         "regionalliga-sudwest": {
           "slug": "regionalliga-sudwest",
-          "name": "Regionalliga Südwest",
+          "name": "Regionalliga Südwest logo",
           "hash": "7c292e60"
         },
         "regionalliga-bayern": {
           "slug": "regionalliga-bayern",
-          "name": "Regionalliga Bayern",
+          "name": "Regionalliga Bayern logo",
           "hash": "a4012fce"
         },
         "germany-national-team": {
@@ -14080,23 +14080,23 @@
       "leagues": {
         "serie-a": {
           "slug": "serie-a",
-          "name": "Serie A",
+          "name": "Serie A logo",
           "hash": "1289b16a",
           "code": "IT"
         },
         "serie-b": {
           "slug": "serie-b",
-          "name": "Serie B",
+          "name": "Serie B logo",
           "hash": "bb0c0fde"
         },
         "serie-c": {
           "slug": "serie-c",
-          "name": "Serie C",
+          "name": "Serie C logo",
           "hash": "62cc6092"
         },
         "serie-d": {
           "slug": "serie-d",
-          "name": "Serie D",
+          "name": "Serie D logo",
           "hash": "d175a24e"
         },
         "italy-national-team": {
@@ -19922,13 +19922,13 @@
       "leagues": {
         "primeira-liga": {
           "slug": "primeira-liga",
-          "name": "Primeira Liga",
+          "name": "Primeira Liga logo",
           "hash": "0c7575ca",
           "code": "PT"
         },
         "liga-portugal-2": {
           "slug": "liga-portugal-2",
-          "name": "Liga Portugal 2",
+          "name": "Liga 2 logo",
           "hash": "90a1494e"
         },
         "liga-3": {
@@ -23477,18 +23477,18 @@
       "leagues": {
         "la-liga": {
           "slug": "la-liga",
-          "name": "La Liga",
+          "name": "La Liga logo",
           "hash": "0ea0b0c5",
           "code": "ES"
         },
         "la-liga-2": {
           "slug": "la-liga-2",
-          "name": "La Liga 2",
+          "name": "La Liga 2 logo",
           "hash": "c56096b7"
         },
         "primera-federacion": {
           "slug": "primera-federacion",
-          "name": "Primera Federación",
+          "name": "Primera Federación logo",
           "hash": "8fd8615f"
         },
         "segunda-federacion": {
@@ -28212,25 +28212,25 @@
         },
         "uefa-champions-league": {
           "slug": "uefa-champions-league",
-          "name": "UEFA Champions League",
+          "name": "UEFA Champions League logo",
           "hash": "effc906c",
           "code": "UCL"
         },
         "uefa-europa-league": {
           "slug": "uefa-europa-league",
-          "name": "UEFA Europa League",
+          "name": "UEFA Europa League logo",
           "hash": "ac37661c",
           "code": "UEL"
         },
         "uefa-conference-league": {
           "slug": "uefa-conference-league",
-          "name": "UEFA Conference League",
+          "name": "UEFA Conference League logo",
           "hash": "f5da1108",
           "code": "UECL"
         },
         "concacaf-nations-league": {
           "slug": "concacaf-nations-league",
-          "name": "CONCACAF Nations League",
+          "name": "CONCACAF Nations League logo",
           "hash": "5950a94e"
         },
         "conmebol-libertadores": {
@@ -28255,7 +28255,7 @@
         },
         "fifa-asean-cup": {
           "slug": "fifa-asean-cup",
-          "name": "FIFA ASEAN Cup",
+          "name": "FIFA ASEAN Cup logo",
           "hash": "ba11b7de"
         },
         "asean-championship": {
@@ -28440,7 +28440,7 @@
         },
         "uefa-nations-league": {
           "slug": "uefa-nations-league",
-          "name": "UEFA Nations League",
+          "name": "UEFA Nations League logo",
           "hash": "509681b5"
         },
         "uefa-euro-2024": {
@@ -28557,5 +28557,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "7c15cbe3ac9874d9"
+  "contentHash": "573869f8410cdde5"
 }

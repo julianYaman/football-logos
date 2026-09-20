@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-09-20T08:29:22.737Z",
   "country": {
     "slug": "spain",
     "iso2": "ES",
@@ -9,18 +9,18 @@
     "leagues": {
       "la-liga": {
         "slug": "la-liga",
-        "name": "La Liga",
+        "name": "La Liga logo",
         "hash": "0ea0b0c5",
         "code": "ES"
       },
       "la-liga-2": {
         "slug": "la-liga-2",
-        "name": "La Liga 2",
+        "name": "La Liga 2 logo",
         "hash": "c56096b7"
       },
       "primera-federacion": {
         "slug": "primera-federacion",
-        "name": "Primera Federación",
+        "name": "Primera Federación logo",
         "hash": "8fd8615f"
       },
       "segunda-federacion": {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-09-20T08:29:22.737Z",
   "country": {
     "slug": "italy",
     "iso2": "IT",
@@ -9,23 +9,23 @@
     "leagues": {
       "serie-a": {
         "slug": "serie-a",
-        "name": "Serie A",
+        "name": "Serie A logo",
         "hash": "1289b16a",
         "code": "IT"
       },
       "serie-b": {
         "slug": "serie-b",
-        "name": "Serie B",
+        "name": "Serie B logo",
         "hash": "bb0c0fde"
       },
       "serie-c": {
         "slug": "serie-c",
-        "name": "Serie C",
+        "name": "Serie C logo",
         "hash": "62cc6092"
       },
       "serie-d": {
         "slug": "serie-d",
-        "name": "Serie D",
+        "name": "Serie D logo",
         "hash": "d175a24e"
       },
       "italy-national-team": {
