@@ -337,7 +337,10 @@ export function recentNewLogos(logos, { now = new Date(), days = 2 } = {}) {
     if (day >= start && day <= end) recent.push(logo);
     else older.push(logo);
   }
-  return { recent: [...recent, ...undated], older, undated };
+  if (recent.length || older.length) {
+    return { recent, older, undated };
+  }
+  return { recent: undated, older, undated };
 }
 
 export function applyNewLogos(countries, logos, getSpec) {

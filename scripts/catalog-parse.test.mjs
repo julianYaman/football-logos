@@ -247,8 +247,8 @@ describe("applyNewLogos", () => {
 describe("recentNewLogos", () => {
   const now = new Date("2026-09-20T06:00:00Z");
 
-  it("keeps today, yesterday, and undated logos", () => {
-    const { recent, older } = recentNewLogos(
+  it("keeps today and yesterday, and drops undated nav links", () => {
+    const { recent, older, undated } = recentNewLogos(
       [
         { slug: "today", date: "September 20, 2026" },
         { slug: "yesterday", date: "September 19, 2026" },
@@ -257,12 +257,15 @@ describe("recentNewLogos", () => {
       ],
       { now },
     );
-    expect(recent.map((logo) => logo.slug)).toEqual([
-      "today",
-      "yesterday",
-      "undated",
-    ]);
+    expect(recent.map((logo) => logo.slug)).toEqual(["today", "yesterday"]);
     expect(older.map((logo) => logo.slug)).toEqual(["two-days-ago"]);
+    expect(undated.map((logo) => logo.slug)).toEqual(["undated"]);
+  });
+
+  it("keeps undated logos only when the page has no day headings", () => {
+    const { recent, older } = recentNewLogos([{ slug: "nav-link" }], { now });
+    expect(recent.map((logo) => logo.slug)).toEqual(["nav-link"]);
+    expect(older).toEqual([]);
   });
 
   it("parses football-logos.cc day headings as UTC calendar dates", () => {

@@ -352,7 +352,9 @@ async function ingestNew(directory) {
       `Ignoring ${window.older.length} /new/ logos older than yesterday`,
     );
   }
-  if (window.undated.length) {
+  if (window.undated.length && (window.recent.length || window.older.length)) {
+    console.log(`Skipping ${window.undated.length} undated /new/ entries`);
+  } else if (window.undated.length) {
     console.warn(
       `Including ${window.undated.length} /new/ logos without a date heading`,
     );
