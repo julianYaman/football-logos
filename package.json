@@ -1,6 +1,6 @@
 {
   "name": "football-logos",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Hotlink football club and league logos from football-logos.cc in React, Vue, Svelte, Astro, or any framework.",
   "type": "module",
   "license": "MIT",
