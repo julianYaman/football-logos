@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- Daily catalog workflow ingests logos dated today and yesterday from [football-logos.cc/new](https://football-logos.cc/new/) instead of recrawling every country page. Full recrawls stay local (`npm run index-catalog`).
+
 ## [0.2.0] - 2026-09-19
 
 ### Added

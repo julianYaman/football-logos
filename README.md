@@ -27,7 +27,7 @@ npm run build
 npm run docs:dev
 ```
 
-Re-index hashes from football-logos.cc with `npm run index-catalog` (optionally `-- --only=germany`).
+Re-index hashes from football-logos.cc with `npm run index-catalog` (full recrawl, local). The daily GitHub Action ingests only `https://football-logos.cc/new/` (`npm run index-catalog -- --from-new`). Optionally recrawl one country with `-- --only=germany`.
 
 Report package bugs on [GitHub Issues](https://github.com/julianYaman/football-logos/issues) with the `country` and `club` slugs you used. Requests for new logos, removals, or anything about the artwork itself belong with [football-logos.cc](https://football-logos.cc).
 

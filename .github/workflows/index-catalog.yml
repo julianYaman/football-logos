@@ -15,7 +15,7 @@ concurrency:
 jobs:
   index:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
         with:
@@ -28,7 +28,7 @@ jobs:
       - run: npm ci
       - name: Install Playwright Chromium
         run: npx playwright install --with-deps chromium
-      - run: npm run index-catalog
+      - run: npm run index-catalog -- --from-new
       - name: Commit catalog updates
         run: |
           git config user.name "github-actions[bot]"
@@ -38,5 +38,5 @@ jobs:
             echo "Catalog unchanged"
             exit 0
           fi
-          git commit -m "Refresh football-logos.cc catalog hashes"
+          git commit -m "Refresh football-logos.cc catalog from /new/"
           git push

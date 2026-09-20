@@ -7,9 +7,13 @@ import { execFile } from "node:child_process";
 import { promisify } from "node:util";
 import dns from "node:dns";
 import {
+  applyNewLogos,
   classifyLogos,
+  extractNewLogos,
   inferDefaultLeague,
   parseCountryPage,
+  recentNewLogos,
+  resolveCountrySlug,
 } from "./catalog-parse.mjs";
 import { COUNTRY_OVERRIDES, EXTRA_COUNTRIES } from "./country-overrides.mjs";
 
@@ -217,57 +221,22 @@ function stableStringify(value) {
   return `${JSON.stringify(value, null, 2)}\n`;
 }
 
-async function main() {
-  const directory = buildDirectory();
-  const onlyArg = process.argv.find((arg) => arg.startsWith("--only="));
-  const extractArg = process.argv.find((arg) =>
-    arg.startsWith("--from-extract="),
-  );
-  const extractDir = extractArg
-    ? extractArg.slice("--from-extract=".length)
-    : null;
-  const only = onlyArg
-    ? onlyArg.slice("--only=".length).split(",").filter(Boolean)
-    : null;
+function argValue(prefix) {
+  const match = process.argv.find((arg) => arg.startsWith(prefix));
+  return match ? match.slice(prefix.length) : null;
+}
 
-  const discovered = extractDir
-    ? await listExtractSlugs(extractDir)
-    : [...directory.keys()];
-  const specs = discovered.map((slug) => specFor(slug, directory));
-  const toIndex = only
-    ? specs.filter((spec) =>
-        only.some((id) => specIds(spec).includes(id)),
-      )
-    : specs;
-  if (only) {
-    const known = new Set(specs.flatMap(specIds));
-    const unknown = only.filter((id) => !known.has(id));
-    if (unknown.length) {
-      throw new Error(`Unknown --only country: ${unknown.join(", ")}`);
-    }
-  }
-
-  const countries = only ? await loadExistingCountries() : {};
-  for (const spec of toIndex) {
-    console.log(`Indexing ${spec.name}…`);
-    const country = extractDir
-      ? await loadExtract(extractDir, spec)
-      : await indexCountry(spec);
-    countries[spec.slug] = country;
-    console.log(
-      `  ${Object.keys(country.leagues).length} leagues, ${Object.keys(country.clubs).length} clubs (default ${country.defaultLeague})`,
+function assertLocalFullCrawl(fromNew) {
+  if (process.env.GITHUB_ACTIONS === "true" && !fromNew) {
+    throw new Error(
+      "GitHub Actions must run `npm run index-catalog -- --from-new`. Full recrawls are local-only.",
     );
   }
+}
 
+async function writeCatalog(countries, { onlySlugs } = {}) {
   const generatedAt = new Date().toISOString();
-  const countryFiles = {};
-  for (const [slug, country] of Object.entries(countries)) {
-    countryFiles[slug] = {
-      schemaVersion: 1,
-      generatedAt,
-      country,
-    };
-  }
+  const slugsToWrite = onlySlugs ?? Object.keys(countries);
 
   const meta = {
     schemaVersion: 1,
@@ -307,7 +276,15 @@ async function main() {
   await writeFile(join(catalogDir, "meta.json"), stableStringify(meta));
   await writeFile(join(docsDir, "meta.json"), stableStringify(meta));
 
-  for (const [slug, file] of Object.entries(countryFiles)) {
+  for (const slug of slugsToWrite) {
+    if (!countries[slug]) {
+      throw new Error(`Cannot write missing country "${slug}"`);
+    }
+    const file = {
+      schemaVersion: 1,
+      generatedAt,
+      country: countries[slug],
+    };
     const body = stableStringify(file);
     await writeFile(join(catalogDir, "countries", `${slug}.json`), body);
     await writeFile(join(docsDir, "countries", `${slug}.json`), body);
@@ -322,6 +299,128 @@ async function main() {
   console.log(
     `Wrote catalog ${meta.contentHash} (${meta.countries.length} countries)`,
   );
+}
+
+async function ingestNew(directory) {
+  const htmlPath = argValue("--from-new-html=");
+  const html = htmlPath
+    ? await readFile(htmlPath, "utf8")
+    : await fetchText(`${BASE}/new/`);
+  const logos = extractNewLogos(html, directory);
+  if (!logos.length) {
+    throw new Error("No logos parsed from football-logos.cc/new/");
+  }
+  if (logos.every((logo) => !logo.hash)) {
+    throw new Error("No 512 PNG hashes found on football-logos.cc/new/");
+  }
+
+  const window = recentNewLogos(logos);
+  if (window.older.length) {
+    console.log(
+      `Ignoring ${window.older.length} /new/ logos older than yesterday`,
+    );
+  }
+  if (window.undated.length) {
+    console.warn(
+      `Including ${window.undated.length} /new/ logos without a date heading`,
+    );
+  }
+  if (!window.recent.length) {
+    console.log("Catalog unchanged (no /new/ logos from today or yesterday)");
+    return;
+  }
+  if (window.recent.every((logo) => !logo.hash)) {
+    throw new Error(
+      "No 512 PNG hashes found on today's or yesterday's football-logos.cc/new/ logos",
+    );
+  }
+
+  const countries = await loadExistingCountries();
+  const result = applyNewLogos(countries, window.recent, (id) =>
+    specFor(resolveCountrySlug(id, directory) ?? id, directory),
+  );
+  if (result.unknownCountries.length) {
+    const slugs = [
+      ...new Set(result.unknownCountries.map((logo) => logo.country)),
+    ];
+    throw new Error(
+      `Unknown country on /new/ (add it to the directory and recrawl locally): ${slugs.join(", ")}`,
+    );
+  }
+  if (result.skipped.length) {
+    console.warn(
+      `Skipped ${result.skipped.length} /new/ entries without a hash or slug`,
+    );
+  }
+  if (!result.changed.length) {
+    console.log(`Catalog unchanged (${window.recent.length} /new/ logos already in catalog)`);
+    return;
+  }
+
+  console.log(
+    `Ingested /new/: ${result.stats.added} added, ${result.stats.updated} updated across ${result.changed.length} countries (today and yesterday)`,
+  );
+  await writeCatalog(result.countries, { onlySlugs: result.changed });
+}
+
+async function recrawl(directory) {
+  const onlyArg = argValue("--only=");
+  const extractDir = argValue("--from-extract=");
+  const only = onlyArg ? onlyArg.split(",").filter(Boolean) : null;
+
+  const discovered = extractDir
+    ? await listExtractSlugs(extractDir)
+    : [...directory.keys()];
+  const specs = discovered.map((slug) => specFor(slug, directory));
+  const toIndex = only
+    ? specs.filter((spec) =>
+        only.some((id) => specIds(spec).includes(id)),
+      )
+    : specs;
+  if (only) {
+    const known = new Set(specs.flatMap(specIds));
+    const unknown = only.filter((id) => !known.has(id));
+    if (unknown.length) {
+      throw new Error(`Unknown --only country: ${unknown.join(", ")}`);
+    }
+  }
+
+  const countries = only ? await loadExistingCountries() : {};
+  for (const spec of toIndex) {
+    console.log(`Indexing ${spec.name}…`);
+    const country = extractDir
+      ? await loadExtract(extractDir, spec)
+      : await indexCountry(spec);
+    countries[spec.slug] = country;
+    console.log(
+      `  ${Object.keys(country.leagues).length} leagues, ${Object.keys(country.clubs).length} clubs (default ${country.defaultLeague})`,
+    );
+  }
+
+  await writeCatalog(
+    countries,
+    only ? { onlySlugs: toIndex.map((spec) => spec.slug) } : {},
+  );
+}
+
+async function main() {
+  const directory = buildDirectory();
+  const fromNew =
+    process.argv.includes("--from-new") ||
+    Boolean(argValue("--from-new-html="));
+  assertLocalFullCrawl(fromNew);
+
+  if (fromNew) {
+    if (argValue("--only=") || argValue("--from-extract=")) {
+      throw new Error(
+        "--from-new cannot be combined with --only or --from-extract",
+      );
+    }
+    await ingestNew(directory);
+    return;
+  }
+
+  await recrawl(directory);
 }
 
 main()
