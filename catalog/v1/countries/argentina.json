@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-09-21T05:15:05.584Z",
   "country": {
     "slug": "argentina",
     "iso2": "AR",
@@ -796,6 +796,18 @@
         "name": "Atlético Policial",
         "hash": "e699c36f",
         "league": ""
+      },
+      "juventud-antoniana": {
+        "slug": "juventud-antoniana",
+        "league": "argentina-primera-division",
+        "name": "Juventud Antoniana",
+        "hash": "c81a0262"
+      },
+      "sportivo-belgrano": {
+        "slug": "sportivo-belgrano",
+        "league": "argentina-primera-division",
+        "name": "Sportivo Belgrano",
+        "hash": "706180c7"
       }
     }
   }

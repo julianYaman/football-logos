@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-09-21T05:15:05.584Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1204,6 +1204,12 @@
         "name": "Vitória da Conquista",
         "hash": "c4fbb1e8",
         "league": ""
+      },
+      "real-brasilia": {
+        "slug": "real-brasilia",
+        "league": "brazilian-serie-a",
+        "name": "Real Brasília",
+        "hash": "fbd80415"
       }
     }
   }

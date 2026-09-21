@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T08:29:22.737Z",
+  "generatedAt": "2026-09-21T05:15:05.584Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1420,6 +1420,30 @@
         "name": "HEBC",
         "hash": "b009d344",
         "league": ""
+      },
+      "blankenburger-fv": {
+        "slug": "blankenburger-fv",
+        "league": "bundesliga",
+        "name": "Blankenburger FV",
+        "hash": "880ee497"
+      },
+      "sc-alemannia-lendersdorf": {
+        "slug": "sc-alemannia-lendersdorf",
+        "league": "bundesliga",
+        "name": "SC Alemannia Lendersdorf",
+        "hash": "f31eb948"
+      },
+      "grunauer-bc-1917": {
+        "slug": "grunauer-bc-1917",
+        "league": "bundesliga",
+        "name": "Grünauer BC 1917",
+        "hash": "f1f90df3"
+      },
+      "sg-dynamo-schwerin": {
+        "slug": "sg-dynamo-schwerin",
+        "league": "bundesliga",
+        "name": "SG Dynamo Schwerin",
+        "hash": "83484cd4"
       }
     }
   }

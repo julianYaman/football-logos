@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-09-21T05:15:05.584Z",
   "country": {
     "slug": "finland",
     "iso2": "FI",
@@ -193,6 +193,12 @@
         "name": "OTP Oulu",
         "hash": "6c04d781",
         "league": ""
+      },
+      "jippo": {
+        "slug": "jippo",
+        "league": "veikkausliiga",
+        "name": "JIPPO",
+        "hash": "7e898776"
       }
     }
   }

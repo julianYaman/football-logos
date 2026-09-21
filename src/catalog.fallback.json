@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T08:29:22.737Z",
+  "generatedAt": "2026-09-21T05:15:05.584Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -1209,6 +1209,18 @@
           "name": "Atlético Policial",
           "hash": "e699c36f",
           "league": ""
+        },
+        "juventud-antoniana": {
+          "slug": "juventud-antoniana",
+          "league": "argentina-primera-division",
+          "name": "Juventud Antoniana",
+          "hash": "c81a0262"
+        },
+        "sportivo-belgrano": {
+          "slug": "sportivo-belgrano",
+          "league": "argentina-primera-division",
+          "name": "Sportivo Belgrano",
+          "hash": "706180c7"
         }
       }
     },
@@ -3884,6 +3896,12 @@
           "name": "Vitória da Conquista",
           "hash": "c4fbb1e8",
           "league": ""
+        },
+        "real-brasilia": {
+          "slug": "real-brasilia",
+          "league": "brazilian-serie-a",
+          "name": "Real Brasília",
+          "hash": "fbd80415"
         }
       }
     },
@@ -8889,6 +8907,12 @@
           "name": "OTP Oulu",
           "hash": "6c04d781",
           "league": ""
+        },
+        "jippo": {
+          "slug": "jippo",
+          "league": "veikkausliiga",
+          "name": "JIPPO",
+          "hash": "7e898776"
         }
       }
     },
@@ -10273,6 +10297,36 @@
           "name": "Wasquehal FC",
           "hash": "8fd0b921",
           "league": ""
+        },
+        "as-saint-ouen-l-aumone": {
+          "slug": "as-saint-ouen-l-aumone",
+          "league": "ligue-1",
+          "name": "AS Saint-Ouen-l'Aumône",
+          "hash": "cb0938e7"
+        },
+        "es-la-ciotat": {
+          "slug": "es-la-ciotat",
+          "league": "ligue-1",
+          "name": "ES La Ciotat",
+          "hash": "2af5daa7"
+        },
+        "as-aulnoye": {
+          "slug": "as-aulnoye",
+          "league": "ligue-1",
+          "name": "AS Aulnoye",
+          "hash": "47a15aee"
+        },
+        "sr-saint-die-kellermann": {
+          "slug": "sr-saint-die-kellermann",
+          "league": "ligue-1",
+          "name": "SR Saint-Dié Kellermann",
+          "hash": "543127a2"
+        },
+        "co-cerizay": {
+          "slug": "co-cerizay",
+          "league": "ligue-1",
+          "name": "CO Cerizay",
+          "hash": "82638ef9"
         }
       }
     },
@@ -11887,6 +11941,30 @@
           "name": "HEBC",
           "hash": "b009d344",
           "league": ""
+        },
+        "blankenburger-fv": {
+          "slug": "blankenburger-fv",
+          "league": "bundesliga",
+          "name": "Blankenburger FV",
+          "hash": "880ee497"
+        },
+        "sc-alemannia-lendersdorf": {
+          "slug": "sc-alemannia-lendersdorf",
+          "league": "bundesliga",
+          "name": "SC Alemannia Lendersdorf",
+          "hash": "f31eb948"
+        },
+        "grunauer-bc-1917": {
+          "slug": "grunauer-bc-1917",
+          "league": "bundesliga",
+          "name": "Grünauer BC 1917",
+          "hash": "f1f90df3"
+        },
+        "sg-dynamo-schwerin": {
+          "slug": "sg-dynamo-schwerin",
+          "league": "bundesliga",
+          "name": "SG Dynamo Schwerin",
+          "hash": "83484cd4"
         }
       }
     },
@@ -28557,5 +28635,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "573869f8410cdde5"
+  "contentHash": "33a9654d094a9c4d"
 }
