@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-09-21T12:18:33.107Z",
   "country": {
     "slug": "australia",
     "iso2": "AU",
@@ -109,6 +109,12 @@
         "name": "Wollongong Wolves",
         "hash": "0d5c44c7",
         "league": ""
+      },
+      "gold-coast-united": {
+        "slug": "gold-coast-united",
+        "league": "a-league",
+        "name": "Gold Coast United",
+        "hash": "138f16b8"
       }
     }
   }

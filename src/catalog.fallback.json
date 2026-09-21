@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T05:15:05.584Z",
+  "generatedAt": "2026-09-21T12:18:33.107Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -1440,6 +1440,12 @@
           "name": "Wollongong Wolves",
           "hash": "0d5c44c7",
           "league": ""
+        },
+        "gold-coast-united": {
+          "slug": "gold-coast-united",
+          "league": "a-league",
+          "name": "Gold Coast United",
+          "hash": "138f16b8"
         }
       }
     },
@@ -28635,5 +28641,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "33a9654d094a9c4d"
+  "contentHash": "ec12ef6cea32a275"
 }
