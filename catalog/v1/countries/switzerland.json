@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-09-22T11:10:45.703Z",
   "country": {
     "slug": "switzerland",
     "iso2": "CH",
@@ -161,6 +161,12 @@
         "name": "Bellinzona",
         "hash": "817f07c0",
         "league": ""
+      },
+      "vevey-sports": {
+        "slug": "vevey-sports",
+        "league": "swiss-football-league",
+        "name": "Vevey-Sports",
+        "hash": "5a1b710b"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-09-22T11:10:45.703Z",
   "country": {
     "slug": "norway",
     "iso2": "NO",
@@ -270,6 +270,12 @@
         "name": "Teisen IF",
         "hash": "e0009c7a",
         "league": ""
+      },
+      "djerv-1919": {
+        "slug": "djerv-1919",
+        "league": "eliteserien",
+        "name": "Djerv 1919",
+        "hash": "25ef01a6"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T05:15:05.584Z",
+  "generatedAt": "2026-09-22T11:10:45.703Z",
   "country": {
     "slug": "argentina",
     "iso2": "AR",
@@ -808,6 +808,24 @@
         "league": "argentina-primera-division",
         "name": "Sportivo Belgrano",
         "hash": "706180c7"
+      },
+      "rivadavia-de-lincoln": {
+        "slug": "rivadavia-de-lincoln",
+        "league": "argentina-primera-division",
+        "name": "Rivadavia de Lincoln",
+        "hash": "9d5ac26d"
+      },
+      "crucero-del-norte": {
+        "slug": "crucero-del-norte",
+        "league": "argentina-primera-division",
+        "name": "Crucero del Norte",
+        "hash": "3d32a707"
+      },
+      "jorge-gibson-brown": {
+        "slug": "jorge-gibson-brown",
+        "league": "argentina-primera-division",
+        "name": "Jorge Gibson Brown",
+        "hash": "c04fddbc"
       }
     }
   }

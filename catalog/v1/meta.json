@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T12:18:33.107Z",
+  "generatedAt": "2026-09-22T11:10:45.703Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -65,7 +65,7 @@
       "iso2": "AR",
       "name": "Argentina",
       "defaultLeague": "argentina-primera-division",
-      "clubCount": 129
+      "clubCount": 132
     },
     {
       "slug": "armenia",
@@ -513,7 +513,7 @@
       "iso2": "FR",
       "name": "France",
       "defaultLeague": "ligue-1",
-      "clubCount": 228
+      "clubCount": 232
     },
     {
       "slug": "french-guiana",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 229
+      "clubCount": 231
     },
     {
       "slug": "ghana",
@@ -1059,7 +1059,7 @@
       "iso2": "NO",
       "name": "Norway",
       "defaultLeague": "eliteserien",
-      "clubCount": 41
+      "clubCount": 42
     },
     {
       "slug": "oman",
@@ -1339,7 +1339,7 @@
       "iso2": "ES",
       "name": "Spain",
       "defaultLeague": "la-liga",
-      "clubCount": 163
+      "clubCount": 164
     },
     {
       "slug": "sri-lanka",
@@ -1381,7 +1381,7 @@
       "iso2": "CH",
       "name": "Switzerland",
       "defaultLeague": "swiss-football-league",
-      "clubCount": 22
+      "clubCount": 23
     },
     {
       "slug": "syria",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "ec12ef6cea32a275"
+  "contentHash": "9bef89d049a107e9"
 }

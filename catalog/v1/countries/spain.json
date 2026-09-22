@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T08:29:22.737Z",
+  "generatedAt": "2026-09-22T11:10:45.703Z",
   "country": {
     "slug": "spain",
     "iso2": "ES",
@@ -1017,6 +1017,12 @@
         "name": "Puente Genil",
         "hash": "2128815b",
         "league": ""
+      },
+      "extremadura-ud": {
+        "slug": "extremadura-ud",
+        "league": "la-liga",
+        "name": "Extremadura UD",
+        "hash": "c1dd156c"
       }
     }
   }

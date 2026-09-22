@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T05:15:05.584Z",
+  "generatedAt": "2026-09-22T11:10:45.703Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1444,6 +1444,18 @@
         "league": "bundesliga",
         "name": "SG Dynamo Schwerin",
         "hash": "83484cd4"
+      },
+      "sc-koln-bruck-07": {
+        "slug": "sc-koln-bruck-07",
+        "league": "bundesliga",
+        "name": "SC Köln-Brück 07",
+        "hash": "1fbe44f3"
+      },
+      "sv-1914-eilendorf": {
+        "slug": "sv-1914-eilendorf",
+        "league": "bundesliga",
+        "name": "SV 1914 Eilendorf",
+        "hash": "2f483c20"
       }
     }
   }

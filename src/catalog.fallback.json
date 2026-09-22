@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T12:18:33.107Z",
+  "generatedAt": "2026-09-22T11:10:45.703Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -1221,6 +1221,24 @@
           "league": "argentina-primera-division",
           "name": "Sportivo Belgrano",
           "hash": "706180c7"
+        },
+        "rivadavia-de-lincoln": {
+          "slug": "rivadavia-de-lincoln",
+          "league": "argentina-primera-division",
+          "name": "Rivadavia de Lincoln",
+          "hash": "9d5ac26d"
+        },
+        "crucero-del-norte": {
+          "slug": "crucero-del-norte",
+          "league": "argentina-primera-division",
+          "name": "Crucero del Norte",
+          "hash": "3d32a707"
+        },
+        "jorge-gibson-brown": {
+          "slug": "jorge-gibson-brown",
+          "league": "argentina-primera-division",
+          "name": "Jorge Gibson Brown",
+          "hash": "c04fddbc"
         }
       }
     },
@@ -10333,6 +10351,30 @@
           "league": "ligue-1",
           "name": "CO Cerizay",
           "hash": "82638ef9"
+        },
+        "fc-flers": {
+          "slug": "fc-flers",
+          "league": "ligue-1",
+          "name": "FC Flers",
+          "hash": "700fb29b"
+        },
+        "conde-sports": {
+          "slug": "conde-sports",
+          "league": "ligue-1",
+          "name": "Condé Sports",
+          "hash": "c0317979"
+        },
+        "la-vitreenne-fc": {
+          "slug": "la-vitreenne-fc",
+          "league": "ligue-1",
+          "name": "La Vitréenne FC",
+          "hash": "70ada57f"
+        },
+        "paris-uc": {
+          "slug": "paris-uc",
+          "league": "ligue-1",
+          "name": "Paris UC",
+          "hash": "ba3f0f10"
         }
       }
     },
@@ -11971,6 +12013,18 @@
           "league": "bundesliga",
           "name": "SG Dynamo Schwerin",
           "hash": "83484cd4"
+        },
+        "sc-koln-bruck-07": {
+          "slug": "sc-koln-bruck-07",
+          "league": "bundesliga",
+          "name": "SC Köln-Brück 07",
+          "hash": "1fbe44f3"
+        },
+        "sv-1914-eilendorf": {
+          "slug": "sv-1914-eilendorf",
+          "league": "bundesliga",
+          "name": "SV 1914 Eilendorf",
+          "hash": "2f483c20"
         }
       }
     },
@@ -19265,6 +19319,12 @@
           "name": "Teisen IF",
           "hash": "e0009c7a",
           "league": ""
+        },
+        "djerv-1919": {
+          "slug": "djerv-1919",
+          "league": "eliteserien",
+          "name": "Djerv 1919",
+          "hash": "25ef01a6"
         }
       }
     },
@@ -24569,6 +24629,12 @@
           "name": "Puente Genil",
           "hash": "2128815b",
           "league": ""
+        },
+        "extremadura-ud": {
+          "slug": "extremadura-ud",
+          "league": "la-liga",
+          "name": "Extremadura UD",
+          "hash": "c1dd156c"
         }
       }
     },
@@ -25148,6 +25214,12 @@
           "name": "Bellinzona",
           "hash": "817f07c0",
           "league": ""
+        },
+        "vevey-sports": {
+          "slug": "vevey-sports",
+          "league": "swiss-football-league",
+          "name": "Vevey-Sports",
+          "hash": "5a1b710b"
         }
       }
     },
@@ -28641,5 +28713,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "ec12ef6cea32a275"
+  "contentHash": "9bef89d049a107e9"
 }
