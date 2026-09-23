@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T11:10:45.703Z",
+  "generatedAt": "2026-09-23T11:00:52.747Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1456,6 +1456,30 @@
         "league": "bundesliga",
         "name": "SV 1914 Eilendorf",
         "hash": "2f483c20"
+      },
+      "sfc-stern-1900": {
+        "slug": "sfc-stern-1900",
+        "league": "bundesliga",
+        "name": "SFC Stern 1900",
+        "hash": "70c042dc"
+      },
+      "sv-hermsdorf": {
+        "slug": "sv-hermsdorf",
+        "league": "bundesliga",
+        "name": "SV Hermsdorf",
+        "hash": "8b462dfe"
+      },
+      "sv-breinig": {
+        "slug": "sv-breinig",
+        "league": "bundesliga",
+        "name": "SV Breinig",
+        "hash": "3a5943f6"
+      },
+      "turkiyemspor-berlin": {
+        "slug": "turkiyemspor-berlin",
+        "league": "bundesliga",
+        "name": "Türkiyemspor Berlin",
+        "hash": "2534614d"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T11:10:45.703Z",
+  "generatedAt": "2026-09-23T11:00:52.747Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -4591,6 +4591,12 @@
           "name": "Colchagua",
           "hash": "b60a5968",
           "league": ""
+        },
+        "deportes-iberia": {
+          "slug": "deportes-iberia",
+          "league": "liga-de-primera",
+          "name": "Deportes Iberia",
+          "hash": "9a1ae773"
         }
       }
     },
@@ -10375,6 +10381,24 @@
           "league": "ligue-1",
           "name": "Paris UC",
           "hash": "ba3f0f10"
+        },
+        "cms-oissel": {
+          "slug": "cms-oissel",
+          "league": "ligue-1",
+          "name": "CMS Oissel",
+          "hash": "a190200e"
+        },
+        "us-raon-l-etape": {
+          "slug": "us-raon-l-etape",
+          "league": "ligue-1",
+          "name": "US Raon-l'Étape",
+          "hash": "18eae2d0"
+        },
+        "fc-wissembourg": {
+          "slug": "fc-wissembourg",
+          "league": "ligue-1",
+          "name": "FC Wissembourg",
+          "hash": "b83036cb"
         }
       }
     },
@@ -12025,6 +12049,30 @@
           "league": "bundesliga",
           "name": "SV 1914 Eilendorf",
           "hash": "2f483c20"
+        },
+        "sfc-stern-1900": {
+          "slug": "sfc-stern-1900",
+          "league": "bundesliga",
+          "name": "SFC Stern 1900",
+          "hash": "70c042dc"
+        },
+        "sv-hermsdorf": {
+          "slug": "sv-hermsdorf",
+          "league": "bundesliga",
+          "name": "SV Hermsdorf",
+          "hash": "8b462dfe"
+        },
+        "sv-breinig": {
+          "slug": "sv-breinig",
+          "league": "bundesliga",
+          "name": "SV Breinig",
+          "hash": "3a5943f6"
+        },
+        "turkiyemspor-berlin": {
+          "slug": "turkiyemspor-berlin",
+          "league": "bundesliga",
+          "name": "Türkiyemspor Berlin",
+          "hash": "2534614d"
         }
       }
     },
@@ -17748,6 +17796,18 @@
           "name": "Guerreros del Pacífico",
           "hash": "7a580b35",
           "league": ""
+        },
+        "cd-veracruz": {
+          "slug": "cd-veracruz",
+          "league": "liga-mx",
+          "name": "CD Veracruz",
+          "hash": "5a975526"
+        },
+        "indios-de-ciudad-juarez": {
+          "slug": "indios-de-ciudad-juarez",
+          "league": "liga-mx",
+          "name": "Indios de Ciudad Juárez",
+          "hash": "a19b455f"
         }
       }
     },
@@ -19769,6 +19829,12 @@
           "name": "Unión Comercio",
           "hash": "f24987cd",
           "league": ""
+        },
+        "universidad-cesar-vallejo": {
+          "slug": "universidad-cesar-vallejo",
+          "league": "peruvian-primera-division",
+          "name": "Universidad César Vallejo",
+          "hash": "d4be9b11"
         }
       }
     },
@@ -25051,6 +25117,12 @@
           "name": "Jönköpings Södra IF",
           "hash": "91cad56c",
           "league": ""
+        },
+        "ifk-berga": {
+          "slug": "ifk-berga",
+          "league": "allsvenskan",
+          "name": "IFK Berga",
+          "hash": "03ae9863"
         }
       }
     },
@@ -28713,5 +28785,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "9bef89d049a107e9"
+  "contentHash": "884bcdb49a6fee78"
 }

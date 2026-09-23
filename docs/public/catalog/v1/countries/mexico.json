@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-09-23T11:00:52.747Z",
   "country": {
     "slug": "mexico",
     "iso2": "MX",
@@ -353,6 +353,18 @@
         "name": "Guerreros del Pacífico",
         "hash": "7a580b35",
         "league": ""
+      },
+      "cd-veracruz": {
+        "slug": "cd-veracruz",
+        "league": "liga-mx",
+        "name": "CD Veracruz",
+        "hash": "5a975526"
+      },
+      "indios-de-ciudad-juarez": {
+        "slug": "indios-de-ciudad-juarez",
+        "league": "liga-mx",
+        "name": "Indios de Ciudad Juárez",
+        "hash": "a19b455f"
       }
     }
   }

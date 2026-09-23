@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-09-23T11:00:52.747Z",
   "country": {
     "slug": "chile",
     "iso2": "CL",
@@ -228,6 +228,12 @@
         "name": "Colchagua",
         "hash": "b60a5968",
         "league": ""
+      },
+      "deportes-iberia": {
+        "slug": "deportes-iberia",
+        "league": "liga-de-primera",
+        "name": "Deportes Iberia",
+        "hash": "9a1ae773"
       }
     }
   }

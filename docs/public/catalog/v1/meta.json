@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T11:10:45.703Z",
+  "generatedAt": "2026-09-23T11:00:52.747Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -303,7 +303,7 @@
       "iso2": "CL",
       "name": "Chile",
       "defaultLeague": "liga-de-primera",
-      "clubCount": 34
+      "clubCount": 35
     },
     {
       "slug": "china",
@@ -513,7 +513,7 @@
       "iso2": "FR",
       "name": "France",
       "defaultLeague": "ligue-1",
-      "clubCount": 232
+      "clubCount": 235
     },
     {
       "slug": "french-guiana",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 231
+      "clubCount": 235
     },
     {
       "slug": "ghana",
@@ -912,7 +912,7 @@
       "iso2": "MX",
       "name": "Mexico",
       "defaultLeague": "liga-mx",
-      "clubCount": 54
+      "clubCount": 56
     },
     {
       "slug": "moldova",
@@ -1115,7 +1115,7 @@
       "iso2": "PE",
       "name": "Peru",
       "defaultLeague": "peruvian-primera-division",
-      "clubCount": 25
+      "clubCount": 26
     },
     {
       "slug": "philippines",
@@ -1374,7 +1374,7 @@
       "iso2": "SE",
       "name": "Sweden",
       "defaultLeague": "allsvenskan",
-      "clubCount": 55
+      "clubCount": 56
     },
     {
       "slug": "switzerland",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "9bef89d049a107e9"
+  "contentHash": "884bcdb49a6fee78"
 }

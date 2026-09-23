@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-09-23T11:00:52.747Z",
   "country": {
     "slug": "sweden",
     "iso2": "SE",
@@ -354,6 +354,12 @@
         "name": "Jönköpings Södra IF",
         "hash": "91cad56c",
         "league": ""
+      },
+      "ifk-berga": {
+        "slug": "ifk-berga",
+        "league": "allsvenskan",
+        "name": "IFK Berga",
+        "hash": "03ae9863"
       }
     }
   }
