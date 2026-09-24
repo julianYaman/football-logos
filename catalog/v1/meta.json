@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T11:00:52.747Z",
+  "generatedAt": "2026-09-24T11:20:10.452Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -65,7 +65,7 @@
       "iso2": "AR",
       "name": "Argentina",
       "defaultLeague": "argentina-primera-division",
-      "clubCount": 132
+      "clubCount": 133
     },
     {
       "slug": "armenia",
@@ -205,7 +205,7 @@
       "iso2": "BR",
       "name": "Brazil",
       "defaultLeague": "brazilian-serie-a",
-      "clubCount": 196
+      "clubCount": 197
     },
     {
       "slug": "british-virgin-islands",
@@ -450,7 +450,7 @@
       "iso2": "ENG",
       "name": "England",
       "defaultLeague": "english-premier-league",
-      "clubCount": 344
+      "clubCount": 345
     },
     {
       "slug": "equatorial-guinea",
@@ -513,7 +513,7 @@
       "iso2": "FR",
       "name": "France",
       "defaultLeague": "ligue-1",
-      "clubCount": 235
+      "clubCount": 239
     },
     {
       "slug": "french-guiana",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 235
+      "clubCount": 238
     },
     {
       "slug": "ghana",
@@ -1115,7 +1115,7 @@
       "iso2": "PE",
       "name": "Peru",
       "defaultLeague": "peruvian-primera-division",
-      "clubCount": 26
+      "clubCount": 27
     },
     {
       "slug": "philippines",
@@ -1339,7 +1339,7 @@
       "iso2": "ES",
       "name": "Spain",
       "defaultLeague": "la-liga",
-      "clubCount": 164
+      "clubCount": 165
     },
     {
       "slug": "sri-lanka",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "884bcdb49a6fee78"
+  "contentHash": "9ed4cb3575a77f22"
 }

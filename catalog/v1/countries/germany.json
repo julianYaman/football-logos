@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T11:00:52.747Z",
+  "generatedAt": "2026-09-24T11:20:10.452Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1480,6 +1480,24 @@
         "league": "bundesliga",
         "name": "Türkiyemspor Berlin",
         "hash": "2534614d"
+      },
+      "asc-09-dortmund": {
+        "slug": "asc-09-dortmund",
+        "league": "bundesliga",
+        "name": "ASC 09 Dortmund",
+        "hash": "aaa8bb22"
+      },
+      "tsv-1860-rosenheim": {
+        "slug": "tsv-1860-rosenheim",
+        "league": "bundesliga",
+        "name": "TSV 1860 Rosenheim",
+        "hash": "fd86104a"
+      },
+      "tsv-grossbardorf": {
+        "slug": "tsv-grossbardorf",
+        "league": "bundesliga",
+        "name": "TSV Großbardorf",
+        "hash": "3550a8d3"
       }
     }
   }

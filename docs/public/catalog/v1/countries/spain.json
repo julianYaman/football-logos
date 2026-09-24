@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T11:10:45.703Z",
+  "generatedAt": "2026-09-24T11:20:10.452Z",
   "country": {
     "slug": "spain",
     "iso2": "ES",
@@ -1023,6 +1023,12 @@
         "league": "la-liga",
         "name": "Extremadura UD",
         "hash": "c1dd156c"
+      },
+      "cf-vilanova": {
+        "slug": "cf-vilanova",
+        "league": "la-liga",
+        "name": "CF Vilanova",
+        "hash": "530abd69"
       }
     }
   }

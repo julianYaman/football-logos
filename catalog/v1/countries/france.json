@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T11:00:52.747Z",
+  "generatedAt": "2026-09-24T11:20:10.452Z",
   "country": {
     "slug": "france",
     "iso2": "FR",
@@ -1454,6 +1454,30 @@
         "league": "ligue-1",
         "name": "FC Wissembourg",
         "hash": "b83036cb"
+      },
+      "ac-cambrai": {
+        "slug": "ac-cambrai",
+        "league": "ligue-1",
+        "name": "AC Cambrai",
+        "hash": "02dfbb03"
+      },
+      "cs-avion": {
+        "slug": "cs-avion",
+        "league": "ligue-1",
+        "name": "CS Avion",
+        "hash": "cde6eaaa"
+      },
+      "js-cugnaux": {
+        "slug": "js-cugnaux",
+        "league": "ligue-1",
+        "name": "JS Cugnaux",
+        "hash": "20015ca5"
+      },
+      "ja-drancy": {
+        "slug": "ja-drancy",
+        "league": "ligue-1",
+        "name": "JA Drancy",
+        "hash": "f8f2911c"
       }
     }
   }

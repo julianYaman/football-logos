@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T11:00:52.747Z",
+  "generatedAt": "2026-09-24T11:20:10.452Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -1239,6 +1239,12 @@
           "league": "argentina-primera-division",
           "name": "Jorge Gibson Brown",
           "hash": "c04fddbc"
+        },
+        "guarani-antonio-franco": {
+          "slug": "guarani-antonio-franco",
+          "league": "argentina-primera-division",
+          "name": "Guaraní Antonio Franco",
+          "hash": "1e7cbc39"
         }
       }
     },
@@ -3926,6 +3932,12 @@
           "league": "brazilian-serie-a",
           "name": "Real Brasília",
           "hash": "fbd80415"
+        },
+        "passo-fundo": {
+          "slug": "passo-fundo",
+          "league": "brazilian-serie-a",
+          "name": "Passo Fundo",
+          "hash": "010bfd38"
         }
       }
     },
@@ -8468,6 +8480,12 @@
           "name": "Woodford Town",
           "hash": "3f7bb363",
           "league": ""
+        },
+        "fleet-town": {
+          "slug": "fleet-town",
+          "league": "english-premier-league",
+          "name": "Fleet Town FC",
+          "hash": "237deef9"
         }
       }
     },
@@ -10399,6 +10417,30 @@
           "league": "ligue-1",
           "name": "FC Wissembourg",
           "hash": "b83036cb"
+        },
+        "ac-cambrai": {
+          "slug": "ac-cambrai",
+          "league": "ligue-1",
+          "name": "AC Cambrai",
+          "hash": "02dfbb03"
+        },
+        "cs-avion": {
+          "slug": "cs-avion",
+          "league": "ligue-1",
+          "name": "CS Avion",
+          "hash": "cde6eaaa"
+        },
+        "js-cugnaux": {
+          "slug": "js-cugnaux",
+          "league": "ligue-1",
+          "name": "JS Cugnaux",
+          "hash": "20015ca5"
+        },
+        "ja-drancy": {
+          "slug": "ja-drancy",
+          "league": "ligue-1",
+          "name": "JA Drancy",
+          "hash": "f8f2911c"
         }
       }
     },
@@ -12073,6 +12115,24 @@
           "league": "bundesliga",
           "name": "Türkiyemspor Berlin",
           "hash": "2534614d"
+        },
+        "asc-09-dortmund": {
+          "slug": "asc-09-dortmund",
+          "league": "bundesliga",
+          "name": "ASC 09 Dortmund",
+          "hash": "aaa8bb22"
+        },
+        "tsv-1860-rosenheim": {
+          "slug": "tsv-1860-rosenheim",
+          "league": "bundesliga",
+          "name": "TSV 1860 Rosenheim",
+          "hash": "fd86104a"
+        },
+        "tsv-grossbardorf": {
+          "slug": "tsv-grossbardorf",
+          "league": "bundesliga",
+          "name": "TSV Großbardorf",
+          "hash": "3550a8d3"
         }
       }
     },
@@ -19835,6 +19895,12 @@
           "league": "peruvian-primera-division",
           "name": "Universidad César Vallejo",
           "hash": "d4be9b11"
+        },
+        "juan-aurich": {
+          "slug": "juan-aurich",
+          "league": "peruvian-primera-division",
+          "name": "Juan Aurich",
+          "hash": "b18ec620"
         }
       }
     },
@@ -24701,6 +24767,12 @@
           "league": "la-liga",
           "name": "Extremadura UD",
           "hash": "c1dd156c"
+        },
+        "cf-vilanova": {
+          "slug": "cf-vilanova",
+          "league": "la-liga",
+          "name": "CF Vilanova",
+          "hash": "530abd69"
         }
       }
     },
@@ -28785,5 +28857,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "884bcdb49a6fee78"
+  "contentHash": "9ed4cb3575a77f22"
 }

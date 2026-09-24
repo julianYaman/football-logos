@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T08:29:22.737Z",
+  "generatedAt": "2026-09-24T11:20:10.452Z",
   "country": {
     "slug": "england",
     "iso2": "ENG",
@@ -2159,6 +2159,12 @@
         "name": "Woodford Town",
         "hash": "3f7bb363",
         "league": ""
+      },
+      "fleet-town": {
+        "slug": "fleet-town",
+        "league": "english-premier-league",
+        "name": "Fleet Town FC",
+        "hash": "237deef9"
       }
     }
   }

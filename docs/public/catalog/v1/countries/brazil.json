@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T05:15:05.584Z",
+  "generatedAt": "2026-09-24T11:20:10.452Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1210,6 +1210,12 @@
         "league": "brazilian-serie-a",
         "name": "Real Brasília",
         "hash": "fbd80415"
+      },
+      "passo-fundo": {
+        "slug": "passo-fundo",
+        "league": "brazilian-serie-a",
+        "name": "Passo Fundo",
+        "hash": "010bfd38"
       }
     }
   }
