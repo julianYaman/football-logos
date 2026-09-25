@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-09-25T11:25:28.915Z",
   "country": {
     "slug": "luxembourg",
     "iso2": "LU",
@@ -146,6 +146,12 @@
         "name": "SC Bettembourg",
         "hash": "8018e6dc",
         "league": ""
+      },
+      "fc-alisontia-steinsel": {
+        "slug": "fc-alisontia-steinsel",
+        "league": "luxembourg-national-team",
+        "name": "FC Alisontia Steinsel",
+        "hash": "5822d86b"
       }
     }
   }

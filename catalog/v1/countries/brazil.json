@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T11:20:10.452Z",
+  "generatedAt": "2026-09-25T11:25:28.915Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1216,6 +1216,12 @@
         "league": "brazilian-serie-a",
         "name": "Passo Fundo",
         "hash": "010bfd38"
+      },
+      "guarani-mg": {
+        "slug": "guarani-mg",
+        "league": "brazilian-serie-a",
+        "name": "Guarani-MG",
+        "hash": "b288f863"
       }
     }
   }

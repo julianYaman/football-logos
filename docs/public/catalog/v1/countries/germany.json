@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T11:20:10.452Z",
+  "generatedAt": "2026-09-25T11:25:28.915Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1498,6 +1498,18 @@
         "league": "bundesliga",
         "name": "TSV Großbardorf",
         "hash": "3550a8d3"
+      },
+      "fv-bad-vilbel": {
+        "slug": "fv-bad-vilbel",
+        "league": "bundesliga",
+        "name": "FV Bad Vilbel",
+        "hash": "aa83cb4e"
+      },
+      "vfr-07-limburg": {
+        "slug": "vfr-07-limburg",
+        "league": "bundesliga",
+        "name": "VfR 07 Limburg",
+        "hash": "a3bf6888"
       }
     }
   }

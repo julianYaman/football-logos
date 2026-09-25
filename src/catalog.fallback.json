@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T11:20:10.452Z",
+  "generatedAt": "2026-09-25T11:25:28.915Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -3938,6 +3938,12 @@
           "league": "brazilian-serie-a",
           "name": "Passo Fundo",
           "hash": "010bfd38"
+        },
+        "guarani-mg": {
+          "slug": "guarani-mg",
+          "league": "brazilian-serie-a",
+          "name": "Guarani-MG",
+          "hash": "b288f863"
         }
       }
     },
@@ -10441,6 +10447,30 @@
           "league": "ligue-1",
           "name": "JA Drancy",
           "hash": "f8f2911c"
+        },
+        "so-romorantin": {
+          "slug": "so-romorantin",
+          "league": "ligue-1",
+          "name": "SO Romorantin",
+          "hash": "7647e828"
+        },
+        "us-forbach-football": {
+          "slug": "us-forbach-football",
+          "league": "ligue-1",
+          "name": "US Forbach Football",
+          "hash": "cab9c4eb"
+        },
+        "montauban-fc-tarn-et-garonne": {
+          "slug": "montauban-fc-tarn-et-garonne",
+          "league": "ligue-1",
+          "name": "Montauban FC Tarn-et-Garonne",
+          "hash": "9f7ea043"
+        },
+        "fusc-bois-guillaume": {
+          "slug": "fusc-bois-guillaume",
+          "league": "ligue-1",
+          "name": "FUSC Bois-Guillaume",
+          "hash": "843323a9"
         }
       }
     },
@@ -12133,6 +12163,18 @@
           "league": "bundesliga",
           "name": "TSV Großbardorf",
           "hash": "3550a8d3"
+        },
+        "fv-bad-vilbel": {
+          "slug": "fv-bad-vilbel",
+          "league": "bundesliga",
+          "name": "FV Bad Vilbel",
+          "hash": "aa83cb4e"
+        },
+        "vfr-07-limburg": {
+          "slug": "vfr-07-limburg",
+          "league": "bundesliga",
+          "name": "VfR 07 Limburg",
+          "hash": "a3bf6888"
         }
       }
     },
@@ -17175,6 +17217,12 @@
           "name": "SC Bettembourg",
           "hash": "8018e6dc",
           "league": ""
+        },
+        "fc-alisontia-steinsel": {
+          "slug": "fc-alisontia-steinsel",
+          "league": "luxembourg-national-team",
+          "name": "FC Alisontia Steinsel",
+          "hash": "5822d86b"
         }
       }
     },
@@ -27059,6 +27107,12 @@
           "name": "Rampla Juniors",
           "hash": "301bdbb8",
           "league": ""
+        },
+        "sud-america": {
+          "slug": "sud-america",
+          "league": "liga-auf-uruguaya",
+          "name": "Sud América",
+          "hash": "86ee31d1"
         }
       }
     },
@@ -28857,5 +28911,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "9ed4cb3575a77f22"
+  "contentHash": "02a5e70bc16b2439"
 }
