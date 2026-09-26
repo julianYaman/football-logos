@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T11:25:28.915Z",
+  "generatedAt": "2026-09-26T11:01:26.718Z",
   "country": {
     "slug": "france",
     "iso2": "FR",
@@ -1502,6 +1502,36 @@
         "league": "ligue-1",
         "name": "FUSC Bois-Guillaume",
         "hash": "843323a9"
+      },
+      "fc-bassin-d-arcachon": {
+        "slug": "fc-bassin-d-arcachon",
+        "league": "ligue-1",
+        "name": "FC Bassin d'Arcachon",
+        "hash": "ecb61df4"
+      },
+      "af-virois": {
+        "slug": "af-virois",
+        "league": "ligue-1",
+        "name": "AF Virois",
+        "hash": "69fe5751"
+      },
+      "es-saintes": {
+        "slug": "es-saintes",
+        "league": "ligue-1",
+        "name": "ES Saintes",
+        "hash": "5c0f6bc9"
+      },
+      "racing-besancon": {
+        "slug": "racing-besancon",
+        "league": "ligue-1",
+        "name": "Racing Besançon",
+        "hash": "30bb14bf"
+      },
+      "us-marseille-endoume-catalans": {
+        "slug": "us-marseille-endoume-catalans",
+        "league": "ligue-1",
+        "name": "US Marseille Endoume Catalans",
+        "hash": "2d31a1a8"
       }
     }
   }
