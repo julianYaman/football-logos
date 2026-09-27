@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T11:25:28.915Z",
+  "generatedAt": "2026-09-27T11:39:33.830Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1222,6 +1222,12 @@
         "league": "brazilian-serie-a",
         "name": "Guarani-MG",
         "hash": "b288f863"
+      },
+      "itapirense": {
+        "slug": "itapirense",
+        "league": "brazilian-serie-a",
+        "name": "Itapirense",
+        "hash": "01750992"
       }
     }
   }

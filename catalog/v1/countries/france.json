@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T11:01:26.718Z",
+  "generatedAt": "2026-09-27T11:39:33.830Z",
   "country": {
     "slug": "france",
     "iso2": "FR",
@@ -1532,6 +1532,36 @@
         "league": "ligue-1",
         "name": "US Marseille Endoume Catalans",
         "hash": "2d31a1a8"
+      },
+      "asm-belfort-fc": {
+        "slug": "asm-belfort-fc",
+        "league": "ligue-1",
+        "name": "ASM Belfort FC",
+        "hash": "9358f091"
+      },
+      "fc-sete-34": {
+        "slug": "fc-sete-34",
+        "league": "ligue-1",
+        "name": "FC Sète 34",
+        "hash": "f2cb5abb"
+      },
+      "fc-quimperle": {
+        "slug": "fc-quimperle",
+        "league": "ligue-1",
+        "name": "FC Quimperlé",
+        "hash": "4869df3a"
+      },
+      "sa-merignac-football": {
+        "slug": "sa-merignac-football",
+        "league": "ligue-1",
+        "name": "SA Mérignac Football",
+        "hash": "98e05208"
+      },
+      "sable-fc": {
+        "slug": "sable-fc",
+        "league": "ligue-1",
+        "name": "Sablé FC",
+        "hash": "62f22ab4"
       }
     }
   }
