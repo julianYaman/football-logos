@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T11:39:33.830Z",
+  "generatedAt": "2026-09-28T13:14:26.551Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1228,6 +1228,18 @@
         "league": "brazilian-serie-a",
         "name": "Itapirense",
         "hash": "01750992"
+      },
+      "aracatuba": {
+        "slug": "aracatuba",
+        "league": "brazilian-serie-a",
+        "name": "Araçatuba",
+        "hash": "2ebf7e1c"
+      },
+      "araxa": {
+        "slug": "araxa",
+        "league": "brazilian-serie-a",
+        "name": "Araxá",
+        "hash": "474af7d1"
       }
     }
   }

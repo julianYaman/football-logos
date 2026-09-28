@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-09-28T13:14:26.551Z",
   "country": {
     "slug": "iceland",
     "iso2": "IS",
@@ -175,6 +175,12 @@
         "name": "Ýmir Kópavogur",
         "hash": "18325c01",
         "league": ""
+      },
+      "dalvik-reynir": {
+        "slug": "dalvik-reynir",
+        "league": "besta-deild-karla",
+        "name": "Dalvík/Reynir",
+        "hash": "19a6e48f"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T11:39:33.830Z",
+  "generatedAt": "2026-09-28T13:14:26.551Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -205,7 +205,7 @@
       "iso2": "BR",
       "name": "Brazil",
       "defaultLeague": "brazilian-serie-a",
-      "clubCount": 199
+      "clubCount": 201
     },
     {
       "slug": "british-virgin-islands",
@@ -240,7 +240,7 @@
       "iso2": "BI",
       "name": "Burundi",
       "defaultLeague": "burundi-national-team",
-      "clubCount": 1
+      "clubCount": 2
     },
     {
       "slug": "cabo-verde",
@@ -513,7 +513,7 @@
       "iso2": "FR",
       "name": "France",
       "defaultLeague": "ligue-1",
-      "clubCount": 253
+      "clubCount": 257
     },
     {
       "slug": "french-guiana",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 243
+      "clubCount": 245
     },
     {
       "slug": "ghana",
@@ -660,7 +660,7 @@
       "iso2": "IS",
       "name": "Iceland",
       "defaultLeague": "besta-deild-karla",
-      "clubCount": 26
+      "clubCount": 27
     },
     {
       "slug": "india",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "2f8c0c249223387b"
+  "contentHash": "35ebcc88498f69f8"
 }
