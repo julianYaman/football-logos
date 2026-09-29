@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T13:14:26.551Z",
+  "generatedAt": "2026-09-29T12:22:39.520Z",
   "country": {
     "slug": "france",
     "iso2": "FR",
@@ -1586,6 +1586,36 @@
         "league": "ligue-1",
         "name": "FC Sens",
         "hash": "7728b736"
+      },
+      "amicale-luce-football": {
+        "slug": "amicale-luce-football",
+        "league": "ligue-1",
+        "name": "Amicale Lucé Football",
+        "hash": "6a0a135b"
+      },
+      "asptt-caen-football": {
+        "slug": "asptt-caen-football",
+        "league": "ligue-1",
+        "name": "ASPTT Caen Football",
+        "hash": "6b0c5e33"
+      },
+      "us-fougeres": {
+        "slug": "us-fougeres",
+        "league": "ligue-1",
+        "name": "US Fougères",
+        "hash": "882047bb"
+      },
+      "jarville-jeunes-football": {
+        "slug": "jarville-jeunes-football",
+        "league": "ligue-1",
+        "name": "Jarville Jeunes Football",
+        "hash": "f41fea78"
+      },
+      "fc-chalon": {
+        "slug": "fc-chalon",
+        "league": "ligue-1",
+        "name": "FC Chalon",
+        "hash": "2800d0d9"
       }
     }
   }

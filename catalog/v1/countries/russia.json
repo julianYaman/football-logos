@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-09-29T12:22:39.520Z",
   "country": {
     "slug": "russia",
     "iso2": "RU",
@@ -275,6 +275,12 @@
         "name": "Spartak Nalchik",
         "hash": "7f1c019b",
         "league": ""
+      },
+      "fc-dynamo-bryansk": {
+        "slug": "fc-dynamo-bryansk",
+        "league": "russian-premier-league",
+        "name": "FC Dynamo Bryansk",
+        "hash": "4d472324"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T11:10:45.703Z",
+  "generatedAt": "2026-09-29T12:22:39.520Z",
   "country": {
     "slug": "norway",
     "iso2": "NO",
@@ -276,6 +276,12 @@
         "league": "eliteserien",
         "name": "Djerv 1919",
         "hash": "25ef01a6"
+      },
+      "honefoss-bk": {
+        "slug": "honefoss-bk",
+        "league": "eliteserien",
+        "name": "Hønefoss BK",
+        "hash": "32b660ec"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T13:14:26.551Z",
+  "generatedAt": "2026-09-29T12:22:39.520Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -3962,6 +3962,18 @@
           "league": "brazilian-serie-a",
           "name": "Araxá",
           "hash": "474af7d1"
+        },
+        "barretos": {
+          "slug": "barretos",
+          "league": "brazilian-serie-a",
+          "name": "Barretos",
+          "hash": "52d07816"
+        },
+        "bage": {
+          "slug": "bage",
+          "league": "brazilian-serie-a",
+          "name": "Bagé",
+          "hash": "2b748989"
         }
       }
     },
@@ -10579,6 +10591,36 @@
           "league": "ligue-1",
           "name": "FC Sens",
           "hash": "7728b736"
+        },
+        "amicale-luce-football": {
+          "slug": "amicale-luce-football",
+          "league": "ligue-1",
+          "name": "Amicale Lucé Football",
+          "hash": "6a0a135b"
+        },
+        "asptt-caen-football": {
+          "slug": "asptt-caen-football",
+          "league": "ligue-1",
+          "name": "ASPTT Caen Football",
+          "hash": "6b0c5e33"
+        },
+        "us-fougeres": {
+          "slug": "us-fougeres",
+          "league": "ligue-1",
+          "name": "US Fougères",
+          "hash": "882047bb"
+        },
+        "jarville-jeunes-football": {
+          "slug": "jarville-jeunes-football",
+          "league": "ligue-1",
+          "name": "Jarville Jeunes Football",
+          "hash": "f41fea78"
+        },
+        "fc-chalon": {
+          "slug": "fc-chalon",
+          "league": "ligue-1",
+          "name": "FC Chalon",
+          "hash": "2800d0d9"
         }
       }
     },
@@ -12313,6 +12355,18 @@
           "league": "bundesliga",
           "name": "FC Epe",
           "hash": "17a6275c"
+        },
+        "tus-dassendorf": {
+          "slug": "tus-dassendorf",
+          "league": "bundesliga",
+          "name": "TuS Dassendorf",
+          "hash": "b4955c28"
+        },
+        "fc-08-villingen": {
+          "slug": "fc-08-villingen",
+          "league": "bundesliga",
+          "name": "FC 08 Villingen",
+          "hash": "819b37e4"
         }
       }
     },
@@ -19643,6 +19697,12 @@
           "league": "eliteserien",
           "name": "Djerv 1919",
           "hash": "25ef01a6"
+        },
+        "honefoss-bk": {
+          "slug": "honefoss-bk",
+          "league": "eliteserien",
+          "name": "Hønefoss BK",
+          "hash": "32b660ec"
         }
       }
     },
@@ -19916,6 +19976,12 @@
           "name": "Club Atlético Tembetary",
           "hash": "ff27d0be",
           "league": ""
+        },
+        "presidente-hayes": {
+          "slug": "presidente-hayes",
+          "league": "copa-de-primera",
+          "name": "Presidente Hayes",
+          "hash": "bbe345d5"
         }
       }
     },
@@ -22188,6 +22254,12 @@
           "name": "Spartak Nalchik",
           "hash": "7f1c019b",
           "league": ""
+        },
+        "fc-dynamo-bryansk": {
+          "slug": "fc-dynamo-bryansk",
+          "league": "russian-premier-league",
+          "name": "FC Dynamo Bryansk",
+          "hash": "4d472324"
         }
       }
     },
@@ -29073,5 +29145,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "35ebcc88498f69f8"
+  "contentHash": "fa203d6dd8a3a344"
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T13:14:26.551Z",
+  "generatedAt": "2026-09-29T12:22:39.520Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1540,6 +1540,18 @@
         "league": "bundesliga",
         "name": "FC Epe",
         "hash": "17a6275c"
+      },
+      "tus-dassendorf": {
+        "slug": "tus-dassendorf",
+        "league": "bundesliga",
+        "name": "TuS Dassendorf",
+        "hash": "b4955c28"
+      },
+      "fc-08-villingen": {
+        "slug": "fc-08-villingen",
+        "league": "bundesliga",
+        "name": "FC 08 Villingen",
+        "hash": "819b37e4"
       }
     }
   }

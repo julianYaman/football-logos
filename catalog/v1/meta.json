@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T13:14:26.551Z",
+  "generatedAt": "2026-09-29T12:22:39.520Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -205,7 +205,7 @@
       "iso2": "BR",
       "name": "Brazil",
       "defaultLeague": "brazilian-serie-a",
-      "clubCount": 201
+      "clubCount": 203
     },
     {
       "slug": "british-virgin-islands",
@@ -513,7 +513,7 @@
       "iso2": "FR",
       "name": "France",
       "defaultLeague": "ligue-1",
-      "clubCount": 257
+      "clubCount": 262
     },
     {
       "slug": "french-guiana",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 245
+      "clubCount": 247
     },
     {
       "slug": "ghana",
@@ -1059,7 +1059,7 @@
       "iso2": "NO",
       "name": "Norway",
       "defaultLeague": "eliteserien",
-      "clubCount": 42
+      "clubCount": 43
     },
     {
       "slug": "oman",
@@ -1108,7 +1108,7 @@
       "iso2": "PY",
       "name": "Paraguay",
       "defaultLeague": "copa-de-primera",
-      "clubCount": 14
+      "clubCount": 15
     },
     {
       "slug": "peru",
@@ -1178,7 +1178,7 @@
       "iso2": "RU",
       "name": "Russia",
       "defaultLeague": "russian-premier-league",
-      "clubCount": 41
+      "clubCount": 42
     },
     {
       "slug": "rwanda",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "35ebcc88498f69f8"
+  "contentHash": "fa203d6dd8a3a344"
 }
