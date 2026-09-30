@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-09-30T12:08:08.464Z",
   "country": {
     "slug": "montenegro",
     "iso2": "ME",
@@ -80,6 +80,12 @@
         "name": "Sutjeska",
         "hash": "557f0042",
         "league": ""
+      },
+      "fk-jedinstvo-bijelo-polje": {
+        "slug": "fk-jedinstvo-bijelo-polje",
+        "league": "montenegro-national-team",
+        "name": "FK Jedinstvo Bijelo Polje",
+        "hash": "0ece1ab1"
       }
     }
   }

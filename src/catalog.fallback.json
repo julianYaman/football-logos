@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T12:22:39.520Z",
+  "generatedAt": "2026-09-30T12:08:08.464Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -1245,6 +1245,12 @@
           "league": "argentina-primera-division",
           "name": "Guaraní Antonio Franco",
           "hash": "1e7cbc39"
+        },
+        "atletico-rafaela": {
+          "slug": "atletico-rafaela",
+          "league": "argentina-primera-division",
+          "name": "Atlético de Rafaela",
+          "hash": "e7a8f2d4"
         }
       }
     },
@@ -10621,6 +10627,30 @@
           "league": "ligue-1",
           "name": "FC Chalon",
           "hash": "2800d0d9"
+        },
+        "us-vandoeuvre-football": {
+          "slug": "us-vandoeuvre-football",
+          "league": "ligue-1",
+          "name": "US Vandœuvre Football",
+          "hash": "410f9526"
+        },
+        "blois-football-41": {
+          "slug": "blois-football-41",
+          "league": "ligue-1",
+          "name": "Blois Football 41",
+          "hash": "ec959a53"
+        },
+        "us-tourcoing": {
+          "slug": "us-tourcoing",
+          "league": "ligue-1",
+          "name": "US Tourcoing",
+          "hash": "d0d6cc25"
+        },
+        "stade-montois-football": {
+          "slug": "stade-montois-football",
+          "league": "ligue-1",
+          "name": "Stade Montois football",
+          "hash": "115eee8a"
         }
       }
     },
@@ -12367,6 +12397,24 @@
           "league": "bundesliga",
           "name": "FC 08 Villingen",
           "hash": "819b37e4"
+        },
+        "vfb-gaggenau": {
+          "slug": "vfb-gaggenau",
+          "league": "bundesliga",
+          "name": "VfB Gaggenau",
+          "hash": "f58d802f"
+        },
+        "leher-turnerschaft": {
+          "slug": "leher-turnerschaft",
+          "league": "bundesliga",
+          "name": "Leher Turnerschaft",
+          "hash": "f8a33338"
+        },
+        "sv-schalding-heining": {
+          "slug": "sv-schalding-heining",
+          "league": "bundesliga",
+          "name": "SV Schalding-Heining",
+          "hash": "def821fe"
         }
       }
     },
@@ -18298,6 +18346,12 @@
           "name": "Sutjeska",
           "hash": "557f0042",
           "league": ""
+        },
+        "fk-jedinstvo-bijelo-polje": {
+          "slug": "fk-jedinstvo-bijelo-polje",
+          "league": "montenegro-national-team",
+          "name": "FK Jedinstvo Bijelo Polje",
+          "hash": "0ece1ab1"
         }
       }
     },
@@ -20165,6 +20219,12 @@
           "league": "peruvian-primera-division",
           "name": "Juan Aurich",
           "hash": "b18ec620"
+        },
+        "sportivo-huracan-arequipa": {
+          "slug": "sportivo-huracan-arequipa",
+          "league": "peruvian-primera-division",
+          "name": "Sportivo Huracán",
+          "hash": "eeca5b1c"
         }
       }
     },
@@ -29145,5 +29205,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "fa203d6dd8a3a344"
+  "contentHash": "b218e6819f0f2590"
 }

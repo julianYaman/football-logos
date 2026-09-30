@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T12:22:39.520Z",
+  "generatedAt": "2026-09-30T12:08:08.464Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1552,6 +1552,24 @@
         "league": "bundesliga",
         "name": "FC 08 Villingen",
         "hash": "819b37e4"
+      },
+      "vfb-gaggenau": {
+        "slug": "vfb-gaggenau",
+        "league": "bundesliga",
+        "name": "VfB Gaggenau",
+        "hash": "f58d802f"
+      },
+      "leher-turnerschaft": {
+        "slug": "leher-turnerschaft",
+        "league": "bundesliga",
+        "name": "Leher Turnerschaft",
+        "hash": "f8a33338"
+      },
+      "sv-schalding-heining": {
+        "slug": "sv-schalding-heining",
+        "league": "bundesliga",
+        "name": "SV Schalding-Heining",
+        "hash": "def821fe"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T11:20:10.452Z",
+  "generatedAt": "2026-09-30T12:08:08.464Z",
   "country": {
     "slug": "argentina",
     "iso2": "AR",
@@ -832,6 +832,12 @@
         "league": "argentina-primera-division",
         "name": "Guaraní Antonio Franco",
         "hash": "1e7cbc39"
+      },
+      "atletico-rafaela": {
+        "slug": "atletico-rafaela",
+        "league": "argentina-primera-division",
+        "name": "Atlético de Rafaela",
+        "hash": "e7a8f2d4"
       }
     }
   }

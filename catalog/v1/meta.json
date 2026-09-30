@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T12:22:39.520Z",
+  "generatedAt": "2026-09-30T12:08:08.464Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -65,7 +65,7 @@
       "iso2": "AR",
       "name": "Argentina",
       "defaultLeague": "argentina-primera-division",
-      "clubCount": 133
+      "clubCount": 134
     },
     {
       "slug": "armenia",
@@ -513,7 +513,7 @@
       "iso2": "FR",
       "name": "France",
       "defaultLeague": "ligue-1",
-      "clubCount": 262
+      "clubCount": 266
     },
     {
       "slug": "french-guiana",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 247
+      "clubCount": 250
     },
     {
       "slug": "ghana",
@@ -933,7 +933,7 @@
       "iso2": "ME",
       "name": "Montenegro",
       "defaultLeague": "montenegro-national-team",
-      "clubCount": 11
+      "clubCount": 12
     },
     {
       "slug": "montserrat",
@@ -1115,7 +1115,7 @@
       "iso2": "PE",
       "name": "Peru",
       "defaultLeague": "peruvian-primera-division",
-      "clubCount": 27
+      "clubCount": 28
     },
     {
       "slug": "philippines",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "fa203d6dd8a3a344"
+  "contentHash": "b218e6819f0f2590"
 }
