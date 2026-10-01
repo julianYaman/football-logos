@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T12:08:08.464Z",
+  "generatedAt": "2026-10-01T12:41:16.595Z",
   "country": {
     "slug": "france",
     "iso2": "FR",
@@ -1640,6 +1640,24 @@
         "league": "ligue-1",
         "name": "Stade Montois football",
         "hash": "115eee8a"
+      },
+      "us-gravelines-football": {
+        "slug": "us-gravelines-football",
+        "league": "ligue-1",
+        "name": "US Gravelines Football",
+        "hash": "fca67976"
+      },
+      "salon-bel-air-foot": {
+        "slug": "salon-bel-air-foot",
+        "league": "ligue-1",
+        "name": "Salon Bel Air Foot",
+        "hash": "f9d7edf8"
+      },
+      "ac-arlesien": {
+        "slug": "ac-arlesien",
+        "league": "ligue-1",
+        "name": "AC Arlésien",
+        "hash": "012a8699"
       }
     }
   }

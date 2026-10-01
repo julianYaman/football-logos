@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T12:08:08.464Z",
+  "generatedAt": "2026-10-01T12:41:16.595Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -287,6 +287,12 @@
           "name": "Paradou AC",
           "hash": "2d652149",
           "league": ""
+        },
+        "sc-bel-abbes": {
+          "slug": "sc-bel-abbes",
+          "league": "ligue-1",
+          "name": "SC Bel Abbès",
+          "hash": "76abfeb5"
         }
       }
     },
@@ -1251,6 +1257,18 @@
           "league": "argentina-primera-division",
           "name": "Atlético de Rafaela",
           "hash": "e7a8f2d4"
+        },
+        "kimberley-mar-del-plata": {
+          "slug": "kimberley-mar-del-plata",
+          "league": "argentina-primera-division",
+          "name": "Kimberley de Mar del Plata",
+          "hash": "6de15cf9"
+        },
+        "boca-unidos": {
+          "slug": "boca-unidos",
+          "league": "argentina-primera-division",
+          "name": "Boca Unidos",
+          "hash": "8155eefa"
         }
       }
     },
@@ -10651,6 +10669,24 @@
           "league": "ligue-1",
           "name": "Stade Montois football",
           "hash": "115eee8a"
+        },
+        "us-gravelines-football": {
+          "slug": "us-gravelines-football",
+          "league": "ligue-1",
+          "name": "US Gravelines Football",
+          "hash": "fca67976"
+        },
+        "salon-bel-air-foot": {
+          "slug": "salon-bel-air-foot",
+          "league": "ligue-1",
+          "name": "Salon Bel Air Foot",
+          "hash": "f9d7edf8"
+        },
+        "ac-arlesien": {
+          "slug": "ac-arlesien",
+          "league": "ligue-1",
+          "name": "AC Arlésien",
+          "hash": "012a8699"
         }
       }
     },
@@ -12415,6 +12451,18 @@
           "league": "bundesliga",
           "name": "SV Schalding-Heining",
           "hash": "def821fe"
+        },
+        "sv-buchonia-flieden": {
+          "slug": "sv-buchonia-flieden",
+          "league": "bundesliga",
+          "name": "SV Buchonia Flieden",
+          "hash": "6d7c793e"
+        },
+        "hamborn-07": {
+          "slug": "hamborn-07",
+          "league": "bundesliga",
+          "name": "Hamborn 07",
+          "hash": "d547cb5e"
         }
       }
     },
@@ -25109,6 +25157,12 @@
           "league": "la-liga",
           "name": "CF Villanovense",
           "hash": "4e79456c"
+        },
+        "san-fernando-cd": {
+          "slug": "san-fernando-cd",
+          "league": "la-liga",
+          "name": "San Fernando CD",
+          "hash": "a2f79890"
         }
       }
     },
@@ -26770,6 +26824,12 @@
           "name": "Osmanlıspor",
           "hash": "94476761",
           "league": ""
+        },
+        "aydinspor": {
+          "slug": "aydinspor",
+          "league": "super-lig",
+          "name": "Aydınspor",
+          "hash": "8fb399a5"
         }
       }
     },
@@ -29205,5 +29265,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "b218e6819f0f2590"
+  "contentHash": "c0a63bfb9e6aed9f"
 }

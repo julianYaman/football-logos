@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T12:08:08.464Z",
+  "generatedAt": "2026-10-01T12:41:16.595Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -23,7 +23,7 @@
       "iso2": "DZ",
       "name": "Algeria",
       "defaultLeague": "ligue-1",
-      "clubCount": 19
+      "clubCount": 20
     },
     {
       "slug": "american-samoa",
@@ -65,7 +65,7 @@
       "iso2": "AR",
       "name": "Argentina",
       "defaultLeague": "argentina-primera-division",
-      "clubCount": 134
+      "clubCount": 136
     },
     {
       "slug": "armenia",
@@ -513,7 +513,7 @@
       "iso2": "FR",
       "name": "France",
       "defaultLeague": "ligue-1",
-      "clubCount": 266
+      "clubCount": 269
     },
     {
       "slug": "french-guiana",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 250
+      "clubCount": 252
     },
     {
       "slug": "ghana",
@@ -1339,7 +1339,7 @@
       "iso2": "ES",
       "name": "Spain",
       "defaultLeague": "la-liga",
-      "clubCount": 166
+      "clubCount": 167
     },
     {
       "slug": "sri-lanka",
@@ -1472,7 +1472,7 @@
       "iso2": "TR",
       "name": "Turkey",
       "defaultLeague": "super-lig",
-      "clubCount": 77
+      "clubCount": 78
     },
     {
       "slug": "turkmenistan",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "b218e6819f0f2590"
+  "contentHash": "c0a63bfb9e6aed9f"
 }
