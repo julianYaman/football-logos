@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T12:41:16.595Z",
+  "generatedAt": "2026-10-02T12:05:55.440Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1582,6 +1582,36 @@
         "league": "bundesliga",
         "name": "Hamborn 07",
         "hash": "d547cb5e"
+      },
+      "karlsruher-fv": {
+        "slug": "karlsruher-fv",
+        "league": "bundesliga",
+        "name": "Karlsruher FV",
+        "hash": "7664297e"
+      },
+      "tsv-milbertshofen": {
+        "slug": "tsv-milbertshofen",
+        "league": "bundesliga",
+        "name": "TSV Milbertshofen",
+        "hash": "b957c29c"
+      },
+      "sv-rugenbergen": {
+        "slug": "sv-rugenbergen",
+        "league": "bundesliga",
+        "name": "SV Rugenbergen",
+        "hash": "b5b3cb65"
+      },
+      "sv-lichtenberg-47": {
+        "slug": "sv-lichtenberg-47",
+        "league": "bundesliga",
+        "name": "SV Lichtenberg 47",
+        "hash": "87a982b7"
+      },
+      "sv-wehen-wiesbaden": {
+        "slug": "sv-wehen-wiesbaden",
+        "league": "bundesliga",
+        "name": "SV Wehen Wiesbaden",
+        "hash": "4db48149"
       }
     }
   }

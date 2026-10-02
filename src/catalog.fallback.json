@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T12:41:16.595Z",
+  "generatedAt": "2026-10-02T12:05:55.440Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -1269,6 +1269,18 @@
           "league": "argentina-primera-division",
           "name": "Boca Unidos",
           "hash": "8155eefa"
+        },
+        "boca-rio-gallegos": {
+          "slug": "boca-rio-gallegos",
+          "league": "argentina-primera-division",
+          "name": "Boca Río Gallegos",
+          "hash": "05d5c93e"
+        },
+        "union-sunchales": {
+          "slug": "union-sunchales",
+          "league": "argentina-primera-division",
+          "name": "Unión de Sunchales",
+          "hash": "174453c7"
         }
       }
     },
@@ -1494,6 +1506,12 @@
           "league": "a-league",
           "name": "Gold Coast United",
           "hash": "138f16b8"
+        },
+        "marconi-stallions": {
+          "slug": "marconi-stallions",
+          "league": "a-league",
+          "name": "Marconi Stallions",
+          "hash": "aafcc864"
         }
       }
     },
@@ -10687,6 +10705,24 @@
           "league": "ligue-1",
           "name": "AC Arlésien",
           "hash": "012a8699"
+        },
+        "rc-lons": {
+          "slug": "rc-lons",
+          "league": "ligue-1",
+          "name": "RC Lons",
+          "hash": "d92f784e"
+        },
+        "gallia-club-olympique-bihorellais": {
+          "slug": "gallia-club-olympique-bihorellais",
+          "league": "ligue-1",
+          "name": "Gallia Club Olympique Bihorellais",
+          "hash": "f23ed333"
+        },
+        "avenir-foot-lozere": {
+          "slug": "avenir-foot-lozere",
+          "league": "ligue-1",
+          "name": "Avenir Foot Lozère",
+          "hash": "dba8df5a"
         }
       }
     },
@@ -12463,6 +12499,36 @@
           "league": "bundesliga",
           "name": "Hamborn 07",
           "hash": "d547cb5e"
+        },
+        "karlsruher-fv": {
+          "slug": "karlsruher-fv",
+          "league": "bundesliga",
+          "name": "Karlsruher FV",
+          "hash": "7664297e"
+        },
+        "tsv-milbertshofen": {
+          "slug": "tsv-milbertshofen",
+          "league": "bundesliga",
+          "name": "TSV Milbertshofen",
+          "hash": "b957c29c"
+        },
+        "sv-rugenbergen": {
+          "slug": "sv-rugenbergen",
+          "league": "bundesliga",
+          "name": "SV Rugenbergen",
+          "hash": "b5b3cb65"
+        },
+        "sv-lichtenberg-47": {
+          "slug": "sv-lichtenberg-47",
+          "league": "bundesliga",
+          "name": "SV Lichtenberg 47",
+          "hash": "87a982b7"
+        },
+        "sv-wehen-wiesbaden": {
+          "slug": "sv-wehen-wiesbaden",
+          "league": "bundesliga",
+          "name": "SV Wehen Wiesbaden",
+          "hash": "4db48149"
         }
       }
     },
@@ -12940,6 +13006,18 @@
           "name": "Apollon Smyrnis",
           "hash": "e286c0ce",
           "league": ""
+        },
+        "ao-nea-ionia": {
+          "slug": "ao-nea-ionia",
+          "league": "super-league-1",
+          "name": "AO Nea Ionia",
+          "hash": "34f2947e"
+        },
+        "almopos-aridaia": {
+          "slug": "almopos-aridaia",
+          "league": "super-league-1",
+          "name": "Almopos Aridaia",
+          "hash": "6a781bc0"
         }
       }
     },
@@ -20273,6 +20351,12 @@
           "league": "peruvian-primera-division",
           "name": "Sportivo Huracán",
           "hash": "eeca5b1c"
+        },
+        "universidad-san-martin": {
+          "slug": "universidad-san-martin",
+          "league": "peruvian-primera-division",
+          "name": "Universidad San Martín",
+          "hash": "dc3054cf"
         }
       }
     },
@@ -29265,5 +29349,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "c0a63bfb9e6aed9f"
+  "contentHash": "376785c44460407b"
 }

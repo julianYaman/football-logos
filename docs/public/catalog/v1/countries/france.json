@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T12:41:16.595Z",
+  "generatedAt": "2026-10-02T12:05:55.440Z",
   "country": {
     "slug": "france",
     "iso2": "FR",
@@ -1658,6 +1658,24 @@
         "league": "ligue-1",
         "name": "AC Arlésien",
         "hash": "012a8699"
+      },
+      "rc-lons": {
+        "slug": "rc-lons",
+        "league": "ligue-1",
+        "name": "RC Lons",
+        "hash": "d92f784e"
+      },
+      "gallia-club-olympique-bihorellais": {
+        "slug": "gallia-club-olympique-bihorellais",
+        "league": "ligue-1",
+        "name": "Gallia Club Olympique Bihorellais",
+        "hash": "f23ed333"
+      },
+      "avenir-foot-lozere": {
+        "slug": "avenir-foot-lozere",
+        "league": "ligue-1",
+        "name": "Avenir Foot Lozère",
+        "hash": "dba8df5a"
       }
     }
   }

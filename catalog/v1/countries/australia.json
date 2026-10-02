@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T12:18:33.107Z",
+  "generatedAt": "2026-10-02T12:05:55.440Z",
   "country": {
     "slug": "australia",
     "iso2": "AU",
@@ -115,6 +115,12 @@
         "league": "a-league",
         "name": "Gold Coast United",
         "hash": "138f16b8"
+      },
+      "marconi-stallions": {
+        "slug": "marconi-stallions",
+        "league": "a-league",
+        "name": "Marconi Stallions",
+        "hash": "aafcc864"
       }
     }
   }
