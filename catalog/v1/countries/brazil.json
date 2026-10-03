@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T12:22:39.520Z",
+  "generatedAt": "2026-10-03T11:17:24.336Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1252,6 +1252,18 @@
         "league": "brazilian-serie-a",
         "name": "Bagé",
         "hash": "2b748989"
+      },
+      "america-sp": {
+        "slug": "america-sp",
+        "league": "brazilian-serie-a",
+        "name": "América-SP",
+        "hash": "a06f4ce3"
+      },
+      "america-am": {
+        "slug": "america-am",
+        "league": "brazilian-serie-a",
+        "name": "América-AM",
+        "hash": "a8ebd20f"
       }
     }
   }

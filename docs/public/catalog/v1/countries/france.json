@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T12:05:55.440Z",
+  "generatedAt": "2026-10-03T11:17:24.336Z",
   "country": {
     "slug": "france",
     "iso2": "FR",
@@ -1676,6 +1676,30 @@
         "league": "ligue-1",
         "name": "Avenir Foot Lozère",
         "hash": "dba8df5a"
+      },
+      "as-porto-vecchio": {
+        "slug": "as-porto-vecchio",
+        "league": "ligue-1",
+        "name": "AS Porto Vecchio",
+        "hash": "8133c591"
+      },
+      "fc-bassin-piennois": {
+        "slug": "fc-bassin-piennois",
+        "league": "ligue-1",
+        "name": "FC Bassin Piennois",
+        "hash": "0332104c"
+      },
+      "pacy-menilles-racing-club": {
+        "slug": "pacy-menilles-racing-club",
+        "league": "ligue-1",
+        "name": "Pacy Ménilles Racing Club",
+        "hash": "ac8efc10"
+      },
+      "oc-chateaudun": {
+        "slug": "oc-chateaudun",
+        "league": "ligue-1",
+        "name": "OC Châteaudun",
+        "hash": "047b720d"
       }
     }
   }

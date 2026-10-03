@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T12:41:16.595Z",
+  "generatedAt": "2026-10-03T11:17:24.336Z",
   "country": {
     "slug": "turkey",
     "iso2": "TR",
@@ -507,6 +507,24 @@
         "league": "super-lig",
         "name": "Aydınspor",
         "hash": "8fb399a5"
+      },
+      "bakirkoyspor": {
+        "slug": "bakirkoyspor",
+        "league": "super-lig",
+        "name": "Bakırköyspor",
+        "hash": "f1860d50"
+      },
+      "adiyamanspor": {
+        "slug": "adiyamanspor",
+        "league": "super-lig",
+        "name": "Adıyamanspor",
+        "hash": "b1b7d84b"
+      },
+      "kardemir-karabukspor": {
+        "slug": "kardemir-karabukspor",
+        "league": "super-lig",
+        "name": "Kardemir Karabükspor",
+        "hash": "4eab236d"
       }
     }
   }

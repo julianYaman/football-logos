@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T12:05:55.440Z",
+  "generatedAt": "2026-10-03T11:17:24.336Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1612,6 +1612,18 @@
         "league": "bundesliga",
         "name": "SV Wehen Wiesbaden",
         "hash": "4db48149"
+      },
+      "1-fc-greiz": {
+        "slug": "1-fc-greiz",
+        "league": "bundesliga",
+        "name": "1. FC Greiz",
+        "hash": "49acc817"
+      },
+      "vfb-possneck": {
+        "slug": "vfb-possneck",
+        "league": "bundesliga",
+        "name": "VfB Pößneck",
+        "hash": "0e642f1e"
       }
     }
   }

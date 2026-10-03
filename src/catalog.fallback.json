@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T12:05:55.440Z",
+  "generatedAt": "2026-10-03T11:17:24.336Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -1281,6 +1281,18 @@
           "league": "argentina-primera-division",
           "name": "Unión de Sunchales",
           "hash": "174453c7"
+        },
+        "gimnasia-concepcion-del-uruguay": {
+          "slug": "gimnasia-concepcion-del-uruguay",
+          "league": "argentina-primera-division",
+          "name": "Gimnasia de Concepción del Uruguay",
+          "hash": "fef3d377"
+        },
+        "santamarina": {
+          "slug": "santamarina",
+          "league": "argentina-primera-division",
+          "name": "Santamarina",
+          "hash": "55eae07d"
         }
       }
     },
@@ -4016,6 +4028,18 @@
           "league": "brazilian-serie-a",
           "name": "Bagé",
           "hash": "2b748989"
+        },
+        "america-sp": {
+          "slug": "america-sp",
+          "league": "brazilian-serie-a",
+          "name": "América-SP",
+          "hash": "a06f4ce3"
+        },
+        "america-am": {
+          "slug": "america-am",
+          "league": "brazilian-serie-a",
+          "name": "América-AM",
+          "hash": "a8ebd20f"
         }
       }
     },
@@ -10723,6 +10747,30 @@
           "league": "ligue-1",
           "name": "Avenir Foot Lozère",
           "hash": "dba8df5a"
+        },
+        "as-porto-vecchio": {
+          "slug": "as-porto-vecchio",
+          "league": "ligue-1",
+          "name": "AS Porto Vecchio",
+          "hash": "8133c591"
+        },
+        "fc-bassin-piennois": {
+          "slug": "fc-bassin-piennois",
+          "league": "ligue-1",
+          "name": "FC Bassin Piennois",
+          "hash": "0332104c"
+        },
+        "pacy-menilles-racing-club": {
+          "slug": "pacy-menilles-racing-club",
+          "league": "ligue-1",
+          "name": "Pacy Ménilles Racing Club",
+          "hash": "ac8efc10"
+        },
+        "oc-chateaudun": {
+          "slug": "oc-chateaudun",
+          "league": "ligue-1",
+          "name": "OC Châteaudun",
+          "hash": "047b720d"
         }
       }
     },
@@ -12529,6 +12577,18 @@
           "league": "bundesliga",
           "name": "SV Wehen Wiesbaden",
           "hash": "4db48149"
+        },
+        "1-fc-greiz": {
+          "slug": "1-fc-greiz",
+          "league": "bundesliga",
+          "name": "1. FC Greiz",
+          "hash": "49acc817"
+        },
+        "vfb-possneck": {
+          "slug": "vfb-possneck",
+          "league": "bundesliga",
+          "name": "VfB Pößneck",
+          "hash": "0e642f1e"
         }
       }
     },
@@ -26914,6 +26974,24 @@
           "league": "super-lig",
           "name": "Aydınspor",
           "hash": "8fb399a5"
+        },
+        "bakirkoyspor": {
+          "slug": "bakirkoyspor",
+          "league": "super-lig",
+          "name": "Bakırköyspor",
+          "hash": "f1860d50"
+        },
+        "adiyamanspor": {
+          "slug": "adiyamanspor",
+          "league": "super-lig",
+          "name": "Adıyamanspor",
+          "hash": "b1b7d84b"
+        },
+        "kardemir-karabukspor": {
+          "slug": "kardemir-karabukspor",
+          "league": "super-lig",
+          "name": "Kardemir Karabükspor",
+          "hash": "4eab236d"
         }
       }
     },
@@ -29349,5 +29427,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "376785c44460407b"
+  "contentHash": "93906f8b341b43a0"
 }
