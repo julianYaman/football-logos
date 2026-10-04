@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T12:05:55.440Z",
+  "generatedAt": "2026-10-04T11:57:18.760Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -270,6 +270,18 @@
         "league": "super-league-1",
         "name": "Almopos Aridaia",
         "hash": "6a781bc0"
+      },
+      "ao-koropi": {
+        "slug": "ao-koropi",
+        "league": "super-league-1",
+        "name": "AO Koropi",
+        "hash": "637566c6"
+      },
+      "asteras-petriti": {
+        "slug": "asteras-petriti",
+        "league": "super-league-1",
+        "name": "Asteras Petriti",
+        "hash": "44813e2f"
       }
     }
   }

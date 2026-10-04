@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:17:24.336Z",
+  "generatedAt": "2026-10-04T11:57:18.760Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1624,6 +1624,24 @@
         "league": "bundesliga",
         "name": "VfB Pößneck",
         "hash": "0e642f1e"
+      },
+      "fc-eintracht-bamberg": {
+        "slug": "fc-eintracht-bamberg",
+        "league": "bundesliga",
+        "name": "FC Eintracht Bamberg",
+        "hash": "75605035"
+      },
+      "sv-seligenporten": {
+        "slug": "sv-seligenporten",
+        "league": "bundesliga",
+        "name": "SV Seligenporten",
+        "hash": "856ad27c"
+      },
+      "svn-zweibrucken": {
+        "slug": "svn-zweibrucken",
+        "league": "bundesliga",
+        "name": "SVN Zweibrücken",
+        "hash": "30af56d4"
       }
     }
   }

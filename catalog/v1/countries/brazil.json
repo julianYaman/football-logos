@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:17:24.336Z",
+  "generatedAt": "2026-10-04T11:57:18.760Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1264,6 +1264,12 @@
         "league": "brazilian-serie-a",
         "name": "América-AM",
         "hash": "a8ebd20f"
+      },
+      "novo-hamburgo": {
+        "slug": "novo-hamburgo",
+        "league": "brazilian-serie-a",
+        "name": "Novo Hamburgo",
+        "hash": "0118c747"
       }
     }
   }

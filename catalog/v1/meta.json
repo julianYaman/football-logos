@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:17:24.336Z",
+  "generatedAt": "2026-10-04T11:57:18.760Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -65,7 +65,7 @@
       "iso2": "AR",
       "name": "Argentina",
       "defaultLeague": "argentina-primera-division",
-      "clubCount": 140
+      "clubCount": 141
     },
     {
       "slug": "armenia",
@@ -205,7 +205,7 @@
       "iso2": "BR",
       "name": "Brazil",
       "defaultLeague": "brazilian-serie-a",
-      "clubCount": 205
+      "clubCount": 206
     },
     {
       "slug": "british-virgin-islands",
@@ -513,7 +513,7 @@
       "iso2": "FR",
       "name": "France",
       "defaultLeague": "ligue-1",
-      "clubCount": 276
+      "clubCount": 279
     },
     {
       "slug": "french-guiana",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 259
+      "clubCount": 262
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 41
+      "clubCount": 43
     },
     {
       "slug": "greenland",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "93906f8b341b43a0"
+  "contentHash": "f3556146d1523a84"
 }

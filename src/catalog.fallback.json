@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:17:24.336Z",
+  "generatedAt": "2026-10-04T11:57:18.760Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -1293,6 +1293,12 @@
           "league": "argentina-primera-division",
           "name": "Santamarina",
           "hash": "55eae07d"
+        },
+        "atenas-rio-cuarto": {
+          "slug": "atenas-rio-cuarto",
+          "league": "argentina-primera-division",
+          "name": "Atenas de Río Cuarto",
+          "hash": "32560144"
         }
       }
     },
@@ -4040,6 +4046,12 @@
           "league": "brazilian-serie-a",
           "name": "América-AM",
           "hash": "a8ebd20f"
+        },
+        "novo-hamburgo": {
+          "slug": "novo-hamburgo",
+          "league": "brazilian-serie-a",
+          "name": "Novo Hamburgo",
+          "hash": "0118c747"
         }
       }
     },
@@ -10771,6 +10783,24 @@
           "league": "ligue-1",
           "name": "OC Châteaudun",
           "hash": "047b720d"
+        },
+        "us-reipertswiller": {
+          "slug": "us-reipertswiller",
+          "league": "ligue-1",
+          "name": "US Reipertswiller",
+          "hash": "c044f9d1"
+        },
+        "us-maubeuge": {
+          "slug": "us-maubeuge",
+          "league": "ligue-1",
+          "name": "US Maubeuge",
+          "hash": "842cdc2c"
+        },
+        "us-change": {
+          "slug": "us-change",
+          "league": "ligue-1",
+          "name": "US Changé",
+          "hash": "b7f36903"
         }
       }
     },
@@ -12589,6 +12619,24 @@
           "league": "bundesliga",
           "name": "VfB Pößneck",
           "hash": "0e642f1e"
+        },
+        "fc-eintracht-bamberg": {
+          "slug": "fc-eintracht-bamberg",
+          "league": "bundesliga",
+          "name": "FC Eintracht Bamberg",
+          "hash": "75605035"
+        },
+        "sv-seligenporten": {
+          "slug": "sv-seligenporten",
+          "league": "bundesliga",
+          "name": "SV Seligenporten",
+          "hash": "856ad27c"
+        },
+        "svn-zweibrucken": {
+          "slug": "svn-zweibrucken",
+          "league": "bundesliga",
+          "name": "SVN Zweibrücken",
+          "hash": "30af56d4"
         }
       }
     },
@@ -13078,6 +13126,18 @@
           "league": "super-league-1",
           "name": "Almopos Aridaia",
           "hash": "6a781bc0"
+        },
+        "ao-koropi": {
+          "slug": "ao-koropi",
+          "league": "super-league-1",
+          "name": "AO Koropi",
+          "hash": "637566c6"
+        },
+        "asteras-petriti": {
+          "slug": "asteras-petriti",
+          "league": "super-league-1",
+          "name": "Asteras Petriti",
+          "hash": "44813e2f"
         }
       }
     },
@@ -29427,5 +29487,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "93906f8b341b43a0"
+  "contentHash": "f3556146d1523a84"
 }
