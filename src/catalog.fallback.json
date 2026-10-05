@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T11:57:18.760Z",
+  "generatedAt": "2026-10-05T13:57:19.758Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -4052,6 +4052,18 @@
           "league": "brazilian-serie-a",
           "name": "Novo Hamburgo",
           "hash": "0118c747"
+        },
+        "cruzeiro-women": {
+          "slug": "cruzeiro-women",
+          "league": "brazilian-serie-a",
+          "name": "Cruzeiro Women",
+          "hash": "22d790b6"
+        },
+        "rio-branco-sp": {
+          "slug": "rio-branco-sp",
+          "league": "brazilian-serie-a",
+          "name": "Rio Branco-SP",
+          "hash": "541feb5b"
         }
       }
     },
@@ -10801,6 +10813,24 @@
           "league": "ligue-1",
           "name": "US Changé",
           "hash": "b7f36903"
+        },
+        "as-talange": {
+          "slug": "as-talange",
+          "league": "ligue-1",
+          "name": "AS Talange",
+          "hash": "c7b5e844"
+        },
+        "as-frontignan-ac": {
+          "slug": "as-frontignan-ac",
+          "league": "ligue-1",
+          "name": "AS Frontignan AC",
+          "hash": "321310d0"
+        },
+        "arras-fa": {
+          "slug": "arras-fa",
+          "league": "ligue-1",
+          "name": "Arras FA",
+          "hash": "6f8d3a33"
         }
       }
     },
@@ -12637,6 +12667,18 @@
           "league": "bundesliga",
           "name": "SVN Zweibrücken",
           "hash": "30af56d4"
+        },
+        "hassia-bingen": {
+          "slug": "hassia-bingen",
+          "league": "bundesliga",
+          "name": "Hassia Bingen",
+          "hash": "31d8d5a1"
+        },
+        "mulheimer-sv-06": {
+          "slug": "mulheimer-sv-06",
+          "league": "bundesliga",
+          "name": "Mülheimer SV 06",
+          "hash": "464460d3"
         }
       }
     },
@@ -13138,6 +13180,18 @@
           "league": "super-league-1",
           "name": "Asteras Petriti",
           "hash": "44813e2f"
+        },
+        "panelefsiniakos": {
+          "slug": "panelefsiniakos",
+          "league": "super-league-1",
+          "name": "Panelefsiniakos",
+          "hash": "1b55755c"
+        },
+        "fostiras": {
+          "slug": "fostiras",
+          "league": "super-league-1",
+          "name": "Fostiras",
+          "hash": "1b32a9c4"
         }
       }
     },
@@ -29487,5 +29541,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "f3556146d1523a84"
+  "contentHash": "93e2921ac9a84938"
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T11:57:18.760Z",
+  "generatedAt": "2026-10-05T13:57:19.758Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1642,6 +1642,18 @@
         "league": "bundesliga",
         "name": "SVN Zweibrücken",
         "hash": "30af56d4"
+      },
+      "hassia-bingen": {
+        "slug": "hassia-bingen",
+        "league": "bundesliga",
+        "name": "Hassia Bingen",
+        "hash": "31d8d5a1"
+      },
+      "mulheimer-sv-06": {
+        "slug": "mulheimer-sv-06",
+        "league": "bundesliga",
+        "name": "Mülheimer SV 06",
+        "hash": "464460d3"
       }
     }
   }
