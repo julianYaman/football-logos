@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T13:57:19.758Z",
+  "generatedAt": "2026-10-06T12:59:45.671Z",
   "country": {
     "slug": "france",
     "iso2": "FR",
@@ -1736,6 +1736,24 @@
         "league": "ligue-1",
         "name": "Arras FA",
         "hash": "6f8d3a33"
+      },
+      "sc-hazebrouck": {
+        "slug": "sc-hazebrouck",
+        "league": "ligue-1",
+        "name": "SC Hazebrouck",
+        "hash": "d8c260e2"
+      },
+      "sud-nivernais-imphy-decize": {
+        "slug": "sud-nivernais-imphy-decize",
+        "league": "ligue-1",
+        "name": "Sud Nivernais Imphy Decize",
+        "hash": "b3e5eab4"
+      },
+      "as-ifs": {
+        "slug": "as-ifs",
+        "league": "ligue-1",
+        "name": "AS Ifs",
+        "hash": "5cb35642"
       }
     }
   }

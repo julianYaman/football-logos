@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T13:57:19.758Z",
+  "generatedAt": "2026-10-06T12:59:45.671Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1654,6 +1654,24 @@
         "league": "bundesliga",
         "name": "Mülheimer SV 06",
         "hash": "464460d3"
+      },
+      "sc-siemensstadt": {
+        "slug": "sc-siemensstadt",
+        "league": "bundesliga",
+        "name": "SC Siemensstadt",
+        "hash": "1b72306a"
+      },
+      "djk-germania-gladbeck": {
+        "slug": "djk-germania-gladbeck",
+        "league": "bundesliga",
+        "name": "DJK Germania Gladbeck",
+        "hash": "7f814ee6"
+      },
+      "hammer-spvg": {
+        "slug": "hammer-spvg",
+        "league": "bundesliga",
+        "name": "Hammer SpVg",
+        "hash": "0c7a32dd"
       }
     }
   }

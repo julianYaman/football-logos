@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T13:57:19.758Z",
+  "generatedAt": "2026-10-06T12:59:45.671Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -513,7 +513,7 @@
       "iso2": "FR",
       "name": "France",
       "defaultLeague": "ligue-1",
-      "clubCount": 282
+      "clubCount": 285
     },
     {
       "slug": "french-guiana",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 264
+      "clubCount": 267
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 45
+      "clubCount": 46
     },
     {
       "slug": "greenland",
@@ -1339,7 +1339,7 @@
       "iso2": "ES",
       "name": "Spain",
       "defaultLeague": "la-liga",
-      "clubCount": 167
+      "clubCount": 168
     },
     {
       "slug": "sri-lanka",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "93e2921ac9a84938"
+  "contentHash": "57f2ed8c9316cc7f"
 }

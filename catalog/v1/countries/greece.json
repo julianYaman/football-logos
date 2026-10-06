@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T13:57:19.758Z",
+  "generatedAt": "2026-10-06T12:59:45.671Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -294,6 +294,12 @@
         "league": "super-league-1",
         "name": "Fostiras",
         "hash": "1b32a9c4"
+      },
+      "pandramaikos": {
+        "slug": "pandramaikos",
+        "league": "super-league-1",
+        "name": "Pandramaikos",
+        "hash": "7321c4e5"
       }
     }
   }

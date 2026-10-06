@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T13:57:19.758Z",
+  "generatedAt": "2026-10-06T12:59:45.671Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -10831,6 +10831,24 @@
           "league": "ligue-1",
           "name": "Arras FA",
           "hash": "6f8d3a33"
+        },
+        "sc-hazebrouck": {
+          "slug": "sc-hazebrouck",
+          "league": "ligue-1",
+          "name": "SC Hazebrouck",
+          "hash": "d8c260e2"
+        },
+        "sud-nivernais-imphy-decize": {
+          "slug": "sud-nivernais-imphy-decize",
+          "league": "ligue-1",
+          "name": "Sud Nivernais Imphy Decize",
+          "hash": "b3e5eab4"
+        },
+        "as-ifs": {
+          "slug": "as-ifs",
+          "league": "ligue-1",
+          "name": "AS Ifs",
+          "hash": "5cb35642"
         }
       }
     },
@@ -12679,6 +12697,24 @@
           "league": "bundesliga",
           "name": "Mülheimer SV 06",
           "hash": "464460d3"
+        },
+        "sc-siemensstadt": {
+          "slug": "sc-siemensstadt",
+          "league": "bundesliga",
+          "name": "SC Siemensstadt",
+          "hash": "1b72306a"
+        },
+        "djk-germania-gladbeck": {
+          "slug": "djk-germania-gladbeck",
+          "league": "bundesliga",
+          "name": "DJK Germania Gladbeck",
+          "hash": "7f814ee6"
+        },
+        "hammer-spvg": {
+          "slug": "hammer-spvg",
+          "league": "bundesliga",
+          "name": "Hammer SpVg",
+          "hash": "0c7a32dd"
         }
       }
     },
@@ -13192,6 +13228,12 @@
           "league": "super-league-1",
           "name": "Fostiras",
           "hash": "1b32a9c4"
+        },
+        "pandramaikos": {
+          "slug": "pandramaikos",
+          "league": "super-league-1",
+          "name": "Pandramaikos",
+          "hash": "7321c4e5"
         }
       }
     },
@@ -25421,6 +25463,12 @@
           "league": "la-liga",
           "name": "San Fernando CD",
           "hash": "a2f79890"
+        },
+        "cp-el-ejido": {
+          "slug": "cp-el-ejido",
+          "league": "la-liga",
+          "name": "CP El Ejido",
+          "hash": "48607b6b"
         }
       }
     },
@@ -29541,5 +29589,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "93e2921ac9a84938"
+  "contentHash": "57f2ed8c9316cc7f"
 }
