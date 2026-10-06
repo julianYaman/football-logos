@@ -107,6 +107,11 @@
       "optional": true
     }
   },
+  "overrides": {
+    "vitepress": {
+      "vite": "6.4.4"
+    }
+  },
   "devDependencies": {
     "@astrojs/compiler": "^4.0.0",
     "@sveltejs/vite-plugin-svelte": "^7.3.0",
