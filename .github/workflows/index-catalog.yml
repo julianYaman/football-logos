@@ -7,6 +7,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: index-catalog
@@ -16,6 +18,9 @@ jobs:
   index:
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+      sha: ${{ steps.commit.outputs.sha }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -30,13 +35,29 @@ jobs:
         run: npx playwright install --with-deps chromium
       - run: npm run index-catalog -- --from-new
       - name: Commit catalog updates
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add catalog/v1 docs/public/catalog/v1 src/catalog.fallback.json
           if git diff --cached --quiet; then
             echo "Catalog unchanged"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git commit -m "Refresh football-logos.cc catalog from /new/"
           git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+  # GITHUB_TOKEN pushes do not trigger docs.yml on push, so call it here.
+  docs:
+    needs: index
+    if: needs.index.outputs.changed == 'true'
+    uses: ./.github/workflows/docs.yml
+    with:
+      ref: ${{ needs.index.outputs.sha }}
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
