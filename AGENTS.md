@@ -22,7 +22,7 @@ Read `CONTEXT.md` for domain language. Component name is **FootballLogo**. `coun
 | `scripts/catalog-parse.mjs` | Shared HTML extract/classify used by the indexer, including `/new/` ingest |
 | `scripts/extract-server.mjs` | Local POST `/extract` helper when Node cannot reach football-logos.cc |
 | `docs/` | VitePress site (intended host: football-logos.yamanlabs.com) |
-| `.github/workflows/` | `ci.yml`, `index-catalog.yml` (daily 06:00 UTC from `/new/`), `docs.yml` (GitHub Pages) |
+| `.github/workflows/` | `ci.yml`, `index-catalog.yml` (daily 06:00 UTC from `/new/`; redeploys docs when the catalog changes), `docs.yml` (GitHub Pages) |
 
 Wrappers stay thin: call the resolver, render an `img`, show a placeholder (or slot) on `LogoResolveError`. Do not duplicate catalog logic in a framework file.
 
