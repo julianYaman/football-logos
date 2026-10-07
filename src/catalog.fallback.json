@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T12:59:45.671Z",
+  "generatedAt": "2026-10-07T12:53:11.832Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -8618,6 +8618,12 @@
           "league": "english-premier-league",
           "name": "Fleet Town FC",
           "hash": "237deef9"
+        },
+        "bishop-auckland": {
+          "slug": "bishop-auckland",
+          "league": "english-premier-league",
+          "name": "Bishop Auckland",
+          "hash": "5e26925e"
         }
       }
     },
@@ -10849,6 +10855,36 @@
           "league": "ligue-1",
           "name": "AS Ifs",
           "hash": "5cb35642"
+        },
+        "vannes-olympique-club": {
+          "slug": "vannes-olympique-club",
+          "league": "ligue-1",
+          "name": "Vannes Olympique Club",
+          "hash": "1bdd6bc2"
+        },
+        "rco-agde": {
+          "slug": "rco-agde",
+          "league": "ligue-1",
+          "name": "RCO Agde",
+          "hash": "2f8b0dc1"
+        },
+        "usc-corte": {
+          "slug": "usc-corte",
+          "league": "ligue-1",
+          "name": "USC Corte",
+          "hash": "18d1dc33"
+        },
+        "stade-heninois": {
+          "slug": "stade-heninois",
+          "league": "ligue-1",
+          "name": "Stade Héninois",
+          "hash": "ff9846d2"
+        },
+        "afc-creil": {
+          "slug": "afc-creil",
+          "league": "ligue-1",
+          "name": "AFC Creil",
+          "hash": "f159f149"
         }
       }
     },
@@ -12715,6 +12751,18 @@
           "league": "bundesliga",
           "name": "Hammer SpVg",
           "hash": "0c7a32dd"
+        },
+        "sc-pfullendorf": {
+          "slug": "sc-pfullendorf",
+          "league": "bundesliga",
+          "name": "SC Pfullendorf",
+          "hash": "5ab8935e"
+        },
+        "fv-ravensburg": {
+          "slug": "fv-ravensburg",
+          "league": "bundesliga",
+          "name": "FV Ravensburg",
+          "hash": "22a9e26d"
         }
       }
     },
@@ -13234,6 +13282,12 @@
           "league": "super-league-1",
           "name": "Pandramaikos",
           "hash": "7321c4e5"
+        },
+        "atsalenios": {
+          "slug": "atsalenios",
+          "league": "super-league-1",
+          "name": "Atsalenios",
+          "hash": "570bc5e2"
         }
       }
     },
@@ -25897,6 +25951,12 @@
           "league": "allsvenskan",
           "name": "Umeå FC",
           "hash": "6d3fae97"
+        },
+        "syrianska-fc": {
+          "slug": "syrianska-fc",
+          "league": "allsvenskan",
+          "name": "Syrianska FC",
+          "hash": "f4a17488"
         }
       }
     },
@@ -29589,5 +29649,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "57f2ed8c9316cc7f"
+  "contentHash": "d7375316efeb9f5a"
 }

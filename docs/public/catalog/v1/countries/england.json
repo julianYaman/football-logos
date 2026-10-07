@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T11:20:10.452Z",
+  "generatedAt": "2026-10-07T12:53:11.832Z",
   "country": {
     "slug": "england",
     "iso2": "ENG",
@@ -2165,6 +2165,12 @@
         "league": "english-premier-league",
         "name": "Fleet Town FC",
         "hash": "237deef9"
+      },
+      "bishop-auckland": {
+        "slug": "bishop-auckland",
+        "league": "english-premier-league",
+        "name": "Bishop Auckland",
+        "hash": "5e26925e"
       }
     }
   }

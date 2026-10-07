@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T12:59:45.671Z",
+  "generatedAt": "2026-10-07T12:53:11.832Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1672,6 +1672,18 @@
         "league": "bundesliga",
         "name": "Hammer SpVg",
         "hash": "0c7a32dd"
+      },
+      "sc-pfullendorf": {
+        "slug": "sc-pfullendorf",
+        "league": "bundesliga",
+        "name": "SC Pfullendorf",
+        "hash": "5ab8935e"
+      },
+      "fv-ravensburg": {
+        "slug": "fv-ravensburg",
+        "league": "bundesliga",
+        "name": "FV Ravensburg",
+        "hash": "22a9e26d"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T12:59:45.671Z",
+  "generatedAt": "2026-10-07T12:53:11.832Z",
   "country": {
     "slug": "france",
     "iso2": "FR",
@@ -1754,6 +1754,36 @@
         "league": "ligue-1",
         "name": "AS Ifs",
         "hash": "5cb35642"
+      },
+      "vannes-olympique-club": {
+        "slug": "vannes-olympique-club",
+        "league": "ligue-1",
+        "name": "Vannes Olympique Club",
+        "hash": "1bdd6bc2"
+      },
+      "rco-agde": {
+        "slug": "rco-agde",
+        "league": "ligue-1",
+        "name": "RCO Agde",
+        "hash": "2f8b0dc1"
+      },
+      "usc-corte": {
+        "slug": "usc-corte",
+        "league": "ligue-1",
+        "name": "USC Corte",
+        "hash": "18d1dc33"
+      },
+      "stade-heninois": {
+        "slug": "stade-heninois",
+        "league": "ligue-1",
+        "name": "Stade Héninois",
+        "hash": "ff9846d2"
+      },
+      "afc-creil": {
+        "slug": "afc-creil",
+        "league": "ligue-1",
+        "name": "AFC Creil",
+        "hash": "f159f149"
       }
     }
   }
