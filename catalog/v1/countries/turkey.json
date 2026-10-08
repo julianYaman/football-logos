@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:17:24.336Z",
+  "generatedAt": "2026-10-08T13:01:30.846Z",
   "country": {
     "slug": "turkey",
     "iso2": "TR",
@@ -525,6 +525,12 @@
         "league": "super-lig",
         "name": "Kardemir Karabükspor",
         "hash": "4eab236d"
+      },
+      "mardinspor": {
+        "slug": "mardinspor",
+        "league": "super-lig",
+        "name": "Mardinspor",
+        "hash": "31acc66f"
       }
     }
   }

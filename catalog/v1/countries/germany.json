@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T12:53:11.832Z",
+  "generatedAt": "2026-10-08T13:01:30.846Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1684,6 +1684,12 @@
         "league": "bundesliga",
         "name": "FV Ravensburg",
         "hash": "22a9e26d"
+      },
+      "magdeburger-ffc": {
+        "slug": "magdeburger-ffc",
+        "league": "bundesliga",
+        "name": "Magdeburger FFC",
+        "hash": "c18e7ec7"
       }
     }
   }

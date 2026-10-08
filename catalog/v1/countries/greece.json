@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T12:53:11.832Z",
+  "generatedAt": "2026-10-08T13:01:30.846Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -306,6 +306,12 @@
         "league": "super-league-1",
         "name": "Atsalenios",
         "hash": "570bc5e2"
+      },
+      "korinthos": {
+        "slug": "korinthos",
+        "league": "super-league-1",
+        "name": "Korinthos",
+        "hash": "2c770ae1"
       }
     }
   }

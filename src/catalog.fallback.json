@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T12:53:11.832Z",
+  "generatedAt": "2026-10-08T13:01:30.846Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -10885,6 +10885,24 @@
           "league": "ligue-1",
           "name": "AFC Creil",
           "hash": "f159f149"
+        },
+        "gap-foot-05": {
+          "slug": "gap-foot-05",
+          "league": "ligue-1",
+          "name": "Gap Foot 05",
+          "hash": "d7e3c8ea"
+        },
+        "luzenac-ap": {
+          "slug": "luzenac-ap",
+          "league": "ligue-1",
+          "name": "Luzenac AP",
+          "hash": "c362e4e7"
+        },
+        "stade-bethunois-fc": {
+          "slug": "stade-bethunois-fc",
+          "league": "ligue-1",
+          "name": "Stade Béthunois FC",
+          "hash": "cde43dcf"
         }
       }
     },
@@ -12763,6 +12781,12 @@
           "league": "bundesliga",
           "name": "FV Ravensburg",
           "hash": "22a9e26d"
+        },
+        "magdeburger-ffc": {
+          "slug": "magdeburger-ffc",
+          "league": "bundesliga",
+          "name": "Magdeburger FFC",
+          "hash": "c18e7ec7"
         }
       }
     },
@@ -13288,6 +13312,12 @@
           "league": "super-league-1",
           "name": "Atsalenios",
           "hash": "570bc5e2"
+        },
+        "korinthos": {
+          "slug": "korinthos",
+          "league": "super-league-1",
+          "name": "Korinthos",
+          "hash": "2c770ae1"
         }
       }
     },
@@ -23558,7 +23588,14 @@
           "code": "SN"
         }
       },
-      "clubs": {}
+      "clubs": {
+        "as-dakar-sacre-coeur": {
+          "slug": "as-dakar-sacre-coeur",
+          "league": "senegal-national-team",
+          "name": "AS Dakar Sacré-Cœur",
+          "hash": "a78f4810"
+        }
+      }
     },
     "serbia": {
       "slug": "serbia",
@@ -27214,6 +27251,12 @@
           "league": "super-lig",
           "name": "Kardemir Karabükspor",
           "hash": "4eab236d"
+        },
+        "mardinspor": {
+          "slug": "mardinspor",
+          "league": "super-lig",
+          "name": "Mardinspor",
+          "hash": "31acc66f"
         }
       }
     },
@@ -29644,10 +29687,60 @@
           "slug": "baltic-cup",
           "name": "Baltic Cup",
           "hash": "7b465d46"
+        },
+        "uefa-euro-1960": {
+          "slug": "uefa-euro-1960",
+          "name": "UEFA Euro 1960",
+          "hash": "9ef36771"
+        },
+        "uefa-euro-1964": {
+          "slug": "uefa-euro-1964",
+          "name": "UEFA Euro 1964",
+          "hash": "156ccdf8"
+        },
+        "uefa-euro-1968": {
+          "slug": "uefa-euro-1968",
+          "name": "UEFA Euro 1968",
+          "hash": "ae8c1ff3"
+        },
+        "uefa-euro-1972": {
+          "slug": "uefa-euro-1972",
+          "name": "UEFA Euro 1972",
+          "hash": "3052733e"
+        },
+        "uefa-euro-1976": {
+          "slug": "uefa-euro-1976",
+          "name": "UEFA Euro 1976",
+          "hash": "6754721c"
+        },
+        "uefa-euro-1980": {
+          "slug": "uefa-euro-1980",
+          "name": "UEFA Euro 1980",
+          "hash": "cedcdd70"
+        },
+        "uefa-euro-1984": {
+          "slug": "uefa-euro-1984",
+          "name": "UEFA Euro 1984",
+          "hash": "b9b5f02b"
+        },
+        "uefa-euro-1988": {
+          "slug": "uefa-euro-1988",
+          "name": "UEFA Euro 1988",
+          "hash": "f61c4114"
+        },
+        "uefa-euro-1992": {
+          "slug": "uefa-euro-1992",
+          "name": "UEFA Euro 1992",
+          "hash": "d801939a"
+        },
+        "uefa-euro-1996": {
+          "slug": "uefa-euro-1996",
+          "name": "UEFA Euro 1996",
+          "hash": "85c37c5b"
         }
       },
       "clubs": {}
     }
   },
-  "contentHash": "d7375316efeb9f5a"
+  "contentHash": "823e6022f8d753ab"
 }

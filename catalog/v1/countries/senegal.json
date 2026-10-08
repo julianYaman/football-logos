@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-10-08T13:01:30.846Z",
   "country": {
     "slug": "senegal",
     "iso2": "SN",
@@ -14,6 +14,13 @@
         "code": "SN"
       }
     },
-    "clubs": {}
+    "clubs": {
+      "as-dakar-sacre-coeur": {
+        "slug": "as-dakar-sacre-coeur",
+        "league": "senegal-national-team",
+        "name": "AS Dakar Sacré-Cœur",
+        "hash": "a78f4810"
+      }
+    }
   }
 }
