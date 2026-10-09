@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T13:01:30.846Z",
+  "generatedAt": "2026-10-09T12:48:06.504Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -4064,6 +4064,12 @@
           "league": "brazilian-serie-a",
           "name": "Rio Branco-SP",
           "hash": "541feb5b"
+        },
+        "avenida": {
+          "slug": "avenida",
+          "league": "brazilian-serie-a",
+          "name": "Avenida",
+          "hash": "b1b56d28"
         }
       }
     },
@@ -4876,6 +4882,12 @@
           "name": "Jiangsu FC",
           "hash": "fd55b0f9",
           "league": ""
+        },
+        "tianjin-tianhai": {
+          "slug": "tianjin-tianhai",
+          "league": "chinese-super-league",
+          "name": "Tianjin Tianhai",
+          "hash": "6d51db5d"
         }
       }
     },
@@ -10903,6 +10915,30 @@
           "league": "ligue-1",
           "name": "Stade Béthunois FC",
           "hash": "cde43dcf"
+        },
+        "as-prix-les-mezieres": {
+          "slug": "as-prix-les-mezieres",
+          "league": "ligue-1",
+          "name": "AS Prix-lès-Mézières",
+          "hash": "886dcfa3"
+        },
+        "es-arques-football": {
+          "slug": "es-arques-football",
+          "league": "ligue-1",
+          "name": "ES Arques Football",
+          "hash": "26c5b33b"
+        },
+        "jura-dolois-football": {
+          "slug": "jura-dolois-football",
+          "league": "ligue-1",
+          "name": "Jura Dolois Football",
+          "hash": "0fa40a5e"
+        },
+        "usm-montargis-football": {
+          "slug": "usm-montargis-football",
+          "league": "ligue-1",
+          "name": "USM Montargis Football",
+          "hash": "4a5241f0"
         }
       }
     },
@@ -12787,6 +12823,12 @@
           "league": "bundesliga",
           "name": "Magdeburger FFC",
           "hash": "c18e7ec7"
+        },
+        "turu-dusseldorf": {
+          "slug": "turu-dusseldorf",
+          "league": "bundesliga",
+          "name": "TuRU Düsseldorf",
+          "hash": "029763bf"
         }
       }
     },
@@ -13318,6 +13360,12 @@
           "league": "super-league-1",
           "name": "Korinthos",
           "hash": "2c770ae1"
+        },
+        "diagoras-agias-paraskevis": {
+          "slug": "diagoras-agias-paraskevis",
+          "league": "super-league-1",
+          "name": "Diagoras Agias Paraskevis",
+          "hash": "a328557d"
         }
       }
     },
@@ -16660,6 +16708,12 @@
           "name": "Lucchese 1905",
           "hash": "edebad3a",
           "league": ""
+        },
+        "calcio-avola-1949": {
+          "slug": "calcio-avola-1949",
+          "league": "serie-a",
+          "name": "Calcio Avola 1949",
+          "hash": "70a7c26e"
         }
       }
     },
@@ -29742,5 +29796,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "823e6022f8d753ab"
+  "contentHash": "ea56b75d9d67c621"
 }

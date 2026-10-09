@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T13:01:30.846Z",
+  "generatedAt": "2026-10-09T12:48:06.504Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -312,6 +312,12 @@
         "league": "super-league-1",
         "name": "Korinthos",
         "hash": "2c770ae1"
+      },
+      "diagoras-agias-paraskevis": {
+        "slug": "diagoras-agias-paraskevis",
+        "league": "super-league-1",
+        "name": "Diagoras Agias Paraskevis",
+        "hash": "a328557d"
       }
     }
   }

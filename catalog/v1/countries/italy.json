@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T08:29:22.737Z",
+  "generatedAt": "2026-10-09T12:48:06.504Z",
   "country": {
     "slug": "italy",
     "iso2": "IT",
@@ -1629,6 +1629,12 @@
         "name": "Lucchese 1905",
         "hash": "edebad3a",
         "league": ""
+      },
+      "calcio-avola-1949": {
+        "slug": "calcio-avola-1949",
+        "league": "serie-a",
+        "name": "Calcio Avola 1949",
+        "hash": "70a7c26e"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T13:01:30.846Z",
+  "generatedAt": "2026-10-09T12:48:06.504Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -205,7 +205,7 @@
       "iso2": "BR",
       "name": "Brazil",
       "defaultLeague": "brazilian-serie-a",
-      "clubCount": 208
+      "clubCount": 209
     },
     {
       "slug": "british-virgin-islands",
@@ -310,7 +310,7 @@
       "iso2": "CN",
       "name": "China",
       "defaultLeague": "chinese-super-league",
-      "clubCount": 19
+      "clubCount": 20
     },
     {
       "slug": "colombia",
@@ -513,7 +513,7 @@
       "iso2": "FR",
       "name": "France",
       "defaultLeague": "ligue-1",
-      "clubCount": 293
+      "clubCount": 297
     },
     {
       "slug": "french-guiana",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 270
+      "clubCount": 271
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 48
+      "clubCount": 49
     },
     {
       "slug": "greenland",
@@ -702,7 +702,7 @@
       "iso2": "IT",
       "name": "Italy",
       "defaultLeague": "serie-a",
-      "clubCount": 265
+      "clubCount": 266
     },
     {
       "slug": "jamaica",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "823e6022f8d753ab"
+  "contentHash": "ea56b75d9d67c621"
 }

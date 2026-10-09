@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-10-09T12:48:06.504Z",
   "country": {
     "slug": "china",
     "iso2": "CN",
@@ -133,6 +133,12 @@
         "name": "Jiangsu FC",
         "hash": "fd55b0f9",
         "league": ""
+      },
+      "tianjin-tianhai": {
+        "slug": "tianjin-tianhai",
+        "league": "chinese-super-league",
+        "name": "Tianjin Tianhai",
+        "hash": "6d51db5d"
       }
     }
   }
