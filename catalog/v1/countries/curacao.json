@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-10-10T12:06:36.552Z",
   "country": {
     "slug": "curacao",
     "iso2": "CW",
@@ -20,6 +20,12 @@
         "name": "CSD Barber",
         "hash": "2ed44c05",
         "league": ""
+      },
+      "crksv-jong-holland": {
+        "slug": "crksv-jong-holland",
+        "league": "curacao-national-team",
+        "name": "CRKSV Jong Holland",
+        "hash": "199f1911"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T12:48:06.504Z",
+  "generatedAt": "2026-10-10T12:06:36.552Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1696,6 +1696,24 @@
         "league": "bundesliga",
         "name": "TuRU Düsseldorf",
         "hash": "029763bf"
+      },
+      "1-fc-trogen": {
+        "slug": "1-fc-trogen",
+        "league": "bundesliga",
+        "name": "1. FC Trogen",
+        "hash": "77cc6861"
+      },
+      "fv-daxlanden": {
+        "slug": "fv-daxlanden",
+        "league": "bundesliga",
+        "name": "FV Daxlanden",
+        "hash": "b358176c"
+      },
+      "sv-oberachern": {
+        "slug": "sv-oberachern",
+        "league": "bundesliga",
+        "name": "SV Oberachern",
+        "hash": "3cac0a14"
       }
     }
   }

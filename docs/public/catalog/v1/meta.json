@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T12:48:06.504Z",
+  "generatedAt": "2026-10-10T12:06:36.552Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -205,7 +205,7 @@
       "iso2": "BR",
       "name": "Brazil",
       "defaultLeague": "brazilian-serie-a",
-      "clubCount": 209
+      "clubCount": 210
     },
     {
       "slug": "british-virgin-islands",
@@ -380,7 +380,7 @@
       "iso2": "CW",
       "name": "Curacao",
       "defaultLeague": "curacao-national-team",
-      "clubCount": 1
+      "clubCount": 2
     },
     {
       "slug": "cyprus",
@@ -513,7 +513,7 @@
       "iso2": "FR",
       "name": "France",
       "defaultLeague": "ligue-1",
-      "clubCount": 297
+      "clubCount": 300
     },
     {
       "slug": "french-guiana",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 271
+      "clubCount": 274
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 49
+      "clubCount": 51
     },
     {
       "slug": "greenland",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "ea56b75d9d67c621"
+  "contentHash": "9d02903eac51e3fe"
 }

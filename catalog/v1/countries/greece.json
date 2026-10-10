@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T12:48:06.504Z",
+  "generatedAt": "2026-10-10T12:06:36.552Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -318,6 +318,18 @@
         "league": "super-league-1",
         "name": "Diagoras Agias Paraskevis",
         "hash": "a328557d"
+      },
+      "agios-nikolaos": {
+        "slug": "agios-nikolaos",
+        "league": "super-league-1",
+        "name": "Agios Nikolaos",
+        "hash": "c60f62d6"
+      },
+      "panarkadikos": {
+        "slug": "panarkadikos",
+        "league": "super-league-1",
+        "name": "Panarkadikos",
+        "hash": "8973456e"
       }
     }
   }

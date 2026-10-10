@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T12:48:06.504Z",
+  "generatedAt": "2026-10-10T12:06:36.552Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1288,6 +1288,12 @@
         "league": "brazilian-serie-a",
         "name": "Avenida",
         "hash": "b1b56d28"
+      },
+      "monsoon": {
+        "slug": "monsoon",
+        "league": "brazilian-serie-a",
+        "name": "Monsoon FC",
+        "hash": "e3c08a56"
       }
     }
   }

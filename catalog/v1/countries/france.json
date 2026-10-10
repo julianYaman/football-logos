@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T12:48:06.504Z",
+  "generatedAt": "2026-10-10T12:06:36.552Z",
   "country": {
     "slug": "france",
     "iso2": "FR",
@@ -1826,6 +1826,24 @@
         "league": "ligue-1",
         "name": "USM Montargis Football",
         "hash": "4a5241f0"
+      },
+      "entente-sannois-saint-gratien": {
+        "slug": "entente-sannois-saint-gratien",
+        "league": "ligue-1",
+        "name": "Entente Sannois Saint-Gratien",
+        "hash": "c0ab996d"
+      },
+      "es-le-cannet-rocheville": {
+        "slug": "es-le-cannet-rocheville",
+        "league": "ligue-1",
+        "name": "ES Le Cannet-Rocheville",
+        "hash": "d716f0a3"
+      },
+      "moulins-yzeure-foot-03": {
+        "slug": "moulins-yzeure-foot-03",
+        "league": "ligue-1",
+        "name": "Moulins-Yzeure Foot 03",
+        "hash": "466dde55"
       }
     }
   }
