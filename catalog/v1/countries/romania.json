@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-10-11T12:19:56.185Z",
   "country": {
     "slug": "romania",
     "iso2": "RO",
@@ -163,6 +163,12 @@
         "name": "Unirea Slobozia",
         "hash": "01523424",
         "league": ""
+      },
+      "fc-ariesul-turda": {
+        "slug": "fc-ariesul-turda",
+        "league": "superliga",
+        "name": "FC Arieșul Turda",
+        "hash": "a198842c"
       }
     }
   }

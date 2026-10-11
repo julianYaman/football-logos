@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:06:36.552Z",
+  "generatedAt": "2026-10-11T12:19:56.185Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -4076,6 +4076,12 @@
           "league": "brazilian-serie-a",
           "name": "Monsoon FC",
           "hash": "e3c08a56"
+        },
+        "internacional-santa-maria": {
+          "slug": "internacional-santa-maria",
+          "league": "brazilian-serie-a",
+          "name": "Internacional de Santa Maria",
+          "hash": "7e571de4"
         }
       }
     },
@@ -10969,6 +10975,24 @@
           "league": "ligue-1",
           "name": "Moulins-Yzeure Foot 03",
           "hash": "466dde55"
+        },
+        "fc-bourgoin-jallieu": {
+          "slug": "fc-bourgoin-jallieu",
+          "league": "ligue-1",
+          "name": "FC Bourgoin-Jallieu",
+          "hash": "9216dc42"
+        },
+        "stade-bordelais-football": {
+          "slug": "stade-bordelais-football",
+          "league": "ligue-1",
+          "name": "Stade Bordelais Football",
+          "hash": "f06af79c"
+        },
+        "us-montagnarde": {
+          "slug": "us-montagnarde",
+          "league": "ligue-1",
+          "name": "US Montagnarde",
+          "hash": "444d5238"
         }
       }
     },
@@ -12877,6 +12901,12 @@
           "league": "bundesliga",
           "name": "SV Oberachern",
           "hash": "3cac0a14"
+        },
+        "fsc-lohfelden": {
+          "slug": "fsc-lohfelden",
+          "league": "bundesliga",
+          "name": "FSC Lohfelden",
+          "hash": "0295344f"
         }
       }
     },
@@ -13426,6 +13456,12 @@
           "league": "super-league-1",
           "name": "Panarkadikos",
           "hash": "8973456e"
+        },
+        "diagoras-rhodes": {
+          "slug": "diagoras-rhodes",
+          "league": "super-league-1",
+          "name": "Diagoras Rhodes",
+          "hash": "d86d3e59"
         }
       }
     },
@@ -22583,6 +22619,12 @@
           "name": "Unirea Slobozia",
           "hash": "01523424",
           "league": ""
+        },
+        "fc-ariesul-turda": {
+          "slug": "fc-ariesul-turda",
+          "league": "superliga",
+          "name": "FC Arieșul Turda",
+          "hash": "a198842c"
         }
       }
     },
@@ -27371,6 +27413,12 @@
           "league": "super-lig",
           "name": "Mardinspor",
           "hash": "31acc66f"
+        },
+        "diyarbakirspor": {
+          "slug": "diyarbakirspor",
+          "league": "super-lig",
+          "name": "Diyarbakırspor",
+          "hash": "a9ce133a"
         }
       }
     },
@@ -29856,5 +29904,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "9d02903eac51e3fe"
+  "contentHash": "f15ae99873aeed4a"
 }

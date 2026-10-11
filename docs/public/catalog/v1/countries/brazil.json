@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:06:36.552Z",
+  "generatedAt": "2026-10-11T12:19:56.185Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1294,6 +1294,12 @@
         "league": "brazilian-serie-a",
         "name": "Monsoon FC",
         "hash": "e3c08a56"
+      },
+      "internacional-santa-maria": {
+        "slug": "internacional-santa-maria",
+        "league": "brazilian-serie-a",
+        "name": "Internacional de Santa Maria",
+        "hash": "7e571de4"
       }
     }
   }
