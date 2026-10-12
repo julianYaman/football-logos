@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T12:19:56.185Z",
+  "generatedAt": "2026-10-12T14:45:45.961Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1720,6 +1720,30 @@
         "league": "bundesliga",
         "name": "FSC Lohfelden",
         "hash": "0295344f"
+      },
+      "fc-teutonia-05-ottensen": {
+        "slug": "fc-teutonia-05-ottensen",
+        "league": "bundesliga",
+        "name": "FC Teutonia 05 Ottensen",
+        "hash": "715eea63"
+      },
+      "fv-lorrach-brombach": {
+        "slug": "fv-lorrach-brombach",
+        "league": "bundesliga",
+        "name": "FV Lörrach-Brombach",
+        "hash": "92118cf6"
+      },
+      "hunfelder-sv": {
+        "slug": "hunfelder-sv",
+        "league": "bundesliga",
+        "name": "Hünfelder SV",
+        "hash": "a5073d98"
+      },
+      "ssv-markranstadt": {
+        "slug": "ssv-markranstadt",
+        "league": "bundesliga",
+        "name": "SSV Markranstädt",
+        "hash": "2634e8af"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T12:19:56.185Z",
+  "generatedAt": "2026-10-12T14:45:45.961Z",
   "country": {
     "slug": "france",
     "iso2": "FR",
@@ -1862,6 +1862,36 @@
         "league": "ligue-1",
         "name": "US Montagnarde",
         "hash": "444d5238"
+      },
+      "as-pierrots-vauban-strasbourg": {
+        "slug": "as-pierrots-vauban-strasbourg",
+        "league": "ligue-1",
+        "name": "AS Pierrots Vauban Strasbourg",
+        "hash": "4e62d7bb"
+      },
+      "chambery-savoie-football": {
+        "slug": "chambery-savoie-football",
+        "league": "ligue-1",
+        "name": "Chambéry Savoie Football",
+        "hash": "27e10352"
+      },
+      "cs-meaux-af": {
+        "slug": "cs-meaux-af",
+        "league": "ligue-1",
+        "name": "CS Meaux AF",
+        "hash": "38356a95"
+      },
+      "perigueux-foot": {
+        "slug": "perigueux-foot",
+        "league": "ligue-1",
+        "name": "Périgueux Foot",
+        "hash": "043b3f3d"
+      },
+      "stade-plabennecois-football": {
+        "slug": "stade-plabennecois-football",
+        "league": "ligue-1",
+        "name": "Stade Plabennécois Football",
+        "hash": "1abad723"
       }
     }
   }

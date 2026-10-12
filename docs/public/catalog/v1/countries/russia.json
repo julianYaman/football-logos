@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T12:22:39.520Z",
+  "generatedAt": "2026-10-12T14:45:45.961Z",
   "country": {
     "slug": "russia",
     "iso2": "RU",
@@ -281,6 +281,12 @@
         "league": "russian-premier-league",
         "name": "FC Dynamo Bryansk",
         "hash": "4d472324"
+      },
+      "fc-sokol-saratov": {
+        "slug": "fc-sokol-saratov",
+        "league": "russian-premier-league",
+        "name": "FC Sokol Saratov",
+        "hash": "55a80e7e"
       }
     }
   }

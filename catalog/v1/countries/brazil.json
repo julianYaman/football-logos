@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T12:19:56.185Z",
+  "generatedAt": "2026-10-12T14:45:45.961Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1300,6 +1300,12 @@
         "league": "brazilian-serie-a",
         "name": "Internacional de Santa Maria",
         "hash": "7e571de4"
+      },
+      "boavista-rj": {
+        "slug": "boavista-rj",
+        "league": "brazilian-serie-a",
+        "name": "Boavista SC",
+        "hash": "3ef7cc57"
       }
     }
   }
