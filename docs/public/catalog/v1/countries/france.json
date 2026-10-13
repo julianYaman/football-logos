@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:45:45.961Z",
+  "generatedAt": "2026-10-13T13:47:56.116Z",
   "country": {
     "slug": "france",
     "iso2": "FR",
@@ -1892,6 +1892,24 @@
         "league": "ligue-1",
         "name": "Stade Plabennécois Football",
         "hash": "1abad723"
+      },
+      "as-muret": {
+        "slug": "as-muret",
+        "league": "ligue-1",
+        "name": "AS Muret",
+        "hash": "3acc0eda"
+      },
+      "les-genets-d-anglet": {
+        "slug": "les-genets-d-anglet",
+        "league": "ligue-1",
+        "name": "Les Genêts d'Anglet",
+        "hash": "95d37896"
+      },
+      "us-mer": {
+        "slug": "us-mer",
+        "league": "ligue-1",
+        "name": "US Mer",
+        "hash": "e32c7a5a"
       }
     }
   }

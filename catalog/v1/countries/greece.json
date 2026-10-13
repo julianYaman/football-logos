@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:45:45.961Z",
+  "generatedAt": "2026-10-13T13:47:56.116Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -348,6 +348,12 @@
         "league": "super-league-1",
         "name": "PAO Kosmio",
         "hash": "65d44f01"
+      },
+      "meteora": {
+        "slug": "meteora",
+        "league": "super-league-1",
+        "name": "Meteora",
+        "hash": "aab71aba"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:45:45.961Z",
+  "generatedAt": "2026-10-13T13:47:56.116Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1744,6 +1744,12 @@
         "league": "bundesliga",
         "name": "SSV Markranstädt",
         "hash": "2634e8af"
+      },
+      "fsv-07-lauscha": {
+        "slug": "fsv-07-lauscha",
+        "league": "bundesliga",
+        "name": "FSV 07 Lauscha",
+        "hash": "0f2f4d67"
       }
     }
   }

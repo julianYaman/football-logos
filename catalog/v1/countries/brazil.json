@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:45:45.961Z",
+  "generatedAt": "2026-10-13T13:47:56.116Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1306,6 +1306,12 @@
         "league": "brazilian-serie-a",
         "name": "Boavista SC",
         "hash": "3ef7cc57"
+      },
+      "urt": {
+        "slug": "urt",
+        "league": "brazilian-serie-a",
+        "name": "URT",
+        "hash": "2e8217fe"
       }
     }
   }
