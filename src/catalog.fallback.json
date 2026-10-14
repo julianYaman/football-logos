@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T13:47:56.116Z",
+  "generatedAt": "2026-10-14T11:25:47.260Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -4094,6 +4094,12 @@
           "league": "brazilian-serie-a",
           "name": "URT",
           "hash": "2e8217fe"
+        },
+        "north-esporte-clube": {
+          "slug": "north-esporte-clube",
+          "league": "brazilian-serie-a",
+          "name": "North Esporte Clube",
+          "hash": "6ebe759c"
         }
       }
     },
@@ -11053,6 +11059,30 @@
           "league": "ligue-1",
           "name": "US Mer",
           "hash": "e32c7a5a"
+        },
+        "fc-langonnais": {
+          "slug": "fc-langonnais",
+          "league": "ligue-1",
+          "name": "FC Langonnais",
+          "hash": "86e97c91"
+        },
+        "is-selongey-football": {
+          "slug": "is-selongey-football",
+          "league": "ligue-1",
+          "name": "Is-Selongey Football",
+          "hash": "dfdb3a0b"
+        },
+        "sc-selestat": {
+          "slug": "sc-selestat",
+          "league": "ligue-1",
+          "name": "SC Sélestat",
+          "hash": "99c32611"
+        },
+        "usja-carquefou": {
+          "slug": "usja-carquefou",
+          "league": "ligue-1",
+          "name": "USJA Carquefou",
+          "hash": "4ce9cf45"
         }
       }
     },
@@ -12997,6 +13027,36 @@
           "league": "bundesliga",
           "name": "FSV 07 Lauscha",
           "hash": "0f2f4d67"
+        },
+        "1-fc-langen": {
+          "slug": "1-fc-langen",
+          "league": "bundesliga",
+          "name": "1. FC Langen",
+          "hash": "883e0c1c"
+        },
+        "1-fc-pforzheim": {
+          "slug": "1-fc-pforzheim",
+          "league": "bundesliga",
+          "name": "1. FC Pforzheim",
+          "hash": "03146be8"
+        },
+        "borussia-freialdenhoven": {
+          "slug": "borussia-freialdenhoven",
+          "league": "bundesliga",
+          "name": "Borussia Freialdenhoven",
+          "hash": "ecf7ed20"
+        },
+        "fc-buderich": {
+          "slug": "fc-buderich",
+          "league": "bundesliga",
+          "name": "FC Büderich",
+          "hash": "70d0acec"
+        },
+        "sc-victoria-hamburg": {
+          "slug": "sc-victoria-hamburg",
+          "league": "bundesliga",
+          "name": "SC Victoria Hamburg",
+          "hash": "968d693d"
         }
       }
     },
@@ -13570,6 +13630,18 @@
           "league": "super-league-1",
           "name": "Meteora",
           "hash": "aab71aba"
+        },
+        "atromitos-piraeus": {
+          "slug": "atromitos-piraeus",
+          "league": "super-league-1",
+          "name": "Atromitos Piraeus",
+          "hash": "717c77d9"
+        },
+        "nikitaras-doliana": {
+          "slug": "nikitaras-doliana",
+          "league": "super-league-1",
+          "name": "Nikitaras Doliana",
+          "hash": "7a93d5fe"
         }
       }
     },
@@ -25830,6 +25902,12 @@
           "league": "la-liga",
           "name": "CP El Ejido",
           "hash": "48607b6b"
+        },
+        "caudal-deportivo": {
+          "slug": "caudal-deportivo",
+          "league": "la-liga",
+          "name": "Caudal Deportivo",
+          "hash": "65aaaac5"
         }
       }
     },
@@ -30024,5 +30102,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "19901bc8a20bfcab"
+  "contentHash": "bfde7fe7fafb234a"
 }

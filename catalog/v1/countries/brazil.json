@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T13:47:56.116Z",
+  "generatedAt": "2026-10-14T11:25:47.260Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1312,6 +1312,12 @@
         "league": "brazilian-serie-a",
         "name": "URT",
         "hash": "2e8217fe"
+      },
+      "north-esporte-clube": {
+        "slug": "north-esporte-clube",
+        "league": "brazilian-serie-a",
+        "name": "North Esporte Clube",
+        "hash": "6ebe759c"
       }
     }
   }

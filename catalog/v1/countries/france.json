@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T13:47:56.116Z",
+  "generatedAt": "2026-10-14T11:25:47.260Z",
   "country": {
     "slug": "france",
     "iso2": "FR",
@@ -1910,6 +1910,30 @@
         "league": "ligue-1",
         "name": "US Mer",
         "hash": "e32c7a5a"
+      },
+      "fc-langonnais": {
+        "slug": "fc-langonnais",
+        "league": "ligue-1",
+        "name": "FC Langonnais",
+        "hash": "86e97c91"
+      },
+      "is-selongey-football": {
+        "slug": "is-selongey-football",
+        "league": "ligue-1",
+        "name": "Is-Selongey Football",
+        "hash": "dfdb3a0b"
+      },
+      "sc-selestat": {
+        "slug": "sc-selestat",
+        "league": "ligue-1",
+        "name": "SC Sélestat",
+        "hash": "99c32611"
+      },
+      "usja-carquefou": {
+        "slug": "usja-carquefou",
+        "league": "ligue-1",
+        "name": "USJA Carquefou",
+        "hash": "4ce9cf45"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T13:47:56.116Z",
+  "generatedAt": "2026-10-14T11:25:47.260Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1750,6 +1750,36 @@
         "league": "bundesliga",
         "name": "FSV 07 Lauscha",
         "hash": "0f2f4d67"
+      },
+      "1-fc-langen": {
+        "slug": "1-fc-langen",
+        "league": "bundesliga",
+        "name": "1. FC Langen",
+        "hash": "883e0c1c"
+      },
+      "1-fc-pforzheim": {
+        "slug": "1-fc-pforzheim",
+        "league": "bundesliga",
+        "name": "1. FC Pforzheim",
+        "hash": "03146be8"
+      },
+      "borussia-freialdenhoven": {
+        "slug": "borussia-freialdenhoven",
+        "league": "bundesliga",
+        "name": "Borussia Freialdenhoven",
+        "hash": "ecf7ed20"
+      },
+      "fc-buderich": {
+        "slug": "fc-buderich",
+        "league": "bundesliga",
+        "name": "FC Büderich",
+        "hash": "70d0acec"
+      },
+      "sc-victoria-hamburg": {
+        "slug": "sc-victoria-hamburg",
+        "league": "bundesliga",
+        "name": "SC Victoria Hamburg",
+        "hash": "968d693d"
       }
     }
   }

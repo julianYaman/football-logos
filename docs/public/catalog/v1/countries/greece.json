@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T13:47:56.116Z",
+  "generatedAt": "2026-10-14T11:25:47.260Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -354,6 +354,18 @@
         "league": "super-league-1",
         "name": "Meteora",
         "hash": "aab71aba"
+      },
+      "atromitos-piraeus": {
+        "slug": "atromitos-piraeus",
+        "league": "super-league-1",
+        "name": "Atromitos Piraeus",
+        "hash": "717c77d9"
+      },
+      "nikitaras-doliana": {
+        "slug": "nikitaras-doliana",
+        "league": "super-league-1",
+        "name": "Nikitaras Doliana",
+        "hash": "7a93d5fe"
       }
     }
   }
