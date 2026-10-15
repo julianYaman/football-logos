@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:25:47.260Z",
+  "generatedAt": "2026-10-15T11:02:20.762Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1780,6 +1780,24 @@
         "league": "bundesliga",
         "name": "SC Victoria Hamburg",
         "hash": "968d693d"
+      },
+      "1-fc-duren": {
+        "slug": "1-fc-duren",
+        "league": "bundesliga",
+        "name": "1. FC Düren",
+        "hash": "086ac01d"
+      },
+      "1-goppinger-sv": {
+        "slug": "1-goppinger-sv",
+        "league": "bundesliga",
+        "name": "1. Göppinger SV",
+        "hash": "c66f14bd"
+      },
+      "tus-untereschbach": {
+        "slug": "tus-untereschbach",
+        "league": "bundesliga",
+        "name": "TuS Untereschbach",
+        "hash": "f9d1e881"
       }
     }
   }

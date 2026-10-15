@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:45:45.961Z",
+  "generatedAt": "2026-10-15T11:02:20.762Z",
   "country": {
     "slug": "russia",
     "iso2": "RU",
@@ -287,6 +287,12 @@
         "league": "russian-premier-league",
         "name": "FC Sokol Saratov",
         "hash": "55a80e7e"
+      },
+      "fc-astrakhan": {
+        "slug": "fc-astrakhan",
+        "league": "russian-premier-league",
+        "name": "FC Astrakhan",
+        "hash": "ef5d2ace"
       }
     }
   }

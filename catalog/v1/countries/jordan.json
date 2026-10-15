@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-10-15T11:02:20.762Z",
   "country": {
     "slug": "jordan",
     "iso2": "JO",
@@ -14,6 +14,13 @@
         "code": "JO"
       }
     },
-    "clubs": {}
+    "clubs": {
+      "al-hussein-irbid": {
+        "slug": "al-hussein-irbid",
+        "league": "jordan-national-team",
+        "name": "Al-Hussein Irbid",
+        "hash": "24049df4"
+      }
+    }
   }
 }

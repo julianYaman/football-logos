@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:25:47.260Z",
+  "generatedAt": "2026-10-15T11:02:20.762Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -366,6 +366,12 @@
         "league": "super-league-1",
         "name": "Nikitaras Doliana",
         "hash": "7a93d5fe"
+      },
+      "proodeftiki": {
+        "slug": "proodeftiki",
+        "league": "super-league-1",
+        "name": "Proodeftiki",
+        "hash": "38efe76f"
       }
     }
   }
