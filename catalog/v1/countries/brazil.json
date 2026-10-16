@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:02:20.762Z",
+  "generatedAt": "2026-10-16T10:58:12.945Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1324,6 +1324,12 @@
         "league": "brazilian-serie-a",
         "name": "Itabirito FC",
         "hash": "34b1c321"
+      },
+      "jataiense": {
+        "slug": "jataiense",
+        "league": "brazilian-serie-a",
+        "name": "Jataiense",
+        "hash": "c6491217"
       }
     }
   }

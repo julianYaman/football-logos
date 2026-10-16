@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T13:47:56.116Z",
+  "generatedAt": "2026-10-16T10:58:12.945Z",
   "country": {
     "slug": "sweden",
     "iso2": "SE",
@@ -378,6 +378,12 @@
         "league": "allsvenskan",
         "name": "Assyriska FF",
         "hash": "ead57985"
+      },
+      "afc-eskilstuna": {
+        "slug": "afc-eskilstuna",
+        "league": "allsvenskan",
+        "name": "AFC Eskilstuna",
+        "hash": "3927a86a"
       }
     }
   }

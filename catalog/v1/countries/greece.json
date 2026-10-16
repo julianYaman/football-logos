@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:02:20.762Z",
+  "generatedAt": "2026-10-16T10:58:12.945Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -372,6 +372,18 @@
         "league": "super-league-1",
         "name": "Proodeftiki",
         "hash": "38efe76f"
+      },
+      "ao-sellana": {
+        "slug": "ao-sellana",
+        "league": "super-league-1",
+        "name": "AO Sellana",
+        "hash": "0b596d2a"
+      },
+      "olympiakos-kiminon": {
+        "slug": "olympiakos-kiminon",
+        "league": "super-league-1",
+        "name": "Olympiakos Kiminon",
+        "hash": "17abd787"
       }
     }
   }

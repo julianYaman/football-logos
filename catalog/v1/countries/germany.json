@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:02:20.762Z",
+  "generatedAt": "2026-10-16T10:58:12.945Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1798,6 +1798,24 @@
         "league": "bundesliga",
         "name": "TuS Untereschbach",
         "hash": "f9d1e881"
+      },
+      "esv-olympia-koln": {
+        "slug": "esv-olympia-koln",
+        "league": "bundesliga",
+        "name": "ESV Olympia Köln",
+        "hash": "8f77c948"
+      },
+      "sc-1903-weimar": {
+        "slug": "sc-1903-weimar",
+        "league": "bundesliga",
+        "name": "SC 1903 Weimar",
+        "hash": "fdd697ce"
+      },
+      "sv-yesilyurt-berlin": {
+        "slug": "sv-yesilyurt-berlin",
+        "league": "bundesliga",
+        "name": "SV Yeşilyurt Berlin",
+        "hash": "78e4e915"
       }
     }
   }

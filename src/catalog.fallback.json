@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:02:20.762Z",
+  "generatedAt": "2026-10-16T10:58:12.945Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -4106,6 +4106,12 @@
           "league": "brazilian-serie-a",
           "name": "Itabirito FC",
           "hash": "34b1c321"
+        },
+        "jataiense": {
+          "slug": "jataiense",
+          "league": "brazilian-serie-a",
+          "name": "Jataiense",
+          "hash": "c6491217"
         }
       }
     },
@@ -13081,6 +13087,24 @@
           "league": "bundesliga",
           "name": "TuS Untereschbach",
           "hash": "f9d1e881"
+        },
+        "esv-olympia-koln": {
+          "slug": "esv-olympia-koln",
+          "league": "bundesliga",
+          "name": "ESV Olympia Köln",
+          "hash": "8f77c948"
+        },
+        "sc-1903-weimar": {
+          "slug": "sc-1903-weimar",
+          "league": "bundesliga",
+          "name": "SC 1903 Weimar",
+          "hash": "fdd697ce"
+        },
+        "sv-yesilyurt-berlin": {
+          "slug": "sv-yesilyurt-berlin",
+          "league": "bundesliga",
+          "name": "SV Yeşilyurt Berlin",
+          "hash": "78e4e915"
         }
       }
     },
@@ -13672,6 +13696,18 @@
           "league": "super-league-1",
           "name": "Proodeftiki",
           "hash": "38efe76f"
+        },
+        "ao-sellana": {
+          "slug": "ao-sellana",
+          "league": "super-league-1",
+          "name": "AO Sellana",
+          "hash": "0b596d2a"
+        },
+        "olympiakos-kiminon": {
+          "slug": "olympiakos-kiminon",
+          "league": "super-league-1",
+          "name": "Olympiakos Kiminon",
+          "hash": "17abd787"
         }
       }
     },
@@ -26397,6 +26433,12 @@
           "league": "allsvenskan",
           "name": "Assyriska FF",
           "hash": "ead57985"
+        },
+        "afc-eskilstuna": {
+          "slug": "afc-eskilstuna",
+          "league": "allsvenskan",
+          "name": "AFC Eskilstuna",
+          "hash": "3927a86a"
         }
       }
     },
@@ -30151,5 +30193,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "614e7c5760b99e5b"
+  "contentHash": "43ae64e025b7e99b"
 }
