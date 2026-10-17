@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T10:58:12.945Z",
+  "generatedAt": "2026-10-17T10:19:50.422Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1330,6 +1330,12 @@
         "league": "brazilian-serie-a",
         "name": "Jataiense",
         "hash": "c6491217"
+      },
+      "centro-oeste": {
+        "slug": "centro-oeste",
+        "league": "brazilian-serie-a",
+        "name": "Centro Oeste FC",
+        "hash": "8e27439f"
       }
     }
   }

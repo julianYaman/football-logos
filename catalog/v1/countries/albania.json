@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-10-17T10:19:50.422Z",
   "country": {
     "slug": "albania",
     "iso2": "AL",
@@ -134,6 +134,12 @@
         "name": "Vllaznia",
         "hash": "fbb88fc2",
         "league": ""
+      },
+      "af-elbasani": {
+        "slug": "af-elbasani",
+        "league": "albania-national-team",
+        "name": "AF Elbasani",
+        "hash": "90076790"
       }
     }
   }

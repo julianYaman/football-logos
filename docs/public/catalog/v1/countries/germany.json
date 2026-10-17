@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T10:58:12.945Z",
+  "generatedAt": "2026-10-17T10:19:50.422Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1816,6 +1816,12 @@
         "league": "bundesliga",
         "name": "SV Yeşilyurt Berlin",
         "hash": "78e4e915"
+      },
+      "vfl-germania-leer": {
+        "slug": "vfl-germania-leer",
+        "league": "bundesliga",
+        "name": "VfL Germania Leer",
+        "hash": "2455f524"
       }
     }
   }

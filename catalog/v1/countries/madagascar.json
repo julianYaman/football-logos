@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-10-17T10:19:50.422Z",
   "country": {
     "slug": "madagascar",
     "iso2": "MG",
@@ -14,6 +14,13 @@
         "code": "MG"
       }
     },
-    "clubs": {}
+    "clubs": {
+      "japan-actuel-s-fc": {
+        "slug": "japan-actuel-s-fc",
+        "league": "madagascar-national-team",
+        "name": "Japan Actuel's FC",
+        "hash": "10575f2b"
+      }
+    }
   }
 }
