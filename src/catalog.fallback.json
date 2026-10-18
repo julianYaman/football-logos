@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:19:50.422Z",
+  "generatedAt": "2026-10-18T10:35:42.942Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -4124,6 +4124,18 @@
           "league": "brazilian-serie-a",
           "name": "Centro Oeste FC",
           "hash": "8e27439f"
+        },
+        "andraus": {
+          "slug": "andraus",
+          "league": "brazilian-serie-a",
+          "name": "Andraus",
+          "hash": "10cf5a71"
+        },
+        "foz-do-iguacu": {
+          "slug": "foz-do-iguacu",
+          "league": "brazilian-serie-a",
+          "name": "Foz do Iguaçu FC",
+          "hash": "8f30df9f"
         }
       }
     },
@@ -13123,6 +13135,18 @@
           "league": "bundesliga",
           "name": "VfL Germania Leer",
           "hash": "2455f524"
+        },
+        "sc-borea-dresden": {
+          "slug": "sc-borea-dresden",
+          "league": "bundesliga",
+          "name": "SC Borea Dresden",
+          "hash": "c91159fd"
+        },
+        "tsv-gnarrenburg": {
+          "slug": "tsv-gnarrenburg",
+          "league": "bundesliga",
+          "name": "TSV Gnarrenburg",
+          "hash": "9b82e8b3"
         }
       }
     },
@@ -13732,6 +13756,12 @@
           "league": "super-league-1",
           "name": "Svornos",
           "hash": "bf13d7cf"
+        },
+        "kyanous-asteras-vari": {
+          "slug": "kyanous-asteras-vari",
+          "league": "super-league-1",
+          "name": "Kyanous Asteras Vari",
+          "hash": "32a06b65"
         }
       }
     },
@@ -17508,6 +17538,12 @@
           "league": "jordan-national-team",
           "name": "Al-Hussein Irbid",
           "hash": "24049df4"
+        },
+        "al-faisaly": {
+          "slug": "al-faisaly",
+          "league": "jordan-national-team",
+          "name": "Al-Faisaly",
+          "hash": "cf1ab469"
         }
       }
     },
@@ -18466,7 +18502,14 @@
           "code": "MV"
         }
       },
-      "clubs": {}
+      "clubs": {
+        "maziya": {
+          "slug": "maziya",
+          "league": "maldives-national-team",
+          "name": "Maziya S&amp;RC",
+          "hash": "344434c8"
+        }
+      }
     },
     "mali": {
       "slug": "mali",
@@ -23204,6 +23247,12 @@
           "league": "russian-premier-league",
           "name": "FC Astrakhan",
           "hash": "ef5d2ace"
+        },
+        "fc-elista": {
+          "slug": "fc-elista",
+          "league": "russian-premier-league",
+          "name": "FC Elista",
+          "hash": "8a75706a"
         }
       }
     },
@@ -27739,6 +27788,12 @@
           "league": "super-lig",
           "name": "Diyarbakırspor",
           "hash": "a9ce133a"
+        },
+        "beyogluspor": {
+          "slug": "beyogluspor",
+          "league": "super-lig",
+          "name": "Beyoğluspor",
+          "hash": "8b036d29"
         }
       }
     },
@@ -30224,5 +30279,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "ac510ef2b625d444"
+  "contentHash": "494723ddce86007d"
 }

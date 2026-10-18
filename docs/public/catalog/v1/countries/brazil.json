@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:19:50.422Z",
+  "generatedAt": "2026-10-18T10:35:42.942Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1336,6 +1336,18 @@
         "league": "brazilian-serie-a",
         "name": "Centro Oeste FC",
         "hash": "8e27439f"
+      },
+      "andraus": {
+        "slug": "andraus",
+        "league": "brazilian-serie-a",
+        "name": "Andraus",
+        "hash": "10cf5a71"
+      },
+      "foz-do-iguacu": {
+        "slug": "foz-do-iguacu",
+        "league": "brazilian-serie-a",
+        "name": "Foz do Iguaçu FC",
+        "hash": "8f30df9f"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-10-18T10:35:42.942Z",
   "country": {
     "slug": "maldives",
     "iso2": "MV",
@@ -14,6 +14,13 @@
         "code": "MV"
       }
     },
-    "clubs": {}
+    "clubs": {
+      "maziya": {
+        "slug": "maziya",
+        "league": "maldives-national-team",
+        "name": "Maziya S&amp;RC",
+        "hash": "344434c8"
+      }
+    }
   }
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:02:20.762Z",
+  "generatedAt": "2026-10-18T10:35:42.942Z",
   "country": {
     "slug": "jordan",
     "iso2": "JO",
@@ -20,6 +20,12 @@
         "league": "jordan-national-team",
         "name": "Al-Hussein Irbid",
         "hash": "24049df4"
+      },
+      "al-faisaly": {
+        "slug": "al-faisaly",
+        "league": "jordan-national-team",
+        "name": "Al-Faisaly",
+        "hash": "cf1ab469"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:02:20.762Z",
+  "generatedAt": "2026-10-18T10:35:42.942Z",
   "country": {
     "slug": "russia",
     "iso2": "RU",
@@ -293,6 +293,12 @@
         "league": "russian-premier-league",
         "name": "FC Astrakhan",
         "hash": "ef5d2ace"
+      },
+      "fc-elista": {
+        "slug": "fc-elista",
+        "league": "russian-premier-league",
+        "name": "FC Elista",
+        "hash": "8a75706a"
       }
     }
   }

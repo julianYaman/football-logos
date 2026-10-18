@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T12:19:56.185Z",
+  "generatedAt": "2026-10-18T10:35:42.942Z",
   "country": {
     "slug": "turkey",
     "iso2": "TR",
@@ -537,6 +537,12 @@
         "league": "super-lig",
         "name": "Diyarbakırspor",
         "hash": "a9ce133a"
+      },
+      "beyogluspor": {
+        "slug": "beyogluspor",
+        "league": "super-lig",
+        "name": "Beyoğluspor",
+        "hash": "8b036d29"
       }
     }
   }

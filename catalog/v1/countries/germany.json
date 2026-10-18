@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:19:50.422Z",
+  "generatedAt": "2026-10-18T10:35:42.942Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1822,6 +1822,18 @@
         "league": "bundesliga",
         "name": "VfL Germania Leer",
         "hash": "2455f524"
+      },
+      "sc-borea-dresden": {
+        "slug": "sc-borea-dresden",
+        "league": "bundesliga",
+        "name": "SC Borea Dresden",
+        "hash": "c91159fd"
+      },
+      "tsv-gnarrenburg": {
+        "slug": "tsv-gnarrenburg",
+        "league": "bundesliga",
+        "name": "TSV Gnarrenburg",
+        "hash": "9b82e8b3"
       }
     }
   }
