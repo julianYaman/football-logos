@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T10:35:42.942Z",
+  "generatedAt": "2026-10-19T12:30:38.192Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1834,6 +1834,24 @@
         "league": "bundesliga",
         "name": "TSV Gnarrenburg",
         "hash": "9b82e8b3"
+      },
+      "1-fc-eislingen": {
+        "slug": "1-fc-eislingen",
+        "league": "bundesliga",
+        "name": "1. FC Eislingen",
+        "hash": "3b230ccd"
+      },
+      "sv-dessau-05": {
+        "slug": "sv-dessau-05",
+        "league": "bundesliga",
+        "name": "SV Dessau 05",
+        "hash": "1bd667b1"
+      },
+      "sv-rot-weiss-hadamar": {
+        "slug": "sv-rot-weiss-hadamar",
+        "league": "bundesliga",
+        "name": "SV Rot-Weiß Hadamar",
+        "hash": "08894a8a"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T10:35:42.942Z",
+  "generatedAt": "2026-10-19T12:30:38.192Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1348,6 +1348,18 @@
         "league": "brazilian-serie-a",
         "name": "Foz do Iguaçu FC",
         "hash": "8f30df9f"
+      },
+      "galo-maringa": {
+        "slug": "galo-maringa",
+        "league": "brazilian-serie-a",
+        "name": "Galo Maringá",
+        "hash": "6be51276"
+      },
+      "icasa": {
+        "slug": "icasa",
+        "league": "brazilian-serie-a",
+        "name": "Icasa",
+        "hash": "1fdfc637"
       }
     }
   }

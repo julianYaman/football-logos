@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T08:29:22.737Z",
+  "generatedAt": "2026-10-19T12:30:38.192Z",
   "country": {
     "slug": "portugal",
     "iso2": "PT",
@@ -946,6 +946,12 @@
         "name": "ADC Lobão",
         "hash": "90c8c0b8",
         "league": ""
+      },
+      "real-clube-nogueirense": {
+        "slug": "real-clube-nogueirense",
+        "league": "primeira-liga",
+        "name": "Real Clube Nogueirense",
+        "hash": "37e177e0"
       }
     }
   }

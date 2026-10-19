@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T10:35:42.942Z",
+  "generatedAt": "2026-10-19T12:30:38.192Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -4136,6 +4136,18 @@
           "league": "brazilian-serie-a",
           "name": "Foz do Iguaçu FC",
           "hash": "8f30df9f"
+        },
+        "galo-maringa": {
+          "slug": "galo-maringa",
+          "league": "brazilian-serie-a",
+          "name": "Galo Maringá",
+          "hash": "6be51276"
+        },
+        "icasa": {
+          "slug": "icasa",
+          "league": "brazilian-serie-a",
+          "name": "Icasa",
+          "hash": "1fdfc637"
         }
       }
     },
@@ -13147,6 +13159,24 @@
           "league": "bundesliga",
           "name": "TSV Gnarrenburg",
           "hash": "9b82e8b3"
+        },
+        "1-fc-eislingen": {
+          "slug": "1-fc-eislingen",
+          "league": "bundesliga",
+          "name": "1. FC Eislingen",
+          "hash": "3b230ccd"
+        },
+        "sv-dessau-05": {
+          "slug": "sv-dessau-05",
+          "league": "bundesliga",
+          "name": "SV Dessau 05",
+          "hash": "1bd667b1"
+        },
+        "sv-rot-weiss-hadamar": {
+          "slug": "sv-rot-weiss-hadamar",
+          "league": "bundesliga",
+          "name": "SV Rot-Weiß Hadamar",
+          "hash": "08894a8a"
         }
       }
     },
@@ -13762,6 +13792,12 @@
           "league": "super-league-1",
           "name": "Kyanous Asteras Vari",
           "hash": "32a06b65"
+        },
+        "thrasyvoulos": {
+          "slug": "thrasyvoulos",
+          "league": "super-league-1",
+          "name": "Thrasyvoulos",
+          "hash": "3aa1d7d7"
         }
       }
     },
@@ -22368,6 +22404,12 @@
           "name": "ADC Lobão",
           "hash": "90c8c0b8",
           "league": ""
+        },
+        "real-clube-nogueirense": {
+          "slug": "real-clube-nogueirense",
+          "league": "primeira-liga",
+          "name": "Real Clube Nogueirense",
+          "hash": "37e177e0"
         }
       }
     },
@@ -27794,6 +27836,12 @@
           "league": "super-lig",
           "name": "Beyoğluspor",
           "hash": "8b036d29"
+        },
+        "araklispor": {
+          "slug": "araklispor",
+          "league": "super-lig",
+          "name": "Araklıspor",
+          "hash": "15a5917d"
         }
       }
     },
@@ -30279,5 +30327,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "494723ddce86007d"
+  "contentHash": "4d79fc8e70164cbf"
 }

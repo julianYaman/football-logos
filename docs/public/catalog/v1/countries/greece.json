@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T10:35:42.942Z",
+  "generatedAt": "2026-10-19T12:30:38.192Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -396,6 +396,12 @@
         "league": "super-league-1",
         "name": "Kyanous Asteras Vari",
         "hash": "32a06b65"
+      },
+      "thrasyvoulos": {
+        "slug": "thrasyvoulos",
+        "league": "super-league-1",
+        "name": "Thrasyvoulos",
+        "hash": "3aa1d7d7"
       }
     }
   }
