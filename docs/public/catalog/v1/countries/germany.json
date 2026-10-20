@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T12:30:38.192Z",
+  "generatedAt": "2026-10-20T11:06:43.261Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1852,6 +1852,30 @@
         "league": "bundesliga",
         "name": "SV Rot-Weiß Hadamar",
         "hash": "08894a8a"
+      },
+      "bsc-freiberg": {
+        "slug": "bsc-freiberg",
+        "league": "bundesliga",
+        "name": "BSC Freiberg",
+        "hash": "9a09e09d"
+      },
+      "fc-gundelfingen": {
+        "slug": "fc-gundelfingen",
+        "league": "bundesliga",
+        "name": "FC Gundelfingen",
+        "hash": "f8115a1d"
+      },
+      "sg-empor-klein-wanzleben": {
+        "slug": "sg-empor-klein-wanzleben",
+        "league": "bundesliga",
+        "name": "SG Empor Klein Wanzleben",
+        "hash": "c60b834e"
+      },
+      "vfb-eppingen": {
+        "slug": "vfb-eppingen",
+        "league": "bundesliga",
+        "name": "VfB Eppingen",
+        "hash": "24e4f4d4"
       }
     }
   }

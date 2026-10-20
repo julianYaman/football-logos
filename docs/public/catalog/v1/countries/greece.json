@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T12:30:38.192Z",
+  "generatedAt": "2026-10-20T11:06:43.261Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -402,6 +402,12 @@
         "league": "super-league-1",
         "name": "Thrasyvoulos",
         "hash": "3aa1d7d7"
+      },
+      "ae-kalampaki": {
+        "slug": "ae-kalampaki",
+        "league": "super-league-1",
+        "name": "AE Kalampaki",
+        "hash": "321a907e"
       }
     }
   }

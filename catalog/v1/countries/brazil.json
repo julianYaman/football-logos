@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T12:30:38.192Z",
+  "generatedAt": "2026-10-20T11:06:43.261Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1360,6 +1360,12 @@
         "league": "brazilian-serie-a",
         "name": "Icasa",
         "hash": "1fdfc637"
+      },
+      "jequie": {
+        "slug": "jequie",
+        "league": "brazilian-serie-a",
+        "name": "Jequié",
+        "hash": "22c0bac6"
       }
     }
   }
