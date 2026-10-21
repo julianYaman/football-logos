@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:06:43.261Z",
+  "generatedAt": "2026-10-21T11:22:55.404Z",
   "country": {
     "slug": "australia",
     "iso2": "AU",
@@ -127,6 +127,12 @@
         "league": "a-league",
         "name": "Preston Lions",
         "hash": "0b003597"
+      },
+      "sydney-united-58-fc": {
+        "slug": "sydney-united-58-fc",
+        "league": "a-league",
+        "name": "Sydney United 58 FC",
+        "hash": "cee22234"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:06:43.261Z",
+  "generatedAt": "2026-10-21T11:22:55.404Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -86,7 +86,7 @@
       "iso2": "AU",
       "name": "Australia",
       "defaultLeague": "a-league",
-      "clubCount": 18
+      "clubCount": 19
     },
     {
       "slug": "austria",
@@ -205,7 +205,7 @@
       "iso2": "BR",
       "name": "Brazil",
       "defaultLeague": "brazilian-serie-a",
-      "clubCount": 222
+      "clubCount": 223
     },
     {
       "slug": "british-virgin-islands",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 301
+      "clubCount": 305
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 64
+      "clubCount": 66
     },
     {
       "slug": "greenland",
@@ -702,7 +702,7 @@
       "iso2": "IT",
       "name": "Italy",
       "defaultLeague": "serie-a",
-      "clubCount": 266
+      "clubCount": 267
     },
     {
       "slug": "jamaica",
@@ -1297,7 +1297,7 @@
       "iso2": "SI",
       "name": "Slovenia",
       "defaultLeague": "slovenian-prvaliga",
-      "clubCount": 18
+      "clubCount": 19
     },
     {
       "slug": "solomon-islands",
@@ -1507,7 +1507,7 @@
       "iso2": "UG",
       "name": "Uganda",
       "defaultLeague": "uganda-national-team",
-      "clubCount": 0
+      "clubCount": 1
     },
     {
       "slug": "ukraine",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "e8e9811d65582fe1"
+  "contentHash": "1e9ea81fe5ae80a4"
 }

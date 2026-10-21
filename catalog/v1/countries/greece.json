@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:06:43.261Z",
+  "generatedAt": "2026-10-21T11:22:55.404Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -408,6 +408,18 @@
         "league": "super-league-1",
         "name": "AE Kalampaki",
         "hash": "321a907e"
+      },
+      "ao-tegea": {
+        "slug": "ao-tegea",
+        "league": "super-league-1",
+        "name": "AO Tegea",
+        "hash": "9a494346"
+      },
+      "doxa-megalopolis": {
+        "slug": "doxa-megalopolis",
+        "league": "super-league-1",
+        "name": "Doxa Megalopolis",
+        "hash": "5c20fc9a"
       }
     }
   }

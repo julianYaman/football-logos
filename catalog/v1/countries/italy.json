@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T12:48:06.504Z",
+  "generatedAt": "2026-10-21T11:22:55.404Z",
   "country": {
     "slug": "italy",
     "iso2": "IT",
@@ -1635,6 +1635,12 @@
         "league": "serie-a",
         "name": "Calcio Avola 1949",
         "hash": "70a7c26e"
+      },
+      "pordenone-fc": {
+        "slug": "pordenone-fc",
+        "league": "serie-a",
+        "name": "Pordenone FC",
+        "hash": "4a355649"
       }
     }
   }

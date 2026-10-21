@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:06:43.261Z",
+  "generatedAt": "2026-10-21T11:22:55.404Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1876,6 +1876,30 @@
         "league": "bundesliga",
         "name": "VfB Eppingen",
         "hash": "24e4f4d4"
+      },
+      "1-fc-kaan-marienborn": {
+        "slug": "1-fc-kaan-marienborn",
+        "league": "bundesliga",
+        "name": "1. FC Kaan-Marienborn",
+        "hash": "14c33bde"
+      },
+      "asv-cham": {
+        "slug": "asv-cham",
+        "league": "bundesliga",
+        "name": "ASV Cham",
+        "hash": "07859ce2"
+      },
+      "csc-03-kassel": {
+        "slug": "csc-03-kassel",
+        "league": "bundesliga",
+        "name": "CSC 03 Kassel",
+        "hash": "12e4170f"
+      },
+      "inter-turkspor-kiel": {
+        "slug": "inter-turkspor-kiel",
+        "league": "bundesliga",
+        "name": "Inter Türkspor Kiel",
+        "hash": "79fd47ca"
       }
     }
   }

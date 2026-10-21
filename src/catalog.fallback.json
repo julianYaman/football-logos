@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:06:43.261Z",
+  "generatedAt": "2026-10-21T11:22:55.404Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -1542,6 +1542,12 @@
           "league": "a-league",
           "name": "Preston Lions",
           "hash": "0b003597"
+        },
+        "sydney-united-58-fc": {
+          "slug": "sydney-united-58-fc",
+          "league": "a-league",
+          "name": "Sydney United 58 FC",
+          "hash": "cee22234"
         }
       }
     },
@@ -4160,6 +4166,12 @@
           "league": "brazilian-serie-a",
           "name": "Jequié",
           "hash": "22c0bac6"
+        },
+        "barcelona-de-ilheus": {
+          "slug": "barcelona-de-ilheus",
+          "league": "brazilian-serie-a",
+          "name": "Barcelona de Ilhéus",
+          "hash": "375725fd"
         }
       }
     },
@@ -13213,6 +13225,30 @@
           "league": "bundesliga",
           "name": "VfB Eppingen",
           "hash": "24e4f4d4"
+        },
+        "1-fc-kaan-marienborn": {
+          "slug": "1-fc-kaan-marienborn",
+          "league": "bundesliga",
+          "name": "1. FC Kaan-Marienborn",
+          "hash": "14c33bde"
+        },
+        "asv-cham": {
+          "slug": "asv-cham",
+          "league": "bundesliga",
+          "name": "ASV Cham",
+          "hash": "07859ce2"
+        },
+        "csc-03-kassel": {
+          "slug": "csc-03-kassel",
+          "league": "bundesliga",
+          "name": "CSC 03 Kassel",
+          "hash": "12e4170f"
+        },
+        "inter-turkspor-kiel": {
+          "slug": "inter-turkspor-kiel",
+          "league": "bundesliga",
+          "name": "Inter Türkspor Kiel",
+          "hash": "79fd47ca"
         }
       }
     },
@@ -13840,6 +13876,18 @@
           "league": "super-league-1",
           "name": "AE Kalampaki",
           "hash": "321a907e"
+        },
+        "ao-tegea": {
+          "slug": "ao-tegea",
+          "league": "super-league-1",
+          "name": "AO Tegea",
+          "hash": "9a494346"
+        },
+        "doxa-megalopolis": {
+          "slug": "doxa-megalopolis",
+          "league": "super-league-1",
+          "name": "Doxa Megalopolis",
+          "hash": "5c20fc9a"
         }
       }
     },
@@ -17188,6 +17236,12 @@
           "league": "serie-a",
           "name": "Calcio Avola 1949",
           "hash": "70a7c26e"
+        },
+        "pordenone-fc": {
+          "slug": "pordenone-fc",
+          "league": "serie-a",
+          "name": "Pordenone FC",
+          "hash": "4a355649"
         }
       }
     },
@@ -24710,6 +24764,12 @@
           "name": "NK Bela Krajina",
           "hash": "cdea27dd",
           "league": ""
+        },
+        "olimpija-ljubljana-1945": {
+          "slug": "olimpija-ljubljana-1945",
+          "league": "slovenian-prvaliga",
+          "name": "Olimpija Ljubljana (1945–2005)",
+          "hash": "1d695e0a"
         }
       }
     },
@@ -28068,7 +28128,14 @@
           "code": "UG"
         }
       },
-      "clubs": {}
+      "clubs": {
+        "kitara-fc": {
+          "slug": "kitara-fc",
+          "league": "uganda-national-team",
+          "name": "Kitara FC",
+          "hash": "d26c36e3"
+        }
+      }
     },
     "ukraine": {
       "slug": "ukraine",
@@ -30375,5 +30442,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "e8e9811d65582fe1"
+  "contentHash": "1e9ea81fe5ae80a4"
 }

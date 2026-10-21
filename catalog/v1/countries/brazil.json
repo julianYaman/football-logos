@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:06:43.261Z",
+  "generatedAt": "2026-10-21T11:22:55.404Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1366,6 +1366,12 @@
         "league": "brazilian-serie-a",
         "name": "Jequié",
         "hash": "22c0bac6"
+      },
+      "barcelona-de-ilheus": {
+        "slug": "barcelona-de-ilheus",
+        "league": "brazilian-serie-a",
+        "name": "Barcelona de Ilhéus",
+        "hash": "375725fd"
       }
     }
   }

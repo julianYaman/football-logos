@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-10-21T11:22:55.404Z",
   "country": {
     "slug": "slovenia",
     "iso2": "SI",
@@ -127,6 +127,12 @@
         "name": "NK Bela Krajina",
         "hash": "cdea27dd",
         "league": ""
+      },
+      "olimpija-ljubljana-1945": {
+        "slug": "olimpija-ljubljana-1945",
+        "league": "slovenian-prvaliga",
+        "name": "Olimpija Ljubljana (1945–2005)",
+        "hash": "1d695e0a"
       }
     }
   }
