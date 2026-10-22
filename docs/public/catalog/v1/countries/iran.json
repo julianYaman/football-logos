@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-10-22T11:29:25.876Z",
   "country": {
     "slug": "iran",
     "iso2": "IR",
@@ -115,6 +115,12 @@
         "name": "Mes Rafsanjan",
         "hash": "c1635af1",
         "league": ""
+      },
+      "esteghlal-fc": {
+        "slug": "esteghlal-fc",
+        "league": "persian-gulf-pro-league",
+        "name": "Esteghlal FC",
+        "hash": "8ccdb0e7"
       }
     }
   }

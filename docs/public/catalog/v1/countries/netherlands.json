@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-10-22T11:29:25.876Z",
   "country": {
     "slug": "netherlands",
     "iso2": "NL",
@@ -364,6 +364,30 @@
         "name": "VV Heerjansdam",
         "hash": "173a913a",
         "league": ""
+      },
+      "gvv-unitas": {
+        "slug": "gvv-unitas",
+        "league": "eredivisie",
+        "name": "GVV Unitas",
+        "hash": "64f97e80"
+      },
+      "vv-una": {
+        "slug": "vv-una",
+        "league": "eredivisie",
+        "name": "VV UNA",
+        "hash": "07241108"
+      },
+      "stedoco": {
+        "slug": "stedoco",
+        "league": "eredivisie",
+        "name": "SteDoCo",
+        "hash": "f8f65611"
+      },
+      "svv-scheveningen": {
+        "slug": "svv-scheveningen",
+        "league": "eredivisie",
+        "name": "SVV Scheveningen",
+        "hash": "a0704c42"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:22:55.404Z",
+  "generatedAt": "2026-10-22T11:29:25.876Z",
   "country": {
     "slug": "australia",
     "iso2": "AU",
@@ -133,6 +133,12 @@
         "league": "a-league",
         "name": "Sydney United 58 FC",
         "hash": "cee22234"
+      },
+      "bonnyrigg-white-eagles-fc": {
+        "slug": "bonnyrigg-white-eagles-fc",
+        "league": "a-league",
+        "name": "Bonnyrigg White Eagles FC",
+        "hash": "690d610b"
       }
     }
   }

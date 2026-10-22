@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:22:55.404Z",
+  "generatedAt": "2026-10-22T11:29:25.876Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -394,7 +394,14 @@
           "code": "AO"
         }
       },
-      "clubs": {}
+      "clubs": {
+        "petro-de-luanda": {
+          "slug": "petro-de-luanda",
+          "league": "angola-national-team",
+          "name": "Petro de Luanda",
+          "hash": "18c34177"
+        }
+      }
     },
     "anguilla": {
       "slug": "anguilla",
@@ -1548,6 +1555,12 @@
           "league": "a-league",
           "name": "Sydney United 58 FC",
           "hash": "cee22234"
+        },
+        "bonnyrigg-white-eagles-fc": {
+          "slug": "bonnyrigg-white-eagles-fc",
+          "league": "a-league",
+          "name": "Bonnyrigg White Eagles FC",
+          "hash": "690d610b"
         }
       }
     },
@@ -4172,6 +4185,12 @@
           "league": "brazilian-serie-a",
           "name": "Barcelona de Ilhéus",
           "hash": "375725fd"
+        },
+        "galicia": {
+          "slug": "galicia",
+          "league": "brazilian-serie-a",
+          "name": "Galícia EC",
+          "hash": "32f12e76"
         }
       }
     },
@@ -11347,6 +11366,12 @@
           "name": "FC Tskhinvali",
           "hash": "4377e69c",
           "league": ""
+        },
+        "fc-spartaki-tbilisi": {
+          "slug": "fc-spartaki-tbilisi",
+          "league": "erovnuli-liga",
+          "name": "FC Spartaki Tbilisi",
+          "hash": "1ee6a1a2"
         }
       }
     },
@@ -13249,6 +13274,12 @@
           "league": "bundesliga",
           "name": "Inter Türkspor Kiel",
           "hash": "79fd47ca"
+        },
+        "fsv-eibau": {
+          "slug": "fsv-eibau",
+          "league": "bundesliga",
+          "name": "FSV Eibau",
+          "hash": "28a278a5"
         }
       }
     },
@@ -13888,6 +13919,12 @@
           "league": "super-league-1",
           "name": "Doxa Megalopolis",
           "hash": "5c20fc9a"
+        },
+        "ampelakiakos": {
+          "slug": "ampelakiakos",
+          "league": "super-league-1",
+          "name": "Ampelakiakos",
+          "hash": "11c1bd72"
         }
       }
     },
@@ -15275,6 +15312,12 @@
           "name": "Mes Rafsanjan",
           "hash": "c1635af1",
           "league": ""
+        },
+        "esteghlal-fc": {
+          "slug": "esteghlal-fc",
+          "league": "persian-gulf-pro-league",
+          "name": "Esteghlal FC",
+          "hash": "8ccdb0e7"
         }
       }
     },
@@ -19983,6 +20026,30 @@
           "name": "VV Heerjansdam",
           "hash": "173a913a",
           "league": ""
+        },
+        "gvv-unitas": {
+          "slug": "gvv-unitas",
+          "league": "eredivisie",
+          "name": "GVV Unitas",
+          "hash": "64f97e80"
+        },
+        "vv-una": {
+          "slug": "vv-una",
+          "league": "eredivisie",
+          "name": "VV UNA",
+          "hash": "07241108"
+        },
+        "stedoco": {
+          "slug": "stedoco",
+          "league": "eredivisie",
+          "name": "SteDoCo",
+          "hash": "f8f65611"
+        },
+        "svv-scheveningen": {
+          "slug": "svv-scheveningen",
+          "league": "eredivisie",
+          "name": "SVV Scheveningen",
+          "hash": "a0704c42"
         }
       }
     },
@@ -23090,6 +23157,12 @@
           "league": "superliga",
           "name": "FC Arieșul Turda",
           "hash": "a198842c"
+        },
+        "csa-steaua-bucuresti": {
+          "slug": "csa-steaua-bucuresti",
+          "league": "superliga",
+          "name": "CSA Steaua București",
+          "hash": "f59d5e73"
         }
       }
     },
@@ -30442,5 +30515,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "1e9ea81fe5ae80a4"
+  "contentHash": "54e63a9714f56eda"
 }

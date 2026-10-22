@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-10-22T11:29:25.876Z",
   "country": {
     "slug": "georgia",
     "iso2": "GE",
@@ -145,6 +145,12 @@
         "name": "FC Tskhinvali",
         "hash": "4377e69c",
         "league": ""
+      },
+      "fc-spartaki-tbilisi": {
+        "slug": "fc-spartaki-tbilisi",
+        "league": "erovnuli-liga",
+        "name": "FC Spartaki Tbilisi",
+        "hash": "1ee6a1a2"
       }
     }
   }

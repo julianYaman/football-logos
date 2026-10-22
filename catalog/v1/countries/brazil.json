@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:22:55.404Z",
+  "generatedAt": "2026-10-22T11:29:25.876Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1372,6 +1372,12 @@
         "league": "brazilian-serie-a",
         "name": "Barcelona de Ilhéus",
         "hash": "375725fd"
+      },
+      "galicia": {
+        "slug": "galicia",
+        "league": "brazilian-serie-a",
+        "name": "Galícia EC",
+        "hash": "32f12e76"
       }
     }
   }

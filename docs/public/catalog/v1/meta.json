@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:22:55.404Z",
+  "generatedAt": "2026-10-22T11:29:25.876Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -44,7 +44,7 @@
       "iso2": "AO",
       "name": "Angola",
       "defaultLeague": "angola-national-team",
-      "clubCount": 0
+      "clubCount": 1
     },
     {
       "slug": "anguilla",
@@ -86,7 +86,7 @@
       "iso2": "AU",
       "name": "Australia",
       "defaultLeague": "a-league",
-      "clubCount": 19
+      "clubCount": 20
     },
     {
       "slug": "austria",
@@ -205,7 +205,7 @@
       "iso2": "BR",
       "name": "Brazil",
       "defaultLeague": "brazilian-serie-a",
-      "clubCount": 223
+      "clubCount": 224
     },
     {
       "slug": "british-virgin-islands",
@@ -541,14 +541,14 @@
       "iso2": "GE",
       "name": "Georgia",
       "defaultLeague": "erovnuli-liga",
-      "clubCount": 21
+      "clubCount": 22
     },
     {
       "slug": "germany",
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 305
+      "clubCount": 306
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 66
+      "clubCount": 67
     },
     {
       "slug": "greenland",
@@ -681,7 +681,7 @@
       "iso2": "IR",
       "name": "Iran",
       "defaultLeague": "persian-gulf-pro-league",
-      "clubCount": 16
+      "clubCount": 17
     },
     {
       "slug": "iraq",
@@ -989,7 +989,7 @@
       "iso2": "NL",
       "name": "Netherlands",
       "defaultLeague": "eredivisie",
-      "clubCount": 55
+      "clubCount": 59
     },
     {
       "slug": "new-caledonia",
@@ -1171,7 +1171,7 @@
       "iso2": "RO",
       "name": "Romania",
       "defaultLeague": "superliga",
-      "clubCount": 25
+      "clubCount": 26
     },
     {
       "slug": "russia",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "1e9ea81fe5ae80a4"
+  "contentHash": "54e63a9714f56eda"
 }

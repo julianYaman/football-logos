@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T12:19:56.185Z",
+  "generatedAt": "2026-10-22T11:29:25.876Z",
   "country": {
     "slug": "romania",
     "iso2": "RO",
@@ -169,6 +169,12 @@
         "league": "superliga",
         "name": "FC Arieșul Turda",
         "hash": "a198842c"
+      },
+      "csa-steaua-bucuresti": {
+        "slug": "csa-steaua-bucuresti",
+        "league": "superliga",
+        "name": "CSA Steaua București",
+        "hash": "f59d5e73"
       }
     }
   }
