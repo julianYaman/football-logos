@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-10-23T11:13:37.253Z",
   "country": {
     "slug": "austria",
     "iso2": "AT",
@@ -228,6 +228,12 @@
         "name": "SV Mattersburg",
         "hash": "8efdddce",
         "league": ""
+      },
+      "sv-grodig": {
+        "slug": "sv-grodig",
+        "league": "austrian-football-bundesliga",
+        "name": "SV Grödig",
+        "hash": "0a52d9b7"
       }
     }
   }

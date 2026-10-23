@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:02:20.762Z",
+  "generatedAt": "2026-10-23T11:13:37.253Z",
   "country": {
     "slug": "spain",
     "iso2": "ES",
@@ -1059,6 +1059,12 @@
         "league": "la-liga",
         "name": "CF Reus Deportiu",
         "hash": "10750711"
+      },
+      "ue-figueres": {
+        "slug": "ue-figueres",
+        "league": "la-liga",
+        "name": "UE Figueres",
+        "hash": "20ae8f07"
       }
     }
   }

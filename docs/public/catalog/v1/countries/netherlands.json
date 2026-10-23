@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:29:25.876Z",
+  "generatedAt": "2026-10-23T11:13:37.253Z",
   "country": {
     "slug": "netherlands",
     "iso2": "NL",
@@ -388,6 +388,90 @@
         "league": "eredivisie",
         "name": "SVV Scheveningen",
         "hash": "a0704c42"
+      },
+      "achilles-veen": {
+        "slug": "achilles-veen",
+        "league": "eredivisie",
+        "name": "Achilles Veen",
+        "hash": "16d96ecc"
+      },
+      "blauw-geel-38": {
+        "slug": "blauw-geel-38",
+        "league": "eredivisie",
+        "name": "Blauw Geel '38",
+        "hash": "fbceb2c8"
+      },
+      "evv-echt": {
+        "slug": "evv-echt",
+        "league": "eredivisie",
+        "name": "EVV Echt",
+        "hash": "814d2917"
+      },
+      "fc-lisse": {
+        "slug": "fc-lisse",
+        "league": "eredivisie",
+        "name": "FC Lisse",
+        "hash": "c8770ecb"
+      },
+      "fc-rijnvogels": {
+        "slug": "fc-rijnvogels",
+        "league": "eredivisie",
+        "name": "FC Rijnvogels",
+        "hash": "e339610e"
+      },
+      "sv-poortugaal": {
+        "slug": "sv-poortugaal",
+        "league": "eredivisie",
+        "name": "SV Poortugaal",
+        "hash": "e8d937c4"
+      },
+      "togb": {
+        "slug": "togb",
+        "league": "eredivisie",
+        "name": "TOGB",
+        "hash": "faf5c1c5"
+      },
+      "udi-19": {
+        "slug": "udi-19",
+        "league": "eredivisie",
+        "name": "UDI '19",
+        "hash": "390ed6a3"
+      },
+      "vv-dongen": {
+        "slug": "vv-dongen",
+        "league": "eredivisie",
+        "name": "VV Dongen",
+        "hash": "193fb0a8"
+      },
+      "vv-gemert": {
+        "slug": "vv-gemert",
+        "league": "eredivisie",
+        "name": "VV Gemert",
+        "hash": "70eafc25"
+      },
+      "vv-goes": {
+        "slug": "vv-goes",
+        "league": "eredivisie",
+        "name": "VV GOES",
+        "hash": "5c100357"
+      },
+      "vv-noordwijk": {
+        "slug": "vv-noordwijk",
+        "league": "eredivisie",
+        "name": "VV Noordwijk",
+        "hash": "3d084ddd"
+      },
+      "vv-zwaluwen": {
+        "slug": "vv-zwaluwen",
+        "league": "eredivisie",
+        "name": "VV Zwaluwen",
+        "hash": "e91d27b3"
+      },
+      "vvsb": {
+        "slug": "vvsb",
+        "league": "eredivisie",
+        "name": "VVSB",
+        "hash": "9db1afa1"
       }
     }
   }

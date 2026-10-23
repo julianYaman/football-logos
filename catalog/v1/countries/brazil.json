@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:29:25.876Z",
+  "generatedAt": "2026-10-23T11:13:37.253Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1378,6 +1378,12 @@
         "league": "brazilian-serie-a",
         "name": "Galícia EC",
         "hash": "32f12e76"
+      },
+      "concordia": {
+        "slug": "concordia",
+        "league": "brazilian-serie-a",
+        "name": "Concórdia AC",
+        "hash": "f48001e9"
       }
     }
   }
