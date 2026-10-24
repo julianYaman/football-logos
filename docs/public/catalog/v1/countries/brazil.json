@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:13:37.253Z",
+  "generatedAt": "2026-10-24T10:31:15.354Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1384,6 +1384,18 @@
         "league": "brazilian-serie-a",
         "name": "Concórdia AC",
         "hash": "f48001e9"
+      },
+      "camboriu": {
+        "slug": "camboriu",
+        "league": "brazilian-serie-a",
+        "name": "Camboriú FC",
+        "hash": "07a9d11a"
+      },
+      "ipanema-ac": {
+        "slug": "ipanema-ac",
+        "league": "brazilian-serie-a",
+        "name": "Ipanema Atlético Clube",
+        "hash": "9097f42a"
       }
     }
   }

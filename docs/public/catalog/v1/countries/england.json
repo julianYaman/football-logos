@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T12:53:11.832Z",
+  "generatedAt": "2026-10-24T10:31:15.354Z",
   "country": {
     "slug": "england",
     "iso2": "ENG",
@@ -2171,6 +2171,12 @@
         "league": "english-premier-league",
         "name": "Bishop Auckland",
         "hash": "5e26925e"
+      },
+      "wimbledon-fc": {
+        "slug": "wimbledon-fc",
+        "league": "english-premier-league",
+        "name": "Wimbledon FC",
+        "hash": "eb3317b8"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T12:48:06.504Z",
+  "generatedAt": "2026-10-24T10:31:15.354Z",
   "country": {
     "slug": "china",
     "iso2": "CN",
@@ -139,6 +139,12 @@
         "league": "chinese-super-league",
         "name": "Tianjin Tianhai",
         "hash": "6d51db5d"
+      },
+      "shenzhen-fc": {
+        "slug": "shenzhen-fc",
+        "league": "chinese-super-league",
+        "name": "Shenzhen FC",
+        "hash": "cc29d96b"
       }
     }
   }

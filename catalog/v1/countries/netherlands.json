@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:13:37.253Z",
+  "generatedAt": "2026-10-24T10:31:15.354Z",
   "country": {
     "slug": "netherlands",
     "iso2": "NL",
@@ -472,6 +472,12 @@
         "league": "eredivisie",
         "name": "VVSB",
         "hash": "9db1afa1"
+      },
+      "rksv-groene-ster": {
+        "slug": "rksv-groene-ster",
+        "league": "eredivisie",
+        "name": "RKSV Groene Ster",
+        "hash": "6531196b"
       }
     }
   }

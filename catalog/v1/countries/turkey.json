@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:06:43.261Z",
+  "generatedAt": "2026-10-24T10:31:15.354Z",
   "country": {
     "slug": "turkey",
     "iso2": "TR",
@@ -555,6 +555,12 @@
         "league": "super-lig",
         "name": "Akhisarspor",
         "hash": "1815e47d"
+      },
+      "gaziantepspor": {
+        "slug": "gaziantepspor",
+        "league": "super-lig",
+        "name": "Gaziantepspor",
+        "hash": "3ed3d3d4"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:13:37.253Z",
+  "generatedAt": "2026-10-24T10:31:15.354Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1924,6 +1924,18 @@
         "league": "bundesliga",
         "name": "Viktoria Goch",
         "hash": "f62d8594"
+      },
+      "bsc-kickers-1900": {
+        "slug": "bsc-kickers-1900",
+        "league": "bundesliga",
+        "name": "BSC Kickers 1900",
+        "hash": "572377a8"
+      },
+      "fsv-wacker-90-nordhausen": {
+        "slug": "fsv-wacker-90-nordhausen",
+        "league": "bundesliga",
+        "name": "FSV Wacker 90 Nordhausen",
+        "hash": "3c7bc76f"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:13:37.253Z",
+  "generatedAt": "2026-10-24T10:31:15.354Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -205,7 +205,7 @@
       "iso2": "BR",
       "name": "Brazil",
       "defaultLeague": "brazilian-serie-a",
-      "clubCount": 225
+      "clubCount": 227
     },
     {
       "slug": "british-virgin-islands",
@@ -310,7 +310,7 @@
       "iso2": "CN",
       "name": "China",
       "defaultLeague": "chinese-super-league",
-      "clubCount": 20
+      "clubCount": 21
     },
     {
       "slug": "colombia",
@@ -450,7 +450,7 @@
       "iso2": "ENG",
       "name": "England",
       "defaultLeague": "english-premier-league",
-      "clubCount": 346
+      "clubCount": 347
     },
     {
       "slug": "equatorial-guinea",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 309
+      "clubCount": 311
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 67
+      "clubCount": 69
     },
     {
       "slug": "greenland",
@@ -989,7 +989,7 @@
       "iso2": "NL",
       "name": "Netherlands",
       "defaultLeague": "eredivisie",
-      "clubCount": 73
+      "clubCount": 74
     },
     {
       "slug": "new-caledonia",
@@ -1374,7 +1374,7 @@
       "iso2": "SE",
       "name": "Sweden",
       "defaultLeague": "allsvenskan",
-      "clubCount": 60
+      "clubCount": 61
     },
     {
       "slug": "switzerland",
@@ -1472,7 +1472,7 @@
       "iso2": "TR",
       "name": "Turkey",
       "defaultLeague": "super-lig",
-      "clubCount": 86
+      "clubCount": 87
     },
     {
       "slug": "turkmenistan",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "d87581cf579a5c69"
+  "contentHash": "d63dad3ac8aea858"
 }

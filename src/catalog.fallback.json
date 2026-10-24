@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:13:37.253Z",
+  "generatedAt": "2026-10-24T10:31:15.354Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -4203,6 +4203,18 @@
           "league": "brazilian-serie-a",
           "name": "Concórdia AC",
           "hash": "f48001e9"
+        },
+        "camboriu": {
+          "slug": "camboriu",
+          "league": "brazilian-serie-a",
+          "name": "Camboriú FC",
+          "hash": "07a9d11a"
+        },
+        "ipanema-ac": {
+          "slug": "ipanema-ac",
+          "league": "brazilian-serie-a",
+          "name": "Ipanema Atlético Clube",
+          "hash": "9097f42a"
         }
       }
     },
@@ -5021,6 +5033,12 @@
           "league": "chinese-super-league",
           "name": "Tianjin Tianhai",
           "hash": "6d51db5d"
+        },
+        "shenzhen-fc": {
+          "slug": "shenzhen-fc",
+          "league": "chinese-super-league",
+          "name": "Shenzhen FC",
+          "hash": "cc29d96b"
         }
       }
     },
@@ -8775,6 +8793,12 @@
           "league": "english-premier-league",
           "name": "Bishop Auckland",
           "hash": "5e26925e"
+        },
+        "wimbledon-fc": {
+          "slug": "wimbledon-fc",
+          "league": "english-premier-league",
+          "name": "Wimbledon FC",
+          "hash": "eb3317b8"
         }
       }
     },
@@ -13310,6 +13334,18 @@
           "league": "bundesliga",
           "name": "Viktoria Goch",
           "hash": "f62d8594"
+        },
+        "bsc-kickers-1900": {
+          "slug": "bsc-kickers-1900",
+          "league": "bundesliga",
+          "name": "BSC Kickers 1900",
+          "hash": "572377a8"
+        },
+        "fsv-wacker-90-nordhausen": {
+          "slug": "fsv-wacker-90-nordhausen",
+          "league": "bundesliga",
+          "name": "FSV Wacker 90 Nordhausen",
+          "hash": "3c7bc76f"
         }
       }
     },
@@ -13955,6 +13991,18 @@
           "league": "super-league-1",
           "name": "Ampelakiakos",
           "hash": "11c1bd72"
+        },
+        "nafpaktiakos-asteras": {
+          "slug": "nafpaktiakos-asteras",
+          "league": "super-league-1",
+          "name": "Nafpaktiakos Asteras",
+          "hash": "3ed7c282"
+        },
+        "ethnikos-sidirokastro": {
+          "slug": "ethnikos-sidirokastro",
+          "league": "super-league-1",
+          "name": "Ethnikos Sidirokastro",
+          "hash": "a91ebaa8"
         }
       }
     },
@@ -20164,6 +20212,12 @@
           "league": "eredivisie",
           "name": "VVSB",
           "hash": "9db1afa1"
+        },
+        "rksv-groene-ster": {
+          "slug": "rksv-groene-ster",
+          "league": "eredivisie",
+          "name": "RKSV Groene Ster",
+          "hash": "6531196b"
         }
       }
     },
@@ -26856,6 +26910,12 @@
           "league": "allsvenskan",
           "name": "AFC Eskilstuna",
           "hash": "3927a86a"
+        },
+        "linkoping-fc": {
+          "slug": "linkoping-fc",
+          "league": "allsvenskan",
+          "name": "Linköping FC",
+          "hash": "78633bce"
         }
       }
     },
@@ -28143,6 +28203,12 @@
           "league": "super-lig",
           "name": "Akhisarspor",
           "hash": "1815e47d"
+        },
+        "gaziantepspor": {
+          "slug": "gaziantepspor",
+          "league": "super-lig",
+          "name": "Gaziantepspor",
+          "hash": "3ed3d3d4"
         }
       }
     },
@@ -30635,5 +30701,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "d87581cf579a5c69"
+  "contentHash": "d63dad3ac8aea858"
 }

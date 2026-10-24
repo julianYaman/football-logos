@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:29:25.876Z",
+  "generatedAt": "2026-10-24T10:31:15.354Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -426,6 +426,18 @@
         "league": "super-league-1",
         "name": "Ampelakiakos",
         "hash": "11c1bd72"
+      },
+      "nafpaktiakos-asteras": {
+        "slug": "nafpaktiakos-asteras",
+        "league": "super-league-1",
+        "name": "Nafpaktiakos Asteras",
+        "hash": "3ed7c282"
+      },
+      "ethnikos-sidirokastro": {
+        "slug": "ethnikos-sidirokastro",
+        "league": "super-league-1",
+        "name": "Ethnikos Sidirokastro",
+        "hash": "a91ebaa8"
       }
     }
   }
