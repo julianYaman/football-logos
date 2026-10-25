@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:31:15.354Z",
+  "generatedAt": "2026-10-25T10:58:29.453Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -86,7 +86,7 @@
       "iso2": "AU",
       "name": "Australia",
       "defaultLeague": "a-league",
-      "clubCount": 20
+      "clubCount": 21
     },
     {
       "slug": "austria",
@@ -205,7 +205,7 @@
       "iso2": "BR",
       "name": "Brazil",
       "defaultLeague": "brazilian-serie-a",
-      "clubCount": 227
+      "clubCount": 228
     },
     {
       "slug": "british-virgin-islands",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 311
+      "clubCount": 312
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 69
+      "clubCount": 70
     },
     {
       "slug": "greenland",
@@ -709,7 +709,7 @@
       "iso2": "JM",
       "name": "Jamaica",
       "defaultLeague": "jamaica-national-team",
-      "clubCount": 0
+      "clubCount": 1
     },
     {
       "slug": "japan",
@@ -1381,7 +1381,7 @@
       "iso2": "CH",
       "name": "Switzerland",
       "defaultLeague": "swiss-football-league",
-      "clubCount": 23
+      "clubCount": 24
     },
     {
       "slug": "syria",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "d63dad3ac8aea858"
+  "contentHash": "da794300eae31d24"
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:31:15.354Z",
+  "generatedAt": "2026-10-25T10:58:29.453Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1936,6 +1936,12 @@
         "league": "bundesliga",
         "name": "FSV Wacker 90 Nordhausen",
         "hash": "3c7bc76f"
+      },
+      "rhenania-wurselen": {
+        "slug": "rhenania-wurselen",
+        "league": "bundesliga",
+        "name": "Rhenania Würselen",
+        "hash": "41747e6f"
       }
     }
   }

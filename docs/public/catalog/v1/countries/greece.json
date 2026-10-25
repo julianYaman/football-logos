@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:31:15.354Z",
+  "generatedAt": "2026-10-25T10:58:29.453Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -438,6 +438,12 @@
         "league": "super-league-1",
         "name": "Ethnikos Sidirokastro",
         "hash": "a91ebaa8"
+      },
+      "tyrnavos-2005": {
+        "slug": "tyrnavos-2005",
+        "league": "super-league-1",
+        "name": "Tyrnavos 2005",
+        "hash": "6359cec7"
       }
     }
   }

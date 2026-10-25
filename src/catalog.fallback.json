@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:31:15.354Z",
+  "generatedAt": "2026-10-25T10:58:29.453Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -1561,6 +1561,12 @@
           "league": "a-league",
           "name": "Bonnyrigg White Eagles FC",
           "hash": "690d610b"
+        },
+        "apia-leichhardt-fc": {
+          "slug": "apia-leichhardt-fc",
+          "league": "a-league",
+          "name": "APIA Leichhardt FC",
+          "hash": "42917c24"
         }
       }
     },
@@ -4215,6 +4221,12 @@
           "league": "brazilian-serie-a",
           "name": "Ipanema Atlético Clube",
           "hash": "9097f42a"
+        },
+        "carlos-renaux": {
+          "slug": "carlos-renaux",
+          "league": "brazilian-serie-a",
+          "name": "Carlos Renaux",
+          "hash": "e8309e3b"
         }
       }
     },
@@ -13346,6 +13358,12 @@
           "league": "bundesliga",
           "name": "FSV Wacker 90 Nordhausen",
           "hash": "3c7bc76f"
+        },
+        "rhenania-wurselen": {
+          "slug": "rhenania-wurselen",
+          "league": "bundesliga",
+          "name": "Rhenania Würselen",
+          "hash": "41747e6f"
         }
       }
     },
@@ -14003,6 +14021,12 @@
           "league": "super-league-1",
           "name": "Ethnikos Sidirokastro",
           "hash": "a91ebaa8"
+        },
+        "tyrnavos-2005": {
+          "slug": "tyrnavos-2005",
+          "league": "super-league-1",
+          "name": "Tyrnavos 2005",
+          "hash": "6359cec7"
         }
       }
     },
@@ -17379,7 +17403,14 @@
           "code": "JM"
         }
       },
-      "clubs": {}
+      "clubs": {
+        "montego-bay-united": {
+          "slug": "montego-bay-united",
+          "league": "jamaica-national-team",
+          "name": "Montego Bay United",
+          "hash": "e9169c88"
+        }
+      }
     },
     "japan": {
       "slug": "japan",
@@ -27085,6 +27116,12 @@
           "league": "swiss-football-league",
           "name": "Vevey-Sports",
           "hash": "5a1b710b"
+        },
+        "sc-cham": {
+          "slug": "sc-cham",
+          "league": "swiss-football-league",
+          "name": "SC Cham",
+          "hash": "dc277847"
         }
       }
     },
@@ -30701,5 +30738,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "d63dad3ac8aea858"
+  "contentHash": "da794300eae31d24"
 }
