@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T10:58:29.453Z",
+  "generatedAt": "2026-10-26T12:34:10.018Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1402,6 +1402,24 @@
         "league": "brazilian-serie-a",
         "name": "Carlos Renaux",
         "hash": "e8309e3b"
+      },
+      "centro-esportivo-olhodaguense": {
+        "slug": "centro-esportivo-olhodaguense",
+        "league": "brazilian-serie-a",
+        "name": "Centro Esportivo Olhodaguense",
+        "hash": "a4337ea2"
+      },
+      "horizonte": {
+        "slug": "horizonte",
+        "league": "brazilian-serie-a",
+        "name": "Horizonte FC",
+        "hash": "0705ce56"
+      },
+      "eco-osasco": {
+        "slug": "eco-osasco",
+        "league": "brazilian-serie-a",
+        "name": "Esporte Clube Osasco",
+        "hash": "bc0c27b2"
       }
     }
   }

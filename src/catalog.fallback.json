@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T10:58:29.453Z",
+  "generatedAt": "2026-10-26T12:34:10.018Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -4227,6 +4227,24 @@
           "league": "brazilian-serie-a",
           "name": "Carlos Renaux",
           "hash": "e8309e3b"
+        },
+        "centro-esportivo-olhodaguense": {
+          "slug": "centro-esportivo-olhodaguense",
+          "league": "brazilian-serie-a",
+          "name": "Centro Esportivo Olhodaguense",
+          "hash": "a4337ea2"
+        },
+        "horizonte": {
+          "slug": "horizonte",
+          "league": "brazilian-serie-a",
+          "name": "Horizonte FC",
+          "hash": "0705ce56"
+        },
+        "eco-osasco": {
+          "slug": "eco-osasco",
+          "league": "brazilian-serie-a",
+          "name": "Esporte Clube Osasco",
+          "hash": "bc0c27b2"
         }
       }
     },
@@ -5051,6 +5069,12 @@
           "league": "chinese-super-league",
           "name": "Shenzhen FC",
           "hash": "cc29d96b"
+        },
+        "beijing-renhe": {
+          "slug": "beijing-renhe",
+          "league": "chinese-super-league",
+          "name": "Beijing Renhe",
+          "hash": "00e69107"
         }
       }
     },
@@ -13364,6 +13388,24 @@
           "league": "bundesliga",
           "name": "Rhenania Würselen",
           "hash": "41747e6f"
+        },
+        "asv-botnang": {
+          "slug": "asv-botnang",
+          "league": "bundesliga",
+          "name": "ASV Botnang",
+          "hash": "087aada7"
+        },
+        "skv-rutesheim": {
+          "slug": "skv-rutesheim",
+          "league": "bundesliga",
+          "name": "SKV Rutesheim",
+          "hash": "2fb0e59a"
+        },
+        "vfl-08-vichttal": {
+          "slug": "vfl-08-vichttal",
+          "league": "bundesliga",
+          "name": "VfL 08 Vichttal",
+          "hash": "37ddf16a"
         }
       }
     },
@@ -14027,6 +14069,18 @@
           "league": "super-league-1",
           "name": "Tyrnavos 2005",
           "hash": "6359cec7"
+        },
+        "orestis-orestiada": {
+          "slug": "orestis-orestiada",
+          "league": "super-league-1",
+          "name": "Orestis Orestiada",
+          "hash": "bd1f487d"
+        },
+        "vyzas-megara": {
+          "slug": "vyzas-megara",
+          "league": "super-league-1",
+          "name": "Vyzas Megara",
+          "hash": "bf4f8900"
         }
       }
     },
@@ -17828,6 +17882,12 @@
           "league": "jordan-national-team",
           "name": "Al-Faisaly",
           "hash": "cf1ab469"
+        },
+        "al-wehdat": {
+          "slug": "al-wehdat",
+          "league": "jordan-national-team",
+          "name": "Al-Wehdat",
+          "hash": "d41f9b53"
         }
       }
     },
@@ -30738,5 +30798,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "da794300eae31d24"
+  "contentHash": "52b04aa906059d81"
 }

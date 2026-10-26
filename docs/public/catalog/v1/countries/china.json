@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:31:15.354Z",
+  "generatedAt": "2026-10-26T12:34:10.018Z",
   "country": {
     "slug": "china",
     "iso2": "CN",
@@ -145,6 +145,12 @@
         "league": "chinese-super-league",
         "name": "Shenzhen FC",
         "hash": "cc29d96b"
+      },
+      "beijing-renhe": {
+        "slug": "beijing-renhe",
+        "league": "chinese-super-league",
+        "name": "Beijing Renhe",
+        "hash": "00e69107"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T10:58:29.453Z",
+  "generatedAt": "2026-10-26T12:34:10.018Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1942,6 +1942,24 @@
         "league": "bundesliga",
         "name": "Rhenania Würselen",
         "hash": "41747e6f"
+      },
+      "asv-botnang": {
+        "slug": "asv-botnang",
+        "league": "bundesliga",
+        "name": "ASV Botnang",
+        "hash": "087aada7"
+      },
+      "skv-rutesheim": {
+        "slug": "skv-rutesheim",
+        "league": "bundesliga",
+        "name": "SKV Rutesheim",
+        "hash": "2fb0e59a"
+      },
+      "vfl-08-vichttal": {
+        "slug": "vfl-08-vichttal",
+        "league": "bundesliga",
+        "name": "VfL 08 Vichttal",
+        "hash": "37ddf16a"
       }
     }
   }
