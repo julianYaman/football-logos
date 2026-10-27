@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-10-27T11:47:28.785Z",
   "country": {
     "slug": "lithuania",
     "iso2": "LT",
@@ -103,6 +103,12 @@
         "name": "Tauras",
         "hash": "3152599b",
         "league": ""
+      },
+      "fk-palanga": {
+        "slug": "fk-palanga",
+        "league": "toplyga",
+        "name": "FK Palanga",
+        "hash": "4d963943"
       }
     }
   }

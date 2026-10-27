@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:34:10.018Z",
+  "generatedAt": "2026-10-27T11:47:28.785Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -456,6 +456,18 @@
         "league": "super-league-1",
         "name": "Vyzas Megara",
         "hash": "bf4f8900"
+      },
+      "ae-didymoteicho": {
+        "slug": "ae-didymoteicho",
+        "league": "super-league-1",
+        "name": "AE Didymoteicho",
+        "hash": "d81ae279"
+      },
+      "ialysos": {
+        "slug": "ialysos",
+        "league": "super-league-1",
+        "name": "Ialysos",
+        "hash": "bef17949"
       }
     }
   }

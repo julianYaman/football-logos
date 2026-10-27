@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:34:10.018Z",
+  "generatedAt": "2026-10-27T11:47:28.785Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1960,6 +1960,18 @@
         "league": "bundesliga",
         "name": "VfL 08 Vichttal",
         "hash": "37ddf16a"
+      },
+      "fsv-krumhermersdorf": {
+        "slug": "fsv-krumhermersdorf",
+        "league": "bundesliga",
+        "name": "FSV Krumhermersdorf",
+        "hash": "28019962"
+      },
+      "tus-bovinghausen": {
+        "slug": "tus-bovinghausen",
+        "league": "bundesliga",
+        "name": "TuS Bövinghausen",
+        "hash": "1ceebcf1"
       }
     }
   }

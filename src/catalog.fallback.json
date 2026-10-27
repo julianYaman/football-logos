@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:34:10.018Z",
+  "generatedAt": "2026-10-27T11:47:28.785Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -4245,6 +4245,12 @@
           "league": "brazilian-serie-a",
           "name": "Esporte Clube Osasco",
           "hash": "bc0c27b2"
+        },
+        "quixada": {
+          "slug": "quixada",
+          "league": "brazilian-serie-a",
+          "name": "Quixadá FC",
+          "hash": "f5734f3c"
         }
       }
     },
@@ -13406,6 +13412,18 @@
           "league": "bundesliga",
           "name": "VfL 08 Vichttal",
           "hash": "37ddf16a"
+        },
+        "fsv-krumhermersdorf": {
+          "slug": "fsv-krumhermersdorf",
+          "league": "bundesliga",
+          "name": "FSV Krumhermersdorf",
+          "hash": "28019962"
+        },
+        "tus-bovinghausen": {
+          "slug": "tus-bovinghausen",
+          "league": "bundesliga",
+          "name": "TuS Bövinghausen",
+          "hash": "1ceebcf1"
         }
       }
     },
@@ -14081,6 +14099,18 @@
           "league": "super-league-1",
           "name": "Vyzas Megara",
           "hash": "bf4f8900"
+        },
+        "ae-didymoteicho": {
+          "slug": "ae-didymoteicho",
+          "league": "super-league-1",
+          "name": "AE Didymoteicho",
+          "hash": "d81ae279"
+        },
+        "ialysos": {
+          "slug": "ialysos",
+          "league": "super-league-1",
+          "name": "Ialysos",
+          "hash": "bef17949"
         }
       }
     },
@@ -18548,6 +18578,12 @@
           "name": "Tauras",
           "hash": "3152599b",
           "league": ""
+        },
+        "fk-palanga": {
+          "slug": "fk-palanga",
+          "league": "toplyga",
+          "name": "FK Palanga",
+          "hash": "4d963943"
         }
       }
     },
@@ -29550,6 +29586,66 @@
           "name": "North Carolina FC",
           "hash": "6f5e3185",
           "league": ""
+        },
+        "ct-united-fc": {
+          "slug": "ct-united-fc",
+          "league": "mls",
+          "name": "CT United FC",
+          "hash": "c4a6a23d"
+        },
+        "huntsville-city-fc": {
+          "slug": "huntsville-city-fc",
+          "league": "mls",
+          "name": "Huntsville City FC",
+          "hash": "be123db7"
+        },
+        "north-texas-sc": {
+          "slug": "north-texas-sc",
+          "league": "mls",
+          "name": "North Texas SC",
+          "hash": "bc541ee7"
+        },
+        "sporting-kansas-city-ii": {
+          "slug": "sporting-kansas-city-ii",
+          "league": "mls",
+          "name": "Sporting Kansas City II",
+          "hash": "8048b50a"
+        },
+        "tacoma-defiance": {
+          "slug": "tacoma-defiance",
+          "league": "mls",
+          "name": "Tacoma Defiance",
+          "hash": "2221dbcc"
+        },
+        "atlanta-united-2": {
+          "slug": "atlanta-united-2",
+          "league": "mls",
+          "name": "Atlanta United 2",
+          "hash": "b746351a"
+        },
+        "fc-cincinnati-2": {
+          "slug": "fc-cincinnati-2",
+          "league": "mls",
+          "name": "FC Cincinnati 2",
+          "hash": "f55fc288"
+        },
+        "red-bull-new-york-ii": {
+          "slug": "red-bull-new-york-ii",
+          "league": "mls",
+          "name": "Red Bull New York II",
+          "hash": "96c0d675"
+        },
+        "real-monarchs": {
+          "slug": "real-monarchs",
+          "league": "mls",
+          "name": "Real Monarchs",
+          "hash": "52d45a77"
+        },
+        "lafc-2": {
+          "slug": "lafc-2",
+          "league": "mls",
+          "name": "LAFC2",
+          "hash": "ce0f88cf"
         }
       }
     },
@@ -30798,5 +30894,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "52b04aa906059d81"
+  "contentHash": "fa742e68804f259e"
 }

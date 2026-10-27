@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-10-27T11:47:28.785Z",
   "country": {
     "slug": "usa",
     "iso2": "US",
@@ -583,6 +583,66 @@
         "name": "North Carolina FC",
         "hash": "6f5e3185",
         "league": ""
+      },
+      "ct-united-fc": {
+        "slug": "ct-united-fc",
+        "league": "mls",
+        "name": "CT United FC",
+        "hash": "c4a6a23d"
+      },
+      "huntsville-city-fc": {
+        "slug": "huntsville-city-fc",
+        "league": "mls",
+        "name": "Huntsville City FC",
+        "hash": "be123db7"
+      },
+      "north-texas-sc": {
+        "slug": "north-texas-sc",
+        "league": "mls",
+        "name": "North Texas SC",
+        "hash": "bc541ee7"
+      },
+      "sporting-kansas-city-ii": {
+        "slug": "sporting-kansas-city-ii",
+        "league": "mls",
+        "name": "Sporting Kansas City II",
+        "hash": "8048b50a"
+      },
+      "tacoma-defiance": {
+        "slug": "tacoma-defiance",
+        "league": "mls",
+        "name": "Tacoma Defiance",
+        "hash": "2221dbcc"
+      },
+      "atlanta-united-2": {
+        "slug": "atlanta-united-2",
+        "league": "mls",
+        "name": "Atlanta United 2",
+        "hash": "b746351a"
+      },
+      "fc-cincinnati-2": {
+        "slug": "fc-cincinnati-2",
+        "league": "mls",
+        "name": "FC Cincinnati 2",
+        "hash": "f55fc288"
+      },
+      "red-bull-new-york-ii": {
+        "slug": "red-bull-new-york-ii",
+        "league": "mls",
+        "name": "Red Bull New York II",
+        "hash": "96c0d675"
+      },
+      "real-monarchs": {
+        "slug": "real-monarchs",
+        "league": "mls",
+        "name": "Real Monarchs",
+        "hash": "52d45a77"
+      },
+      "lafc-2": {
+        "slug": "lafc-2",
+        "league": "mls",
+        "name": "LAFC2",
+        "hash": "ce0f88cf"
       }
     }
   }
