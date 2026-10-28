@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T11:47:28.785Z",
+  "generatedAt": "2026-10-28T12:21:23.444Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -254,7 +254,7 @@
       "iso2": "KH",
       "name": "Cambodia",
       "defaultLeague": "cambodia-national-team",
-      "clubCount": 0
+      "clubCount": 1
     },
     {
       "slug": "cameroon",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 317
+      "clubCount": 320
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 74
+      "clubCount": 75
     },
     {
       "slug": "greenland",
@@ -1339,7 +1339,7 @@
       "iso2": "ES",
       "name": "Spain",
       "defaultLeague": "la-liga",
-      "clubCount": 171
+      "clubCount": 172
     },
     {
       "slug": "sri-lanka",
@@ -1374,7 +1374,7 @@
       "iso2": "SE",
       "name": "Sweden",
       "defaultLeague": "allsvenskan",
-      "clubCount": 61
+      "clubCount": 62
     },
     {
       "slug": "switzerland",
@@ -1472,7 +1472,7 @@
       "iso2": "TR",
       "name": "Turkey",
       "defaultLeague": "super-lig",
-      "clubCount": 87
+      "clubCount": 88
     },
     {
       "slug": "turkmenistan",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "fa742e68804f259e"
+  "contentHash": "df862edf8892993a"
 }

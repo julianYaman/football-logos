@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:13:37.253Z",
+  "generatedAt": "2026-10-28T12:21:23.444Z",
   "country": {
     "slug": "spain",
     "iso2": "ES",
@@ -1065,6 +1065,12 @@
         "league": "la-liga",
         "name": "UE Figueres",
         "hash": "20ae8f07"
+      },
+      "scd-durango": {
+        "slug": "scd-durango",
+        "league": "la-liga",
+        "name": "SCD Durango",
+        "hash": "b227a0e8"
       }
     }
   }

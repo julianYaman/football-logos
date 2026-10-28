@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T11:47:28.785Z",
+  "generatedAt": "2026-10-28T12:21:23.444Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -4520,7 +4520,14 @@
           "code": "KH"
         }
       },
-      "clubs": {}
+      "clubs": {
+        "phnom-penh-crown": {
+          "slug": "phnom-penh-crown",
+          "league": "cambodia-national-team",
+          "name": "Phnom Penh Crown",
+          "hash": "6436e123"
+        }
+      }
     },
     "cameroon": {
       "slug": "cameroon",
@@ -13424,6 +13431,24 @@
           "league": "bundesliga",
           "name": "TuS Bövinghausen",
           "hash": "1ceebcf1"
+        },
+        "fk-pirmasens": {
+          "slug": "fk-pirmasens",
+          "league": "bundesliga",
+          "name": "FK Pirmasens",
+          "hash": "137f4f8a"
+        },
+        "sg-rotation-leipzig": {
+          "slug": "sg-rotation-leipzig",
+          "league": "bundesliga",
+          "name": "SG Rotation Leipzig",
+          "hash": "7a6d4829"
+        },
+        "vfr-garching": {
+          "slug": "vfr-garching",
+          "league": "bundesliga",
+          "name": "VfR Garching",
+          "hash": "78749a2e"
         }
       }
     },
@@ -14111,6 +14136,12 @@
           "league": "super-league-1",
           "name": "Ialysos",
           "hash": "bef17949"
+        },
+        "ao-pyliou-kos": {
+          "slug": "ao-pyliou-kos",
+          "league": "super-league-1",
+          "name": "AO Pyliou Kos",
+          "hash": "e9dd50e9"
         }
       }
     },
@@ -26591,6 +26622,12 @@
           "league": "la-liga",
           "name": "UE Figueres",
           "hash": "20ae8f07"
+        },
+        "scd-durango": {
+          "slug": "scd-durango",
+          "league": "la-liga",
+          "name": "SCD Durango",
+          "hash": "b227a0e8"
         }
       }
     },
@@ -27043,6 +27080,12 @@
           "league": "allsvenskan",
           "name": "Linköping FC",
           "hash": "78633bce"
+        },
+        "fc-rosengard": {
+          "slug": "fc-rosengard",
+          "league": "allsvenskan",
+          "name": "FC Rosengård",
+          "hash": "3ef43417"
         }
       }
     },
@@ -28342,6 +28385,12 @@
           "league": "super-lig",
           "name": "Gaziantepspor",
           "hash": "3ed3d3d4"
+        },
+        "gaziosmanpasaspor": {
+          "slug": "gaziosmanpasaspor",
+          "league": "super-lig",
+          "name": "Gaziosmanpaşaspor",
+          "hash": "cd43023b"
         }
       }
     },
@@ -30894,5 +30943,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "fa742e68804f259e"
+  "contentHash": "df862edf8892993a"
 }

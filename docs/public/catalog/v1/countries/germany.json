@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T11:47:28.785Z",
+  "generatedAt": "2026-10-28T12:21:23.444Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1972,6 +1972,24 @@
         "league": "bundesliga",
         "name": "TuS Bövinghausen",
         "hash": "1ceebcf1"
+      },
+      "fk-pirmasens": {
+        "slug": "fk-pirmasens",
+        "league": "bundesliga",
+        "name": "FK Pirmasens",
+        "hash": "137f4f8a"
+      },
+      "sg-rotation-leipzig": {
+        "slug": "sg-rotation-leipzig",
+        "league": "bundesliga",
+        "name": "SG Rotation Leipzig",
+        "hash": "7a6d4829"
+      },
+      "vfr-garching": {
+        "slug": "vfr-garching",
+        "league": "bundesliga",
+        "name": "VfR Garching",
+        "hash": "78749a2e"
       }
     }
   }

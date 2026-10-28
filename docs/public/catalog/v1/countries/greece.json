@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T11:47:28.785Z",
+  "generatedAt": "2026-10-28T12:21:23.444Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -468,6 +468,12 @@
         "league": "super-league-1",
         "name": "Ialysos",
         "hash": "bef17949"
+      },
+      "ao-pyliou-kos": {
+        "slug": "ao-pyliou-kos",
+        "league": "super-league-1",
+        "name": "AO Pyliou Kos",
+        "hash": "e9dd50e9"
       }
     }
   }

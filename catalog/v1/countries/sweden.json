@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:31:15.354Z",
+  "generatedAt": "2026-10-28T12:21:23.444Z",
   "country": {
     "slug": "sweden",
     "iso2": "SE",
@@ -390,6 +390,12 @@
         "league": "allsvenskan",
         "name": "Linköping FC",
         "hash": "78633bce"
+      },
+      "fc-rosengard": {
+        "slug": "fc-rosengard",
+        "league": "allsvenskan",
+        "name": "FC Rosengård",
+        "hash": "3ef43417"
       }
     }
   }
