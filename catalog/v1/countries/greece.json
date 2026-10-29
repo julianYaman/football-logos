@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:21:23.444Z",
+  "generatedAt": "2026-10-29T12:30:22.137Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -474,6 +474,18 @@
         "league": "super-league-1",
         "name": "AO Pyliou Kos",
         "hash": "e9dd50e9"
+      },
+      "diagoras-vrachnaiika": {
+        "slug": "diagoras-vrachnaiika",
+        "league": "super-league-1",
+        "name": "Diagoras Vrachnaiika",
+        "hash": "1a3a9a81"
+      },
+      "iraklis-psachna": {
+        "slug": "iraklis-psachna",
+        "league": "super-league-1",
+        "name": "Iraklis Psachna",
+        "hash": "661afae5"
       }
     }
   }

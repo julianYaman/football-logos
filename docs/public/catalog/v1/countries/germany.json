@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:21:23.444Z",
+  "generatedAt": "2026-10-29T12:30:22.137Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -1990,6 +1990,30 @@
         "league": "bundesliga",
         "name": "VfR Garching",
         "hash": "78749a2e"
+      },
+      "dgf-flensborg": {
+        "slug": "dgf-flensborg",
+        "league": "bundesliga",
+        "name": "DGF Flensborg",
+        "hash": "e344bb82"
+      },
+      "heider-sv": {
+        "slug": "heider-sv",
+        "league": "bundesliga",
+        "name": "Heider SV",
+        "hash": "26241ff5"
+      },
+      "sc-roland-beckum": {
+        "slug": "sc-roland-beckum",
+        "league": "bundesliga",
+        "name": "SC Roland Beckum",
+        "hash": "1d911b25"
+      },
+      "vfb-germania-halberstadt": {
+        "slug": "vfb-germania-halberstadt",
+        "league": "bundesliga",
+        "name": "VfB Germania Halberstadt",
+        "hash": "1d393675"
       }
     }
   }

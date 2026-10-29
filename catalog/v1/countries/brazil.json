@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T11:47:28.785Z",
+  "generatedAt": "2026-10-29T12:30:22.137Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1426,6 +1426,12 @@
         "league": "brazilian-serie-a",
         "name": "Quixadá FC",
         "hash": "f5734f3c"
+      },
+      "dimensao-saude": {
+        "slug": "dimensao-saude",
+        "league": "brazilian-serie-a",
+        "name": "Dimensão Saúde",
+        "hash": "caec5516"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:31:15.354Z",
+  "generatedAt": "2026-10-29T12:30:22.137Z",
   "country": {
     "slug": "netherlands",
     "iso2": "NL",
@@ -478,6 +478,12 @@
         "league": "eredivisie",
         "name": "RKSV Groene Ster",
         "hash": "6531196b"
+      },
+      "jos-watergraafsmeer": {
+        "slug": "jos-watergraafsmeer",
+        "league": "eredivisie",
+        "name": "JOS Watergraafsmeer",
+        "hash": "34459057"
       }
     }
   }
