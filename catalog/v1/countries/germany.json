@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:30:22.137Z",
+  "generatedAt": "2026-10-30T12:22:13.397Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -2014,6 +2014,30 @@
         "league": "bundesliga",
         "name": "VfB Germania Halberstadt",
         "hash": "1d393675"
+      },
+      "1-fc-eschborn": {
+        "slug": "1-fc-eschborn",
+        "league": "bundesliga",
+        "name": "1. FC Eschborn",
+        "hash": "85828819"
+      },
+      "buxtehuder-sv": {
+        "slug": "buxtehuder-sv",
+        "league": "bundesliga",
+        "name": "Buxtehuder SV",
+        "hash": "79c6e79b"
+      },
+      "frisia-wilhelmshaven": {
+        "slug": "frisia-wilhelmshaven",
+        "league": "bundesliga",
+        "name": "Frisia Wilhelmshaven",
+        "hash": "51566631"
+      },
+      "spvg-steinhagen": {
+        "slug": "spvg-steinhagen",
+        "league": "bundesliga",
+        "name": "Spvg Steinhagen",
+        "hash": "96c68722"
       }
     }
   }

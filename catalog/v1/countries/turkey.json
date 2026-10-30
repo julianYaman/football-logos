@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:21:23.444Z",
+  "generatedAt": "2026-10-30T12:22:13.397Z",
   "country": {
     "slug": "turkey",
     "iso2": "TR",
@@ -567,6 +567,18 @@
         "league": "super-lig",
         "name": "Gaziosmanpaşaspor",
         "hash": "cd43023b"
+      },
+      "maltepespor": {
+        "slug": "maltepespor",
+        "league": "super-lig",
+        "name": "Maltepespor",
+        "hash": "f253bce4"
+      },
+      "mke-kirikkalespor": {
+        "slug": "mke-kirikkalespor",
+        "league": "super-lig",
+        "name": "MKE Kırıkkalespor",
+        "hash": "940b2312"
       }
     }
   }
