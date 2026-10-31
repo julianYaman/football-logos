@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:22:13.397Z",
+  "generatedAt": "2026-10-31T11:52:38.019Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -2038,6 +2038,24 @@
         "league": "bundesliga",
         "name": "Spvg Steinhagen",
         "hash": "96c68722"
+      },
+      "sportfreunde-dorfmerkingen": {
+        "slug": "sportfreunde-dorfmerkingen",
+        "league": "bundesliga",
+        "name": "Sportfreunde Dorfmerkingen",
+        "hash": "8590bd73"
+      },
+      "tsv-haunstetten": {
+        "slug": "tsv-haunstetten",
+        "league": "bundesliga",
+        "name": "TSV Haunstetten",
+        "hash": "ce97db8d"
+      },
+      "tus-sennelager": {
+        "slug": "tus-sennelager",
+        "league": "bundesliga",
+        "name": "TuS Sennelager",
+        "hash": "2f32f20e"
       }
     }
   }

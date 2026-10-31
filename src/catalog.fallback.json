@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:22:13.397Z",
+  "generatedAt": "2026-10-31T11:52:38.019Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -1567,6 +1567,12 @@
           "league": "a-league",
           "name": "APIA Leichhardt FC",
           "hash": "42917c24"
+        },
+        "gladesville-ravens": {
+          "slug": "gladesville-ravens",
+          "league": "a-league",
+          "name": "Gladesville Ravens",
+          "hash": "0f7e033e"
         }
       }
     },
@@ -13503,6 +13509,24 @@
           "league": "bundesliga",
           "name": "Spvg Steinhagen",
           "hash": "96c68722"
+        },
+        "sportfreunde-dorfmerkingen": {
+          "slug": "sportfreunde-dorfmerkingen",
+          "league": "bundesliga",
+          "name": "Sportfreunde Dorfmerkingen",
+          "hash": "8590bd73"
+        },
+        "tsv-haunstetten": {
+          "slug": "tsv-haunstetten",
+          "league": "bundesliga",
+          "name": "TSV Haunstetten",
+          "hash": "ce97db8d"
+        },
+        "tus-sennelager": {
+          "slug": "tus-sennelager",
+          "league": "bundesliga",
+          "name": "TuS Sennelager",
+          "hash": "2f32f20e"
         }
       }
     },
@@ -14208,6 +14232,12 @@
           "league": "super-league-1",
           "name": "Iraklis Psachna",
           "hash": "661afae5"
+        },
+        "ao-tympaki": {
+          "slug": "ao-tympaki",
+          "league": "super-league-1",
+          "name": "AO Tympaki",
+          "hash": "bfdb089b"
         }
       }
     },
@@ -31027,5 +31057,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "763419751253325d"
+  "contentHash": "1569d637e7bbe8a1"
 }

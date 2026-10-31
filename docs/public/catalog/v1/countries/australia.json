@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T10:58:29.453Z",
+  "generatedAt": "2026-10-31T11:52:38.019Z",
   "country": {
     "slug": "australia",
     "iso2": "AU",
@@ -145,6 +145,12 @@
         "league": "a-league",
         "name": "APIA Leichhardt FC",
         "hash": "42917c24"
+      },
+      "gladesville-ravens": {
+        "slug": "gladesville-ravens",
+        "league": "a-league",
+        "name": "Gladesville Ravens",
+        "hash": "0f7e033e"
       }
     }
   }
