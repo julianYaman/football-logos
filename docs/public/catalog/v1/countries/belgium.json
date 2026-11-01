@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-11-01T12:51:58.713Z",
   "country": {
     "slug": "belgium",
     "iso2": "BE",
@@ -250,6 +250,12 @@
         "name": "Eendracht Wervik",
         "hash": "0095d589",
         "league": ""
+      },
+      "ksk-heist": {
+        "slug": "ksk-heist",
+        "league": "jupiler-pro-league",
+        "name": "KSK Heist",
+        "hash": "e54569ba"
       }
     }
   }

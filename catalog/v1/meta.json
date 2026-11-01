@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T11:52:38.019Z",
+  "generatedAt": "2026-11-01T12:51:58.713Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -142,7 +142,7 @@
       "iso2": "BE",
       "name": "Belgium",
       "defaultLeague": "jupiler-pro-league",
-      "clubCount": 36
+      "clubCount": 37
     },
     {
       "slug": "belize",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 331
+      "clubCount": 334
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 78
+      "clubCount": 79
     },
     {
       "slug": "greenland",
@@ -989,7 +989,7 @@
       "iso2": "NL",
       "name": "Netherlands",
       "defaultLeague": "eredivisie",
-      "clubCount": 75
+      "clubCount": 76
     },
     {
       "slug": "new-caledonia",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "1569d637e7bbe8a1"
+  "contentHash": "0939e224692f39c3"
 }

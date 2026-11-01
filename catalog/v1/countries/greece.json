@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T11:52:38.019Z",
+  "generatedAt": "2026-11-01T12:51:58.713Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -492,6 +492,12 @@
         "league": "super-league-1",
         "name": "AO Tympaki",
         "hash": "bfdb089b"
+      },
+      "apollon-kalamaria": {
+        "slug": "apollon-kalamaria",
+        "league": "super-league-1",
+        "name": "Apollon Kalamaria",
+        "hash": "4209c510"
       }
     }
   }

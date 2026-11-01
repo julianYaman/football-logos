@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:30:22.137Z",
+  "generatedAt": "2026-11-01T12:51:58.713Z",
   "country": {
     "slug": "netherlands",
     "iso2": "NL",
@@ -484,6 +484,12 @@
         "league": "eredivisie",
         "name": "JOS Watergraafsmeer",
         "hash": "34459057"
+      },
+      "vv-gieten": {
+        "slug": "vv-gieten",
+        "league": "eredivisie",
+        "name": "VV Gieten",
+        "hash": "6017fcab"
       }
     }
   }

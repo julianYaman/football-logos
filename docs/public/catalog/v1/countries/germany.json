@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T11:52:38.019Z",
+  "generatedAt": "2026-11-01T12:51:58.713Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -2056,6 +2056,24 @@
         "league": "bundesliga",
         "name": "TuS Sennelager",
         "hash": "2f32f20e"
+      },
+      "fc-angeln-02": {
+        "slug": "fc-angeln-02",
+        "league": "bundesliga",
+        "name": "FC Angeln 02",
+        "hash": "b6a5083c"
+      },
+      "fc-oberlausitz-neugersdorf": {
+        "slug": "fc-oberlausitz-neugersdorf",
+        "league": "bundesliga",
+        "name": "FC Oberlausitz Neugersdorf",
+        "hash": "6221f7aa"
+      },
+      "fsv-salmrohr": {
+        "slug": "fsv-salmrohr",
+        "league": "bundesliga",
+        "name": "FSV Salmrohr",
+        "hash": "824f39bd"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T11:52:38.019Z",
+  "generatedAt": "2026-11-01T12:51:58.713Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -2481,6 +2481,12 @@
           "name": "Eendracht Wervik",
           "hash": "0095d589",
           "league": ""
+        },
+        "ksk-heist": {
+          "slug": "ksk-heist",
+          "league": "jupiler-pro-league",
+          "name": "KSK Heist",
+          "hash": "e54569ba"
         }
       }
     },
@@ -13527,6 +13533,24 @@
           "league": "bundesliga",
           "name": "TuS Sennelager",
           "hash": "2f32f20e"
+        },
+        "fc-angeln-02": {
+          "slug": "fc-angeln-02",
+          "league": "bundesliga",
+          "name": "FC Angeln 02",
+          "hash": "b6a5083c"
+        },
+        "fc-oberlausitz-neugersdorf": {
+          "slug": "fc-oberlausitz-neugersdorf",
+          "league": "bundesliga",
+          "name": "FC Oberlausitz Neugersdorf",
+          "hash": "6221f7aa"
+        },
+        "fsv-salmrohr": {
+          "slug": "fsv-salmrohr",
+          "league": "bundesliga",
+          "name": "FSV Salmrohr",
+          "hash": "824f39bd"
         }
       }
     },
@@ -14238,6 +14262,12 @@
           "league": "super-league-1",
           "name": "AO Tympaki",
           "hash": "bfdb089b"
+        },
+        "apollon-kalamaria": {
+          "slug": "apollon-kalamaria",
+          "league": "super-league-1",
+          "name": "Apollon Kalamaria",
+          "hash": "4209c510"
         }
       }
     },
@@ -20478,6 +20508,12 @@
           "league": "eredivisie",
           "name": "JOS Watergraafsmeer",
           "hash": "34459057"
+        },
+        "vv-gieten": {
+          "slug": "vv-gieten",
+          "league": "eredivisie",
+          "name": "VV Gieten",
+          "hash": "6017fcab"
         }
       }
     },
@@ -31057,5 +31093,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "1569d637e7bbe8a1"
+  "contentHash": "0939e224692f39c3"
 }
