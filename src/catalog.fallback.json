@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T12:51:58.713Z",
+  "generatedAt": "2026-11-02T15:02:34.299Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -13551,6 +13551,30 @@
           "league": "bundesliga",
           "name": "FSV Salmrohr",
           "hash": "824f39bd"
+        },
+        "1-fc-frankfurt": {
+          "slug": "1-fc-frankfurt",
+          "league": "bundesliga",
+          "name": "1. FC Frankfurt",
+          "hash": "7553c37c"
+        },
+        "tsv-1861-nordlingen": {
+          "slug": "tsv-1861-nordlingen",
+          "league": "bundesliga",
+          "name": "TSV 1861 Nördlingen",
+          "hash": "7600c2d5"
+        },
+        "tsv-schmiden": {
+          "slug": "tsv-schmiden",
+          "league": "bundesliga",
+          "name": "TSV Schmiden",
+          "hash": "dded04ce"
+        },
+        "vfl-wolbeck": {
+          "slug": "vfl-wolbeck",
+          "league": "bundesliga",
+          "name": "VfL Wolbeck",
+          "hash": "57717d5a"
         }
       }
     },
@@ -14268,6 +14292,12 @@
           "league": "super-league-1",
           "name": "Apollon Kalamaria",
           "hash": "4209c510"
+        },
+        "aias-evosmou": {
+          "slug": "aias-evosmou",
+          "league": "super-league-1",
+          "name": "Aias Evosmou",
+          "hash": "98275265"
         }
       }
     },
@@ -20514,6 +20544,12 @@
           "league": "eredivisie",
           "name": "VV Gieten",
           "hash": "6017fcab"
+        },
+        "rbc-roosendaal": {
+          "slug": "rbc-roosendaal",
+          "league": "eredivisie",
+          "name": "RBC Roosendaal",
+          "hash": "85798cd8"
         }
       }
     },
@@ -27224,6 +27260,18 @@
           "league": "allsvenskan",
           "name": "FC Rosengård",
           "hash": "3ef43417"
+        },
+        "alingsas-if": {
+          "slug": "alingsas-if",
+          "league": "allsvenskan",
+          "name": "Alingsås IF",
+          "hash": "e5a2916e"
+        },
+        "if-karlstad-fotboll": {
+          "slug": "if-karlstad-fotboll",
+          "league": "allsvenskan",
+          "name": "IF Karlstad Fotboll",
+          "hash": "0a7f087a"
         }
       }
     },
@@ -31093,5 +31141,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "0939e224692f39c3"
+  "contentHash": "1b6c3fa453ae742e"
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T12:51:58.713Z",
+  "generatedAt": "2026-11-02T15:02:34.299Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -2074,6 +2074,30 @@
         "league": "bundesliga",
         "name": "FSV Salmrohr",
         "hash": "824f39bd"
+      },
+      "1-fc-frankfurt": {
+        "slug": "1-fc-frankfurt",
+        "league": "bundesliga",
+        "name": "1. FC Frankfurt",
+        "hash": "7553c37c"
+      },
+      "tsv-1861-nordlingen": {
+        "slug": "tsv-1861-nordlingen",
+        "league": "bundesliga",
+        "name": "TSV 1861 Nördlingen",
+        "hash": "7600c2d5"
+      },
+      "tsv-schmiden": {
+        "slug": "tsv-schmiden",
+        "league": "bundesliga",
+        "name": "TSV Schmiden",
+        "hash": "dded04ce"
+      },
+      "vfl-wolbeck": {
+        "slug": "vfl-wolbeck",
+        "league": "bundesliga",
+        "name": "VfL Wolbeck",
+        "hash": "57717d5a"
       }
     }
   }

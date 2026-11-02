@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:21:23.444Z",
+  "generatedAt": "2026-11-02T15:02:34.299Z",
   "country": {
     "slug": "sweden",
     "iso2": "SE",
@@ -396,6 +396,18 @@
         "league": "allsvenskan",
         "name": "FC Rosengård",
         "hash": "3ef43417"
+      },
+      "alingsas-if": {
+        "slug": "alingsas-if",
+        "league": "allsvenskan",
+        "name": "Alingsås IF",
+        "hash": "e5a2916e"
+      },
+      "if-karlstad-fotboll": {
+        "slug": "if-karlstad-fotboll",
+        "league": "allsvenskan",
+        "name": "IF Karlstad Fotboll",
+        "hash": "0a7f087a"
       }
     }
   }

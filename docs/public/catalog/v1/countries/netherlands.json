@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T12:51:58.713Z",
+  "generatedAt": "2026-11-02T15:02:34.299Z",
   "country": {
     "slug": "netherlands",
     "iso2": "NL",
@@ -490,6 +490,12 @@
         "league": "eredivisie",
         "name": "VV Gieten",
         "hash": "6017fcab"
+      },
+      "rbc-roosendaal": {
+        "slug": "rbc-roosendaal",
+        "league": "eredivisie",
+        "name": "RBC Roosendaal",
+        "hash": "85798cd8"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T12:51:58.713Z",
+  "generatedAt": "2026-11-02T15:02:34.299Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -498,6 +498,12 @@
         "league": "super-league-1",
         "name": "Apollon Kalamaria",
         "hash": "4209c510"
+      },
+      "aias-evosmou": {
+        "slug": "aias-evosmou",
+        "league": "super-league-1",
+        "name": "Aias Evosmou",
+        "hash": "98275265"
       }
     }
   }
