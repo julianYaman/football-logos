@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:25:47.260Z",
+  "generatedAt": "2026-11-03T13:49:33.407Z",
   "country": {
     "slug": "france",
     "iso2": "FR",
@@ -1934,6 +1934,18 @@
         "league": "ligue-1",
         "name": "USJA Carquefou",
         "hash": "4ce9cf45"
+      },
+      "rochefort-fc": {
+        "slug": "rochefort-fc",
+        "league": "ligue-1",
+        "name": "Rochefort FC",
+        "hash": "afcbd596"
+      },
+      "stade-poitevin-fc": {
+        "slug": "stade-poitevin-fc",
+        "league": "ligue-1",
+        "name": "Stade Poitevin FC",
+        "hash": "ff411862"
       }
     }
   }

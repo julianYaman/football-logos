@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:02:34.299Z",
+  "generatedAt": "2026-11-03T13:49:33.407Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -2487,6 +2487,54 @@
           "league": "jupiler-pro-league",
           "name": "KSK Heist",
           "hash": "e54569ba"
+        },
+        "belisia-bilzen": {
+          "slug": "belisia-bilzen",
+          "league": "jupiler-pro-league",
+          "name": "Belisia Bilzen",
+          "hash": "9cfca68c"
+        },
+        "kfc-houtvenne": {
+          "slug": "kfc-houtvenne",
+          "league": "jupiler-pro-league",
+          "name": "KFC Houtvenne",
+          "hash": "2b1dd8f6"
+        },
+        "krc-harelbeke": {
+          "slug": "krc-harelbeke",
+          "league": "jupiler-pro-league",
+          "name": "KRC Harelbeke",
+          "hash": "a1ac95ba"
+        },
+        "kvv-thes-sport": {
+          "slug": "kvv-thes-sport",
+          "league": "jupiler-pro-league",
+          "name": "KVV Thes Sport",
+          "hash": "d0de4333"
+        },
+        "kvv-zelzate": {
+          "slug": "kvv-zelzate",
+          "league": "jupiler-pro-league",
+          "name": "KVV Zelzate",
+          "hash": "084cdba2"
+        },
+        "mandel-united": {
+          "slug": "mandel-united",
+          "league": "jupiler-pro-league",
+          "name": "Mandel United",
+          "hash": "5564847d"
+        },
+        "sk-roeselare": {
+          "slug": "sk-roeselare",
+          "league": "jupiler-pro-league",
+          "name": "SK Roeselare",
+          "hash": "0e8fd574"
+        },
+        "royal-knokke-fc": {
+          "slug": "royal-knokke-fc",
+          "league": "jupiler-pro-league",
+          "name": "Royal Knokke FC",
+          "hash": "e3bf2970"
         }
       }
     },
@@ -4269,6 +4317,24 @@
           "league": "brazilian-serie-a",
           "name": "Dimensão Saúde",
           "hash": "caec5516"
+        },
+        "goytacaz-fc": {
+          "slug": "goytacaz-fc",
+          "league": "brazilian-serie-a",
+          "name": "Goytacaz FC",
+          "hash": "f7474afc"
+        },
+        "parana-clube": {
+          "slug": "parana-clube",
+          "league": "brazilian-serie-a",
+          "name": "Paraná Clube",
+          "hash": "e3eb48d6"
+        },
+        "rio-branco-ac": {
+          "slug": "rio-branco-ac",
+          "league": "brazilian-serie-a",
+          "name": "Rio Branco-AC",
+          "hash": "bb0e03da"
         }
       }
     },
@@ -5317,7 +5383,14 @@
           "code": "CD"
         }
       },
-      "clubs": {}
+      "clubs": {
+        "tp-mazembe": {
+          "slug": "tp-mazembe",
+          "league": "congo-dr-national-team",
+          "name": "TP Mazembe",
+          "hash": "4f710306"
+        }
+      }
     },
     "cook-islands": {
       "slug": "cook-islands",
@@ -11277,6 +11350,18 @@
           "league": "ligue-1",
           "name": "USJA Carquefou",
           "hash": "4ce9cf45"
+        },
+        "rochefort-fc": {
+          "slug": "rochefort-fc",
+          "league": "ligue-1",
+          "name": "Rochefort FC",
+          "hash": "afcbd596"
+        },
+        "stade-poitevin-fc": {
+          "slug": "stade-poitevin-fc",
+          "league": "ligue-1",
+          "name": "Stade Poitevin FC",
+          "hash": "ff411862"
         }
       }
     },
@@ -13575,6 +13660,24 @@
           "league": "bundesliga",
           "name": "VfL Wolbeck",
           "hash": "57717d5a"
+        },
+        "ahrensburger-tsv": {
+          "slug": "ahrensburger-tsv",
+          "league": "bundesliga",
+          "name": "Ahrensburger TSV",
+          "hash": "4c9706b3"
+        },
+        "berolina-stralau": {
+          "slug": "berolina-stralau",
+          "league": "bundesliga",
+          "name": "Berolina Stralau",
+          "hash": "2314e366"
+        },
+        "spvg-frechen-20": {
+          "slug": "spvg-frechen-20",
+          "league": "bundesliga",
+          "name": "SpVg Frechen 20",
+          "hash": "46e72fb5"
         }
       }
     },
@@ -14298,6 +14401,12 @@
           "league": "super-league-1",
           "name": "Aias Evosmou",
           "hash": "98275265"
+        },
+        "rodos-fc": {
+          "slug": "rodos-fc",
+          "league": "super-league-1",
+          "name": "Rodos FC",
+          "hash": "bc8664a9"
         }
       }
     },
@@ -17658,6 +17767,12 @@
           "league": "serie-a",
           "name": "Pordenone FC",
           "hash": "4a355649"
+        },
+        "agerola": {
+          "slug": "agerola",
+          "league": "serie-a",
+          "name": "SSD Agerola",
+          "hash": "b77eec01"
         }
       }
     },
@@ -20549,7 +20664,67 @@
           "slug": "rbc-roosendaal",
           "league": "eredivisie",
           "name": "RBC Roosendaal",
-          "hash": "85798cd8"
+          "hash": "e9bd26e8"
+        },
+        "asv-arkel": {
+          "slug": "asv-arkel",
+          "league": "eredivisie",
+          "name": "ASV Arkel",
+          "hash": "0c473ede"
+        },
+        "hvv-den-haag": {
+          "slug": "hvv-den-haag",
+          "league": "eredivisie",
+          "name": "HVV Den Haag",
+          "hash": "9e8d2821"
+        },
+        "leerdam-sport-55": {
+          "slug": "leerdam-sport-55",
+          "league": "eredivisie",
+          "name": "Leerdam Sport '55",
+          "hash": "9d810f88"
+        },
+        "olympia-gouda": {
+          "slug": "olympia-gouda",
+          "league": "eredivisie",
+          "name": "Olympia Gouda",
+          "hash": "f0df0a53"
+        },
+        "sv-gouda": {
+          "slug": "sv-gouda",
+          "league": "eredivisie",
+          "name": "SV Gouda",
+          "hash": "a86b3975"
+        },
+        "sv-venray": {
+          "slug": "sv-venray",
+          "league": "eredivisie",
+          "name": "SV Venray",
+          "hash": "808339bf"
+        },
+        "vv-barneveld": {
+          "slug": "vv-barneveld",
+          "league": "eredivisie",
+          "name": "VV Barneveld",
+          "hash": "cbfdf084"
+        },
+        "vv-herovina": {
+          "slug": "vv-herovina",
+          "league": "eredivisie",
+          "name": "VV Herovina",
+          "hash": "214fdd3d"
+        },
+        "vv-sliedrecht": {
+          "slug": "vv-sliedrecht",
+          "league": "eredivisie",
+          "name": "VV Sliedrecht",
+          "hash": "00eb619d"
+        },
+        "sdo-bussum": {
+          "slug": "sdo-bussum",
+          "league": "eredivisie",
+          "name": "SDO Bussum",
+          "hash": "8217ed2e"
         }
       }
     },
@@ -28589,6 +28764,12 @@
           "league": "super-lig",
           "name": "MKE Kırıkkalespor",
           "hash": "940b2312"
+        },
+        "beykozspor-1908": {
+          "slug": "beykozspor-1908",
+          "league": "super-lig",
+          "name": "Beykozspor 1908",
+          "hash": "a48abd5a"
         }
       }
     },
@@ -29386,7 +29567,7 @@
         },
         "inter-miami-cf": {
           "slug": "inter-miami-cf",
-          "name": "Inter Miami CF",
+          "name": "Inter Miami CF II",
           "hash": "a3f76de3",
           "league": "mls"
         },
@@ -31141,5 +31322,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "1b6c3fa453ae742e"
+  "contentHash": "cce8ba0dc15f4586"
 }

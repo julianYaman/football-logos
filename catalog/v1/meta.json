@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:02:34.299Z",
+  "generatedAt": "2026-11-03T13:49:33.407Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -142,7 +142,7 @@
       "iso2": "BE",
       "name": "Belgium",
       "defaultLeague": "jupiler-pro-league",
-      "clubCount": 37
+      "clubCount": 45
     },
     {
       "slug": "belize",
@@ -205,7 +205,7 @@
       "iso2": "BR",
       "name": "Brazil",
       "defaultLeague": "brazilian-serie-a",
-      "clubCount": 233
+      "clubCount": 236
     },
     {
       "slug": "british-virgin-islands",
@@ -338,7 +338,7 @@
       "iso2": "CD",
       "name": "Congo DR",
       "defaultLeague": "congo-dr-national-team",
-      "clubCount": 0
+      "clubCount": 1
     },
     {
       "slug": "cook-islands",
@@ -513,7 +513,7 @@
       "iso2": "FR",
       "name": "France",
       "defaultLeague": "ligue-1",
-      "clubCount": 315
+      "clubCount": 317
     },
     {
       "slug": "french-guiana",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 338
+      "clubCount": 341
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 80
+      "clubCount": 81
     },
     {
       "slug": "greenland",
@@ -702,7 +702,7 @@
       "iso2": "IT",
       "name": "Italy",
       "defaultLeague": "serie-a",
-      "clubCount": 267
+      "clubCount": 268
     },
     {
       "slug": "jamaica",
@@ -989,7 +989,7 @@
       "iso2": "NL",
       "name": "Netherlands",
       "defaultLeague": "eredivisie",
-      "clubCount": 77
+      "clubCount": 87
     },
     {
       "slug": "new-caledonia",
@@ -1472,7 +1472,7 @@
       "iso2": "TR",
       "name": "Turkey",
       "defaultLeague": "super-lig",
-      "clubCount": 90
+      "clubCount": 91
     },
     {
       "slug": "turkmenistan",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "1b6c3fa453ae742e"
+  "contentHash": "cce8ba0dc15f4586"
 }

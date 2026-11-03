@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:02:34.299Z",
+  "generatedAt": "2026-11-03T13:49:33.407Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -504,6 +504,12 @@
         "league": "super-league-1",
         "name": "Aias Evosmou",
         "hash": "98275265"
+      },
+      "rodos-fc": {
+        "slug": "rodos-fc",
+        "league": "super-league-1",
+        "name": "Rodos FC",
+        "hash": "bc8664a9"
       }
     }
   }

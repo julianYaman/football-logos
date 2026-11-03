@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-11-03T13:49:33.407Z",
   "country": {
     "slug": "congo-dr",
     "iso2": "CD",
@@ -14,6 +14,13 @@
         "code": "CD"
       }
     },
-    "clubs": {}
+    "clubs": {
+      "tp-mazembe": {
+        "slug": "tp-mazembe",
+        "league": "congo-dr-national-team",
+        "name": "TP Mazembe",
+        "hash": "4f710306"
+      }
+    }
   }
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T12:51:58.713Z",
+  "generatedAt": "2026-11-03T13:49:33.407Z",
   "country": {
     "slug": "belgium",
     "iso2": "BE",
@@ -256,6 +256,54 @@
         "league": "jupiler-pro-league",
         "name": "KSK Heist",
         "hash": "e54569ba"
+      },
+      "belisia-bilzen": {
+        "slug": "belisia-bilzen",
+        "league": "jupiler-pro-league",
+        "name": "Belisia Bilzen",
+        "hash": "9cfca68c"
+      },
+      "kfc-houtvenne": {
+        "slug": "kfc-houtvenne",
+        "league": "jupiler-pro-league",
+        "name": "KFC Houtvenne",
+        "hash": "2b1dd8f6"
+      },
+      "krc-harelbeke": {
+        "slug": "krc-harelbeke",
+        "league": "jupiler-pro-league",
+        "name": "KRC Harelbeke",
+        "hash": "a1ac95ba"
+      },
+      "kvv-thes-sport": {
+        "slug": "kvv-thes-sport",
+        "league": "jupiler-pro-league",
+        "name": "KVV Thes Sport",
+        "hash": "d0de4333"
+      },
+      "kvv-zelzate": {
+        "slug": "kvv-zelzate",
+        "league": "jupiler-pro-league",
+        "name": "KVV Zelzate",
+        "hash": "084cdba2"
+      },
+      "mandel-united": {
+        "slug": "mandel-united",
+        "league": "jupiler-pro-league",
+        "name": "Mandel United",
+        "hash": "5564847d"
+      },
+      "sk-roeselare": {
+        "slug": "sk-roeselare",
+        "league": "jupiler-pro-league",
+        "name": "SK Roeselare",
+        "hash": "0e8fd574"
+      },
+      "royal-knokke-fc": {
+        "slug": "royal-knokke-fc",
+        "league": "jupiler-pro-league",
+        "name": "Royal Knokke FC",
+        "hash": "e3bf2970"
       }
     }
   }

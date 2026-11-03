@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:02:34.299Z",
+  "generatedAt": "2026-11-03T13:49:33.407Z",
   "country": {
     "slug": "netherlands",
     "iso2": "NL",
@@ -495,7 +495,67 @@
         "slug": "rbc-roosendaal",
         "league": "eredivisie",
         "name": "RBC Roosendaal",
-        "hash": "85798cd8"
+        "hash": "e9bd26e8"
+      },
+      "asv-arkel": {
+        "slug": "asv-arkel",
+        "league": "eredivisie",
+        "name": "ASV Arkel",
+        "hash": "0c473ede"
+      },
+      "hvv-den-haag": {
+        "slug": "hvv-den-haag",
+        "league": "eredivisie",
+        "name": "HVV Den Haag",
+        "hash": "9e8d2821"
+      },
+      "leerdam-sport-55": {
+        "slug": "leerdam-sport-55",
+        "league": "eredivisie",
+        "name": "Leerdam Sport '55",
+        "hash": "9d810f88"
+      },
+      "olympia-gouda": {
+        "slug": "olympia-gouda",
+        "league": "eredivisie",
+        "name": "Olympia Gouda",
+        "hash": "f0df0a53"
+      },
+      "sv-gouda": {
+        "slug": "sv-gouda",
+        "league": "eredivisie",
+        "name": "SV Gouda",
+        "hash": "a86b3975"
+      },
+      "sv-venray": {
+        "slug": "sv-venray",
+        "league": "eredivisie",
+        "name": "SV Venray",
+        "hash": "808339bf"
+      },
+      "vv-barneveld": {
+        "slug": "vv-barneveld",
+        "league": "eredivisie",
+        "name": "VV Barneveld",
+        "hash": "cbfdf084"
+      },
+      "vv-herovina": {
+        "slug": "vv-herovina",
+        "league": "eredivisie",
+        "name": "VV Herovina",
+        "hash": "214fdd3d"
+      },
+      "vv-sliedrecht": {
+        "slug": "vv-sliedrecht",
+        "league": "eredivisie",
+        "name": "VV Sliedrecht",
+        "hash": "00eb619d"
+      },
+      "sdo-bussum": {
+        "slug": "sdo-bussum",
+        "league": "eredivisie",
+        "name": "SDO Bussum",
+        "hash": "8217ed2e"
       }
     }
   }

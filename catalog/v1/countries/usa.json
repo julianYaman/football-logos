@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T11:47:28.785Z",
+  "generatedAt": "2026-11-03T13:49:33.407Z",
   "country": {
     "slug": "usa",
     "iso2": "US",
@@ -136,7 +136,7 @@
       },
       "inter-miami-cf": {
         "slug": "inter-miami-cf",
-        "name": "Inter Miami CF",
+        "name": "Inter Miami CF II",
         "hash": "a3f76de3",
         "league": "mls"
       },

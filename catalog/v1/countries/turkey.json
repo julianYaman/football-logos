@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:22:13.397Z",
+  "generatedAt": "2026-11-03T13:49:33.407Z",
   "country": {
     "slug": "turkey",
     "iso2": "TR",
@@ -579,6 +579,12 @@
         "league": "super-lig",
         "name": "MKE Kırıkkalespor",
         "hash": "940b2312"
+      },
+      "beykozspor-1908": {
+        "slug": "beykozspor-1908",
+        "league": "super-lig",
+        "name": "Beykozspor 1908",
+        "hash": "a48abd5a"
       }
     }
   }

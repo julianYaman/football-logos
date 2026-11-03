@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:02:34.299Z",
+  "generatedAt": "2026-11-03T13:49:33.407Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -2098,6 +2098,24 @@
         "league": "bundesliga",
         "name": "VfL Wolbeck",
         "hash": "57717d5a"
+      },
+      "ahrensburger-tsv": {
+        "slug": "ahrensburger-tsv",
+        "league": "bundesliga",
+        "name": "Ahrensburger TSV",
+        "hash": "4c9706b3"
+      },
+      "berolina-stralau": {
+        "slug": "berolina-stralau",
+        "league": "bundesliga",
+        "name": "Berolina Stralau",
+        "hash": "2314e366"
+      },
+      "spvg-frechen-20": {
+        "slug": "spvg-frechen-20",
+        "league": "bundesliga",
+        "name": "SpVg Frechen 20",
+        "hash": "46e72fb5"
       }
     }
   }
