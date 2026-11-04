@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T13:49:33.407Z",
+  "generatedAt": "2026-11-04T13:57:33.467Z",
   "country": {
     "slug": "turkey",
     "iso2": "TR",
@@ -585,6 +585,12 @@
         "league": "super-lig",
         "name": "Beykozspor 1908",
         "hash": "a48abd5a"
+      },
+      "uskudar-anadolu": {
+        "slug": "uskudar-anadolu",
+        "league": "super-lig",
+        "name": "Üsküdar Anadolu",
+        "hash": "778f0dfe"
       }
     }
   }

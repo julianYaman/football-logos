@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:34:10.018Z",
+  "generatedAt": "2026-11-04T13:57:33.467Z",
   "country": {
     "slug": "jordan",
     "iso2": "JO",
@@ -32,6 +32,12 @@
         "league": "jordan-national-team",
         "name": "Al-Wehdat",
         "hash": "d41f9b53"
+      },
+      "al-ramtha": {
+        "slug": "al-ramtha",
+        "league": "jordan-national-team",
+        "name": "Al-Ramtha",
+        "hash": "9adbcc81"
       }
     }
   }

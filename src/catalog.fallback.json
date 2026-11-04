@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T13:49:33.407Z",
+  "generatedAt": "2026-11-04T13:57:33.467Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -13678,6 +13678,24 @@
           "league": "bundesliga",
           "name": "SpVg Frechen 20",
           "hash": "46e72fb5"
+        },
+        "sc-halberg-brebach": {
+          "slug": "sc-halberg-brebach",
+          "league": "bundesliga",
+          "name": "SC Halberg Brebach",
+          "hash": "d34d95a1"
+        },
+        "sc-munchen-von-1906": {
+          "slug": "sc-munchen-von-1906",
+          "league": "bundesliga",
+          "name": "SC München von 1906",
+          "hash": "90a75071"
+        },
+        "sv-concordia-plauen": {
+          "slug": "sv-concordia-plauen",
+          "league": "bundesliga",
+          "name": "SV Concordia Plauen",
+          "hash": "7e8fcb1c"
         }
       }
     },
@@ -14407,6 +14425,12 @@
           "league": "super-league-1",
           "name": "Rodos FC",
           "hash": "bc8664a9"
+        },
+        "agios-ierotheos": {
+          "slug": "agios-ierotheos",
+          "league": "super-league-1",
+          "name": "Agios Ierotheos",
+          "hash": "131a2055"
         }
       }
     },
@@ -18220,6 +18244,12 @@
           "league": "jordan-national-team",
           "name": "Al-Wehdat",
           "hash": "d41f9b53"
+        },
+        "al-ramtha": {
+          "slug": "al-ramtha",
+          "league": "jordan-national-team",
+          "name": "Al-Ramtha",
+          "hash": "9adbcc81"
         }
       }
     },
@@ -20725,6 +20755,12 @@
           "league": "eredivisie",
           "name": "SDO Bussum",
           "hash": "8217ed2e"
+        },
+        "fvv-foxhol": {
+          "slug": "fvv-foxhol",
+          "league": "eredivisie",
+          "name": "FVV Foxhol",
+          "hash": "4e672043"
         }
       }
     },
@@ -28770,6 +28806,12 @@
           "league": "super-lig",
           "name": "Beykozspor 1908",
           "hash": "a48abd5a"
+        },
+        "uskudar-anadolu": {
+          "slug": "uskudar-anadolu",
+          "league": "super-lig",
+          "name": "Üsküdar Anadolu",
+          "hash": "778f0dfe"
         }
       }
     },
@@ -31322,5 +31364,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "cce8ba0dc15f4586"
+  "contentHash": "cf0243bcaf68efd9"
 }

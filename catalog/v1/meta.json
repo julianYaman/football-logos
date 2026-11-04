@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T13:49:33.407Z",
+  "generatedAt": "2026-11-04T13:57:33.467Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 341
+      "clubCount": 344
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 81
+      "clubCount": 82
     },
     {
       "slug": "greenland",
@@ -723,7 +723,7 @@
       "iso2": "JO",
       "name": "Jordan",
       "defaultLeague": "jordan-national-team",
-      "clubCount": 3
+      "clubCount": 4
     },
     {
       "slug": "kazakhstan",
@@ -989,7 +989,7 @@
       "iso2": "NL",
       "name": "Netherlands",
       "defaultLeague": "eredivisie",
-      "clubCount": 87
+      "clubCount": 88
     },
     {
       "slug": "new-caledonia",
@@ -1472,7 +1472,7 @@
       "iso2": "TR",
       "name": "Turkey",
       "defaultLeague": "super-lig",
-      "clubCount": 91
+      "clubCount": 92
     },
     {
       "slug": "turkmenistan",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "cce8ba0dc15f4586"
+  "contentHash": "cf0243bcaf68efd9"
 }
