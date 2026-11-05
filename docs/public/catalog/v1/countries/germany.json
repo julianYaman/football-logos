@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T13:57:33.467Z",
+  "generatedAt": "2026-11-05T14:14:43.639Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -2134,6 +2134,18 @@
         "league": "bundesliga",
         "name": "SV Concordia Plauen",
         "hash": "7e8fcb1c"
+      },
+      "bfc-germania-1888": {
+        "slug": "bfc-germania-1888",
+        "league": "bundesliga",
+        "name": "BFC Germania 1888",
+        "hash": "215a0895"
+      },
+      "bsg-stahl-brandenburg": {
+        "slug": "bsg-stahl-brandenburg",
+        "league": "bundesliga",
+        "name": "BSG Stahl Brandenburg",
+        "hash": "1c903b4f"
       }
     }
   }

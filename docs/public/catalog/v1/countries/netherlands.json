@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T13:57:33.467Z",
+  "generatedAt": "2026-11-05T14:14:43.639Z",
   "country": {
     "slug": "netherlands",
     "iso2": "NL",
@@ -562,6 +562,12 @@
         "league": "eredivisie",
         "name": "FVV Foxhol",
         "hash": "4e672043"
+      },
+      "vv-molenschot": {
+        "slug": "vv-molenschot",
+        "league": "eredivisie",
+        "name": "VV Molenschot",
+        "hash": "0eedf3a4"
       }
     }
   }

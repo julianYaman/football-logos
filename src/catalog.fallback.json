@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T13:57:33.467Z",
+  "generatedAt": "2026-11-05T14:14:43.639Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -1573,6 +1573,12 @@
           "league": "a-league",
           "name": "Gladesville Ravens",
           "hash": "0f7e033e"
+        },
+        "rydalmere-lions-fc": {
+          "slug": "rydalmere-lions-fc",
+          "league": "a-league",
+          "name": "Rydalmere Lions FC",
+          "hash": "2403d3b1"
         }
       }
     },
@@ -2535,6 +2541,12 @@
           "league": "jupiler-pro-league",
           "name": "Royal Knokke FC",
           "hash": "e3bf2970"
+        },
+        "krc-mechelen": {
+          "slug": "krc-mechelen",
+          "league": "jupiler-pro-league",
+          "name": "KRC Mechelen",
+          "hash": "f3f132bd"
         }
       }
     },
@@ -13696,6 +13708,18 @@
           "league": "bundesliga",
           "name": "SV Concordia Plauen",
           "hash": "7e8fcb1c"
+        },
+        "bfc-germania-1888": {
+          "slug": "bfc-germania-1888",
+          "league": "bundesliga",
+          "name": "BFC Germania 1888",
+          "hash": "215a0895"
+        },
+        "bsg-stahl-brandenburg": {
+          "slug": "bsg-stahl-brandenburg",
+          "league": "bundesliga",
+          "name": "BSG Stahl Brandenburg",
+          "hash": "1c903b4f"
         }
       }
     },
@@ -20761,6 +20785,12 @@
           "league": "eredivisie",
           "name": "FVV Foxhol",
           "hash": "4e672043"
+        },
+        "vv-molenschot": {
+          "slug": "vv-molenschot",
+          "league": "eredivisie",
+          "name": "VV Molenschot",
+          "hash": "0eedf3a4"
         }
       }
     },
@@ -28812,6 +28842,12 @@
           "league": "super-lig",
           "name": "Üsküdar Anadolu",
           "hash": "778f0dfe"
+        },
+        "darica-genclerbirligi": {
+          "slug": "darica-genclerbirligi",
+          "league": "super-lig",
+          "name": "Darıca Gençlerbirliği",
+          "hash": "b4bdaada"
         }
       }
     },
@@ -31364,5 +31400,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "cf0243bcaf68efd9"
+  "contentHash": "fd1f69a57c0ee1e4"
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T13:49:33.407Z",
+  "generatedAt": "2026-11-05T14:14:43.639Z",
   "country": {
     "slug": "belgium",
     "iso2": "BE",
@@ -304,6 +304,12 @@
         "league": "jupiler-pro-league",
         "name": "Royal Knokke FC",
         "hash": "e3bf2970"
+      },
+      "krc-mechelen": {
+        "slug": "krc-mechelen",
+        "league": "jupiler-pro-league",
+        "name": "KRC Mechelen",
+        "hash": "f3f132bd"
       }
     }
   }

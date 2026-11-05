@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T11:52:38.019Z",
+  "generatedAt": "2026-11-05T14:14:43.639Z",
   "country": {
     "slug": "australia",
     "iso2": "AU",
@@ -151,6 +151,12 @@
         "league": "a-league",
         "name": "Gladesville Ravens",
         "hash": "0f7e033e"
+      },
+      "rydalmere-lions-fc": {
+        "slug": "rydalmere-lions-fc",
+        "league": "a-league",
+        "name": "Rydalmere Lions FC",
+        "hash": "2403d3b1"
       }
     }
   }
