@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T14:14:43.639Z",
+  "generatedAt": "2026-11-06T13:55:20.194Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -13720,6 +13720,30 @@
           "league": "bundesliga",
           "name": "BSG Stahl Brandenburg",
           "hash": "1c903b4f"
+        },
+        "djk-don-bosco-bamberg": {
+          "slug": "djk-don-bosco-bamberg",
+          "league": "bundesliga",
+          "name": "DJK Don Bosco Bamberg",
+          "hash": "a23026cd"
+        },
+        "hsv-barmbek-uhlenhorst": {
+          "slug": "hsv-barmbek-uhlenhorst",
+          "league": "bundesliga",
+          "name": "HSV Barmbek-Uhlenhorst",
+          "hash": "9955e37e"
+        },
+        "msv-eisleben": {
+          "slug": "msv-eisleben",
+          "league": "bundesliga",
+          "name": "MSV Eisleben",
+          "hash": "be06bf73"
+        },
+        "tus-koln-rrh-1874": {
+          "slug": "tus-koln-rrh-1874",
+          "league": "bundesliga",
+          "name": "TuS Köln rrh. 1874",
+          "hash": "8679bde2"
         }
       }
     },
@@ -14455,6 +14479,18 @@
           "league": "super-league-1",
           "name": "Agios Ierotheos",
           "hash": "131a2055"
+        },
+        "aps-patrai": {
+          "slug": "aps-patrai",
+          "league": "super-league-1",
+          "name": "APS Patrai",
+          "hash": "14f7b032"
+        },
+        "asteras-vlachioti": {
+          "slug": "asteras-vlachioti",
+          "league": "super-league-1",
+          "name": "Asteras Vlachioti",
+          "hash": "d656618b"
         }
       }
     },
@@ -20791,6 +20827,12 @@
           "league": "eredivisie",
           "name": "VV Molenschot",
           "hash": "0eedf3a4"
+        },
+        "be-quick-28": {
+          "slug": "be-quick-28",
+          "league": "eredivisie",
+          "name": "Be Quick '28",
+          "hash": "3ee0652e"
         }
       }
     },
@@ -31400,5 +31442,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "fd1f69a57c0ee1e4"
+  "contentHash": "d926827605a98a9f"
 }

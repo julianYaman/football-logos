@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T13:57:33.467Z",
+  "generatedAt": "2026-11-06T13:55:20.194Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -516,6 +516,18 @@
         "league": "super-league-1",
         "name": "Agios Ierotheos",
         "hash": "131a2055"
+      },
+      "aps-patrai": {
+        "slug": "aps-patrai",
+        "league": "super-league-1",
+        "name": "APS Patrai",
+        "hash": "14f7b032"
+      },
+      "asteras-vlachioti": {
+        "slug": "asteras-vlachioti",
+        "league": "super-league-1",
+        "name": "Asteras Vlachioti",
+        "hash": "d656618b"
       }
     }
   }
