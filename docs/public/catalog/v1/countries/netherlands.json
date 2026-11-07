@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T13:55:20.194Z",
+  "generatedAt": "2026-11-07T12:39:27.711Z",
   "country": {
     "slug": "netherlands",
     "iso2": "NL",
@@ -574,6 +574,12 @@
         "league": "eredivisie",
         "name": "Be Quick '28",
         "hash": "3ee0652e"
+      },
+      "sv-huizen": {
+        "slug": "sv-huizen",
+        "league": "eredivisie",
+        "name": "SV Huizen",
+        "hash": "17797844"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T13:55:20.194Z",
+  "generatedAt": "2026-11-07T12:39:27.711Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -2170,6 +2170,18 @@
         "league": "bundesliga",
         "name": "TuS Köln rrh. 1874",
         "hash": "8679bde2"
+      },
+      "bv-cloppenburg": {
+        "slug": "bv-cloppenburg",
+        "league": "bundesliga",
+        "name": "BV Cloppenburg",
+        "hash": "e0c3b035"
+      },
+      "wandsbeker-tsv-concordia": {
+        "slug": "wandsbeker-tsv-concordia",
+        "league": "bundesliga",
+        "name": "Wandsbeker TSV Concordia",
+        "hash": "b0d99b61"
       }
     }
   }

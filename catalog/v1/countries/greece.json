@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T13:55:20.194Z",
+  "generatedAt": "2026-11-07T12:39:27.711Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -528,6 +528,12 @@
         "league": "super-league-1",
         "name": "Asteras Vlachioti",
         "hash": "d656618b"
+      },
+      "aspida-xanthi": {
+        "slug": "aspida-xanthi",
+        "league": "super-league-1",
+        "name": "Aspida Xanthi",
+        "hash": "8c2d7bdc"
       }
     }
   }

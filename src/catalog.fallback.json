@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T13:55:20.194Z",
+  "generatedAt": "2026-11-07T12:39:27.711Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -2547,6 +2547,12 @@
           "league": "jupiler-pro-league",
           "name": "KRC Mechelen",
           "hash": "f3f132bd"
+        },
+        "raec-mons": {
+          "slug": "raec-mons",
+          "league": "jupiler-pro-league",
+          "name": "RAEC Mons",
+          "hash": "f518a341"
         }
       }
     },
@@ -13744,6 +13750,18 @@
           "league": "bundesliga",
           "name": "TuS Köln rrh. 1874",
           "hash": "8679bde2"
+        },
+        "bv-cloppenburg": {
+          "slug": "bv-cloppenburg",
+          "league": "bundesliga",
+          "name": "BV Cloppenburg",
+          "hash": "e0c3b035"
+        },
+        "wandsbeker-tsv-concordia": {
+          "slug": "wandsbeker-tsv-concordia",
+          "league": "bundesliga",
+          "name": "Wandsbeker TSV Concordia",
+          "hash": "b0d99b61"
         }
       }
     },
@@ -14491,6 +14509,12 @@
           "league": "super-league-1",
           "name": "Asteras Vlachioti",
           "hash": "d656618b"
+        },
+        "aspida-xanthi": {
+          "slug": "aspida-xanthi",
+          "league": "super-league-1",
+          "name": "Aspida Xanthi",
+          "hash": "8c2d7bdc"
         }
       }
     },
@@ -20833,6 +20857,12 @@
           "league": "eredivisie",
           "name": "Be Quick '28",
           "hash": "3ee0652e"
+        },
+        "sv-huizen": {
+          "slug": "sv-huizen",
+          "league": "eredivisie",
+          "name": "SV Huizen",
+          "hash": "17797844"
         }
       }
     },
@@ -31442,5 +31472,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "d926827605a98a9f"
+  "contentHash": "5842ebd98d9a7870"
 }
