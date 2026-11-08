@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T13:49:33.407Z",
+  "generatedAt": "2026-11-08T12:57:08.814Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1450,6 +1450,12 @@
         "league": "brazilian-serie-a",
         "name": "Rio Branco-AC",
         "hash": "bb0e03da"
+      },
+      "matonense": {
+        "slug": "matonense",
+        "league": "brazilian-serie-a",
+        "name": "Matonense",
+        "hash": "56312aa0"
       }
     }
   }

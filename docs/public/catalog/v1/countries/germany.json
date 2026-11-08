@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:39:27.711Z",
+  "generatedAt": "2026-11-08T12:57:08.814Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -2182,6 +2182,24 @@
         "league": "bundesliga",
         "name": "Wandsbeker TSV Concordia",
         "hash": "b0d99b61"
+      },
+      "1-fc-hassfurt": {
+        "slug": "1-fc-hassfurt",
+        "league": "bundesliga",
+        "name": "1. FC Haßfurt",
+        "hash": "79ea6795"
+      },
+      "sv-unter-flockenbach": {
+        "slug": "sv-unter-flockenbach",
+        "league": "bundesliga",
+        "name": "SV Unter-Flockenbach",
+        "hash": "bde6f718"
+      },
+      "tsv-schwabmunchen": {
+        "slug": "tsv-schwabmunchen",
+        "league": "bundesliga",
+        "name": "TSV Schwabmünchen",
+        "hash": "35e68415"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T14:14:43.639Z",
+  "generatedAt": "2026-11-08T12:57:08.814Z",
   "country": {
     "slug": "turkey",
     "iso2": "TR",
@@ -597,6 +597,12 @@
         "league": "super-lig",
         "name": "Darıca Gençlerbirliği",
         "hash": "b4bdaada"
+      },
+      "eskisehirspor": {
+        "slug": "eskisehirspor",
+        "league": "super-lig",
+        "name": "Eskişehirspor",
+        "hash": "aa14e1b6"
       }
     }
   }

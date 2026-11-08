@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:39:27.711Z",
+  "generatedAt": "2026-11-08T12:57:08.814Z",
   "country": {
     "slug": "netherlands",
     "iso2": "NL",
@@ -580,6 +580,12 @@
         "league": "eredivisie",
         "name": "SV Huizen",
         "hash": "17797844"
+      },
+      "fc-abcoude": {
+        "slug": "fc-abcoude",
+        "league": "eredivisie",
+        "name": "FC Abcoude",
+        "hash": "b5358052"
       }
     }
   }

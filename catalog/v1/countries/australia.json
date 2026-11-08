@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T14:14:43.639Z",
+  "generatedAt": "2026-11-08T12:57:08.814Z",
   "country": {
     "slug": "australia",
     "iso2": "AU",
@@ -157,6 +157,12 @@
         "league": "a-league",
         "name": "Rydalmere Lions FC",
         "hash": "2403d3b1"
+      },
+      "st-george-city-fa": {
+        "slug": "st-george-city-fa",
+        "league": "a-league",
+        "name": "St George City FA",
+        "hash": "5f75a7ee"
       }
     }
   }

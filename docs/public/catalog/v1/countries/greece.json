@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:39:27.711Z",
+  "generatedAt": "2026-11-08T12:57:08.814Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -534,6 +534,12 @@
         "league": "super-league-1",
         "name": "Aspida Xanthi",
         "hash": "8c2d7bdc"
+      },
+      "po-alexandroupolis": {
+        "slug": "po-alexandroupolis",
+        "league": "super-league-1",
+        "name": "PO Alexandroupolis",
+        "hash": "15d9ec27"
       }
     }
   }

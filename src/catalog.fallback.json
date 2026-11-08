@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:39:27.711Z",
+  "generatedAt": "2026-11-08T12:57:08.814Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -1579,6 +1579,12 @@
           "league": "a-league",
           "name": "Rydalmere Lions FC",
           "hash": "2403d3b1"
+        },
+        "st-george-city-fa": {
+          "slug": "st-george-city-fa",
+          "league": "a-league",
+          "name": "St George City FA",
+          "hash": "5f75a7ee"
         }
       }
     },
@@ -4353,6 +4359,12 @@
           "league": "brazilian-serie-a",
           "name": "Rio Branco-AC",
           "hash": "bb0e03da"
+        },
+        "matonense": {
+          "slug": "matonense",
+          "league": "brazilian-serie-a",
+          "name": "Matonense",
+          "hash": "56312aa0"
         }
       }
     },
@@ -13762,6 +13774,24 @@
           "league": "bundesliga",
           "name": "Wandsbeker TSV Concordia",
           "hash": "b0d99b61"
+        },
+        "1-fc-hassfurt": {
+          "slug": "1-fc-hassfurt",
+          "league": "bundesliga",
+          "name": "1. FC Haßfurt",
+          "hash": "79ea6795"
+        },
+        "sv-unter-flockenbach": {
+          "slug": "sv-unter-flockenbach",
+          "league": "bundesliga",
+          "name": "SV Unter-Flockenbach",
+          "hash": "bde6f718"
+        },
+        "tsv-schwabmunchen": {
+          "slug": "tsv-schwabmunchen",
+          "league": "bundesliga",
+          "name": "TSV Schwabmünchen",
+          "hash": "35e68415"
         }
       }
     },
@@ -14515,6 +14545,12 @@
           "league": "super-league-1",
           "name": "Aspida Xanthi",
           "hash": "8c2d7bdc"
+        },
+        "po-alexandroupolis": {
+          "slug": "po-alexandroupolis",
+          "league": "super-league-1",
+          "name": "PO Alexandroupolis",
+          "hash": "15d9ec27"
         }
       }
     },
@@ -20863,6 +20899,12 @@
           "league": "eredivisie",
           "name": "SV Huizen",
           "hash": "17797844"
+        },
+        "fc-abcoude": {
+          "slug": "fc-abcoude",
+          "league": "eredivisie",
+          "name": "FC Abcoude",
+          "hash": "b5358052"
         }
       }
     },
@@ -28920,6 +28962,12 @@
           "league": "super-lig",
           "name": "Darıca Gençlerbirliği",
           "hash": "b4bdaada"
+        },
+        "eskisehirspor": {
+          "slug": "eskisehirspor",
+          "league": "super-lig",
+          "name": "Eskişehirspor",
+          "hash": "aa14e1b6"
         }
       }
     },
@@ -31472,5 +31520,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "5842ebd98d9a7870"
+  "contentHash": "2af2c4a71857c748"
 }
