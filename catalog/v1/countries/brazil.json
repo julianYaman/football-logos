@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T12:57:08.814Z",
+  "generatedAt": "2026-11-09T15:32:16.058Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1456,6 +1456,84 @@
         "league": "brazilian-serie-a",
         "name": "Matonense",
         "hash": "56312aa0"
+      },
+      "brasilia-fc": {
+        "slug": "brasilia-fc",
+        "league": "brazilian-serie-a",
+        "name": "Brasília FC",
+        "hash": "386c3815"
+      },
+      "fast-clube": {
+        "slug": "fast-clube",
+        "league": "brazilian-serie-a",
+        "name": "Fast Clube",
+        "hash": "254d71bf"
+      },
+      "feira-fc": {
+        "slug": "feira-fc",
+        "league": "brazilian-serie-a",
+        "name": "Feira FC",
+        "hash": "d156399f"
+      },
+      "fluminense-de-feira": {
+        "slug": "fluminense-de-feira",
+        "league": "brazilian-serie-a",
+        "name": "Fluminense de Feira",
+        "hash": "8342ba84"
+      },
+      "independente-ap": {
+        "slug": "independente-ap",
+        "league": "brazilian-serie-a",
+        "name": "Independente-AP",
+        "hash": "db8d194d"
+      },
+      "macapa": {
+        "slug": "macapa",
+        "league": "brazilian-serie-a",
+        "name": "Macapá",
+        "hash": "d162ba4a"
+      },
+      "paranavai": {
+        "slug": "paranavai",
+        "league": "brazilian-serie-a",
+        "name": "Paranavaí",
+        "hash": "844ae418"
+      },
+      "princesa-do-solimoes": {
+        "slug": "princesa-do-solimoes",
+        "league": "brazilian-serie-a",
+        "name": "Princesa do Solimões",
+        "hash": "b9e1aa92"
+      },
+      "rio-negro-am": {
+        "slug": "rio-negro-am",
+        "league": "brazilian-serie-a",
+        "name": "Rio Negro-AM",
+        "hash": "3a4f7fb1"
+      },
+      "sao-francisco-ac": {
+        "slug": "sao-francisco-ac",
+        "league": "brazilian-serie-a",
+        "name": "São Francisco-AC",
+        "hash": "879a32e5"
+      },
+      "sao-jose-ap": {
+        "slug": "sao-jose-ap",
+        "league": "brazilian-serie-a",
+        "name": "São José-AP",
+        "hash": "71a3336c"
+      },
+      "ypiranga-ap": {
+        "slug": "ypiranga-ap",
+        "league": "brazilian-serie-a",
+        "name": "Ypiranga-AP",
+        "hash": "0470dea2"
+      },
+      "zumbi": {
+        "slug": "zumbi",
+        "league": "brazilian-serie-a",
+        "name": "Zumbi",
+        "hash": "c8549c7e"
       }
     }
   }

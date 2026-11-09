@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T12:57:08.814Z",
+  "generatedAt": "2026-11-09T15:32:16.058Z",
   "country": {
     "slug": "turkey",
     "iso2": "TR",
@@ -603,6 +603,12 @@
         "league": "super-lig",
         "name": "Eskişehirspor",
         "hash": "aa14e1b6"
+      },
+      "alibeykoyspor": {
+        "slug": "alibeykoyspor",
+        "league": "super-lig",
+        "name": "Alibeyköyspor",
+        "hash": "9592ef69"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T13:49:33.407Z",
+  "generatedAt": "2026-11-09T15:32:16.058Z",
   "country": {
     "slug": "france",
     "iso2": "FR",
@@ -1946,6 +1946,36 @@
         "league": "ligue-1",
         "name": "Stade Poitevin FC",
         "hash": "ff411862"
+      },
+      "aurillac-fc": {
+        "slug": "aurillac-fc",
+        "league": "ligue-1",
+        "name": "Aurillac FC",
+        "hash": "f9dc00e9"
+      },
+      "chaumont-fc": {
+        "slug": "chaumont-fc",
+        "league": "ligue-1",
+        "name": "Chaumont FC",
+        "hash": "f5baa13f"
+      },
+      "fc-vesoul": {
+        "slug": "fc-vesoul",
+        "league": "ligue-1",
+        "name": "FC Vesoul",
+        "hash": "c7d56af8"
+      },
+      "macon-71": {
+        "slug": "macon-71",
+        "league": "ligue-1",
+        "name": "Mâcon 71",
+        "hash": "9046392a"
+      },
+      "rc-epernay": {
+        "slug": "rc-epernay",
+        "league": "ligue-1",
+        "name": "RC Épernay",
+        "hash": "dd2b5722"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:39:27.711Z",
+  "generatedAt": "2026-11-09T15:32:16.058Z",
   "country": {
     "slug": "belgium",
     "iso2": "BE",
@@ -103,7 +103,7 @@
       },
       "standard-liege": {
         "slug": "standard-liege",
-        "name": "Standard Liège",
+        "name": "Standard Liège SL16 FC",
         "hash": "9e24459d",
         "league": "jupiler-pro-league"
       },
@@ -316,6 +316,30 @@
         "league": "jupiler-pro-league",
         "name": "RAEC Mons",
         "hash": "f518a341"
+      },
+      "fc-wezel-sport": {
+        "slug": "fc-wezel-sport",
+        "league": "jupiler-pro-league",
+        "name": "FC Wezel Sport",
+        "hash": "62078459"
+      },
+      "rsc-habay": {
+        "slug": "rsc-habay",
+        "league": "jupiler-pro-league",
+        "name": "RSC Habay",
+        "hash": "a6bf7d01"
+      },
+      "tubize-braine": {
+        "slug": "tubize-braine",
+        "league": "jupiler-pro-league",
+        "name": "Tubize-Braine",
+        "hash": "034406cd"
+      },
+      "union-namur": {
+        "slug": "union-namur",
+        "league": "jupiler-pro-league",
+        "name": "Union Namur",
+        "hash": "11386bd9"
       }
     }
   }

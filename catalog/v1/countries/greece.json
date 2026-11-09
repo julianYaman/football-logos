@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T12:57:08.814Z",
+  "generatedAt": "2026-11-09T15:32:16.058Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -540,6 +540,12 @@
         "league": "super-league-1",
         "name": "PO Alexandroupolis",
         "hash": "15d9ec27"
+      },
+      "kozani": {
+        "slug": "kozani",
+        "league": "super-league-1",
+        "name": "Kozani",
+        "hash": "4f417d56"
       }
     }
   }

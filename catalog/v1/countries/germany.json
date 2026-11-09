@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T12:57:08.814Z",
+  "generatedAt": "2026-11-09T15:32:16.058Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -2200,6 +2200,12 @@
         "league": "bundesliga",
         "name": "TSV Schwabmünchen",
         "hash": "35e68415"
+      },
+      "niendorfer-tsv": {
+        "slug": "niendorfer-tsv",
+        "league": "bundesliga",
+        "name": "Niendorfer TSV",
+        "hash": "75d74db5"
       }
     }
   }

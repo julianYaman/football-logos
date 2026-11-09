@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T12:57:08.814Z",
+  "generatedAt": "2026-11-09T15:32:16.058Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -1963,7 +1963,14 @@
           "code": "BH"
         }
       },
-      "clubs": {}
+      "clubs": {
+        "al-najma": {
+          "slug": "al-najma",
+          "league": "bahrain-national-team",
+          "name": "Al Najma",
+          "hash": "6d4a5177"
+        }
+      }
     },
     "bangladesh": {
       "slug": "bangladesh",
@@ -2346,7 +2353,7 @@
         },
         "standard-liege": {
           "slug": "standard-liege",
-          "name": "Standard Liège",
+          "name": "Standard Liège SL16 FC",
           "hash": "9e24459d",
           "league": "jupiler-pro-league"
         },
@@ -2559,6 +2566,30 @@
           "league": "jupiler-pro-league",
           "name": "RAEC Mons",
           "hash": "f518a341"
+        },
+        "fc-wezel-sport": {
+          "slug": "fc-wezel-sport",
+          "league": "jupiler-pro-league",
+          "name": "FC Wezel Sport",
+          "hash": "62078459"
+        },
+        "rsc-habay": {
+          "slug": "rsc-habay",
+          "league": "jupiler-pro-league",
+          "name": "RSC Habay",
+          "hash": "a6bf7d01"
+        },
+        "tubize-braine": {
+          "slug": "tubize-braine",
+          "league": "jupiler-pro-league",
+          "name": "Tubize-Braine",
+          "hash": "034406cd"
+        },
+        "union-namur": {
+          "slug": "union-namur",
+          "league": "jupiler-pro-league",
+          "name": "Union Namur",
+          "hash": "11386bd9"
         }
       }
     },
@@ -4365,6 +4396,84 @@
           "league": "brazilian-serie-a",
           "name": "Matonense",
           "hash": "56312aa0"
+        },
+        "brasilia-fc": {
+          "slug": "brasilia-fc",
+          "league": "brazilian-serie-a",
+          "name": "Brasília FC",
+          "hash": "386c3815"
+        },
+        "fast-clube": {
+          "slug": "fast-clube",
+          "league": "brazilian-serie-a",
+          "name": "Fast Clube",
+          "hash": "254d71bf"
+        },
+        "feira-fc": {
+          "slug": "feira-fc",
+          "league": "brazilian-serie-a",
+          "name": "Feira FC",
+          "hash": "d156399f"
+        },
+        "fluminense-de-feira": {
+          "slug": "fluminense-de-feira",
+          "league": "brazilian-serie-a",
+          "name": "Fluminense de Feira",
+          "hash": "8342ba84"
+        },
+        "independente-ap": {
+          "slug": "independente-ap",
+          "league": "brazilian-serie-a",
+          "name": "Independente-AP",
+          "hash": "db8d194d"
+        },
+        "macapa": {
+          "slug": "macapa",
+          "league": "brazilian-serie-a",
+          "name": "Macapá",
+          "hash": "d162ba4a"
+        },
+        "paranavai": {
+          "slug": "paranavai",
+          "league": "brazilian-serie-a",
+          "name": "Paranavaí",
+          "hash": "844ae418"
+        },
+        "princesa-do-solimoes": {
+          "slug": "princesa-do-solimoes",
+          "league": "brazilian-serie-a",
+          "name": "Princesa do Solimões",
+          "hash": "b9e1aa92"
+        },
+        "rio-negro-am": {
+          "slug": "rio-negro-am",
+          "league": "brazilian-serie-a",
+          "name": "Rio Negro-AM",
+          "hash": "3a4f7fb1"
+        },
+        "sao-francisco-ac": {
+          "slug": "sao-francisco-ac",
+          "league": "brazilian-serie-a",
+          "name": "São Francisco-AC",
+          "hash": "879a32e5"
+        },
+        "sao-jose-ap": {
+          "slug": "sao-jose-ap",
+          "league": "brazilian-serie-a",
+          "name": "São José-AP",
+          "hash": "71a3336c"
+        },
+        "ypiranga-ap": {
+          "slug": "ypiranga-ap",
+          "league": "brazilian-serie-a",
+          "name": "Ypiranga-AP",
+          "hash": "0470dea2"
+        },
+        "zumbi": {
+          "slug": "zumbi",
+          "league": "brazilian-serie-a",
+          "name": "Zumbi",
+          "hash": "c8549c7e"
         }
       }
     },
@@ -11392,6 +11501,36 @@
           "league": "ligue-1",
           "name": "Stade Poitevin FC",
           "hash": "ff411862"
+        },
+        "aurillac-fc": {
+          "slug": "aurillac-fc",
+          "league": "ligue-1",
+          "name": "Aurillac FC",
+          "hash": "f9dc00e9"
+        },
+        "chaumont-fc": {
+          "slug": "chaumont-fc",
+          "league": "ligue-1",
+          "name": "Chaumont FC",
+          "hash": "f5baa13f"
+        },
+        "fc-vesoul": {
+          "slug": "fc-vesoul",
+          "league": "ligue-1",
+          "name": "FC Vesoul",
+          "hash": "c7d56af8"
+        },
+        "macon-71": {
+          "slug": "macon-71",
+          "league": "ligue-1",
+          "name": "Mâcon 71",
+          "hash": "9046392a"
+        },
+        "rc-epernay": {
+          "slug": "rc-epernay",
+          "league": "ligue-1",
+          "name": "RC Épernay",
+          "hash": "dd2b5722"
         }
       }
     },
@@ -13792,6 +13931,12 @@
           "league": "bundesliga",
           "name": "TSV Schwabmünchen",
           "hash": "35e68415"
+        },
+        "niendorfer-tsv": {
+          "slug": "niendorfer-tsv",
+          "league": "bundesliga",
+          "name": "Niendorfer TSV",
+          "hash": "75d74db5"
         }
       }
     },
@@ -14551,6 +14696,12 @@
           "league": "super-league-1",
           "name": "PO Alexandroupolis",
           "hash": "15d9ec27"
+        },
+        "kozani": {
+          "slug": "kozani",
+          "league": "super-league-1",
+          "name": "Kozani",
+          "hash": "4f417d56"
         }
       }
     },
@@ -17917,6 +18068,24 @@
           "league": "serie-a",
           "name": "SSD Agerola",
           "hash": "b77eec01"
+        },
+        "galatina": {
+          "slug": "galatina",
+          "league": "serie-a",
+          "name": "ASD Galatina Calcio",
+          "hash": "c22374c0"
+        },
+        "real-forio": {
+          "slug": "real-forio",
+          "league": "serie-a",
+          "name": "ASD Real Forio 2014",
+          "hash": "8bfe54d8"
+        },
+        "toma-maglie": {
+          "slug": "toma-maglie",
+          "league": "serie-a",
+          "name": "ASD Toma Maglie",
+          "hash": "bd9c5d23"
         }
       }
     },
@@ -18330,6 +18499,12 @@
           "name": "FC Ryukyu",
           "hash": "b182db78",
           "league": "j3-league"
+        },
+        "nankatsu-sc": {
+          "slug": "nankatsu-sc",
+          "league": "j-league",
+          "name": "Nankatsu SC",
+          "hash": "54a68603"
         }
       }
     },
@@ -20905,6 +21080,12 @@
           "league": "eredivisie",
           "name": "FC Abcoude",
           "hash": "b5358052"
+        },
+        "vv-hees": {
+          "slug": "vv-hees",
+          "league": "eredivisie",
+          "name": "VV Hees",
+          "hash": "fe2de48e"
         }
       }
     },
@@ -27218,7 +27399,38 @@
           "code": "SR"
         }
       },
-      "clubs": {}
+      "clubs": {
+        "inter-wanica": {
+          "slug": "inter-wanica",
+          "league": "suriname-national-team",
+          "name": "Inter Wanica",
+          "hash": "339bd414"
+        },
+        "sv-flora": {
+          "slug": "sv-flora",
+          "league": "suriname-national-team",
+          "name": "SV Flora",
+          "hash": "857d1681"
+        },
+        "sv-notch": {
+          "slug": "sv-notch",
+          "league": "suriname-national-team",
+          "name": "SV Notch",
+          "hash": "133bc65d"
+        },
+        "sv-robinhood": {
+          "slug": "sv-robinhood",
+          "league": "suriname-national-team",
+          "name": "SV Robinhood",
+          "hash": "74b639f7"
+        },
+        "sv-voorwaarts": {
+          "slug": "sv-voorwaarts",
+          "league": "suriname-national-team",
+          "name": "SV Voorwaarts",
+          "hash": "eb04b6aa"
+        }
+      }
     },
     "sweden": {
       "slug": "sweden",
@@ -28968,6 +29180,12 @@
           "league": "super-lig",
           "name": "Eskişehirspor",
           "hash": "aa14e1b6"
+        },
+        "alibeykoyspor": {
+          "slug": "alibeykoyspor",
+          "league": "super-lig",
+          "name": "Alibeyköyspor",
+          "hash": "9592ef69"
         }
       }
     },
@@ -31520,5 +31738,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "2af2c4a71857c748"
+  "contentHash": "23b8ee1abdb7e679"
 }

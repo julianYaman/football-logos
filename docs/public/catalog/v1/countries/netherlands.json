@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T12:57:08.814Z",
+  "generatedAt": "2026-11-09T15:32:16.058Z",
   "country": {
     "slug": "netherlands",
     "iso2": "NL",
@@ -586,6 +586,12 @@
         "league": "eredivisie",
         "name": "FC Abcoude",
         "hash": "b5358052"
+      },
+      "vv-hees": {
+        "slug": "vv-hees",
+        "league": "eredivisie",
+        "name": "VV Hees",
+        "hash": "fe2de48e"
       }
     }
   }

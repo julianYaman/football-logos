@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T13:49:33.407Z",
+  "generatedAt": "2026-11-09T15:32:16.058Z",
   "country": {
     "slug": "italy",
     "iso2": "IT",
@@ -1647,6 +1647,24 @@
         "league": "serie-a",
         "name": "SSD Agerola",
         "hash": "b77eec01"
+      },
+      "galatina": {
+        "slug": "galatina",
+        "league": "serie-a",
+        "name": "ASD Galatina Calcio",
+        "hash": "c22374c0"
+      },
+      "real-forio": {
+        "slug": "real-forio",
+        "league": "serie-a",
+        "name": "ASD Real Forio 2014",
+        "hash": "8bfe54d8"
+      },
+      "toma-maglie": {
+        "slug": "toma-maglie",
+        "league": "serie-a",
+        "name": "ASD Toma Maglie",
+        "hash": "bd9c5d23"
       }
     }
   }

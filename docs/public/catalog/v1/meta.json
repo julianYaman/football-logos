@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T12:57:08.814Z",
+  "generatedAt": "2026-11-09T15:32:16.058Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -114,7 +114,7 @@
       "iso2": "BH",
       "name": "Bahrain",
       "defaultLeague": "bahrain-national-team",
-      "clubCount": 0
+      "clubCount": 1
     },
     {
       "slug": "bangladesh",
@@ -142,7 +142,7 @@
       "iso2": "BE",
       "name": "Belgium",
       "defaultLeague": "jupiler-pro-league",
-      "clubCount": 47
+      "clubCount": 51
     },
     {
       "slug": "belize",
@@ -205,7 +205,7 @@
       "iso2": "BR",
       "name": "Brazil",
       "defaultLeague": "brazilian-serie-a",
-      "clubCount": 237
+      "clubCount": 250
     },
     {
       "slug": "british-virgin-islands",
@@ -513,7 +513,7 @@
       "iso2": "FR",
       "name": "France",
       "defaultLeague": "ligue-1",
-      "clubCount": 317
+      "clubCount": 322
     },
     {
       "slug": "french-guiana",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 355
+      "clubCount": 356
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 86
+      "clubCount": 87
     },
     {
       "slug": "greenland",
@@ -702,7 +702,7 @@
       "iso2": "IT",
       "name": "Italy",
       "defaultLeague": "serie-a",
-      "clubCount": 268
+      "clubCount": 271
     },
     {
       "slug": "jamaica",
@@ -716,7 +716,7 @@
       "iso2": "JP",
       "name": "Japan",
       "defaultLeague": "j-league",
-      "clubCount": 60
+      "clubCount": 61
     },
     {
       "slug": "jordan",
@@ -989,7 +989,7 @@
       "iso2": "NL",
       "name": "Netherlands",
       "defaultLeague": "eredivisie",
-      "clubCount": 92
+      "clubCount": 93
     },
     {
       "slug": "new-caledonia",
@@ -1367,7 +1367,7 @@
       "iso2": "SR",
       "name": "Suriname",
       "defaultLeague": "suriname-national-team",
-      "clubCount": 0
+      "clubCount": 5
     },
     {
       "slug": "sweden",
@@ -1472,7 +1472,7 @@
       "iso2": "TR",
       "name": "Turkey",
       "defaultLeague": "super-lig",
-      "clubCount": 94
+      "clubCount": 95
     },
     {
       "slug": "turkmenistan",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "2af2c4a71857c748"
+  "contentHash": "23b8ee1abdb7e679"
 }
