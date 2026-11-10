@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T15:32:16.058Z",
+  "generatedAt": "2026-11-10T14:32:41.228Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -546,6 +546,12 @@
         "league": "super-league-1",
         "name": "Kozani",
         "hash": "4f417d56"
+      },
+      "kalloni": {
+        "slug": "kalloni",
+        "league": "super-league-1",
+        "name": "Kalloni",
+        "hash": "107fac30"
       }
     }
   }

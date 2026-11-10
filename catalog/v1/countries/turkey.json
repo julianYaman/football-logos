@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T15:32:16.058Z",
+  "generatedAt": "2026-11-10T14:32:41.228Z",
   "country": {
     "slug": "turkey",
     "iso2": "TR",
@@ -609,6 +609,12 @@
         "league": "super-lig",
         "name": "Alibeyköyspor",
         "hash": "9592ef69"
+      },
+      "kahramanmarasspor": {
+        "slug": "kahramanmarasspor",
+        "league": "super-lig",
+        "name": "Kahramanmaraşspor",
+        "hash": "927472e6"
       }
     }
   }

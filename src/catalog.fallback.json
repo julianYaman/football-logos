@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T15:32:16.058Z",
+  "generatedAt": "2026-11-10T14:32:41.228Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -13937,6 +13937,24 @@
           "league": "bundesliga",
           "name": "Niendorfer TSV",
           "hash": "75d74db5"
+        },
+        "fc-schuttorf-09": {
+          "slug": "fc-schuttorf-09",
+          "league": "bundesliga",
+          "name": "FC Schüttorf 09",
+          "hash": "90b393a5"
+        },
+        "tus-koblenz": {
+          "slug": "tus-koblenz",
+          "league": "bundesliga",
+          "name": "TuS Koblenz",
+          "hash": "9f105012"
+        },
+        "tv-herkenrath": {
+          "slug": "tv-herkenrath",
+          "league": "bundesliga",
+          "name": "TV Herkenrath",
+          "hash": "210e6160"
         }
       }
     },
@@ -14702,6 +14720,12 @@
           "league": "super-league-1",
           "name": "Kozani",
           "hash": "4f417d56"
+        },
+        "kalloni": {
+          "slug": "kalloni",
+          "league": "super-league-1",
+          "name": "Kalloni",
+          "hash": "107fac30"
         }
       }
     },
@@ -18505,6 +18529,12 @@
           "league": "j-league",
           "name": "Nankatsu SC",
           "hash": "54a68603"
+        },
+        "tokyo-23-fc": {
+          "slug": "tokyo-23-fc",
+          "league": "j-league",
+          "name": "Tokyo 23 FC",
+          "hash": "8e639848"
         }
       }
     },
@@ -21086,6 +21116,12 @@
           "league": "eredivisie",
           "name": "VV Hees",
           "hash": "fe2de48e"
+        },
+        "rkvv-dia": {
+          "slug": "rkvv-dia",
+          "league": "eredivisie",
+          "name": "RKVV DIA",
+          "hash": "7eaf7273"
         }
       }
     },
@@ -27839,6 +27875,12 @@
           "league": "allsvenskan",
           "name": "IF Karlstad Fotboll",
           "hash": "0a7f087a"
+        },
+        "husqvarna-ff": {
+          "slug": "husqvarna-ff",
+          "league": "allsvenskan",
+          "name": "Husqvarna FF",
+          "hash": "763d7958"
         }
       }
     },
@@ -29186,6 +29228,12 @@
           "league": "super-lig",
           "name": "Alibeyköyspor",
           "hash": "9592ef69"
+        },
+        "kahramanmarasspor": {
+          "slug": "kahramanmarasspor",
+          "league": "super-lig",
+          "name": "Kahramanmaraşspor",
+          "hash": "927472e6"
         }
       }
     },
@@ -31738,5 +31786,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "23b8ee1abdb7e679"
+  "contentHash": "ff76bdde59d46804"
 }

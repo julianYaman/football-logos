@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T15:32:16.058Z",
+  "generatedAt": "2026-11-10T14:32:41.228Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -2206,6 +2206,24 @@
         "league": "bundesliga",
         "name": "Niendorfer TSV",
         "hash": "75d74db5"
+      },
+      "fc-schuttorf-09": {
+        "slug": "fc-schuttorf-09",
+        "league": "bundesliga",
+        "name": "FC Schüttorf 09",
+        "hash": "90b393a5"
+      },
+      "tus-koblenz": {
+        "slug": "tus-koblenz",
+        "league": "bundesliga",
+        "name": "TuS Koblenz",
+        "hash": "9f105012"
+      },
+      "tv-herkenrath": {
+        "slug": "tv-herkenrath",
+        "league": "bundesliga",
+        "name": "TV Herkenrath",
+        "hash": "210e6160"
       }
     }
   }
