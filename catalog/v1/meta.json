@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:32:41.228Z",
+  "generatedAt": "2026-11-11T13:46:16.002Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -142,7 +142,7 @@
       "iso2": "BE",
       "name": "Belgium",
       "defaultLeague": "jupiler-pro-league",
-      "clubCount": 51
+      "clubCount": 52
     },
     {
       "slug": "belize",
@@ -205,7 +205,7 @@
       "iso2": "BR",
       "name": "Brazil",
       "defaultLeague": "brazilian-serie-a",
-      "clubCount": 250
+      "clubCount": 261
     },
     {
       "slug": "british-virgin-islands",
@@ -303,7 +303,7 @@
       "iso2": "CL",
       "name": "Chile",
       "defaultLeague": "liga-de-primera",
-      "clubCount": 35
+      "clubCount": 39
     },
     {
       "slug": "china",
@@ -513,7 +513,7 @@
       "iso2": "FR",
       "name": "France",
       "defaultLeague": "ligue-1",
-      "clubCount": 322
+      "clubCount": 323
     },
     {
       "slug": "french-guiana",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 359
+      "clubCount": 360
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 88
+      "clubCount": 90
     },
     {
       "slug": "greenland",
@@ -667,7 +667,7 @@
       "iso2": "IN",
       "name": "India",
       "defaultLeague": "indian-super-league",
-      "clubCount": 23
+      "clubCount": 24
     },
     {
       "slug": "indonesia",
@@ -702,7 +702,7 @@
       "iso2": "IT",
       "name": "Italy",
       "defaultLeague": "serie-a",
-      "clubCount": 271
+      "clubCount": 278
     },
     {
       "slug": "jamaica",
@@ -989,7 +989,7 @@
       "iso2": "NL",
       "name": "Netherlands",
       "defaultLeague": "eredivisie",
-      "clubCount": 94
+      "clubCount": 95
     },
     {
       "slug": "new-caledonia",
@@ -1171,7 +1171,7 @@
       "iso2": "RO",
       "name": "Romania",
       "defaultLeague": "superliga",
-      "clubCount": 26
+      "clubCount": 30
     },
     {
       "slug": "russia",
@@ -1241,7 +1241,7 @@
       "iso2": "SCO",
       "name": "Scotland",
       "defaultLeague": "scottish-premiership",
-      "clubCount": 63
+      "clubCount": 64
     },
     {
       "slug": "senegal",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "ff76bdde59d46804"
+  "contentHash": "8195672434556058"
 }

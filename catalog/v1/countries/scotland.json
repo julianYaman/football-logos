@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-11-11T13:46:16.002Z",
   "country": {
     "slug": "scotland",
     "iso2": "SCO",
@@ -417,6 +417,12 @@
         "name": "Bonnyrigg Rose FC",
         "hash": "88e9f587",
         "league": ""
+      },
+      "fraserburgh": {
+        "slug": "fraserburgh",
+        "league": "scottish-premiership",
+        "name": "Fraserburgh",
+        "hash": "e80f914b"
       }
     }
   }

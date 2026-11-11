@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:32:41.228Z",
+  "generatedAt": "2026-11-11T13:46:16.002Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -552,6 +552,18 @@
         "league": "super-league-1",
         "name": "Kalloni",
         "hash": "107fac30"
+      },
+      "apollon-eretria": {
+        "slug": "apollon-eretria",
+        "league": "super-league-1",
+        "name": "Apollon Eretria",
+        "hash": "fe3fe9a8"
+      },
+      "ermis-zoniana": {
+        "slug": "ermis-zoniana",
+        "league": "super-league-1",
+        "name": "Ermis Zoniana",
+        "hash": "947e08bc"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:32:41.228Z",
+  "generatedAt": "2026-11-11T13:46:16.002Z",
   "country": {
     "slug": "netherlands",
     "iso2": "NL",
@@ -598,6 +598,12 @@
         "league": "eredivisie",
         "name": "RKVV DIA",
         "hash": "7eaf7273"
+      },
+      "asc-de-volewijckers": {
+        "slug": "asc-de-volewijckers",
+        "league": "eredivisie",
+        "name": "ASC De Volewijckers",
+        "hash": "84981b94"
       }
     }
   }

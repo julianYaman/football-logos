@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T11:00:52.747Z",
+  "generatedAt": "2026-11-11T13:46:16.002Z",
   "country": {
     "slug": "chile",
     "iso2": "CL",
@@ -234,6 +234,30 @@
         "league": "liga-de-primera",
         "name": "Deportes Iberia",
         "hash": "9a1ae773"
+      },
+      "deportes-rengo": {
+        "slug": "deportes-rengo",
+        "league": "liga-de-primera",
+        "name": "Deportes Rengo",
+        "hash": "51055596"
+      },
+      "general-velasquez": {
+        "slug": "general-velasquez",
+        "league": "liga-de-primera",
+        "name": "General Velásquez",
+        "hash": "4d603655"
+      },
+      "real-san-joaquin": {
+        "slug": "real-san-joaquin",
+        "league": "liga-de-primera",
+        "name": "Real San Joaquín",
+        "hash": "c7f3f62a"
+      },
+      "santiago-morning": {
+        "slug": "santiago-morning",
+        "league": "liga-de-primera",
+        "name": "Santiago Morning",
+        "hash": "1e4cf1c4"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T15:32:16.058Z",
+  "generatedAt": "2026-11-11T13:46:16.002Z",
   "country": {
     "slug": "italy",
     "iso2": "IT",
@@ -1665,6 +1665,48 @@
         "league": "serie-a",
         "name": "ASD Toma Maglie",
         "hash": "bd9c5d23"
+      },
+      "bisceglie": {
+        "slug": "bisceglie",
+        "league": "serie-a",
+        "name": "AS Bisceglie",
+        "hash": "2d5080ec"
+      },
+      "brindisi": {
+        "slug": "brindisi",
+        "league": "serie-a",
+        "name": "Brindisi FC",
+        "hash": "cd629248"
+      },
+      "canosa": {
+        "slug": "canosa",
+        "league": "serie-a",
+        "name": "Canosa Calcio 1948",
+        "hash": "ce96d22d"
+      },
+      "costa-d-amalfi": {
+        "slug": "costa-d-amalfi",
+        "league": "serie-a",
+        "name": "Costa d'Amalfi FC",
+        "hash": "69018ef7"
+      },
+      "pimonte": {
+        "slug": "pimonte",
+        "league": "serie-a",
+        "name": "Pimonte 1970",
+        "hash": "12b9e0cd"
+      },
+      "soccer-trani": {
+        "slug": "soccer-trani",
+        "league": "serie-a",
+        "name": "Soccer Trani",
+        "hash": "9d476c55"
+      },
+      "taranto": {
+        "slug": "taranto",
+        "league": "serie-a",
+        "name": "SS Taranto",
+        "hash": "40dab093"
       }
     }
   }

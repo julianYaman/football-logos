@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T15:32:16.058Z",
+  "generatedAt": "2026-11-11T13:46:16.002Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1534,6 +1534,72 @@
         "league": "brazilian-serie-a",
         "name": "Zumbi",
         "hash": "c8549c7e"
+      },
+      "bataguassu": {
+        "slug": "bataguassu",
+        "league": "brazilian-serie-a",
+        "name": "Bataguassu",
+        "hash": "90ad5c5c"
+      },
+      "democrata-sl": {
+        "slug": "democrata-sl",
+        "league": "brazilian-serie-a",
+        "name": "Democrata-SL",
+        "hash": "e8e84399"
+      },
+      "desportiva-ferroviaria": {
+        "slug": "desportiva-ferroviaria",
+        "league": "brazilian-serie-a",
+        "name": "Desportiva Ferroviária",
+        "hash": "de0aeb97"
+      },
+      "fc-pantanal": {
+        "slug": "fc-pantanal",
+        "league": "brazilian-serie-a",
+        "name": "FC Pantanal",
+        "hash": "ac98e5b2"
+      },
+      "gremio-anapolis": {
+        "slug": "gremio-anapolis",
+        "league": "brazilian-serie-a",
+        "name": "Grêmio Anápolis",
+        "hash": "b26a8f63"
+      },
+      "juventude-samas": {
+        "slug": "juventude-samas",
+        "league": "brazilian-serie-a",
+        "name": "Juventude Samas",
+        "hash": "0126afe3"
+      },
+      "nova-mutum": {
+        "slug": "nova-mutum",
+        "league": "brazilian-serie-a",
+        "name": "Nova Mutum",
+        "hash": "b2b6f93f"
+      },
+      "patrocinense": {
+        "slug": "patrocinense",
+        "league": "brazilian-serie-a",
+        "name": "Patrocinense",
+        "hash": "1d56474c"
+      },
+      "porto-vitoria": {
+        "slug": "porto-vitoria",
+        "league": "brazilian-serie-a",
+        "name": "Porto Vitória",
+        "hash": "a93eec9e"
+      },
+      "rio-branco-vn": {
+        "slug": "rio-branco-vn",
+        "league": "brazilian-serie-a",
+        "name": "Rio Branco-VN",
+        "hash": "261f8059"
+      },
+      "tuntum": {
+        "slug": "tuntum",
+        "league": "brazilian-serie-a",
+        "name": "Tuntum",
+        "hash": "32067622"
       }
     }
   }

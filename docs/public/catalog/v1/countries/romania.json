@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:29:25.876Z",
+  "generatedAt": "2026-11-11T13:46:16.002Z",
   "country": {
     "slug": "romania",
     "iso2": "RO",
@@ -175,6 +175,30 @@
         "league": "superliga",
         "name": "CSA Steaua București",
         "hash": "f59d5e73"
+      },
+      "cetatea-suceava": {
+        "slug": "cetatea-suceava",
+        "league": "superliga",
+        "name": "Cetatea Suceava",
+        "hash": "abfc4e82"
+      },
+      "inter-sibiu": {
+        "slug": "inter-sibiu",
+        "league": "superliga",
+        "name": "Inter Sibiu",
+        "hash": "9cb60702"
+      },
+      "fc-bacau": {
+        "slug": "fc-bacau",
+        "league": "superliga",
+        "name": "FC Bacău",
+        "hash": "2c569bb0"
+      },
+      "sportul-studentesc": {
+        "slug": "sportul-studentesc",
+        "league": "superliga",
+        "name": "Sportul Studențesc",
+        "hash": "87d9806e"
       }
     }
   }

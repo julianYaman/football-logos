@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:32:41.228Z",
+  "generatedAt": "2026-11-11T13:46:16.002Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -2224,6 +2224,12 @@
         "league": "bundesliga",
         "name": "TV Herkenrath",
         "hash": "210e6160"
+      },
+      "tsv-buchholz-08": {
+        "slug": "tsv-buchholz-08",
+        "league": "bundesliga",
+        "name": "TSV Buchholz 08",
+        "hash": "9196608c"
       }
     }
   }

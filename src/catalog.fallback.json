@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:32:41.228Z",
+  "generatedAt": "2026-11-11T13:46:16.002Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -2590,6 +2590,12 @@
           "league": "jupiler-pro-league",
           "name": "Union Namur",
           "hash": "11386bd9"
+        },
+        "lyra-lierse": {
+          "slug": "lyra-lierse",
+          "league": "jupiler-pro-league",
+          "name": "Lyra-Lierse",
+          "hash": "9fd374e9"
         }
       }
     },
@@ -4474,6 +4480,72 @@
           "league": "brazilian-serie-a",
           "name": "Zumbi",
           "hash": "c8549c7e"
+        },
+        "bataguassu": {
+          "slug": "bataguassu",
+          "league": "brazilian-serie-a",
+          "name": "Bataguassu",
+          "hash": "90ad5c5c"
+        },
+        "democrata-sl": {
+          "slug": "democrata-sl",
+          "league": "brazilian-serie-a",
+          "name": "Democrata-SL",
+          "hash": "e8e84399"
+        },
+        "desportiva-ferroviaria": {
+          "slug": "desportiva-ferroviaria",
+          "league": "brazilian-serie-a",
+          "name": "Desportiva Ferroviária",
+          "hash": "de0aeb97"
+        },
+        "fc-pantanal": {
+          "slug": "fc-pantanal",
+          "league": "brazilian-serie-a",
+          "name": "FC Pantanal",
+          "hash": "ac98e5b2"
+        },
+        "gremio-anapolis": {
+          "slug": "gremio-anapolis",
+          "league": "brazilian-serie-a",
+          "name": "Grêmio Anápolis",
+          "hash": "b26a8f63"
+        },
+        "juventude-samas": {
+          "slug": "juventude-samas",
+          "league": "brazilian-serie-a",
+          "name": "Juventude Samas",
+          "hash": "0126afe3"
+        },
+        "nova-mutum": {
+          "slug": "nova-mutum",
+          "league": "brazilian-serie-a",
+          "name": "Nova Mutum",
+          "hash": "b2b6f93f"
+        },
+        "patrocinense": {
+          "slug": "patrocinense",
+          "league": "brazilian-serie-a",
+          "name": "Patrocinense",
+          "hash": "1d56474c"
+        },
+        "porto-vitoria": {
+          "slug": "porto-vitoria",
+          "league": "brazilian-serie-a",
+          "name": "Porto Vitória",
+          "hash": "a93eec9e"
+        },
+        "rio-branco-vn": {
+          "slug": "rio-branco-vn",
+          "league": "brazilian-serie-a",
+          "name": "Rio Branco-VN",
+          "hash": "261f8059"
+        },
+        "tuntum": {
+          "slug": "tuntum",
+          "league": "brazilian-serie-a",
+          "name": "Tuntum",
+          "hash": "32067622"
         }
       }
     },
@@ -5158,6 +5230,30 @@
           "league": "liga-de-primera",
           "name": "Deportes Iberia",
           "hash": "9a1ae773"
+        },
+        "deportes-rengo": {
+          "slug": "deportes-rengo",
+          "league": "liga-de-primera",
+          "name": "Deportes Rengo",
+          "hash": "51055596"
+        },
+        "general-velasquez": {
+          "slug": "general-velasquez",
+          "league": "liga-de-primera",
+          "name": "General Velásquez",
+          "hash": "4d603655"
+        },
+        "real-san-joaquin": {
+          "slug": "real-san-joaquin",
+          "league": "liga-de-primera",
+          "name": "Real San Joaquín",
+          "hash": "c7f3f62a"
+        },
+        "santiago-morning": {
+          "slug": "santiago-morning",
+          "league": "liga-de-primera",
+          "name": "Santiago Morning",
+          "hash": "1e4cf1c4"
         }
       }
     },
@@ -11531,6 +11627,12 @@
           "league": "ligue-1",
           "name": "RC Épernay",
           "hash": "dd2b5722"
+        },
+        "olympique-de-valence": {
+          "slug": "olympique-de-valence",
+          "league": "ligue-1",
+          "name": "Olympique de Valence",
+          "hash": "7f563afe"
         }
       }
     },
@@ -13955,6 +14057,12 @@
           "league": "bundesliga",
           "name": "TV Herkenrath",
           "hash": "210e6160"
+        },
+        "tsv-buchholz-08": {
+          "slug": "tsv-buchholz-08",
+          "league": "bundesliga",
+          "name": "TSV Buchholz 08",
+          "hash": "9196608c"
         }
       }
     },
@@ -14726,6 +14834,18 @@
           "league": "super-league-1",
           "name": "Kalloni",
           "hash": "107fac30"
+        },
+        "apollon-eretria": {
+          "slug": "apollon-eretria",
+          "league": "super-league-1",
+          "name": "Apollon Eretria",
+          "hash": "fe3fe9a8"
+        },
+        "ermis-zoniana": {
+          "slug": "ermis-zoniana",
+          "league": "super-league-1",
+          "name": "Ermis Zoniana",
+          "hash": "947e08bc"
         }
       }
     },
@@ -15647,6 +15767,12 @@
           "name": "NEROCA FC",
           "hash": "4107b030",
           "league": "i-league-2"
+        },
+        "churchill-brothers": {
+          "slug": "churchill-brothers",
+          "league": "indian-super-league",
+          "name": "Churchill Brothers",
+          "hash": "3cbe9b30"
         }
       }
     },
@@ -18110,6 +18236,48 @@
           "league": "serie-a",
           "name": "ASD Toma Maglie",
           "hash": "bd9c5d23"
+        },
+        "bisceglie": {
+          "slug": "bisceglie",
+          "league": "serie-a",
+          "name": "AS Bisceglie",
+          "hash": "2d5080ec"
+        },
+        "brindisi": {
+          "slug": "brindisi",
+          "league": "serie-a",
+          "name": "Brindisi FC",
+          "hash": "cd629248"
+        },
+        "canosa": {
+          "slug": "canosa",
+          "league": "serie-a",
+          "name": "Canosa Calcio 1948",
+          "hash": "ce96d22d"
+        },
+        "costa-d-amalfi": {
+          "slug": "costa-d-amalfi",
+          "league": "serie-a",
+          "name": "Costa d'Amalfi FC",
+          "hash": "69018ef7"
+        },
+        "pimonte": {
+          "slug": "pimonte",
+          "league": "serie-a",
+          "name": "Pimonte 1970",
+          "hash": "12b9e0cd"
+        },
+        "soccer-trani": {
+          "slug": "soccer-trani",
+          "league": "serie-a",
+          "name": "Soccer Trani",
+          "hash": "9d476c55"
+        },
+        "taranto": {
+          "slug": "taranto",
+          "league": "serie-a",
+          "name": "SS Taranto",
+          "hash": "40dab093"
         }
       }
     },
@@ -18534,7 +18702,7 @@
           "slug": "tokyo-23-fc",
           "league": "j-league",
           "name": "Tokyo 23 FC",
-          "hash": "8e639848"
+          "hash": "0c22cae2"
         }
       }
     },
@@ -21122,6 +21290,12 @@
           "league": "eredivisie",
           "name": "RKVV DIA",
           "hash": "7eaf7273"
+        },
+        "asc-de-volewijckers": {
+          "slug": "asc-de-volewijckers",
+          "league": "eredivisie",
+          "name": "ASC De Volewijckers",
+          "hash": "84981b94"
         }
       }
     },
@@ -24235,6 +24409,30 @@
           "league": "superliga",
           "name": "CSA Steaua București",
           "hash": "f59d5e73"
+        },
+        "cetatea-suceava": {
+          "slug": "cetatea-suceava",
+          "league": "superliga",
+          "name": "Cetatea Suceava",
+          "hash": "abfc4e82"
+        },
+        "inter-sibiu": {
+          "slug": "inter-sibiu",
+          "league": "superliga",
+          "name": "Inter Sibiu",
+          "hash": "9cb60702"
+        },
+        "fc-bacau": {
+          "slug": "fc-bacau",
+          "league": "superliga",
+          "name": "FC Bacău",
+          "hash": "2c569bb0"
+        },
+        "sportul-studentesc": {
+          "slug": "sportul-studentesc",
+          "league": "superliga",
+          "name": "Sportul Studențesc",
+          "hash": "87d9806e"
         }
       }
     },
@@ -25356,6 +25554,12 @@
           "name": "Bonnyrigg Rose FC",
           "hash": "88e9f587",
           "league": ""
+        },
+        "fraserburgh": {
+          "slug": "fraserburgh",
+          "league": "scottish-premiership",
+          "name": "Fraserburgh",
+          "hash": "e80f914b"
         }
       }
     },
@@ -31786,5 +31990,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "ff76bdde59d46804"
+  "contentHash": "8195672434556058"
 }
