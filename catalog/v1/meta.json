@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T13:46:16.002Z",
+  "generatedAt": "2026-11-12T14:49:15.996Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -142,7 +142,7 @@
       "iso2": "BE",
       "name": "Belgium",
       "defaultLeague": "jupiler-pro-league",
-      "clubCount": 52
+      "clubCount": 53
     },
     {
       "slug": "belize",
@@ -513,7 +513,7 @@
       "iso2": "FR",
       "name": "France",
       "defaultLeague": "ligue-1",
-      "clubCount": 323
+      "clubCount": 331
     },
     {
       "slug": "french-guiana",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 360
+      "clubCount": 362
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 90
+      "clubCount": 91
     },
     {
       "slug": "greenland",
@@ -702,7 +702,7 @@
       "iso2": "IT",
       "name": "Italy",
       "defaultLeague": "serie-a",
-      "clubCount": 278
+      "clubCount": 281
     },
     {
       "slug": "jamaica",
@@ -912,7 +912,7 @@
       "iso2": "MX",
       "name": "Mexico",
       "defaultLeague": "liga-mx",
-      "clubCount": 57
+      "clubCount": 58
     },
     {
       "slug": "moldova",
@@ -1472,7 +1472,7 @@
       "iso2": "TR",
       "name": "Turkey",
       "defaultLeague": "super-lig",
-      "clubCount": 96
+      "clubCount": 97
     },
     {
       "slug": "turkmenistan",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "8195672434556058"
+  "contentHash": "6ebf56506b0720d9"
 }

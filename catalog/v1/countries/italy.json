@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T13:46:16.002Z",
+  "generatedAt": "2026-11-12T14:49:15.996Z",
   "country": {
     "slug": "italy",
     "iso2": "IT",
@@ -1707,6 +1707,24 @@
         "league": "serie-a",
         "name": "SS Taranto",
         "hash": "40dab093"
+      },
+      "alghero": {
+        "slug": "alghero",
+        "league": "serie-a",
+        "name": "Alghero Calcio",
+        "hash": "9268773f"
+      },
+      "battipagliese": {
+        "slug": "battipagliese",
+        "league": "serie-a",
+        "name": "Battipagliese Calcio",
+        "hash": "270d741f"
+      },
+      "molfetta": {
+        "slug": "molfetta",
+        "league": "serie-a",
+        "name": "Molfetta Calcio",
+        "hash": "a10fddde"
       }
     }
   }

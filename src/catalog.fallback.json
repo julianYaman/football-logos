@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T13:46:16.002Z",
+  "generatedAt": "2026-11-12T14:49:15.996Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -2596,6 +2596,12 @@
           "league": "jupiler-pro-league",
           "name": "Lyra-Lierse",
           "hash": "9fd374e9"
+        },
+        "kvk-tienen": {
+          "slug": "kvk-tienen",
+          "league": "jupiler-pro-league",
+          "name": "KVK Tienen",
+          "hash": "cf06ac02"
         }
       }
     },
@@ -11633,6 +11639,54 @@
           "league": "ligue-1",
           "name": "Olympique de Valence",
           "hash": "7f563afe"
+        },
+        "as-la-chataigneraie": {
+          "slug": "as-la-chataigneraie",
+          "league": "ligue-1",
+          "name": "AS La Châtaigneraie",
+          "hash": "77ef54b0"
+        },
+        "bayeux-fc": {
+          "slug": "bayeux-fc",
+          "league": "ligue-1",
+          "name": "Bayeux FC",
+          "hash": "c30cff04"
+        },
+        "esa-linas-montlhery": {
+          "slug": "esa-linas-montlhery",
+          "league": "ligue-1",
+          "name": "ESA Linas-Montlhéry",
+          "hash": "b3a02900"
+        },
+        "fc-chamalieres": {
+          "slug": "fc-chamalieres",
+          "league": "ligue-1",
+          "name": "FC Chamalières",
+          "hash": "77be57e2"
+        },
+        "quimper-kerfeunteun-fc": {
+          "slug": "quimper-kerfeunteun-fc",
+          "league": "ligue-1",
+          "name": "Quimper Kerfeunteun FC",
+          "hash": "738d5a4d"
+        },
+        "saran-fc": {
+          "slug": "saran-fc",
+          "league": "ligue-1",
+          "name": "Saran FC",
+          "hash": "ac091132"
+        },
+        "stade-beaucairois": {
+          "slug": "stade-beaucairois",
+          "league": "ligue-1",
+          "name": "Stade Beaucairois FC",
+          "hash": "39d2037d"
+        },
+        "us-alencon": {
+          "slug": "us-alencon",
+          "league": "ligue-1",
+          "name": "US Alençon",
+          "hash": "35c49a78"
         }
       }
     },
@@ -14063,6 +14117,18 @@
           "league": "bundesliga",
           "name": "TSV Buchholz 08",
           "hash": "9196608c"
+        },
+        "eintracht-bad-kreuznach": {
+          "slug": "eintracht-bad-kreuznach",
+          "league": "bundesliga",
+          "name": "Eintracht Bad Kreuznach",
+          "hash": "38f9bdee"
+        },
+        "sc-waldgirmes": {
+          "slug": "sc-waldgirmes",
+          "league": "bundesliga",
+          "name": "SC Waldgirmes",
+          "hash": "ad8aa902"
         }
       }
     },
@@ -14846,6 +14912,12 @@
           "league": "super-league-1",
           "name": "Ermis Zoniana",
           "hash": "947e08bc"
+        },
+        "thyella-patras": {
+          "slug": "thyella-patras",
+          "league": "super-league-1",
+          "name": "Thyella Patras",
+          "hash": "ec94a152"
         }
       }
     },
@@ -18278,6 +18350,24 @@
           "league": "serie-a",
           "name": "SS Taranto",
           "hash": "40dab093"
+        },
+        "alghero": {
+          "slug": "alghero",
+          "league": "serie-a",
+          "name": "Alghero Calcio",
+          "hash": "9268773f"
+        },
+        "battipagliese": {
+          "slug": "battipagliese",
+          "league": "serie-a",
+          "name": "Battipagliese Calcio",
+          "hash": "270d741f"
+        },
+        "molfetta": {
+          "slug": "molfetta",
+          "league": "serie-a",
+          "name": "Molfetta Calcio",
+          "hash": "a10fddde"
         }
       }
     },
@@ -20276,6 +20366,12 @@
           "league": "liga-mx",
           "name": "Toros Neza",
           "hash": "7672eb59"
+        },
+        "cimarrones-de-sonora": {
+          "slug": "cimarrones-de-sonora",
+          "league": "liga-mx",
+          "name": "Cimarrones de Sonora",
+          "hash": "f96f89c2"
         }
       }
     },
@@ -29438,6 +29534,12 @@
           "league": "super-lig",
           "name": "Kahramanmaraşspor",
           "hash": "927472e6"
+        },
+        "tuzlaspor": {
+          "slug": "tuzlaspor",
+          "league": "super-lig",
+          "name": "Tuzlaspor",
+          "hash": "8e5b015a"
         }
       }
     },
@@ -31990,5 +32092,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "8195672434556058"
+  "contentHash": "6ebf56506b0720d9"
 }
