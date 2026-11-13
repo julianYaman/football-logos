@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T14:49:15.996Z",
+  "generatedAt": "2026-11-13T14:08:59.568Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -570,6 +570,12 @@
         "league": "super-league-1",
         "name": "Thyella Patras",
         "hash": "ec94a152"
+      },
+      "aias-gastounis": {
+        "slug": "aias-gastounis",
+        "league": "super-league-1",
+        "name": "Aias Gastounis",
+        "hash": "bd043dc9"
       }
     }
   }

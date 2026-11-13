@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T14:49:15.996Z",
+  "generatedAt": "2026-11-13T14:08:59.568Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -44,7 +44,7 @@
       "iso2": "AO",
       "name": "Angola",
       "defaultLeague": "angola-national-team",
-      "clubCount": 1
+      "clubCount": 2
     },
     {
       "slug": "anguilla",
@@ -142,7 +142,7 @@
       "iso2": "BE",
       "name": "Belgium",
       "defaultLeague": "jupiler-pro-league",
-      "clubCount": 53
+      "clubCount": 54
     },
     {
       "slug": "belize",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 362
+      "clubCount": 363
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 91
+      "clubCount": 92
     },
     {
       "slug": "greenland",
@@ -989,7 +989,7 @@
       "iso2": "NL",
       "name": "Netherlands",
       "defaultLeague": "eredivisie",
-      "clubCount": 95
+      "clubCount": 96
     },
     {
       "slug": "new-caledonia",
@@ -1374,7 +1374,7 @@
       "iso2": "SE",
       "name": "Sweden",
       "defaultLeague": "allsvenskan",
-      "clubCount": 65
+      "clubCount": 66
     },
     {
       "slug": "switzerland",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "6ebf56506b0720d9"
+  "contentHash": "713e897914ebecb3"
 }

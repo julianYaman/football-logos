@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:29:25.876Z",
+  "generatedAt": "2026-11-13T14:08:59.568Z",
   "country": {
     "slug": "angola",
     "iso2": "AO",
@@ -20,6 +20,12 @@
         "league": "angola-national-team",
         "name": "Petro de Luanda",
         "hash": "18c34177"
+      },
+      "primeiro-de-agosto": {
+        "slug": "primeiro-de-agosto",
+        "league": "angola-national-team",
+        "name": "Primeiro de Agosto",
+        "hash": "234c415d"
       }
     }
   }

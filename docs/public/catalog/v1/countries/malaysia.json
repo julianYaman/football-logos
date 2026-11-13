@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-11-13T14:08:59.568Z",
   "country": {
     "slug": "malaysia",
     "iso2": "MY",
@@ -12,6 +12,11 @@
         "name": "Malaysia National Team",
         "hash": "7023587f",
         "code": "MY"
+      },
+      "malaysia-super-league": {
+        "slug": "malaysia-super-league",
+        "name": "Malaysia Super League",
+        "hash": "4ffa1e38"
       }
     },
     "clubs": {

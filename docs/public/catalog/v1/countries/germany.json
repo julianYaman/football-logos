@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T14:49:15.996Z",
+  "generatedAt": "2026-11-13T14:08:59.568Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -2242,6 +2242,12 @@
         "league": "bundesliga",
         "name": "SC Waldgirmes",
         "hash": "ad8aa902"
+      },
+      "ksv-vatan-sport-bremen": {
+        "slug": "ksv-vatan-sport-bremen",
+        "league": "bundesliga",
+        "name": "KSV Vatan Sport Bremen",
+        "hash": "8645e774"
       }
     }
   }

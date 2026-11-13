@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T14:49:15.996Z",
+  "generatedAt": "2026-11-13T14:08:59.568Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -400,6 +400,12 @@
           "league": "angola-national-team",
           "name": "Petro de Luanda",
           "hash": "18c34177"
+        },
+        "primeiro-de-agosto": {
+          "slug": "primeiro-de-agosto",
+          "league": "angola-national-team",
+          "name": "Primeiro de Agosto",
+          "hash": "234c415d"
         }
       }
     },
@@ -2602,6 +2608,12 @@
           "league": "jupiler-pro-league",
           "name": "KVK Tienen",
           "hash": "cf06ac02"
+        },
+        "ksv-bornem": {
+          "slug": "ksv-bornem",
+          "league": "jupiler-pro-league",
+          "name": "KSV Bornem",
+          "hash": "eaeacd45"
         }
       }
     },
@@ -14129,6 +14141,12 @@
           "league": "bundesliga",
           "name": "SC Waldgirmes",
           "hash": "ad8aa902"
+        },
+        "ksv-vatan-sport-bremen": {
+          "slug": "ksv-vatan-sport-bremen",
+          "league": "bundesliga",
+          "name": "KSV Vatan Sport Bremen",
+          "hash": "8645e774"
         }
       }
     },
@@ -14918,6 +14936,12 @@
           "league": "super-league-1",
           "name": "Thyella Patras",
           "hash": "ec94a152"
+        },
+        "aias-gastounis": {
+          "slug": "aias-gastounis",
+          "league": "super-league-1",
+          "name": "Aias Gastounis",
+          "hash": "bd043dc9"
         }
       }
     },
@@ -19719,6 +19743,11 @@
           "name": "Malaysia National Team",
           "hash": "7023587f",
           "code": "MY"
+        },
+        "malaysia-super-league": {
+          "slug": "malaysia-super-league",
+          "name": "Malaysia Super League",
+          "hash": "4ffa1e38"
         }
       },
       "clubs": {
@@ -21392,6 +21421,12 @@
           "league": "eredivisie",
           "name": "ASC De Volewijckers",
           "hash": "84981b94"
+        },
+        "cvv-vriendenschaar": {
+          "slug": "cvv-vriendenschaar",
+          "league": "eredivisie",
+          "name": "CVV Vriendenschaar",
+          "hash": "163e8c5f"
         }
       }
     },
@@ -28181,6 +28216,12 @@
           "league": "allsvenskan",
           "name": "Husqvarna FF",
           "hash": "763d7958"
+        },
+        "enskede-ik": {
+          "slug": "enskede-ik",
+          "league": "allsvenskan",
+          "name": "Enskede IK",
+          "hash": "c619fa3f"
         }
       }
     },
@@ -32092,5 +32133,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "6ebf56506b0720d9"
+  "contentHash": "713e897914ebecb3"
 }
