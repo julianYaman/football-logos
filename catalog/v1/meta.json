@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:08:59.568Z",
+  "generatedAt": "2026-11-14T13:10:28.839Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -450,7 +450,7 @@
       "iso2": "ENG",
       "name": "England",
       "defaultLeague": "english-premier-league",
-      "clubCount": 347
+      "clubCount": 348
     },
     {
       "slug": "equatorial-guinea",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 363
+      "clubCount": 366
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 92
+      "clubCount": 93
     },
     {
       "slug": "greenland",
@@ -989,7 +989,7 @@
       "iso2": "NL",
       "name": "Netherlands",
       "defaultLeague": "eredivisie",
-      "clubCount": 96
+      "clubCount": 97
     },
     {
       "slug": "new-caledonia",
@@ -1059,7 +1059,7 @@
       "iso2": "NO",
       "name": "Norway",
       "defaultLeague": "eliteserien",
-      "clubCount": 43
+      "clubCount": 44
     },
     {
       "slug": "oman",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "713e897914ebecb3"
+  "contentHash": "9604fd03f0d847aa"
 }

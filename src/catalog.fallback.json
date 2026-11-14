@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:08:59.568Z",
+  "generatedAt": "2026-11-14T13:10:28.839Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -9192,6 +9192,12 @@
           "league": "english-premier-league",
           "name": "Wimbledon FC",
           "hash": "eb3317b8"
+        },
+        "stafford-rangers": {
+          "slug": "stafford-rangers",
+          "league": "english-premier-league",
+          "name": "Stafford Rangers",
+          "hash": "189473d0"
         }
       }
     },
@@ -14147,6 +14153,24 @@
           "league": "bundesliga",
           "name": "KSV Vatan Sport Bremen",
           "hash": "8645e774"
+        },
+        "eichholzer-sv": {
+          "slug": "eichholzer-sv",
+          "league": "bundesliga",
+          "name": "Eichholzer SV",
+          "hash": "21ffab64"
+        },
+        "sc-koln-mulheim-nord": {
+          "slug": "sc-koln-mulheim-nord",
+          "league": "bundesliga",
+          "name": "SC Köln-Mülheim Nord",
+          "hash": "0c3b6a02"
+        },
+        "tv-nellingen": {
+          "slug": "tv-nellingen",
+          "league": "bundesliga",
+          "name": "TV Nellingen",
+          "hash": "b0d05ccc"
         }
       }
     },
@@ -14942,6 +14966,12 @@
           "league": "super-league-1",
           "name": "Aias Gastounis",
           "hash": "bd043dc9"
+        },
+        "ae-moschato": {
+          "slug": "ae-moschato",
+          "league": "super-league-1",
+          "name": "AE Moschato",
+          "hash": "5a31af40"
         }
       }
     },
@@ -21427,6 +21457,12 @@
           "league": "eredivisie",
           "name": "CVV Vriendenschaar",
           "hash": "163e8c5f"
+        },
+        "sv-baarn": {
+          "slug": "sv-baarn",
+          "league": "eredivisie",
+          "name": "SV Baarn",
+          "hash": "8357d13d"
         }
       }
     },
@@ -22236,6 +22272,12 @@
           "league": "eliteserien",
           "name": "Hønefoss BK",
           "hash": "32b660ec"
+        },
+        "tromsdalen-uil": {
+          "slug": "tromsdalen-uil",
+          "league": "eliteserien",
+          "name": "Tromsdalen UIL",
+          "hash": "50e21997"
         }
       }
     },
@@ -32128,10 +32170,15 @@
           "slug": "uefa-euro-1996",
           "name": "UEFA Euro 1996",
           "hash": "85c37c5b"
+        },
+        "conmebol-recopa": {
+          "slug": "conmebol-recopa",
+          "name": "Recopa Sudamericana",
+          "hash": "26e176f0"
         }
       },
       "clubs": {}
     }
   },
-  "contentHash": "713e897914ebecb3"
+  "contentHash": "9604fd03f0d847aa"
 }

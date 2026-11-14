@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:31:15.354Z",
+  "generatedAt": "2026-11-14T13:10:28.839Z",
   "country": {
     "slug": "england",
     "iso2": "ENG",
@@ -2177,6 +2177,12 @@
         "league": "english-premier-league",
         "name": "Wimbledon FC",
         "hash": "eb3317b8"
+      },
+      "stafford-rangers": {
+        "slug": "stafford-rangers",
+        "league": "english-premier-league",
+        "name": "Stafford Rangers",
+        "hash": "189473d0"
       }
     }
   }

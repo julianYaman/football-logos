@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T13:01:30.846Z",
+  "generatedAt": "2026-11-14T13:10:28.839Z",
   "country": {
     "slug": "tournaments",
     "iso2": "INT",
@@ -404,6 +404,11 @@
         "slug": "uefa-euro-1996",
         "name": "UEFA Euro 1996",
         "hash": "85c37c5b"
+      },
+      "conmebol-recopa": {
+        "slug": "conmebol-recopa",
+        "name": "Recopa Sudamericana",
+        "hash": "26e176f0"
       }
     },
     "clubs": {}

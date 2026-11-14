@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:08:59.568Z",
+  "generatedAt": "2026-11-14T13:10:28.839Z",
   "country": {
     "slug": "netherlands",
     "iso2": "NL",
@@ -610,6 +610,12 @@
         "league": "eredivisie",
         "name": "CVV Vriendenschaar",
         "hash": "163e8c5f"
+      },
+      "sv-baarn": {
+        "slug": "sv-baarn",
+        "league": "eredivisie",
+        "name": "SV Baarn",
+        "hash": "8357d13d"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:08:59.568Z",
+  "generatedAt": "2026-11-14T13:10:28.839Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -576,6 +576,12 @@
         "league": "super-league-1",
         "name": "Aias Gastounis",
         "hash": "bd043dc9"
+      },
+      "ae-moschato": {
+        "slug": "ae-moschato",
+        "league": "super-league-1",
+        "name": "AE Moschato",
+        "hash": "5a31af40"
       }
     }
   }
