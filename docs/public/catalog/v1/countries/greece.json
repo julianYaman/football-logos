@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T13:10:28.839Z",
+  "generatedAt": "2026-11-15T13:39:10.772Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -582,6 +582,18 @@
         "league": "super-league-1",
         "name": "AE Moschato",
         "hash": "5a31af40"
+      },
+      "opountios-martinou": {
+        "slug": "opountios-martinou",
+        "league": "super-league-1",
+        "name": "Opountios Martinou",
+        "hash": "6cf8ed44"
+      },
+      "pangytheatikos": {
+        "slug": "pangytheatikos",
+        "league": "super-league-1",
+        "name": "Pangytheatikos",
+        "hash": "d42815b4"
       }
     }
   }

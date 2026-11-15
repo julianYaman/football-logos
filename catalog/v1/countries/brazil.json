@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T13:46:16.002Z",
+  "generatedAt": "2026-11-15T13:39:10.772Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1600,6 +1600,66 @@
         "league": "brazilian-serie-a",
         "name": "Tuntum",
         "hash": "32067622"
+      },
+      "ca-cambe": {
+        "slug": "ca-cambe",
+        "league": "brazilian-serie-a",
+        "name": "CA Cambé",
+        "hash": "4a9a795b"
+      },
+      "cameta": {
+        "slug": "cameta",
+        "league": "brazilian-serie-a",
+        "name": "Cametá SC",
+        "hash": "2caef3d0"
+      },
+      "castanhal": {
+        "slug": "castanhal",
+        "league": "brazilian-serie-a",
+        "name": "Castanhal EC",
+        "hash": "3a52827f"
+      },
+      "gremio-maringa": {
+        "slug": "gremio-maringa",
+        "league": "brazilian-serie-a",
+        "name": "Grêmio Maringá",
+        "hash": "474c7179"
+      },
+      "iraty": {
+        "slug": "iraty",
+        "league": "brazilian-serie-a",
+        "name": "Iraty",
+        "hash": "7c9a0718"
+      },
+      "j-malucelli": {
+        "slug": "j-malucelli",
+        "league": "brazilian-serie-a",
+        "name": "J. Malucelli",
+        "hash": "d5b287ac"
+      },
+      "nacional-de-patos": {
+        "slug": "nacional-de-patos",
+        "league": "brazilian-serie-a",
+        "name": "Nacional de Patos",
+        "hash": "9d2e553f"
+      },
+      "nacional-pr": {
+        "slug": "nacional-pr",
+        "league": "brazilian-serie-a",
+        "name": "Nacional-PR",
+        "hash": "1f59e1dd"
+      },
+      "oeste-brasil-fc": {
+        "slug": "oeste-brasil-fc",
+        "league": "brazilian-serie-a",
+        "name": "Oeste Brasil FC",
+        "hash": "58fb0e43"
+      },
+      "pstc": {
+        "slug": "pstc",
+        "league": "brazilian-serie-a",
+        "name": "PSTC",
+        "hash": "c723b462"
       }
     }
   }

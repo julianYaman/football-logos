@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T13:10:28.839Z",
+  "generatedAt": "2026-11-15T13:39:10.772Z",
   "country": {
     "slug": "netherlands",
     "iso2": "NL",
@@ -616,6 +616,12 @@
         "league": "eredivisie",
         "name": "SV Baarn",
         "hash": "8357d13d"
+      },
+      "awc-wijchen": {
+        "slug": "awc-wijchen",
+        "league": "eredivisie",
+        "name": "AWC Wijchen",
+        "hash": "e82f1bde"
       }
     }
   }

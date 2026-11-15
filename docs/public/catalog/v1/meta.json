@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T13:10:28.839Z",
+  "generatedAt": "2026-11-15T13:39:10.772Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -142,7 +142,7 @@
       "iso2": "BE",
       "name": "Belgium",
       "defaultLeague": "jupiler-pro-league",
-      "clubCount": 54
+      "clubCount": 55
     },
     {
       "slug": "belize",
@@ -205,7 +205,7 @@
       "iso2": "BR",
       "name": "Brazil",
       "defaultLeague": "brazilian-serie-a",
-      "clubCount": 261
+      "clubCount": 271
     },
     {
       "slug": "british-virgin-islands",
@@ -513,7 +513,7 @@
       "iso2": "FR",
       "name": "France",
       "defaultLeague": "ligue-1",
-      "clubCount": 331
+      "clubCount": 336
     },
     {
       "slug": "french-guiana",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 366
+      "clubCount": 367
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 93
+      "clubCount": 95
     },
     {
       "slug": "greenland",
@@ -674,7 +674,7 @@
       "iso2": "ID",
       "name": "Indonesia",
       "defaultLeague": "indonesian-super-league",
-      "clubCount": 53
+      "clubCount": 54
     },
     {
       "slug": "iran",
@@ -702,7 +702,7 @@
       "iso2": "IT",
       "name": "Italy",
       "defaultLeague": "serie-a",
-      "clubCount": 281
+      "clubCount": 283
     },
     {
       "slug": "jamaica",
@@ -814,7 +814,7 @@
       "iso2": "LY",
       "name": "Libya",
       "defaultLeague": "libya-national-team",
-      "clubCount": 0
+      "clubCount": 1
     },
     {
       "slug": "liechtenstein",
@@ -989,7 +989,7 @@
       "iso2": "NL",
       "name": "Netherlands",
       "defaultLeague": "eredivisie",
-      "clubCount": 97
+      "clubCount": 98
     },
     {
       "slug": "new-caledonia",
@@ -1465,7 +1465,7 @@
       "iso2": "TN",
       "name": "Tunisia",
       "defaultLeague": "ligue-1",
-      "clubCount": 19
+      "clubCount": 20
     },
     {
       "slug": "turkey",
@@ -1608,5 +1608,5 @@
       "clubCount": 0
     }
   ],
-  "contentHash": "9604fd03f0d847aa"
+  "contentHash": "a17c0fbc75285d5f"
 }

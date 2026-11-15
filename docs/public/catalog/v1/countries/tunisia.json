@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-11-15T13:39:10.772Z",
   "country": {
     "slug": "tunisia",
     "iso2": "TN",
@@ -133,6 +133,12 @@
         "name": "AS Soliman",
         "hash": "b6b937db",
         "league": ""
+      },
+      "us-tataouine": {
+        "slug": "us-tataouine",
+        "league": "ligue-1",
+        "name": "US Tataouine",
+        "hash": "22ad1522"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T13:10:28.839Z",
+  "generatedAt": "2026-11-15T13:39:10.772Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -2614,6 +2614,12 @@
           "league": "jupiler-pro-league",
           "name": "KSV Bornem",
           "hash": "eaeacd45"
+        },
+        "kfc-sporting-sint-gillis-waas": {
+          "slug": "kfc-sporting-sint-gillis-waas",
+          "league": "jupiler-pro-league",
+          "name": "KFC Sporting Sint-Gillis-Waas",
+          "hash": "72bfaa94"
         }
       }
     },
@@ -4564,6 +4570,66 @@
           "league": "brazilian-serie-a",
           "name": "Tuntum",
           "hash": "32067622"
+        },
+        "ca-cambe": {
+          "slug": "ca-cambe",
+          "league": "brazilian-serie-a",
+          "name": "CA Cambé",
+          "hash": "4a9a795b"
+        },
+        "cameta": {
+          "slug": "cameta",
+          "league": "brazilian-serie-a",
+          "name": "Cametá SC",
+          "hash": "2caef3d0"
+        },
+        "castanhal": {
+          "slug": "castanhal",
+          "league": "brazilian-serie-a",
+          "name": "Castanhal EC",
+          "hash": "3a52827f"
+        },
+        "gremio-maringa": {
+          "slug": "gremio-maringa",
+          "league": "brazilian-serie-a",
+          "name": "Grêmio Maringá",
+          "hash": "474c7179"
+        },
+        "iraty": {
+          "slug": "iraty",
+          "league": "brazilian-serie-a",
+          "name": "Iraty",
+          "hash": "7c9a0718"
+        },
+        "j-malucelli": {
+          "slug": "j-malucelli",
+          "league": "brazilian-serie-a",
+          "name": "J. Malucelli",
+          "hash": "d5b287ac"
+        },
+        "nacional-de-patos": {
+          "slug": "nacional-de-patos",
+          "league": "brazilian-serie-a",
+          "name": "Nacional de Patos",
+          "hash": "9d2e553f"
+        },
+        "nacional-pr": {
+          "slug": "nacional-pr",
+          "league": "brazilian-serie-a",
+          "name": "Nacional-PR",
+          "hash": "1f59e1dd"
+        },
+        "oeste-brasil-fc": {
+          "slug": "oeste-brasil-fc",
+          "league": "brazilian-serie-a",
+          "name": "Oeste Brasil FC",
+          "hash": "58fb0e43"
+        },
+        "pstc": {
+          "slug": "pstc",
+          "league": "brazilian-serie-a",
+          "name": "PSTC",
+          "hash": "c723b462"
         }
       }
     },
@@ -11705,6 +11771,36 @@
           "league": "ligue-1",
           "name": "US Alençon",
           "hash": "35c49a78"
+        },
+        "cso-amneville": {
+          "slug": "cso-amneville",
+          "league": "ligue-1",
+          "name": "CSO Amnéville",
+          "hash": "26d074ab"
+        },
+        "fa-carcassonne": {
+          "slug": "fa-carcassonne",
+          "league": "ligue-1",
+          "name": "FA Carcassonne",
+          "hash": "8e2b9673"
+        },
+        "fc-montceau-bourgogne": {
+          "slug": "fc-montceau-bourgogne",
+          "league": "ligue-1",
+          "name": "FC Montceau Bourgogne",
+          "hash": "6ccf81b6"
+        },
+        "roannais-foot-42": {
+          "slug": "roannais-foot-42",
+          "league": "ligue-1",
+          "name": "Roannais Foot 42",
+          "hash": "22f09e1f"
+        },
+        "ums-montelimar": {
+          "slug": "ums-montelimar",
+          "league": "ligue-1",
+          "name": "UMS Montélimar",
+          "hash": "f14f0ab2"
         }
       }
     },
@@ -14171,6 +14267,12 @@
           "league": "bundesliga",
           "name": "TV Nellingen",
           "hash": "b0d05ccc"
+        },
+        "vfb-kirchhellen": {
+          "slug": "vfb-kirchhellen",
+          "league": "bundesliga",
+          "name": "VfB Kirchhellen",
+          "hash": "64a1e8a4"
         }
       }
     },
@@ -14972,6 +15074,18 @@
           "league": "super-league-1",
           "name": "AE Moschato",
           "hash": "5a31af40"
+        },
+        "opountios-martinou": {
+          "slug": "opountios-martinou",
+          "league": "super-league-1",
+          "name": "Opountios Martinou",
+          "hash": "6cf8ed44"
+        },
+        "pangytheatikos": {
+          "slug": "pangytheatikos",
+          "league": "super-league-1",
+          "name": "Pangytheatikos",
+          "hash": "d42815b4"
         }
       }
     },
@@ -16248,6 +16362,12 @@
           "name": "Java United FC",
           "hash": "1dd211a4",
           "league": ""
+        },
+        "mitra-kukar": {
+          "slug": "mitra-kukar",
+          "league": "indonesian-super-league",
+          "name": "Mitra Kukar",
+          "hash": "74c173e3"
         }
       }
     },
@@ -18422,6 +18542,18 @@
           "league": "serie-a",
           "name": "Molfetta Calcio",
           "hash": "a10fddde"
+        },
+        "ilvamaddalena": {
+          "slug": "ilvamaddalena",
+          "league": "serie-a",
+          "name": "Ilvamaddalena",
+          "hash": "2b534941"
+        },
+        "san-vito-positano": {
+          "slug": "san-vito-positano",
+          "league": "serie-a",
+          "name": "San Vito Positano",
+          "hash": "1680e96e"
         }
       }
     },
@@ -19409,7 +19541,14 @@
           "code": "LY"
         }
       },
-      "clubs": {}
+      "clubs": {
+        "al-ahli-tripoli": {
+          "slug": "al-ahli-tripoli",
+          "league": "libya-national-team",
+          "name": "Al-Ahli Tripoli",
+          "hash": "b16f3207"
+        }
+      }
     },
     "liechtenstein": {
       "slug": "liechtenstein",
@@ -21463,6 +21602,12 @@
           "league": "eredivisie",
           "name": "SV Baarn",
           "hash": "8357d13d"
+        },
+        "awc-wijchen": {
+          "slug": "awc-wijchen",
+          "league": "eredivisie",
+          "name": "AWC Wijchen",
+          "hash": "e82f1bde"
         }
       }
     },
@@ -29000,6 +29145,12 @@
           "name": "AS Soliman",
           "hash": "b6b937db",
           "league": ""
+        },
+        "us-tataouine": {
+          "slug": "us-tataouine",
+          "league": "ligue-1",
+          "name": "US Tataouine",
+          "hash": "22ad1522"
         }
       }
     },
@@ -32180,5 +32331,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "9604fd03f0d847aa"
+  "contentHash": "a17c0fbc75285d5f"
 }
