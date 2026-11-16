@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T10:35:42.942Z",
+  "generatedAt": "2026-11-16T15:09:50.342Z",
   "country": {
     "slug": "russia",
     "iso2": "RU",
@@ -299,6 +299,12 @@
         "league": "russian-premier-league",
         "name": "FC Elista",
         "hash": "8a75706a"
+      },
+      "fc-tyumen": {
+        "slug": "fc-tyumen",
+        "league": "russian-premier-league",
+        "name": "FC Tyumen",
+        "hash": "d82ddeba"
       }
     }
   }

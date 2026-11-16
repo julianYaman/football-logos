@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:39:10.772Z",
+  "generatedAt": "2026-11-16T15:09:50.342Z",
   "country": {
     "slug": "netherlands",
     "iso2": "NL",
@@ -622,6 +622,12 @@
         "league": "eredivisie",
         "name": "AWC Wijchen",
         "hash": "e82f1bde"
+      },
+      "usv-elinkwijk": {
+        "slug": "usv-elinkwijk",
+        "league": "eredivisie",
+        "name": "USV Elinkwijk",
+        "hash": "36528cb9"
       }
     }
   }

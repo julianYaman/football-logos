@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:39:10.772Z",
+  "generatedAt": "2026-11-16T15:09:50.342Z",
   "country": {
     "slug": "libya",
     "iso2": "LY",
@@ -20,6 +20,24 @@
         "league": "libya-national-team",
         "name": "Al-Ahli Tripoli",
         "hash": "b16f3207"
+      },
+      "al-akhdar": {
+        "slug": "al-akhdar",
+        "league": "libya-national-team",
+        "name": "Al-Akhdar SC",
+        "hash": "7720b650"
+      },
+      "al-ittihad-tripoli": {
+        "slug": "al-ittihad-tripoli",
+        "league": "libya-national-team",
+        "name": "Al-Ittihad Tripoli",
+        "hash": "11600d36"
+      },
+      "al-nasr-benghazi": {
+        "slug": "al-nasr-benghazi",
+        "league": "libya-national-team",
+        "name": "Al-Nasr Benghazi",
+        "hash": "d9d50e9a"
       }
     }
   }

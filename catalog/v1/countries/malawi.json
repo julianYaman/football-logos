@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-11-16T15:09:50.342Z",
   "country": {
     "slug": "malawi",
     "iso2": "MW",
@@ -14,6 +14,13 @@
         "code": "MW"
       }
     },
-    "clubs": {}
+    "clubs": {
+      "mighty-wanderers-fc": {
+        "slug": "mighty-wanderers-fc",
+        "league": "malawi-national-team",
+        "name": "Mighty Wanderers FC",
+        "hash": "7cd53e0a"
+      }
+    }
   }
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-11-16T15:09:50.342Z",
   "country": {
     "slug": "cote-d-ivoire",
     "iso2": "CI",
@@ -14,6 +14,13 @@
         "code": "CI"
       }
     },
-    "clubs": {}
+    "clubs": {
+      "asec-mimosas": {
+        "slug": "asec-mimosas",
+        "league": "cote-d-ivoire-national-team",
+        "name": "ASEC Mimosas",
+        "hash": "3e486fca"
+      }
+    }
   }
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:39:10.772Z",
+  "generatedAt": "2026-11-16T15:09:50.342Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -2969,7 +2969,14 @@
           "code": "BW"
         }
       },
-      "clubs": {}
+      "clubs": {
+        "township-rollers-fc": {
+          "slug": "township-rollers-fc",
+          "league": "botswana-national-team",
+          "name": "Township Rollers FC",
+          "hash": "d9080996"
+        }
+      }
     },
     "brazil": {
       "slug": "brazil",
@@ -5832,7 +5839,14 @@
           "code": "CI"
         }
       },
-      "clubs": {}
+      "clubs": {
+        "asec-mimosas": {
+          "slug": "asec-mimosas",
+          "league": "cote-d-ivoire-national-team",
+          "name": "ASEC Mimosas",
+          "hash": "3e486fca"
+        }
+      }
     },
     "croatia": {
       "slug": "croatia",
@@ -14273,6 +14287,18 @@
           "league": "bundesliga",
           "name": "VfB Kirchhellen",
           "hash": "64a1e8a4"
+        },
+        "heidelberger-sc": {
+          "slug": "heidelberger-sc",
+          "league": "bundesliga",
+          "name": "Heidelberger SC",
+          "hash": "252ea5c3"
+        },
+        "vfl-meiningen-04": {
+          "slug": "vfl-meiningen-04",
+          "league": "bundesliga",
+          "name": "VfL Meiningen 04",
+          "hash": "d0de4d57"
         }
       }
     },
@@ -15086,6 +15112,12 @@
           "league": "super-league-1",
           "name": "Pangytheatikos",
           "hash": "d42815b4"
+        },
+        "ao-nea-artaki": {
+          "slug": "ao-nea-artaki",
+          "league": "super-league-1",
+          "name": "AO Nea Artaki",
+          "hash": "b2bb4153"
         }
       }
     },
@@ -15255,7 +15287,14 @@
           "code": "GN"
         }
       },
-      "clubs": {}
+      "clubs": {
+        "horoya-ac": {
+          "slug": "horoya-ac",
+          "league": "guinea-national-team",
+          "name": "Horoya AC",
+          "hash": "81e879b2"
+        }
+      }
     },
     "guinea-bissau": {
       "slug": "guinea-bissau",
@@ -19182,6 +19221,12 @@
           "name": "Gor Mahia FC",
           "hash": "54812f3b",
           "league": ""
+        },
+        "afc-leopards": {
+          "slug": "afc-leopards",
+          "league": "kenya-national-team",
+          "name": "AFC Leopards",
+          "hash": "c3ec6f18"
         }
       }
     },
@@ -19547,6 +19592,24 @@
           "league": "libya-national-team",
           "name": "Al-Ahli Tripoli",
           "hash": "b16f3207"
+        },
+        "al-akhdar": {
+          "slug": "al-akhdar",
+          "league": "libya-national-team",
+          "name": "Al-Akhdar SC",
+          "hash": "7720b650"
+        },
+        "al-ittihad-tripoli": {
+          "slug": "al-ittihad-tripoli",
+          "league": "libya-national-team",
+          "name": "Al-Ittihad Tripoli",
+          "hash": "11600d36"
+        },
+        "al-nasr-benghazi": {
+          "slug": "al-nasr-benghazi",
+          "league": "libya-national-team",
+          "name": "Al-Nasr Benghazi",
+          "hash": "d9d50e9a"
         }
       }
     },
@@ -19899,7 +19962,14 @@
           "code": "MW"
         }
       },
-      "clubs": {}
+      "clubs": {
+        "mighty-wanderers-fc": {
+          "slug": "mighty-wanderers-fc",
+          "league": "malawi-national-team",
+          "name": "Mighty Wanderers FC",
+          "hash": "7cd53e0a"
+        }
+      }
     },
     "malaysia": {
       "slug": "malaysia",
@@ -21608,6 +21678,12 @@
           "league": "eredivisie",
           "name": "AWC Wijchen",
           "hash": "e82f1bde"
+        },
+        "usv-elinkwijk": {
+          "slug": "usv-elinkwijk",
+          "league": "eredivisie",
+          "name": "USV Elinkwijk",
+          "hash": "36528cb9"
         }
       }
     },
@@ -25052,6 +25128,12 @@
           "league": "russian-premier-league",
           "name": "FC Elista",
           "hash": "8a75706a"
+        },
+        "fc-tyumen": {
+          "slug": "fc-tyumen",
+          "league": "russian-premier-league",
+          "name": "FC Tyumen",
+          "hash": "d82ddeba"
         }
       }
     },
@@ -27942,7 +28024,14 @@
           "code": "SD"
         }
       },
-      "clubs": {}
+      "clubs": {
+        "al-merrikh": {
+          "slug": "al-merrikh",
+          "league": "sudan-national-team",
+          "name": "Al-Merrikh SC",
+          "hash": "73d4f502"
+        }
+      }
     },
     "suriname": {
       "slug": "suriname",
@@ -29774,6 +29863,12 @@
           "league": "super-lig",
           "name": "Tuzlaspor",
           "hash": "8e5b015a"
+        },
+        "karsiyaka-sk": {
+          "slug": "karsiyaka-sk",
+          "league": "super-lig",
+          "name": "Karşıyaka SK",
+          "hash": "b6a5a924"
         }
       }
     },
@@ -31886,7 +31981,14 @@
           "code": "ZM"
         }
       },
-      "clubs": {}
+      "clubs": {
+        "nkana-fc": {
+          "slug": "nkana-fc",
+          "league": "zambia-national-team",
+          "name": "Nkana FC",
+          "hash": "e73233d5"
+        }
+      }
     },
     "zanzibar": {
       "slug": "zanzibar",
@@ -31916,7 +32018,14 @@
           "code": "ZW"
         }
       },
-      "clubs": {}
+      "clubs": {
+        "scottland-fc": {
+          "slug": "scottland-fc",
+          "league": "zimbabwe-national-team",
+          "name": "Scottland FC",
+          "hash": "cfea0775"
+        }
+      }
     },
     "tournaments": {
       "slug": "tournaments",
@@ -32331,5 +32440,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "a17c0fbc75285d5f"
+  "contentHash": "90b8087129ab5995"
 }

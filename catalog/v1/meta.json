@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:39:10.772Z",
+  "generatedAt": "2026-11-16T15:09:50.342Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -198,7 +198,7 @@
       "iso2": "BW",
       "name": "Botswana",
       "defaultLeague": "botswana-national-team",
-      "clubCount": 0
+      "clubCount": 1
     },
     {
       "slug": "brazil",
@@ -359,7 +359,7 @@
       "iso2": "CI",
       "name": "Côte d'Ivoire",
       "defaultLeague": "cote-d-ivoire-national-team",
-      "clubCount": 0
+      "clubCount": 1
     },
     {
       "slug": "croatia",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 367
+      "clubCount": 369
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 95
+      "clubCount": 96
     },
     {
       "slug": "greenland",
@@ -611,7 +611,7 @@
       "iso2": "GN",
       "name": "Guinea",
       "defaultLeague": "guinea-national-team",
-      "clubCount": 0
+      "clubCount": 1
     },
     {
       "slug": "guinea-bissau",
@@ -737,7 +737,7 @@
       "iso2": "KE",
       "name": "Kenya",
       "defaultLeague": "kenya-national-team",
-      "clubCount": 1
+      "clubCount": 2
     },
     {
       "slug": "kiribati",
@@ -814,7 +814,7 @@
       "iso2": "LY",
       "name": "Libya",
       "defaultLeague": "libya-national-team",
-      "clubCount": 1
+      "clubCount": 4
     },
     {
       "slug": "liechtenstein",
@@ -856,7 +856,7 @@
       "iso2": "MW",
       "name": "Malawi",
       "defaultLeague": "malawi-national-team",
-      "clubCount": 0
+      "clubCount": 1
     },
     {
       "slug": "malaysia",
@@ -989,7 +989,7 @@
       "iso2": "NL",
       "name": "Netherlands",
       "defaultLeague": "eredivisie",
-      "clubCount": 98
+      "clubCount": 99
     },
     {
       "slug": "new-caledonia",
@@ -1178,7 +1178,7 @@
       "iso2": "RU",
       "name": "Russia",
       "defaultLeague": "russian-premier-league",
-      "clubCount": 45
+      "clubCount": 46
     },
     {
       "slug": "rwanda",
@@ -1360,7 +1360,7 @@
       "iso2": "SD",
       "name": "Sudan",
       "defaultLeague": "sudan-national-team",
-      "clubCount": 0
+      "clubCount": 1
     },
     {
       "slug": "suriname",
@@ -1472,7 +1472,7 @@
       "iso2": "TR",
       "name": "Turkey",
       "defaultLeague": "super-lig",
-      "clubCount": 97
+      "clubCount": 98
     },
     {
       "slug": "turkmenistan",
@@ -1591,7 +1591,7 @@
       "iso2": "ZM",
       "name": "Zambia",
       "defaultLeague": "zambia-national-team",
-      "clubCount": 0
+      "clubCount": 1
     },
     {
       "slug": "zanzibar",
@@ -1605,8 +1605,8 @@
       "iso2": "ZW",
       "name": "Zimbabwe",
       "defaultLeague": "zimbabwe-national-team",
-      "clubCount": 0
+      "clubCount": 1
     }
   ],
-  "contentHash": "a17c0fbc75285d5f"
+  "contentHash": "90b8087129ab5995"
 }
