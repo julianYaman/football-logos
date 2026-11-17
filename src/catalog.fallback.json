@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:09:50.342Z",
+  "generatedAt": "2026-11-17T15:41:16.200Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -2620,6 +2620,12 @@
           "league": "jupiler-pro-league",
           "name": "KFC Sporting Sint-Gillis-Waas",
           "hash": "72bfaa94"
+        },
+        "hoogstraten-vv": {
+          "slug": "hoogstraten-vv",
+          "league": "jupiler-pro-league",
+          "name": "Hoogstraten VV",
+          "hash": "5e2ffe3f"
         }
       }
     },
@@ -11815,6 +11821,72 @@
           "league": "ligue-1",
           "name": "UMS Montélimar",
           "hash": "f14f0ab2"
+        },
+        "ac-boulogne-billancourt": {
+          "slug": "ac-boulogne-billancourt",
+          "league": "ligue-1",
+          "name": "AC Boulogne-Billancourt",
+          "hash": "1e83c282"
+        },
+        "ain-sud": {
+          "slug": "ain-sud",
+          "league": "ligue-1",
+          "name": "Ain Sud",
+          "hash": "4d0f1f7d"
+        },
+        "ca-vitry": {
+          "slug": "ca-vitry",
+          "league": "ligue-1",
+          "name": "CA Vitry",
+          "hash": "d5dc8f3e"
+        },
+        "fc-lyon": {
+          "slug": "fc-lyon",
+          "league": "ligue-1",
+          "name": "FC Lyon",
+          "hash": "b0880c6f"
+        },
+        "fc-pont-l-abbe": {
+          "slug": "fc-pont-l-abbe",
+          "league": "ligue-1",
+          "name": "FC Pont-l'Abbé",
+          "hash": "4cd831cb"
+        },
+        "fc-saint-louis-neuweg": {
+          "slug": "fc-saint-louis-neuweg",
+          "league": "ligue-1",
+          "name": "FC Saint-Louis Neuweg",
+          "hash": "869e01ea"
+        },
+        "jeunesse-villenavaise": {
+          "slug": "jeunesse-villenavaise",
+          "league": "ligue-1",
+          "name": "Jeunesse Villenavaise",
+          "hash": "d77e62c6"
+        },
+        "lucon-fc": {
+          "slug": "lucon-fc",
+          "league": "ligue-1",
+          "name": "Luçon FC",
+          "hash": "ed0870a9"
+        },
+        "olympique-grande-synthe": {
+          "slug": "olympique-grande-synthe",
+          "league": "ligue-1",
+          "name": "Olympique Grande-Synthe",
+          "hash": "cac2f918"
+        },
+        "rc-ancenis-saint-gereon": {
+          "slug": "rc-ancenis-saint-gereon",
+          "league": "ligue-1",
+          "name": "RC Ancenis-Saint-Géréon",
+          "hash": "34ba9490"
+        },
+        "us-senart-moissy": {
+          "slug": "us-senart-moissy",
+          "league": "ligue-1",
+          "name": "US Sénart-Moissy",
+          "hash": "2d60a9ee"
         }
       }
     },
@@ -14299,6 +14371,18 @@
           "league": "bundesliga",
           "name": "VfL Meiningen 04",
           "hash": "d0de4d57"
+        },
+        "fc-giessen": {
+          "slug": "fc-giessen",
+          "league": "bundesliga",
+          "name": "FC Gießen",
+          "hash": "6124267c"
+        },
+        "fv-groditz-1911": {
+          "slug": "fv-groditz-1911",
+          "league": "bundesliga",
+          "name": "FV Gröditz 1911",
+          "hash": "58011f1b"
         }
       }
     },
@@ -15118,6 +15202,12 @@
           "league": "super-league-1",
           "name": "AO Nea Artaki",
           "hash": "b2bb4153"
+        },
+        "amvrysseas-distomo": {
+          "slug": "amvrysseas-distomo",
+          "league": "super-league-1",
+          "name": "Amvrysseas Distomo",
+          "hash": "c72731a5"
         }
       }
     },
@@ -18593,6 +18683,30 @@
           "league": "serie-a",
           "name": "San Vito Positano",
           "hash": "1680e96e"
+        },
+        "bitonto": {
+          "slug": "bitonto",
+          "league": "serie-a",
+          "name": "US Bitonto",
+          "hash": "49bb604d"
+        },
+        "squinzano": {
+          "slug": "squinzano",
+          "league": "serie-a",
+          "name": "Squinzano Calcio",
+          "hash": "999f1f50"
+        },
+        "taurisano": {
+          "slug": "taurisano",
+          "league": "serie-a",
+          "name": "Taurisano 1939",
+          "hash": "48b2e3da"
+        },
+        "turris": {
+          "slug": "turris",
+          "league": "serie-a",
+          "name": "Turris",
+          "hash": "42bad5e9"
         }
       }
     },
@@ -21684,6 +21798,12 @@
           "league": "eredivisie",
           "name": "USV Elinkwijk",
           "hash": "36528cb9"
+        },
+        "vv-eemdijk": {
+          "slug": "vv-eemdijk",
+          "league": "eredivisie",
+          "name": "VV Eemdijk",
+          "hash": "fa4b0c9b"
         }
       }
     },
@@ -24213,6 +24333,12 @@
           "league": "primeira-liga",
           "name": "Real Clube Nogueirense",
           "hash": "37e177e0"
+        },
+        "supertaca-candido-de-oliveira": {
+          "slug": "supertaca-candido-de-oliveira",
+          "league": "primeira-liga",
+          "name": "Supertaça Cândido de Oliveira",
+          "hash": "f93b3d75"
         }
       }
     },
@@ -24856,6 +24982,11 @@
           "slug": "soviet-union-national-team",
           "name": "Soviet Union National Team",
           "hash": "745a8272"
+        },
+        "russian-cup": {
+          "slug": "russian-cup",
+          "name": "Russian Cup",
+          "hash": "eaa901ca"
         }
       },
       "clubs": {
@@ -28498,6 +28629,12 @@
           "league": "allsvenskan",
           "name": "Enskede IK",
           "hash": "c619fa3f"
+        },
+        "gamla-upsala-sk": {
+          "slug": "gamla-upsala-sk",
+          "league": "allsvenskan",
+          "name": "Gamla Upsala SK",
+          "hash": "03d61e93"
         }
       }
     },
@@ -28689,7 +28826,14 @@
           "code": "SY"
         }
       },
-      "clubs": {}
+      "clubs": {
+        "al-ittihad-ahli-of-aleppo": {
+          "slug": "al-ittihad-ahli-of-aleppo",
+          "league": "syria-national-team",
+          "name": "Al-Ittihad Ahli of Aleppo SC",
+          "hash": "1b23b912"
+        }
+      }
     },
     "tahiti": {
       "slug": "tahiti",
@@ -29869,6 +30013,12 @@
           "league": "super-lig",
           "name": "Karşıyaka SK",
           "hash": "b6a5a924"
+        },
+        "orduspor": {
+          "slug": "orduspor",
+          "league": "super-lig",
+          "name": "Orduspor",
+          "hash": "2000c833"
         }
       }
     },
@@ -32440,5 +32590,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "90b8087129ab5995"
+  "contentHash": "817400051a007c66"
 }

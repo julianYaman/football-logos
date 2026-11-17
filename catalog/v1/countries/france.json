@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:39:10.772Z",
+  "generatedAt": "2026-11-17T15:41:16.200Z",
   "country": {
     "slug": "france",
     "iso2": "FR",
@@ -2060,6 +2060,72 @@
         "league": "ligue-1",
         "name": "UMS Montélimar",
         "hash": "f14f0ab2"
+      },
+      "ac-boulogne-billancourt": {
+        "slug": "ac-boulogne-billancourt",
+        "league": "ligue-1",
+        "name": "AC Boulogne-Billancourt",
+        "hash": "1e83c282"
+      },
+      "ain-sud": {
+        "slug": "ain-sud",
+        "league": "ligue-1",
+        "name": "Ain Sud",
+        "hash": "4d0f1f7d"
+      },
+      "ca-vitry": {
+        "slug": "ca-vitry",
+        "league": "ligue-1",
+        "name": "CA Vitry",
+        "hash": "d5dc8f3e"
+      },
+      "fc-lyon": {
+        "slug": "fc-lyon",
+        "league": "ligue-1",
+        "name": "FC Lyon",
+        "hash": "b0880c6f"
+      },
+      "fc-pont-l-abbe": {
+        "slug": "fc-pont-l-abbe",
+        "league": "ligue-1",
+        "name": "FC Pont-l'Abbé",
+        "hash": "4cd831cb"
+      },
+      "fc-saint-louis-neuweg": {
+        "slug": "fc-saint-louis-neuweg",
+        "league": "ligue-1",
+        "name": "FC Saint-Louis Neuweg",
+        "hash": "869e01ea"
+      },
+      "jeunesse-villenavaise": {
+        "slug": "jeunesse-villenavaise",
+        "league": "ligue-1",
+        "name": "Jeunesse Villenavaise",
+        "hash": "d77e62c6"
+      },
+      "lucon-fc": {
+        "slug": "lucon-fc",
+        "league": "ligue-1",
+        "name": "Luçon FC",
+        "hash": "ed0870a9"
+      },
+      "olympique-grande-synthe": {
+        "slug": "olympique-grande-synthe",
+        "league": "ligue-1",
+        "name": "Olympique Grande-Synthe",
+        "hash": "cac2f918"
+      },
+      "rc-ancenis-saint-gereon": {
+        "slug": "rc-ancenis-saint-gereon",
+        "league": "ligue-1",
+        "name": "RC Ancenis-Saint-Géréon",
+        "hash": "34ba9490"
+      },
+      "us-senart-moissy": {
+        "slug": "us-senart-moissy",
+        "league": "ligue-1",
+        "name": "US Sénart-Moissy",
+        "hash": "2d60a9ee"
       }
     }
   }

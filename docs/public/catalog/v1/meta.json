@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:09:50.342Z",
+  "generatedAt": "2026-11-17T15:41:16.200Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -142,7 +142,7 @@
       "iso2": "BE",
       "name": "Belgium",
       "defaultLeague": "jupiler-pro-league",
-      "clubCount": 55
+      "clubCount": 56
     },
     {
       "slug": "belize",
@@ -513,7 +513,7 @@
       "iso2": "FR",
       "name": "France",
       "defaultLeague": "ligue-1",
-      "clubCount": 336
+      "clubCount": 347
     },
     {
       "slug": "french-guiana",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 369
+      "clubCount": 371
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 96
+      "clubCount": 97
     },
     {
       "slug": "greenland",
@@ -702,7 +702,7 @@
       "iso2": "IT",
       "name": "Italy",
       "defaultLeague": "serie-a",
-      "clubCount": 283
+      "clubCount": 287
     },
     {
       "slug": "jamaica",
@@ -989,7 +989,7 @@
       "iso2": "NL",
       "name": "Netherlands",
       "defaultLeague": "eredivisie",
-      "clubCount": 99
+      "clubCount": 100
     },
     {
       "slug": "new-caledonia",
@@ -1136,7 +1136,7 @@
       "iso2": "PT",
       "name": "Portugal",
       "defaultLeague": "primeira-liga",
-      "clubCount": 153
+      "clubCount": 154
     },
     {
       "slug": "puerto-rico",
@@ -1374,7 +1374,7 @@
       "iso2": "SE",
       "name": "Sweden",
       "defaultLeague": "allsvenskan",
-      "clubCount": 66
+      "clubCount": 67
     },
     {
       "slug": "switzerland",
@@ -1388,7 +1388,7 @@
       "iso2": "SY",
       "name": "Syria",
       "defaultLeague": "syria-national-team",
-      "clubCount": 0
+      "clubCount": 1
     },
     {
       "slug": "tahiti",
@@ -1472,7 +1472,7 @@
       "iso2": "TR",
       "name": "Turkey",
       "defaultLeague": "super-lig",
-      "clubCount": 98
+      "clubCount": 99
     },
     {
       "slug": "turkmenistan",
@@ -1608,5 +1608,5 @@
       "clubCount": 1
     }
   ],
-  "contentHash": "90b8087129ab5995"
+  "contentHash": "817400051a007c66"
 }

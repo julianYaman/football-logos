@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:09:50.342Z",
+  "generatedAt": "2026-11-17T15:41:16.200Z",
   "country": {
     "slug": "turkey",
     "iso2": "TR",
@@ -627,6 +627,12 @@
         "league": "super-lig",
         "name": "Karşıyaka SK",
         "hash": "b6a5a924"
+      },
+      "orduspor": {
+        "slug": "orduspor",
+        "league": "super-lig",
+        "name": "Orduspor",
+        "hash": "2000c833"
       }
     }
   }

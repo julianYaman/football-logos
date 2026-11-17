@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:09:50.342Z",
+  "generatedAt": "2026-11-17T15:41:16.200Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -600,6 +600,12 @@
         "league": "super-league-1",
         "name": "AO Nea Artaki",
         "hash": "b2bb4153"
+      },
+      "amvrysseas-distomo": {
+        "slug": "amvrysseas-distomo",
+        "league": "super-league-1",
+        "name": "Amvrysseas Distomo",
+        "hash": "c72731a5"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:09:50.342Z",
+  "generatedAt": "2026-11-17T15:41:16.200Z",
   "country": {
     "slug": "russia",
     "iso2": "RU",
@@ -27,6 +27,11 @@
         "slug": "soviet-union-national-team",
         "name": "Soviet Union National Team",
         "hash": "745a8272"
+      },
+      "russian-cup": {
+        "slug": "russian-cup",
+        "name": "Russian Cup",
+        "hash": "eaa901ca"
       }
     },
     "clubs": {

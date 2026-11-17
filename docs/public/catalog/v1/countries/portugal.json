@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T12:30:38.192Z",
+  "generatedAt": "2026-11-17T15:41:16.200Z",
   "country": {
     "slug": "portugal",
     "iso2": "PT",
@@ -952,6 +952,12 @@
         "league": "primeira-liga",
         "name": "Real Clube Nogueirense",
         "hash": "37e177e0"
+      },
+      "supertaca-candido-de-oliveira": {
+        "slug": "supertaca-candido-de-oliveira",
+        "league": "primeira-liga",
+        "name": "Supertaça Cândido de Oliveira",
+        "hash": "f93b3d75"
       }
     }
   }

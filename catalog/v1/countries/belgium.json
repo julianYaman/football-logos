@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:39:10.772Z",
+  "generatedAt": "2026-11-17T15:41:16.200Z",
   "country": {
     "slug": "belgium",
     "iso2": "BE",
@@ -364,6 +364,12 @@
         "league": "jupiler-pro-league",
         "name": "KFC Sporting Sint-Gillis-Waas",
         "hash": "72bfaa94"
+      },
+      "hoogstraten-vv": {
+        "slug": "hoogstraten-vv",
+        "league": "jupiler-pro-league",
+        "name": "Hoogstraten VV",
+        "hash": "5e2ffe3f"
       }
     }
   }

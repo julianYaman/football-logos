@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:39:10.772Z",
+  "generatedAt": "2026-11-17T15:41:16.200Z",
   "country": {
     "slug": "italy",
     "iso2": "IT",
@@ -1737,6 +1737,30 @@
         "league": "serie-a",
         "name": "San Vito Positano",
         "hash": "1680e96e"
+      },
+      "bitonto": {
+        "slug": "bitonto",
+        "league": "serie-a",
+        "name": "US Bitonto",
+        "hash": "49bb604d"
+      },
+      "squinzano": {
+        "slug": "squinzano",
+        "league": "serie-a",
+        "name": "Squinzano Calcio",
+        "hash": "999f1f50"
+      },
+      "taurisano": {
+        "slug": "taurisano",
+        "league": "serie-a",
+        "name": "Taurisano 1939",
+        "hash": "48b2e3da"
+      },
+      "turris": {
+        "slug": "turris",
+        "league": "serie-a",
+        "name": "Turris",
+        "hash": "42bad5e9"
       }
     }
   }
