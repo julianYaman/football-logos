@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T13:10:28.839Z",
+  "generatedAt": "2026-11-18T15:22:23.154Z",
   "country": {
     "slug": "england",
     "iso2": "ENG",
@@ -93,6 +93,11 @@
         "slug": "fa-community-shield",
         "name": "FA Community Shield",
         "hash": "3436f44c"
+      },
+      "efl-trophy": {
+        "slug": "efl-trophy",
+        "name": "EFL Trophy",
+        "hash": "19687b55"
       }
     },
     "clubs": {

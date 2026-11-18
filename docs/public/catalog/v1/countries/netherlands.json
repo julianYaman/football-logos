@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:41:16.200Z",
+  "generatedAt": "2026-11-18T15:22:23.154Z",
   "country": {
     "slug": "netherlands",
     "iso2": "NL",
@@ -634,6 +634,12 @@
         "league": "eredivisie",
         "name": "VV Eemdijk",
         "hash": "fa4b0c9b"
+      },
+      "rkvv-sint-joost": {
+        "slug": "rkvv-sint-joost",
+        "league": "eredivisie",
+        "name": "RKVV Sint Joost",
+        "hash": "7c33353a"
       }
     }
   }
