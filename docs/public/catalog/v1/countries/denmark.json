@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-11-19T15:25:49.314Z",
   "country": {
     "slug": "denmark",
     "iso2": "DK",
@@ -50,7 +50,7 @@
       "brondby": {
         "slug": "brondby",
         "name": "Brøndby IF",
-        "hash": "840b1eeb",
+        "hash": "11c26327",
         "league": "danish-super-liga"
       },
       "viborg": {

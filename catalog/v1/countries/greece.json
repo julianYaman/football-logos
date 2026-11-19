@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:22:23.154Z",
+  "generatedAt": "2026-11-19T15:25:49.314Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -612,6 +612,12 @@
         "league": "super-league-1",
         "name": "AO Giouchtas",
         "hash": "1550cdf8"
+      },
+      "ao-tilikratis-lefkada": {
+        "slug": "ao-tilikratis-lefkada",
+        "league": "super-league-1",
+        "name": "AO Tilikratis Lefkada",
+        "hash": "959241e5"
       }
     }
   }

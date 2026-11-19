@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T13:46:16.002Z",
+  "generatedAt": "2026-11-19T15:25:49.314Z",
   "country": {
     "slug": "chile",
     "iso2": "CL",
@@ -258,6 +258,12 @@
         "league": "liga-de-primera",
         "name": "Santiago Morning",
         "hash": "1e4cf1c4"
+      },
+      "copa-chile": {
+        "slug": "copa-chile",
+        "league": "liga-de-primera",
+        "name": "Copa Chile",
+        "hash": "ca4eff19"
       }
     }
   }

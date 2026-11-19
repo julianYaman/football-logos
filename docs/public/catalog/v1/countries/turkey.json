@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:22:23.154Z",
+  "generatedAt": "2026-11-19T15:25:49.314Z",
   "country": {
     "slug": "turkey",
     "iso2": "TR",
@@ -645,6 +645,12 @@
         "league": "super-lig",
         "name": "Malatyaspor",
         "hash": "8a740fc4"
+      },
+      "tarsus-idman-yurdu": {
+        "slug": "tarsus-idman-yurdu",
+        "league": "super-lig",
+        "name": "Tarsus İdman Yurdu",
+        "hash": "ebd9d32b"
       }
     }
   }

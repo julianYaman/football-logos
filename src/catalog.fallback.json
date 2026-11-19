@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:22:23.154Z",
+  "generatedAt": "2026-11-19T15:25:49.314Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -5357,6 +5357,12 @@
           "league": "liga-de-primera",
           "name": "Santiago Morning",
           "hash": "1e4cf1c4"
+        },
+        "copa-chile": {
+          "slug": "copa-chile",
+          "league": "liga-de-primera",
+          "name": "Copa Chile",
+          "hash": "ca4eff19"
         }
       }
     },
@@ -6481,7 +6487,7 @@
         "brondby": {
           "slug": "brondby",
           "name": "Brøndby IF",
-          "hash": "840b1eeb",
+          "hash": "11c26327",
           "league": "danish-super-liga"
         },
         "viborg": {
@@ -14418,6 +14424,12 @@
           "league": "bundesliga",
           "name": "SV Eintracht Nordhorn",
           "hash": "2e3822db"
+        },
+        "1-fc-normannia-gmund": {
+          "slug": "1-fc-normannia-gmund",
+          "league": "bundesliga",
+          "name": "1. FC Normannia Gmünd",
+          "hash": "06e18199"
         }
       }
     },
@@ -15249,6 +15261,12 @@
           "league": "super-league-1",
           "name": "AO Giouchtas",
           "hash": "1550cdf8"
+        },
+        "ao-tilikratis-lefkada": {
+          "slug": "ao-tilikratis-lefkada",
+          "league": "super-league-1",
+          "name": "AO Tilikratis Lefkada",
+          "hash": "959241e5"
         }
       }
     },
@@ -16538,6 +16556,12 @@
           "league": "indonesian-super-league",
           "name": "Mitra Kukar",
           "hash": "74c173e3"
+        },
+        "perserang-serang": {
+          "slug": "perserang-serang",
+          "league": "indonesian-super-league",
+          "name": "Perserang Serang",
+          "hash": "db06784f"
         }
       }
     },
@@ -18748,6 +18772,30 @@
           "league": "serie-a",
           "name": "Turris",
           "hash": "42bad5e9"
+        },
+        "ercolanese": {
+          "slug": "ercolanese",
+          "league": "serie-a",
+          "name": "Ercolanese",
+          "hash": "429d62e1"
+        },
+        "matera": {
+          "slug": "matera",
+          "league": "serie-a",
+          "name": "Matera 1933",
+          "hash": "75327fcf"
+        },
+        "portici": {
+          "slug": "portici",
+          "league": "serie-a",
+          "name": "Portici 1906",
+          "hash": "993eb6b2"
+        },
+        "sanseverinese": {
+          "slug": "sanseverinese",
+          "league": "serie-a",
+          "name": "Sanseverinese",
+          "hash": "a05eb200"
         }
       }
     },
@@ -19213,6 +19261,12 @@
           "league": "jordan-national-team",
           "name": "Al-Ramtha",
           "hash": "9adbcc81"
+        },
+        "al-salt": {
+          "slug": "al-salt",
+          "league": "jordan-national-team",
+          "name": "Al-Salt",
+          "hash": "e08bd8fb"
         }
       }
     },
@@ -21851,6 +21905,48 @@
           "league": "eredivisie",
           "name": "RKVV Sint Joost",
           "hash": "7c33353a"
+        },
+        "afc-34": {
+          "slug": "afc-34",
+          "league": "eredivisie",
+          "name": "AFC '34",
+          "hash": "0e4881f6"
+        },
+        "dvva": {
+          "slug": "dvva",
+          "league": "eredivisie",
+          "name": "DVVA",
+          "hash": "43f8bd72"
+        },
+        "fc-aalsmeer": {
+          "slug": "fc-aalsmeer",
+          "league": "eredivisie",
+          "name": "FC Aalsmeer",
+          "hash": "3fa93ff3"
+        },
+        "fc-uitgeest": {
+          "slug": "fc-uitgeest",
+          "league": "eredivisie",
+          "name": "FC Uitgeest",
+          "hash": "5e20e38e"
+        },
+        "hbc-heemstede": {
+          "slug": "hbc-heemstede",
+          "league": "eredivisie",
+          "name": "HBC Heemstede",
+          "hash": "406e7df2"
+        },
+        "rkvv-dem": {
+          "slug": "rkvv-dem",
+          "league": "eredivisie",
+          "name": "RKVV DEM",
+          "hash": "6d7ffc8e"
+        },
+        "sv-hoofddorp": {
+          "slug": "sv-hoofddorp",
+          "league": "eredivisie",
+          "name": "SV Hoofddorp",
+          "hash": "540391c4"
         }
       }
     },
@@ -24504,7 +24600,7 @@
         "al-shahania": {
           "slug": "al-shahania",
           "name": "Al Shahania",
-          "hash": "e806f5e7",
+          "hash": "603bfe0f",
           "league": "qatar-stars-league"
         },
         "al-arabi": {
@@ -30078,6 +30174,12 @@
           "league": "super-lig",
           "name": "Malatyaspor",
           "hash": "8a740fc4"
+        },
+        "tarsus-idman-yurdu": {
+          "slug": "tarsus-idman-yurdu",
+          "league": "super-lig",
+          "name": "Tarsus İdman Yurdu",
+          "hash": "ebd9d32b"
         }
       }
     },
@@ -32649,5 +32751,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "15a848b13993050f"
+  "contentHash": "1cfc92e295ad8768"
 }

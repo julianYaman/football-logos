@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:22:23.154Z",
+  "generatedAt": "2026-11-19T15:25:49.314Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -303,7 +303,7 @@
       "iso2": "CL",
       "name": "Chile",
       "defaultLeague": "liga-de-primera",
-      "clubCount": 39
+      "clubCount": 40
     },
     {
       "slug": "china",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 375
+      "clubCount": 376
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 98
+      "clubCount": 99
     },
     {
       "slug": "greenland",
@@ -674,7 +674,7 @@
       "iso2": "ID",
       "name": "Indonesia",
       "defaultLeague": "indonesian-super-league",
-      "clubCount": 54
+      "clubCount": 55
     },
     {
       "slug": "iran",
@@ -702,7 +702,7 @@
       "iso2": "IT",
       "name": "Italy",
       "defaultLeague": "serie-a",
-      "clubCount": 287
+      "clubCount": 291
     },
     {
       "slug": "jamaica",
@@ -723,7 +723,7 @@
       "iso2": "JO",
       "name": "Jordan",
       "defaultLeague": "jordan-national-team",
-      "clubCount": 4
+      "clubCount": 5
     },
     {
       "slug": "kazakhstan",
@@ -989,7 +989,7 @@
       "iso2": "NL",
       "name": "Netherlands",
       "defaultLeague": "eredivisie",
-      "clubCount": 101
+      "clubCount": 108
     },
     {
       "slug": "new-caledonia",
@@ -1472,7 +1472,7 @@
       "iso2": "TR",
       "name": "Turkey",
       "defaultLeague": "super-lig",
-      "clubCount": 101
+      "clubCount": 102
     },
     {
       "slug": "turkmenistan",
@@ -1608,5 +1608,5 @@
       "clubCount": 1
     }
   ],
-  "contentHash": "15a848b13993050f"
+  "contentHash": "1cfc92e295ad8768"
 }

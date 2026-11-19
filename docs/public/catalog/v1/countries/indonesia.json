@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:39:10.772Z",
+  "generatedAt": "2026-11-19T15:25:49.314Z",
   "country": {
     "slug": "indonesia",
     "iso2": "ID",
@@ -353,6 +353,12 @@
         "league": "indonesian-super-league",
         "name": "Mitra Kukar",
         "hash": "74c173e3"
+      },
+      "perserang-serang": {
+        "slug": "perserang-serang",
+        "league": "indonesian-super-league",
+        "name": "Perserang Serang",
+        "hash": "db06784f"
       }
     }
   }
