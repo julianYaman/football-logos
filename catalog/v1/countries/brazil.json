@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:39:10.772Z",
+  "generatedAt": "2026-11-20T15:02:28.597Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1660,6 +1660,12 @@
         "league": "brazilian-serie-a",
         "name": "PSTC",
         "hash": "c723b462"
+      },
+      "supercopa-rei": {
+        "slug": "supercopa-rei",
+        "league": "brazilian-serie-a",
+        "name": "Supercopa Rei",
+        "hash": "a7a4b6cd"
       }
     }
   }

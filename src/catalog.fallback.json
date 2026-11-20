@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:25:49.314Z",
+  "generatedAt": "2026-11-20T15:02:28.597Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -1597,6 +1597,12 @@
           "league": "a-league",
           "name": "Bulls FC Academy",
           "hash": "874d3e55"
+        },
+        "camden-tigers-fc": {
+          "slug": "camden-tigers-fc",
+          "league": "a-league",
+          "name": "Camden Tigers FC",
+          "hash": "6dca7d71"
         }
       }
     },
@@ -4649,6 +4655,12 @@
           "league": "brazilian-serie-a",
           "name": "PSTC",
           "hash": "c723b462"
+        },
+        "supercopa-rei": {
+          "slug": "supercopa-rei",
+          "league": "brazilian-serie-a",
+          "name": "Supercopa Rei",
+          "hash": "a7a4b6cd"
         }
       }
     },
@@ -5994,9 +6006,99 @@
           "name": "Cuba National Team",
           "hash": "137ca235",
           "code": "CU"
+        },
+        "liga-nacional-de-futbol-de-cuba": {
+          "slug": "liga-nacional-de-futbol-de-cuba",
+          "name": "Liga Nacional de Fútbol de Cuba",
+          "hash": "ec82c21f"
         }
       },
-      "clubs": {}
+      "clubs": {
+        "fc-artemisa": {
+          "slug": "fc-artemisa",
+          "league": "cuba-national-team",
+          "name": "FC Artemisa",
+          "hash": "6ab85846"
+        },
+        "fc-camaguey": {
+          "slug": "fc-camaguey",
+          "league": "cuba-national-team",
+          "name": "FC Camagüey",
+          "hash": "c95cc67d"
+        },
+        "fc-ciego-de-avila": {
+          "slug": "fc-ciego-de-avila",
+          "league": "cuba-national-team",
+          "name": "FC Ciego de Ávila",
+          "hash": "0f90d887"
+        },
+        "fc-cienfuegos": {
+          "slug": "fc-cienfuegos",
+          "league": "cuba-national-team",
+          "name": "FC Cienfuegos",
+          "hash": "1f5b9df9"
+        },
+        "fc-granma": {
+          "slug": "fc-granma",
+          "league": "cuba-national-team",
+          "name": "FC Granma",
+          "hash": "405bc902"
+        },
+        "fc-guantanamo": {
+          "slug": "fc-guantanamo",
+          "league": "cuba-national-team",
+          "name": "FC Guantánamo",
+          "hash": "08e5c990"
+        },
+        "fc-isla-de-la-juventud": {
+          "slug": "fc-isla-de-la-juventud",
+          "league": "cuba-national-team",
+          "name": "FC Isla de la Juventud",
+          "hash": "dcccd5b6"
+        },
+        "fc-la-habana": {
+          "slug": "fc-la-habana",
+          "league": "cuba-national-team",
+          "name": "FC La Habana",
+          "hash": "155ef61b"
+        },
+        "fc-matanzas": {
+          "slug": "fc-matanzas",
+          "league": "cuba-national-team",
+          "name": "FC Matanzas",
+          "hash": "e461098f"
+        },
+        "fc-mayabeque": {
+          "slug": "fc-mayabeque",
+          "league": "cuba-national-team",
+          "name": "FC Mayabeque",
+          "hash": "b46cee0a"
+        },
+        "fc-pinar-del-rio": {
+          "slug": "fc-pinar-del-rio",
+          "league": "cuba-national-team",
+          "name": "FC Pinar del Río",
+          "hash": "7950eb73"
+        },
+        "fc-sancti-spiritus": {
+          "slug": "fc-sancti-spiritus",
+          "league": "cuba-national-team",
+          "name": "FC Sancti Spíritus",
+          "hash": "835d82d8"
+        },
+        "fc-santiago-de-cuba": {
+          "slug": "fc-santiago-de-cuba",
+          "league": "cuba-national-team",
+          "name": "FC Santiago de Cuba",
+          "hash": "93bd745f"
+        },
+        "fc-villa-clara": {
+          "slug": "fc-villa-clara",
+          "league": "cuba-national-team",
+          "name": "FC Villa Clara",
+          "hash": "78a38745"
+        }
+      }
     },
     "curacao": {
       "slug": "curacao",
@@ -14430,6 +14532,12 @@
           "league": "bundesliga",
           "name": "1. FC Normannia Gmünd",
           "hash": "06e18199"
+        },
+        "fc-wangen-05": {
+          "slug": "fc-wangen-05",
+          "league": "bundesliga",
+          "name": "FC Wangen 05",
+          "hash": "71d4addb"
         }
       }
     },
@@ -15267,6 +15375,24 @@
           "league": "super-league-1",
           "name": "AO Tilikratis Lefkada",
           "hash": "959241e5"
+        },
+        "aps-zakynthos": {
+          "slug": "aps-zakynthos",
+          "league": "super-league-1",
+          "name": "APS Zakynthos",
+          "hash": "42127751"
+        },
+        "ae-evosmou": {
+          "slug": "ae-evosmou",
+          "league": "super-league-1",
+          "name": "AE Evosmou",
+          "hash": "5b67ffd1"
+        },
+        "keratsini": {
+          "slug": "keratsini",
+          "league": "super-league-1",
+          "name": "Keratsini",
+          "hash": "2c1fd1ff"
         }
       }
     },
@@ -15501,9 +15627,69 @@
           "name": "Honduras National Team",
           "hash": "d3f2108b",
           "code": "HN"
+        },
+        "liga-nacional-de-futbol-de-honduras": {
+          "slug": "liga-nacional-de-futbol-de-honduras",
+          "name": "Liga Hondubet",
+          "hash": "d46e86e7"
         }
       },
-      "clubs": {}
+      "clubs": {
+        "atletico-independiente": {
+          "slug": "atletico-independiente",
+          "league": "honduras-national-team",
+          "name": "Atlético Independiente",
+          "hash": "54d64691"
+        },
+        "estrella-roja": {
+          "slug": "estrella-roja",
+          "league": "honduras-national-team",
+          "name": "Estrella Roja",
+          "hash": "58844422"
+        },
+        "genesis-pn": {
+          "slug": "genesis-pn",
+          "league": "honduras-national-team",
+          "name": "Génesis PN",
+          "hash": "1d1f9f43"
+        },
+        "juticalpa-fc": {
+          "slug": "juticalpa-fc",
+          "league": "honduras-national-team",
+          "name": "Juticalpa FC",
+          "hash": "6393a0ba"
+        },
+        "lobos-upnfm": {
+          "slug": "lobos-upnfm",
+          "league": "honduras-national-team",
+          "name": "Lobos UPNFM",
+          "hash": "2b50851f"
+        },
+        "marathon": {
+          "slug": "marathon",
+          "league": "honduras-national-team",
+          "name": "CD Marathón",
+          "hash": "d3dfbf8e"
+        },
+        "motagua": {
+          "slug": "motagua",
+          "league": "honduras-national-team",
+          "name": "FC Motagua",
+          "hash": "e86aad94"
+        },
+        "olimpia": {
+          "slug": "olimpia",
+          "league": "honduras-national-team",
+          "name": "CD Olimpia",
+          "hash": "b31732da"
+        },
+        "real-espana": {
+          "slug": "real-espana",
+          "league": "honduras-national-team",
+          "name": "Real España",
+          "hash": "7c362f92"
+        }
+      }
     },
     "hong-kong": {
       "slug": "hong-kong",
@@ -16103,7 +16289,7 @@
         "kerala-blasters-fc": {
           "slug": "kerala-blasters-fc",
           "name": "Kerala Blasters FC",
-          "hash": "faeafcea",
+          "hash": "d63783ba",
           "league": "indian-super-league"
         },
         "east-bengal-fc": {
@@ -18796,6 +18982,24 @@
           "league": "serie-a",
           "name": "Sanseverinese",
           "hash": "a05eb200"
+        },
+        "angri": {
+          "slug": "angri",
+          "league": "serie-a",
+          "name": "US Angri",
+          "hash": "4cc9e29c"
+        },
+        "arzachena": {
+          "slug": "arzachena",
+          "league": "serie-a",
+          "name": "Arzachena Costa Smeralda",
+          "hash": "3f7abca4"
+        },
+        "ebolitana": {
+          "slug": "ebolitana",
+          "league": "serie-a",
+          "name": "Ebolitana",
+          "hash": "16733489"
         }
       }
     },
@@ -32751,5 +32955,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "1cfc92e295ad8768"
+  "contentHash": "584d4ee38b262210"
 }

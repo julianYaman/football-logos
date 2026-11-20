@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-11-20T15:02:28.597Z",
   "country": {
     "slug": "honduras",
     "iso2": "HN",
@@ -12,8 +12,68 @@
         "name": "Honduras National Team",
         "hash": "d3f2108b",
         "code": "HN"
+      },
+      "liga-nacional-de-futbol-de-honduras": {
+        "slug": "liga-nacional-de-futbol-de-honduras",
+        "name": "Liga Hondubet",
+        "hash": "d46e86e7"
       }
     },
-    "clubs": {}
+    "clubs": {
+      "atletico-independiente": {
+        "slug": "atletico-independiente",
+        "league": "honduras-national-team",
+        "name": "Atlético Independiente",
+        "hash": "54d64691"
+      },
+      "estrella-roja": {
+        "slug": "estrella-roja",
+        "league": "honduras-national-team",
+        "name": "Estrella Roja",
+        "hash": "58844422"
+      },
+      "genesis-pn": {
+        "slug": "genesis-pn",
+        "league": "honduras-national-team",
+        "name": "Génesis PN",
+        "hash": "1d1f9f43"
+      },
+      "juticalpa-fc": {
+        "slug": "juticalpa-fc",
+        "league": "honduras-national-team",
+        "name": "Juticalpa FC",
+        "hash": "6393a0ba"
+      },
+      "lobos-upnfm": {
+        "slug": "lobos-upnfm",
+        "league": "honduras-national-team",
+        "name": "Lobos UPNFM",
+        "hash": "2b50851f"
+      },
+      "marathon": {
+        "slug": "marathon",
+        "league": "honduras-national-team",
+        "name": "CD Marathón",
+        "hash": "d3dfbf8e"
+      },
+      "motagua": {
+        "slug": "motagua",
+        "league": "honduras-national-team",
+        "name": "FC Motagua",
+        "hash": "e86aad94"
+      },
+      "olimpia": {
+        "slug": "olimpia",
+        "league": "honduras-national-team",
+        "name": "CD Olimpia",
+        "hash": "b31732da"
+      },
+      "real-espana": {
+        "slug": "real-espana",
+        "league": "honduras-national-team",
+        "name": "Real España",
+        "hash": "7c362f92"
+      }
+    }
   }
 }

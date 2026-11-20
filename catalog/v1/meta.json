@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:25:49.314Z",
+  "generatedAt": "2026-11-20T15:02:28.597Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -86,7 +86,7 @@
       "iso2": "AU",
       "name": "Australia",
       "defaultLeague": "a-league",
-      "clubCount": 25
+      "clubCount": 26
     },
     {
       "slug": "austria",
@@ -205,7 +205,7 @@
       "iso2": "BR",
       "name": "Brazil",
       "defaultLeague": "brazilian-serie-a",
-      "clubCount": 271
+      "clubCount": 272
     },
     {
       "slug": "british-virgin-islands",
@@ -373,7 +373,7 @@
       "iso2": "CU",
       "name": "Cuba",
       "defaultLeague": "cuba-national-team",
-      "clubCount": 0
+      "clubCount": 14
     },
     {
       "slug": "curacao",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 376
+      "clubCount": 377
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 99
+      "clubCount": 102
     },
     {
       "slug": "greenland",
@@ -639,7 +639,7 @@
       "iso2": "HN",
       "name": "Honduras",
       "defaultLeague": "honduras-national-team",
-      "clubCount": 0
+      "clubCount": 9
     },
     {
       "slug": "hong-kong",
@@ -702,7 +702,7 @@
       "iso2": "IT",
       "name": "Italy",
       "defaultLeague": "serie-a",
-      "clubCount": 291
+      "clubCount": 294
     },
     {
       "slug": "jamaica",
@@ -1608,5 +1608,5 @@
       "clubCount": 1
     }
   ],
-  "contentHash": "1cfc92e295ad8768"
+  "contentHash": "584d4ee38b262210"
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-11-20T15:02:28.597Z",
   "country": {
     "slug": "cuba",
     "iso2": "CU",
@@ -12,8 +12,98 @@
         "name": "Cuba National Team",
         "hash": "137ca235",
         "code": "CU"
+      },
+      "liga-nacional-de-futbol-de-cuba": {
+        "slug": "liga-nacional-de-futbol-de-cuba",
+        "name": "Liga Nacional de Fútbol de Cuba",
+        "hash": "ec82c21f"
       }
     },
-    "clubs": {}
+    "clubs": {
+      "fc-artemisa": {
+        "slug": "fc-artemisa",
+        "league": "cuba-national-team",
+        "name": "FC Artemisa",
+        "hash": "6ab85846"
+      },
+      "fc-camaguey": {
+        "slug": "fc-camaguey",
+        "league": "cuba-national-team",
+        "name": "FC Camagüey",
+        "hash": "c95cc67d"
+      },
+      "fc-ciego-de-avila": {
+        "slug": "fc-ciego-de-avila",
+        "league": "cuba-national-team",
+        "name": "FC Ciego de Ávila",
+        "hash": "0f90d887"
+      },
+      "fc-cienfuegos": {
+        "slug": "fc-cienfuegos",
+        "league": "cuba-national-team",
+        "name": "FC Cienfuegos",
+        "hash": "1f5b9df9"
+      },
+      "fc-granma": {
+        "slug": "fc-granma",
+        "league": "cuba-national-team",
+        "name": "FC Granma",
+        "hash": "405bc902"
+      },
+      "fc-guantanamo": {
+        "slug": "fc-guantanamo",
+        "league": "cuba-national-team",
+        "name": "FC Guantánamo",
+        "hash": "08e5c990"
+      },
+      "fc-isla-de-la-juventud": {
+        "slug": "fc-isla-de-la-juventud",
+        "league": "cuba-national-team",
+        "name": "FC Isla de la Juventud",
+        "hash": "dcccd5b6"
+      },
+      "fc-la-habana": {
+        "slug": "fc-la-habana",
+        "league": "cuba-national-team",
+        "name": "FC La Habana",
+        "hash": "155ef61b"
+      },
+      "fc-matanzas": {
+        "slug": "fc-matanzas",
+        "league": "cuba-national-team",
+        "name": "FC Matanzas",
+        "hash": "e461098f"
+      },
+      "fc-mayabeque": {
+        "slug": "fc-mayabeque",
+        "league": "cuba-national-team",
+        "name": "FC Mayabeque",
+        "hash": "b46cee0a"
+      },
+      "fc-pinar-del-rio": {
+        "slug": "fc-pinar-del-rio",
+        "league": "cuba-national-team",
+        "name": "FC Pinar del Río",
+        "hash": "7950eb73"
+      },
+      "fc-sancti-spiritus": {
+        "slug": "fc-sancti-spiritus",
+        "league": "cuba-national-team",
+        "name": "FC Sancti Spíritus",
+        "hash": "835d82d8"
+      },
+      "fc-santiago-de-cuba": {
+        "slug": "fc-santiago-de-cuba",
+        "league": "cuba-national-team",
+        "name": "FC Santiago de Cuba",
+        "hash": "93bd745f"
+      },
+      "fc-villa-clara": {
+        "slug": "fc-villa-clara",
+        "league": "cuba-national-team",
+        "name": "FC Villa Clara",
+        "hash": "78a38745"
+      }
+    }
   }
 }

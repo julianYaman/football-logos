@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:25:49.314Z",
+  "generatedAt": "2026-11-20T15:02:28.597Z",
   "country": {
     "slug": "italy",
     "iso2": "IT",
@@ -1785,6 +1785,24 @@
         "league": "serie-a",
         "name": "Sanseverinese",
         "hash": "a05eb200"
+      },
+      "angri": {
+        "slug": "angri",
+        "league": "serie-a",
+        "name": "US Angri",
+        "hash": "4cc9e29c"
+      },
+      "arzachena": {
+        "slug": "arzachena",
+        "league": "serie-a",
+        "name": "Arzachena Costa Smeralda",
+        "hash": "3f7abca4"
+      },
+      "ebolitana": {
+        "slug": "ebolitana",
+        "league": "serie-a",
+        "name": "Ebolitana",
+        "hash": "16733489"
       }
     }
   }

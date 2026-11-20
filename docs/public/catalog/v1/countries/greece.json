@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:25:49.314Z",
+  "generatedAt": "2026-11-20T15:02:28.597Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -618,6 +618,24 @@
         "league": "super-league-1",
         "name": "AO Tilikratis Lefkada",
         "hash": "959241e5"
+      },
+      "aps-zakynthos": {
+        "slug": "aps-zakynthos",
+        "league": "super-league-1",
+        "name": "APS Zakynthos",
+        "hash": "42127751"
+      },
+      "ae-evosmou": {
+        "slug": "ae-evosmou",
+        "league": "super-league-1",
+        "name": "AE Evosmou",
+        "hash": "5b67ffd1"
+      },
+      "keratsini": {
+        "slug": "keratsini",
+        "league": "super-league-1",
+        "name": "Keratsini",
+        "hash": "2c1fd1ff"
       }
     }
   }
