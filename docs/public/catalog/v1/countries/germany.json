@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:02:28.597Z",
+  "generatedAt": "2026-11-21T14:24:11.830Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -2332,6 +2332,24 @@
         "league": "bundesliga",
         "name": "FC Wangen 05",
         "hash": "71d4addb"
+      },
+      "fc-anker-wismar": {
+        "slug": "fc-anker-wismar",
+        "league": "bundesliga",
+        "name": "FC Anker Wismar",
+        "hash": "d82fa924"
+      },
+      "sv-eichede": {
+        "slug": "sv-eichede",
+        "league": "bundesliga",
+        "name": "SV Eichede",
+        "hash": "173c5c79"
+      },
+      "tsb-schwabisch-gmund": {
+        "slug": "tsb-schwabisch-gmund",
+        "league": "bundesliga",
+        "name": "TSB Schwäbisch Gmünd",
+        "hash": "e2de6407"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:02:28.597Z",
+  "generatedAt": "2026-11-21T14:24:11.830Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -1603,6 +1603,12 @@
           "league": "a-league",
           "name": "Camden Tigers FC",
           "hash": "6dca7d71"
+        },
+        "rockdale-ilinden-fc": {
+          "slug": "rockdale-ilinden-fc",
+          "league": "a-league",
+          "name": "Rockdale Ilinden FC",
+          "hash": "716079eb"
         }
       }
     },
@@ -5528,6 +5534,12 @@
           "league": "chinese-super-league",
           "name": "Beijing Renhe",
           "hash": "00e69107"
+        },
+        "guangzhou-city": {
+          "slug": "guangzhou-city",
+          "league": "chinese-super-league",
+          "name": "Guangzhou City",
+          "hash": "0d9e60e6"
         }
       }
     },
@@ -14538,6 +14550,24 @@
           "league": "bundesliga",
           "name": "FC Wangen 05",
           "hash": "71d4addb"
+        },
+        "fc-anker-wismar": {
+          "slug": "fc-anker-wismar",
+          "league": "bundesliga",
+          "name": "FC Anker Wismar",
+          "hash": "d82fa924"
+        },
+        "sv-eichede": {
+          "slug": "sv-eichede",
+          "league": "bundesliga",
+          "name": "SV Eichede",
+          "hash": "173c5c79"
+        },
+        "tsb-schwabisch-gmund": {
+          "slug": "tsb-schwabisch-gmund",
+          "league": "bundesliga",
+          "name": "TSB Schwäbisch Gmünd",
+          "hash": "e2de6407"
         }
       }
     },
@@ -15393,6 +15423,12 @@
           "league": "super-league-1",
           "name": "Keratsini",
           "hash": "2c1fd1ff"
+        },
+        "ao-chalkis": {
+          "slug": "ao-chalkis",
+          "league": "super-league-1",
+          "name": "AO Chalkis",
+          "hash": "6a931a4d"
         }
       }
     },
@@ -19022,6 +19058,36 @@
           "league": "jamaica-national-team",
           "name": "Montego Bay United",
           "hash": "e9169c88"
+        },
+        "arnett-gardens": {
+          "slug": "arnett-gardens",
+          "league": "jamaica-national-team",
+          "name": "Arnett Gardens",
+          "hash": "6600877a"
+        },
+        "molynes-united": {
+          "slug": "molynes-united",
+          "league": "jamaica-national-team",
+          "name": "Molynes United",
+          "hash": "2e2d7181"
+        },
+        "portmore-united": {
+          "slug": "portmore-united",
+          "league": "jamaica-national-team",
+          "name": "Portmore United",
+          "hash": "5e13ae9f"
+        },
+        "racing-united": {
+          "slug": "racing-united",
+          "league": "jamaica-national-team",
+          "name": "Racing United",
+          "hash": "6d3df0f9"
+        },
+        "tivoli-gardens": {
+          "slug": "tivoli-gardens",
+          "league": "jamaica-national-team",
+          "name": "Tivoli Gardens",
+          "hash": "c0012ba2"
         }
       }
     },
@@ -21053,6 +21119,12 @@
           "league": "liga-mx",
           "name": "Cimarrones de Sonora",
           "hash": "f96f89c2"
+        },
+        "cordobes-fc": {
+          "slug": "cordobes-fc",
+          "league": "liga-mx",
+          "name": "Cordobés FC",
+          "hash": "41a8f709"
         }
       }
     },
@@ -32950,10 +33022,15 @@
           "slug": "conmebol-recopa",
           "name": "Recopa Sudamericana",
           "hash": "26e176f0"
+        },
+        "caf-super-cup": {
+          "slug": "caf-super-cup",
+          "name": "CAF Super Cup",
+          "hash": "264341f3"
         }
       },
       "clubs": {}
     }
   },
-  "contentHash": "584d4ee38b262210"
+  "contentHash": "12858ccbc4e8c6e6"
 }

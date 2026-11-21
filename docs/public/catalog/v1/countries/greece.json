@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:02:28.597Z",
+  "generatedAt": "2026-11-21T14:24:11.830Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -636,6 +636,12 @@
         "league": "super-league-1",
         "name": "Keratsini",
         "hash": "2c1fd1ff"
+      },
+      "ao-chalkis": {
+        "slug": "ao-chalkis",
+        "league": "super-league-1",
+        "name": "AO Chalkis",
+        "hash": "6a931a4d"
       }
     }
   }

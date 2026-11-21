@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T10:58:29.453Z",
+  "generatedAt": "2026-11-21T14:24:11.830Z",
   "country": {
     "slug": "jamaica",
     "iso2": "JM",
@@ -20,6 +20,36 @@
         "league": "jamaica-national-team",
         "name": "Montego Bay United",
         "hash": "e9169c88"
+      },
+      "arnett-gardens": {
+        "slug": "arnett-gardens",
+        "league": "jamaica-national-team",
+        "name": "Arnett Gardens",
+        "hash": "6600877a"
+      },
+      "molynes-united": {
+        "slug": "molynes-united",
+        "league": "jamaica-national-team",
+        "name": "Molynes United",
+        "hash": "2e2d7181"
+      },
+      "portmore-united": {
+        "slug": "portmore-united",
+        "league": "jamaica-national-team",
+        "name": "Portmore United",
+        "hash": "5e13ae9f"
+      },
+      "racing-united": {
+        "slug": "racing-united",
+        "league": "jamaica-national-team",
+        "name": "Racing United",
+        "hash": "6d3df0f9"
+      },
+      "tivoli-gardens": {
+        "slug": "tivoli-gardens",
+        "league": "jamaica-national-team",
+        "name": "Tivoli Gardens",
+        "hash": "c0012ba2"
       }
     }
   }

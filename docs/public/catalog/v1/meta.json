@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:02:28.597Z",
+  "generatedAt": "2026-11-21T14:24:11.830Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -86,7 +86,7 @@
       "iso2": "AU",
       "name": "Australia",
       "defaultLeague": "a-league",
-      "clubCount": 26
+      "clubCount": 27
     },
     {
       "slug": "austria",
@@ -310,7 +310,7 @@
       "iso2": "CN",
       "name": "China",
       "defaultLeague": "chinese-super-league",
-      "clubCount": 22
+      "clubCount": 23
     },
     {
       "slug": "colombia",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 377
+      "clubCount": 380
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 102
+      "clubCount": 103
     },
     {
       "slug": "greenland",
@@ -709,7 +709,7 @@
       "iso2": "JM",
       "name": "Jamaica",
       "defaultLeague": "jamaica-national-team",
-      "clubCount": 1
+      "clubCount": 6
     },
     {
       "slug": "japan",
@@ -912,7 +912,7 @@
       "iso2": "MX",
       "name": "Mexico",
       "defaultLeague": "liga-mx",
-      "clubCount": 58
+      "clubCount": 59
     },
     {
       "slug": "moldova",
@@ -1608,5 +1608,5 @@
       "clubCount": 1
     }
   ],
-  "contentHash": "584d4ee38b262210"
+  "contentHash": "12858ccbc4e8c6e6"
 }

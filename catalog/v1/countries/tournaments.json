@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T13:10:28.839Z",
+  "generatedAt": "2026-11-21T14:24:11.830Z",
   "country": {
     "slug": "tournaments",
     "iso2": "INT",
@@ -409,6 +409,11 @@
         "slug": "conmebol-recopa",
         "name": "Recopa Sudamericana",
         "hash": "26e176f0"
+      },
+      "caf-super-cup": {
+        "slug": "caf-super-cup",
+        "name": "CAF Super Cup",
+        "hash": "264341f3"
       }
     },
     "clubs": {}

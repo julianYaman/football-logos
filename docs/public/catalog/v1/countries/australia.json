@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:02:28.597Z",
+  "generatedAt": "2026-11-21T14:24:11.830Z",
   "country": {
     "slug": "australia",
     "iso2": "AU",
@@ -175,6 +175,12 @@
         "league": "a-league",
         "name": "Camden Tigers FC",
         "hash": "6dca7d71"
+      },
+      "rockdale-ilinden-fc": {
+        "slug": "rockdale-ilinden-fc",
+        "league": "a-league",
+        "name": "Rockdale Ilinden FC",
+        "hash": "716079eb"
       }
     }
   }
