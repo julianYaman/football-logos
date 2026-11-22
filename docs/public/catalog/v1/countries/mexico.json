@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:24:11.830Z",
+  "generatedAt": "2026-11-22T14:16:27.145Z",
   "country": {
     "slug": "mexico",
     "iso2": "MX",
@@ -383,6 +383,12 @@
         "league": "liga-mx",
         "name": "Cordobés FC",
         "hash": "41a8f709"
+      },
+      "reboceros-de-la-piedad": {
+        "slug": "reboceros-de-la-piedad",
+        "league": "liga-mx",
+        "name": "Reboceros de La Piedad",
+        "hash": "60039bdb"
       }
     }
   }

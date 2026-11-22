@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:24:11.830Z",
+  "generatedAt": "2026-11-22T14:16:27.145Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -2350,6 +2350,24 @@
         "league": "bundesliga",
         "name": "TSB Schwäbisch Gmünd",
         "hash": "e2de6407"
+      },
+      "blau-weiss-bruhl": {
+        "slug": "blau-weiss-bruhl",
+        "league": "bundesliga",
+        "name": "Blau-Weiß Brühl",
+        "hash": "9d92c0a3"
+      },
+      "rsv-waltersdorf-09": {
+        "slug": "rsv-waltersdorf-09",
+        "league": "bundesliga",
+        "name": "RSV Waltersdorf 09",
+        "hash": "422620e4"
+      },
+      "sv-deutz-05": {
+        "slug": "sv-deutz-05",
+        "league": "bundesliga",
+        "name": "SV Deutz 05",
+        "hash": "e9c465f7"
       }
     }
   }

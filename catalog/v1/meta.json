@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:24:11.830Z",
+  "generatedAt": "2026-11-22T14:16:27.145Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -86,7 +86,7 @@
       "iso2": "AU",
       "name": "Australia",
       "defaultLeague": "a-league",
-      "clubCount": 27
+      "clubCount": 28
     },
     {
       "slug": "austria",
@@ -422,7 +422,7 @@
       "iso2": "DO",
       "name": "Dominican Republic",
       "defaultLeague": "dominican-republic-national-team",
-      "clubCount": 0
+      "clubCount": 3
     },
     {
       "slug": "ecuador",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 380
+      "clubCount": 383
     },
     {
       "slug": "ghana",
@@ -912,7 +912,7 @@
       "iso2": "MX",
       "name": "Mexico",
       "defaultLeague": "liga-mx",
-      "clubCount": 59
+      "clubCount": 60
     },
     {
       "slug": "moldova",
@@ -1472,7 +1472,7 @@
       "iso2": "TR",
       "name": "Turkey",
       "defaultLeague": "super-lig",
-      "clubCount": 102
+      "clubCount": 103
     },
     {
       "slug": "turkmenistan",
@@ -1608,5 +1608,5 @@
       "clubCount": 1
     }
   ],
-  "contentHash": "12858ccbc4e8c6e6"
+  "contentHash": "4e062afa22cfb786"
 }

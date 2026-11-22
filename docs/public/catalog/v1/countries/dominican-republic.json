@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-11-22T14:16:27.145Z",
   "country": {
     "slug": "dominican-republic",
     "iso2": "DO",
@@ -12,8 +12,32 @@
         "name": "Dominican Republic National Team",
         "hash": "d941cbd1",
         "code": "DO"
+      },
+      "liga-dominicana-de-futbol": {
+        "slug": "liga-dominicana-de-futbol",
+        "name": "Liga Dominicana de Fútbol",
+        "hash": "d91bf5eb"
       }
     },
-    "clubs": {}
+    "clubs": {
+      "atletico-vega-real": {
+        "slug": "atletico-vega-real",
+        "league": "dominican-republic-national-team",
+        "name": "Atlético Vega Real",
+        "hash": "a4559825"
+      },
+      "cibao-fc": {
+        "slug": "cibao-fc",
+        "league": "dominican-republic-national-team",
+        "name": "Cibao FC",
+        "hash": "e4389a6b"
+      },
+      "jarabacoa-fc": {
+        "slug": "jarabacoa-fc",
+        "league": "dominican-republic-national-team",
+        "name": "Jarabacoa FC",
+        "hash": "1812dfb8"
+      }
+    }
   }
 }

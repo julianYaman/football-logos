@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:24:11.830Z",
+  "generatedAt": "2026-11-22T14:16:27.145Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -1609,6 +1609,12 @@
           "league": "a-league",
           "name": "Rockdale Ilinden FC",
           "hash": "716079eb"
+        },
+        "nws-spirit-fc": {
+          "slug": "nws-spirit-fc",
+          "league": "a-league",
+          "name": "NWS Spirit FC",
+          "hash": "30b61919"
         }
       }
     },
@@ -6905,9 +6911,33 @@
           "name": "Dominican Republic National Team",
           "hash": "d941cbd1",
           "code": "DO"
+        },
+        "liga-dominicana-de-futbol": {
+          "slug": "liga-dominicana-de-futbol",
+          "name": "Liga Dominicana de Fútbol",
+          "hash": "d91bf5eb"
         }
       },
-      "clubs": {}
+      "clubs": {
+        "atletico-vega-real": {
+          "slug": "atletico-vega-real",
+          "league": "dominican-republic-national-team",
+          "name": "Atlético Vega Real",
+          "hash": "a4559825"
+        },
+        "cibao-fc": {
+          "slug": "cibao-fc",
+          "league": "dominican-republic-national-team",
+          "name": "Cibao FC",
+          "hash": "e4389a6b"
+        },
+        "jarabacoa-fc": {
+          "slug": "jarabacoa-fc",
+          "league": "dominican-republic-national-team",
+          "name": "Jarabacoa FC",
+          "hash": "1812dfb8"
+        }
+      }
     },
     "ecuador": {
       "slug": "ecuador",
@@ -14568,6 +14598,24 @@
           "league": "bundesliga",
           "name": "TSB Schwäbisch Gmünd",
           "hash": "e2de6407"
+        },
+        "blau-weiss-bruhl": {
+          "slug": "blau-weiss-bruhl",
+          "league": "bundesliga",
+          "name": "Blau-Weiß Brühl",
+          "hash": "9d92c0a3"
+        },
+        "rsv-waltersdorf-09": {
+          "slug": "rsv-waltersdorf-09",
+          "league": "bundesliga",
+          "name": "RSV Waltersdorf 09",
+          "hash": "422620e4"
+        },
+        "sv-deutz-05": {
+          "slug": "sv-deutz-05",
+          "league": "bundesliga",
+          "name": "SV Deutz 05",
+          "hash": "e9c465f7"
         }
       }
     },
@@ -21125,6 +21173,12 @@
           "league": "liga-mx",
           "name": "Cordobés FC",
           "hash": "41a8f709"
+        },
+        "reboceros-de-la-piedad": {
+          "slug": "reboceros-de-la-piedad",
+          "league": "liga-mx",
+          "name": "Reboceros de La Piedad",
+          "hash": "60039bdb"
         }
       }
     },
@@ -30456,6 +30510,12 @@
           "league": "super-lig",
           "name": "Tarsus İdman Yurdu",
           "hash": "ebd9d32b"
+        },
+        "zeytinburnuspor": {
+          "slug": "zeytinburnuspor",
+          "league": "super-lig",
+          "name": "Zeytinburnuspor",
+          "hash": "8044208e"
         }
       }
     },
@@ -33032,5 +33092,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "12858ccbc4e8c6e6"
+  "contentHash": "4e062afa22cfb786"
 }
