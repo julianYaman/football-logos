@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-11-23T17:39:20.607Z",
   "country": {
     "slug": "andorra",
     "iso2": "AD",
@@ -62,6 +62,18 @@
         "name": "UE Santa Coloma",
         "hash": "31ac6eb2",
         "league": ""
+      },
+      "fc-pas-de-la-casa": {
+        "slug": "fc-pas-de-la-casa",
+        "league": "andorra-national-team",
+        "name": "FC Pas de la Casa",
+        "hash": "711ffef4"
+      },
+      "cf-esperanca-d-andorra": {
+        "slug": "cf-esperanca-d-andorra",
+        "league": "andorra-national-team",
+        "name": "CF Esperança d'Andorra",
+        "hash": "350401dc"
       }
     }
   }

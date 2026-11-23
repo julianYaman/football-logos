@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:25:49.314Z",
+  "generatedAt": "2026-11-23T17:39:20.607Z",
   "country": {
     "slug": "netherlands",
     "iso2": "NL",
@@ -682,6 +682,108 @@
         "league": "eredivisie",
         "name": "SV Hoofddorp",
         "hash": "540391c4"
+      },
+      "vv-spijkenisse": {
+        "slug": "vv-spijkenisse",
+        "league": "eredivisie",
+        "name": "VV Spijkenisse",
+        "hash": "22bcc736"
+      },
+      "de-jodan-boys": {
+        "slug": "de-jodan-boys",
+        "league": "eredivisie",
+        "name": "De Jodan Boys",
+        "hash": "8d68c291"
+      },
+      "fc-s-gravenzande": {
+        "slug": "fc-s-gravenzande",
+        "league": "eredivisie",
+        "name": "FC 's-Gravenzande",
+        "hash": "742bbff7"
+      },
+      "vv-capelle": {
+        "slug": "vv-capelle",
+        "league": "eredivisie",
+        "name": "VV Capelle",
+        "hash": "4c128d64"
+      },
+      "hv-cv-quick": {
+        "slug": "hv-cv-quick",
+        "league": "eredivisie",
+        "name": "HV &amp; CV Quick",
+        "hash": "75213b9a"
+      },
+      "vv-valken-68": {
+        "slug": "vv-valken-68",
+        "league": "eredivisie",
+        "name": "VV Valken '68",
+        "hash": "a187052e"
+      },
+      "sdv-barneveld": {
+        "slug": "sdv-barneveld",
+        "league": "eredivisie",
+        "name": "SDV Barneveld",
+        "hash": "cbb174ad"
+      },
+      "wv-hedw": {
+        "slug": "wv-hedw",
+        "league": "eredivisie",
+        "name": "WV-HEDW",
+        "hash": "01aff766"
+      },
+      "sv-arc": {
+        "slug": "sv-arc",
+        "league": "eredivisie",
+        "name": "SV ARC",
+        "hash": "4bfb71a4"
+      },
+      "hbs-craeyenhout": {
+        "slug": "hbs-craeyenhout",
+        "league": "eredivisie",
+        "name": "HBS Craeyenhout",
+        "hash": "b916fa6f"
+      },
+      "vv-smitshoek": {
+        "slug": "vv-smitshoek",
+        "league": "eredivisie",
+        "name": "VV Smitshoek",
+        "hash": "db6f18d1"
+      },
+      "masv": {
+        "slug": "masv",
+        "league": "eredivisie",
+        "name": "MASV",
+        "hash": "446fcc59"
+      },
+      "rkavv": {
+        "slug": "rkavv",
+        "league": "eredivisie",
+        "name": "RKAVV",
+        "hash": "b9206101"
+      },
+      "aswh": {
+        "slug": "aswh",
+        "league": "eredivisie",
+        "name": "ASWH",
+        "hash": "3784034c"
+      },
+      "xerxesdzb": {
+        "slug": "xerxesdzb",
+        "league": "eredivisie",
+        "name": "XerxesDZB",
+        "hash": "823ce421"
+      },
+      "rkvv-westlandia": {
+        "slug": "rkvv-westlandia",
+        "league": "eredivisie",
+        "name": "RKVV Westlandia",
+        "hash": "4dcb0818"
+      },
+      "vv-bennekom": {
+        "slug": "vv-bennekom",
+        "league": "eredivisie",
+        "name": "VV Bennekom",
+        "hash": "5bfa9cb2"
       }
     }
   }

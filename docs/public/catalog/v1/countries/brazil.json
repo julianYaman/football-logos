@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:02:28.597Z",
+  "generatedAt": "2026-11-23T17:39:20.607Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1666,6 +1666,12 @@
         "league": "brazilian-serie-a",
         "name": "Supercopa Rei",
         "hash": "a7a4b6cd"
+      },
+      "vasco-ac": {
+        "slug": "vasco-ac",
+        "league": "brazilian-serie-a",
+        "name": "Vasco-AC",
+        "hash": "10f310e8"
       }
     }
   }

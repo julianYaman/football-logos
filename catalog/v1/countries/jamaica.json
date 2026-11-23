@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:24:11.830Z",
+  "generatedAt": "2026-11-23T17:39:20.607Z",
   "country": {
     "slug": "jamaica",
     "iso2": "JM",
@@ -50,6 +50,12 @@
         "league": "jamaica-national-team",
         "name": "Tivoli Gardens",
         "hash": "c0012ba2"
+      },
+      "treasure-beach-fc": {
+        "slug": "treasure-beach-fc",
+        "league": "jamaica-national-team",
+        "name": "Treasure Beach FC",
+        "hash": "0284200d"
       }
     }
   }

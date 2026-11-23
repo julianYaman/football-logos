@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:16:27.145Z",
+  "generatedAt": "2026-11-23T17:39:20.607Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -37,7 +37,7 @@
       "iso2": "AD",
       "name": "Andorra",
       "defaultLeague": "andorra-national-team",
-      "clubCount": 8
+      "clubCount": 10
     },
     {
       "slug": "angola",
@@ -86,7 +86,7 @@
       "iso2": "AU",
       "name": "Australia",
       "defaultLeague": "a-league",
-      "clubCount": 28
+      "clubCount": 29
     },
     {
       "slug": "austria",
@@ -205,7 +205,7 @@
       "iso2": "BR",
       "name": "Brazil",
       "defaultLeague": "brazilian-serie-a",
-      "clubCount": 272
+      "clubCount": 273
     },
     {
       "slug": "british-virgin-islands",
@@ -422,7 +422,7 @@
       "iso2": "DO",
       "name": "Dominican Republic",
       "defaultLeague": "dominican-republic-national-team",
-      "clubCount": 3
+      "clubCount": 4
     },
     {
       "slug": "ecuador",
@@ -513,7 +513,7 @@
       "iso2": "FR",
       "name": "France",
       "defaultLeague": "ligue-1",
-      "clubCount": 347
+      "clubCount": 364
     },
     {
       "slug": "french-guiana",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 383
+      "clubCount": 387
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 103
+      "clubCount": 104
     },
     {
       "slug": "greenland",
@@ -709,7 +709,7 @@
       "iso2": "JM",
       "name": "Jamaica",
       "defaultLeague": "jamaica-national-team",
-      "clubCount": 6
+      "clubCount": 7
     },
     {
       "slug": "japan",
@@ -863,7 +863,7 @@
       "iso2": "MY",
       "name": "Malaysia",
       "defaultLeague": "malaysia-national-team",
-      "clubCount": 10
+      "clubCount": 11
     },
     {
       "slug": "maldives",
@@ -912,7 +912,7 @@
       "iso2": "MX",
       "name": "Mexico",
       "defaultLeague": "liga-mx",
-      "clubCount": 60
+      "clubCount": 61
     },
     {
       "slug": "moldova",
@@ -989,7 +989,7 @@
       "iso2": "NL",
       "name": "Netherlands",
       "defaultLeague": "eredivisie",
-      "clubCount": 108
+      "clubCount": 125
     },
     {
       "slug": "new-caledonia",
@@ -1122,7 +1122,7 @@
       "iso2": "PH",
       "name": "Philippines",
       "defaultLeague": "philippines-national-team",
-      "clubCount": 0
+      "clubCount": 6
     },
     {
       "slug": "poland",
@@ -1608,5 +1608,5 @@
       "clubCount": 1
     }
   ],
-  "contentHash": "4e062afa22cfb786"
+  "contentHash": "5f21148768a0c409"
 }

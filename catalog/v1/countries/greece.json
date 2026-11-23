@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:24:11.830Z",
+  "generatedAt": "2026-11-23T17:39:20.607Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -642,6 +642,12 @@
         "league": "super-league-1",
         "name": "AO Chalkis",
         "hash": "6a931a4d"
+      },
+      "byzantio-kokkinochoma": {
+        "slug": "byzantio-kokkinochoma",
+        "league": "super-league-1",
+        "name": "Byzantio Kokkinochoma",
+        "hash": "fc55e289"
       }
     }
   }

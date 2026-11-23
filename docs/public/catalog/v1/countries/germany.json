@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:16:27.145Z",
+  "generatedAt": "2026-11-23T17:39:20.607Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -2368,6 +2368,30 @@
         "league": "bundesliga",
         "name": "SV Deutz 05",
         "hash": "e9c465f7"
+      },
+      "dsc-wanne-eickel": {
+        "slug": "dsc-wanne-eickel",
+        "league": "bundesliga",
+        "name": "DSC Wanne-Eickel",
+        "hash": "77ebca31"
+      },
+      "fc-eddersheim": {
+        "slug": "fc-eddersheim",
+        "league": "bundesliga",
+        "name": "FC Eddersheim",
+        "hash": "572cdbbd"
+      },
+      "schwarz-weiss-sende": {
+        "slug": "schwarz-weiss-sende",
+        "league": "bundesliga",
+        "name": "Schwarz-Weiß Sende",
+        "hash": "4960c0f6"
+      },
+      "sv-straelen": {
+        "slug": "sv-straelen",
+        "league": "bundesliga",
+        "name": "SV Straelen",
+        "hash": "fd9094ef"
       }
     }
   }

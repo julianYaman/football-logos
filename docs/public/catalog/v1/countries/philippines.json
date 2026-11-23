@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-11-23T17:39:20.607Z",
   "country": {
     "slug": "philippines",
     "iso2": "PH",
@@ -12,8 +12,50 @@
         "name": "Philippines National Team",
         "hash": "17ad18c8",
         "code": "PH"
+      },
+      "philippines-football-league": {
+        "slug": "philippines-football-league",
+        "name": "Philippines Football League",
+        "hash": "963b70b6"
       }
     },
-    "clubs": {}
+    "clubs": {
+      "aguilas-umak": {
+        "slug": "aguilas-umak",
+        "league": "philippines-national-team",
+        "name": "Aguilas-UMak",
+        "hash": "ef278a18"
+      },
+      "manila-digger": {
+        "slug": "manila-digger",
+        "league": "philippines-national-team",
+        "name": "Manila Digger",
+        "hash": "fd21b596"
+      },
+      "kaya-iloilo": {
+        "slug": "kaya-iloilo",
+        "league": "philippines-national-team",
+        "name": "Kaya-Iloilo",
+        "hash": "5d09f176"
+      },
+      "stallion-laguna": {
+        "slug": "stallion-laguna",
+        "league": "philippines-national-team",
+        "name": "Stallion Laguna",
+        "hash": "cad5d9b4"
+      },
+      "dynamic-herb-cebu": {
+        "slug": "dynamic-herb-cebu",
+        "league": "philippines-national-team",
+        "name": "Dynamic Herb Cebu",
+        "hash": "1f4fc145"
+      },
+      "philippine-army": {
+        "slug": "philippine-army",
+        "league": "philippines-national-team",
+        "name": "Philippine Army",
+        "hash": "e2fcd2c7"
+      }
+    }
   }
 }

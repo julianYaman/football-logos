@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:16:27.145Z",
+  "generatedAt": "2026-11-23T17:39:20.607Z",
   "country": {
     "slug": "dominican-republic",
     "iso2": "DO",
@@ -37,6 +37,12 @@
         "league": "dominican-republic-national-team",
         "name": "Jarabacoa FC",
         "hash": "1812dfb8"
+      },
+      "o-m-fc": {
+        "slug": "o-m-fc",
+        "league": "dominican-republic-national-team",
+        "name": "O&amp;M FC",
+        "hash": "2dbcb59c"
       }
     }
   }
