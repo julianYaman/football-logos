@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T17:39:20.607Z",
+  "generatedAt": "2026-11-24T17:09:28.863Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -2392,6 +2392,12 @@
         "league": "bundesliga",
         "name": "SV Straelen",
         "hash": "fd9094ef"
+      },
+      "germania-brotzingen": {
+        "slug": "germania-brotzingen",
+        "league": "bundesliga",
+        "name": "Germania Brötzingen",
+        "hash": "04723db4"
       }
     }
   }

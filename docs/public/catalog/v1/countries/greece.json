@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T17:39:20.607Z",
+  "generatedAt": "2026-11-24T17:09:28.863Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -648,6 +648,18 @@
         "league": "super-league-1",
         "name": "Byzantio Kokkinochoma",
         "hash": "fc55e289"
+      },
+      "gs-patision": {
+        "slug": "gs-patision",
+        "league": "super-league-1",
+        "name": "GS Patision",
+        "hash": "87410cc0"
+      },
+      "panegialios": {
+        "slug": "panegialios",
+        "league": "super-league-1",
+        "name": "Panegialios",
+        "hash": "d802af43"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:02:28.597Z",
+  "generatedAt": "2026-11-24T17:09:28.863Z",
   "country": {
     "slug": "italy",
     "iso2": "IT",
@@ -1803,6 +1803,24 @@
         "league": "serie-a",
         "name": "Ebolitana",
         "hash": "16733489"
+      },
+      "campagna": {
+        "slug": "campagna",
+        "league": "serie-a",
+        "name": "Città di Campagna",
+        "hash": "6b98f09e"
+      },
+      "polimnia": {
+        "slug": "polimnia",
+        "league": "serie-a",
+        "name": "Polimnia Calcio",
+        "hash": "6e4b38c3"
+      },
+      "ugento": {
+        "slug": "ugento",
+        "league": "serie-a",
+        "name": "ASD Ugento",
+        "hash": "8bb812b4"
       }
     }
   }
