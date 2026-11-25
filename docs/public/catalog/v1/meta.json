@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:09:28.863Z",
+  "generatedAt": "2026-11-25T16:56:57.517Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -254,7 +254,7 @@
       "iso2": "KH",
       "name": "Cambodia",
       "defaultLeague": "cambodia-national-team",
-      "clubCount": 1
+      "clubCount": 2
     },
     {
       "slug": "cameroon",
@@ -513,7 +513,7 @@
       "iso2": "FR",
       "name": "France",
       "defaultLeague": "ligue-1",
-      "clubCount": 369
+      "clubCount": 371
     },
     {
       "slug": "french-guiana",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 388
+      "clubCount": 392
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 106
+      "clubCount": 107
     },
     {
       "slug": "greenland",
@@ -912,7 +912,7 @@
       "iso2": "MX",
       "name": "Mexico",
       "defaultLeague": "liga-mx",
-      "clubCount": 62
+      "clubCount": 63
     },
     {
       "slug": "moldova",
@@ -989,7 +989,7 @@
       "iso2": "NL",
       "name": "Netherlands",
       "defaultLeague": "eredivisie",
-      "clubCount": 125
+      "clubCount": 128
     },
     {
       "slug": "new-caledonia",
@@ -1374,7 +1374,7 @@
       "iso2": "SE",
       "name": "Sweden",
       "defaultLeague": "allsvenskan",
-      "clubCount": 67
+      "clubCount": 68
     },
     {
       "slug": "switzerland",
@@ -1608,5 +1608,5 @@
       "clubCount": 1
     }
   ],
-  "contentHash": "cf48dacae3c602cc"
+  "contentHash": "830557183b2523d0"
 }

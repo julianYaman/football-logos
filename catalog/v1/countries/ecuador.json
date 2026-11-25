@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-11-25T16:56:57.517Z",
   "country": {
     "slug": "ecuador",
     "iso2": "EC",
@@ -28,7 +28,7 @@
       "independiente-del-valle": {
         "slug": "independiente-del-valle",
         "name": "Independiente del Valle",
-        "hash": "0fd5cb37",
+        "hash": "174fbe93",
         "league": "liga-pro-serie-a"
       },
       "barcelona-sc": {

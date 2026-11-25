@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:09:28.863Z",
+  "generatedAt": "2026-11-25T16:56:57.517Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -2398,6 +2398,30 @@
         "league": "bundesliga",
         "name": "Germania Brötzingen",
         "hash": "04723db4"
+      },
+      "sv-bavenstedt": {
+        "slug": "sv-bavenstedt",
+        "league": "bundesliga",
+        "name": "SV Bavenstedt",
+        "hash": "41aa1130"
+      },
+      "tsg-calbe": {
+        "slug": "tsg-calbe",
+        "league": "bundesliga",
+        "name": "TSG Calbe",
+        "hash": "c57b7613"
+      },
+      "tsg-giengen": {
+        "slug": "tsg-giengen",
+        "league": "bundesliga",
+        "name": "TSG Giengen",
+        "hash": "c65debd0"
+      },
+      "tsv-hertha-walheim": {
+        "slug": "tsv-hertha-walheim",
+        "league": "bundesliga",
+        "name": "TSV Hertha Walheim",
+        "hash": "669ee368"
       }
     }
   }

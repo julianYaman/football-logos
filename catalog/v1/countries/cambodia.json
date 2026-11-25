@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:21:23.444Z",
+  "generatedAt": "2026-11-25T16:56:57.517Z",
   "country": {
     "slug": "cambodia",
     "iso2": "KH",
@@ -12,6 +12,16 @@
         "name": "Cambodia National Team",
         "hash": "5b225d3c",
         "code": "KH"
+      },
+      "cambodian-premier-league": {
+        "slug": "cambodian-premier-league",
+        "name": "Cambodian Premier League",
+        "hash": "cb064262"
+      },
+      "cambodian-league-cup": {
+        "slug": "cambodian-league-cup",
+        "name": "Cambodian League Cup",
+        "hash": "886d185f"
       }
     },
     "clubs": {
@@ -20,6 +30,12 @@
         "league": "cambodia-national-team",
         "name": "Phnom Penh Crown",
         "hash": "6436e123"
+      },
+      "angkor-tiger-fc": {
+        "slug": "angkor-tiger-fc",
+        "league": "cambodia-national-team",
+        "name": "Angkor Tiger FC",
+        "hash": "d3ee3bcf"
       }
     }
   }

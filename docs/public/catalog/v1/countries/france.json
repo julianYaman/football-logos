@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:09:28.863Z",
+  "generatedAt": "2026-11-25T16:56:57.517Z",
   "country": {
     "slug": "france",
     "iso2": "FR",
@@ -2258,6 +2258,18 @@
         "league": "ligue-1",
         "name": "AS Beaune",
         "hash": "ab841dd9"
+      },
+      "as-quetigny": {
+        "slug": "as-quetigny",
+        "league": "ligue-1",
+        "name": "AS Quetigny",
+        "hash": "70e962ad"
+      },
+      "pouzauges-bocage-fc": {
+        "slug": "pouzauges-bocage-fc",
+        "league": "ligue-1",
+        "name": "Pouzauges Bocage FC",
+        "hash": "4c9742d7"
       }
     }
   }

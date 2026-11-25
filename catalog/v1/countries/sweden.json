@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:41:16.200Z",
+  "generatedAt": "2026-11-25T16:56:57.517Z",
   "country": {
     "slug": "sweden",
     "iso2": "SE",
@@ -426,6 +426,12 @@
         "league": "allsvenskan",
         "name": "Gamla Upsala SK",
         "hash": "03d61e93"
+      },
+      "ik-uppsala-fotboll": {
+        "slug": "ik-uppsala-fotboll",
+        "league": "allsvenskan",
+        "name": "IK Uppsala Fotboll",
+        "hash": "64e7bd62"
       }
     }
   }

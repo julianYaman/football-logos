@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:09:28.863Z",
+  "generatedAt": "2026-11-25T16:56:57.517Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -4970,6 +4970,16 @@
           "name": "Cambodia National Team",
           "hash": "5b225d3c",
           "code": "KH"
+        },
+        "cambodian-premier-league": {
+          "slug": "cambodian-premier-league",
+          "name": "Cambodian Premier League",
+          "hash": "cb064262"
+        },
+        "cambodian-league-cup": {
+          "slug": "cambodian-league-cup",
+          "name": "Cambodian League Cup",
+          "hash": "886d185f"
         }
       },
       "clubs": {
@@ -4978,6 +4988,12 @@
           "league": "cambodia-national-team",
           "name": "Phnom Penh Crown",
           "hash": "6436e123"
+        },
+        "angkor-tiger-fc": {
+          "slug": "angkor-tiger-fc",
+          "league": "cambodia-national-team",
+          "name": "Angkor Tiger FC",
+          "hash": "d3ee3bcf"
         }
       }
     },
@@ -7002,7 +7018,7 @@
         "independiente-del-valle": {
           "slug": "independiente-del-valle",
           "name": "Independiente del Valle",
-          "hash": "0fd5cb37",
+          "hash": "174fbe93",
           "league": "liga-pro-serie-a"
         },
         "barcelona-sc": {
@@ -12216,6 +12232,18 @@
           "league": "ligue-1",
           "name": "AS Beaune",
           "hash": "ab841dd9"
+        },
+        "as-quetigny": {
+          "slug": "as-quetigny",
+          "league": "ligue-1",
+          "name": "AS Quetigny",
+          "hash": "70e962ad"
+        },
+        "pouzauges-bocage-fc": {
+          "slug": "pouzauges-bocage-fc",
+          "league": "ligue-1",
+          "name": "Pouzauges Bocage FC",
+          "hash": "4c9742d7"
         }
       }
     },
@@ -14814,6 +14842,30 @@
           "league": "bundesliga",
           "name": "Germania Brötzingen",
           "hash": "04723db4"
+        },
+        "sv-bavenstedt": {
+          "slug": "sv-bavenstedt",
+          "league": "bundesliga",
+          "name": "SV Bavenstedt",
+          "hash": "41aa1130"
+        },
+        "tsg-calbe": {
+          "slug": "tsg-calbe",
+          "league": "bundesliga",
+          "name": "TSG Calbe",
+          "hash": "c57b7613"
+        },
+        "tsg-giengen": {
+          "slug": "tsg-giengen",
+          "league": "bundesliga",
+          "name": "TSG Giengen",
+          "hash": "c65debd0"
+        },
+        "tsv-hertha-walheim": {
+          "slug": "tsv-hertha-walheim",
+          "league": "bundesliga",
+          "name": "TSV Hertha Walheim",
+          "hash": "669ee368"
         }
       }
     },
@@ -15693,6 +15745,12 @@
           "league": "super-league-1",
           "name": "Panegialios",
           "hash": "d802af43"
+        },
+        "souli-paramythia": {
+          "slug": "souli-paramythia",
+          "league": "super-league-1",
+          "name": "Souli Paramythia",
+          "hash": "3bd8e75b"
         }
       }
     },
@@ -21437,6 +21495,12 @@
           "league": "liga-mx",
           "name": "Los Cabos United",
           "hash": "edaa88fd"
+        },
+        "purepechas-fc": {
+          "slug": "purepechas-fc",
+          "league": "liga-mx",
+          "name": "Purépechas FC",
+          "hash": "2ba4e4af"
         }
       }
     },
@@ -22637,6 +22701,24 @@
           "league": "eredivisie",
           "name": "VV Bennekom",
           "hash": "5bfa9cb2"
+        },
+        "vv-arnemuiden": {
+          "slug": "vv-arnemuiden",
+          "league": "eredivisie",
+          "name": "VV Arnemuiden",
+          "hash": "7cd0f7ad"
+        },
+        "jvoz": {
+          "slug": "jvoz",
+          "league": "eredivisie",
+          "name": "JVOZ",
+          "hash": "29576170"
+        },
+        "vv-yerseke": {
+          "slug": "vv-yerseke",
+          "league": "eredivisie",
+          "name": "VV Yerseke",
+          "hash": "11128d3f"
         }
       }
     },
@@ -29510,6 +29592,12 @@
           "league": "allsvenskan",
           "name": "Gamla Upsala SK",
           "hash": "03d61e93"
+        },
+        "ik-uppsala-fotboll": {
+          "slug": "ik-uppsala-fotboll",
+          "league": "allsvenskan",
+          "name": "IK Uppsala Fotboll",
+          "hash": "64e7bd62"
         }
       }
     },
@@ -33494,5 +33582,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "cf48dacae3c602cc"
+  "contentHash": "830557183b2523d0"
 }

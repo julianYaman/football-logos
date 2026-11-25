@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:09:28.863Z",
+  "generatedAt": "2026-11-25T16:56:57.517Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -660,6 +660,12 @@
         "league": "super-league-1",
         "name": "Panegialios",
         "hash": "d802af43"
+      },
+      "souli-paramythia": {
+        "slug": "souli-paramythia",
+        "league": "super-league-1",
+        "name": "Souli Paramythia",
+        "hash": "3bd8e75b"
       }
     }
   }

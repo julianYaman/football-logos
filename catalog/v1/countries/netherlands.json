@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T17:39:20.607Z",
+  "generatedAt": "2026-11-25T16:56:57.517Z",
   "country": {
     "slug": "netherlands",
     "iso2": "NL",
@@ -784,6 +784,24 @@
         "league": "eredivisie",
         "name": "VV Bennekom",
         "hash": "5bfa9cb2"
+      },
+      "vv-arnemuiden": {
+        "slug": "vv-arnemuiden",
+        "league": "eredivisie",
+        "name": "VV Arnemuiden",
+        "hash": "7cd0f7ad"
+      },
+      "jvoz": {
+        "slug": "jvoz",
+        "league": "eredivisie",
+        "name": "JVOZ",
+        "hash": "29576170"
+      },
+      "vv-yerseke": {
+        "slug": "vv-yerseke",
+        "league": "eredivisie",
+        "name": "VV Yerseke",
+        "hash": "11128d3f"
       }
     }
   }
