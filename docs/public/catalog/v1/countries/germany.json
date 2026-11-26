@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T16:56:57.517Z",
+  "generatedAt": "2026-11-26T16:34:42.610Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -2422,6 +2422,24 @@
         "league": "bundesliga",
         "name": "TSV Hertha Walheim",
         "hash": "669ee368"
+      },
+      "chemnitzer-psv": {
+        "slug": "chemnitzer-psv",
+        "league": "bundesliga",
+        "name": "Chemnitzer PSV",
+        "hash": "65b66fcf"
+      },
+      "spvg-schonnebeck": {
+        "slug": "spvg-schonnebeck",
+        "league": "bundesliga",
+        "name": "SpVg Schonnebeck",
+        "hash": "2c22f59f"
+      },
+      "tsv-altenholz": {
+        "slug": "tsv-altenholz",
+        "league": "bundesliga",
+        "name": "TSV Altenholz",
+        "hash": "c08cce3e"
       }
     }
   }

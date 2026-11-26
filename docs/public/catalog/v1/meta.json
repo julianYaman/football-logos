@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T16:56:57.517Z",
+  "generatedAt": "2026-11-26T16:34:42.610Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 392
+      "clubCount": 395
     },
     {
       "slug": "ghana",
@@ -569,7 +569,7 @@
       "iso2": "GR",
       "name": "Greece",
       "defaultLeague": "super-league-1",
-      "clubCount": 107
+      "clubCount": 109
     },
     {
       "slug": "greenland",
@@ -912,7 +912,7 @@
       "iso2": "MX",
       "name": "Mexico",
       "defaultLeague": "liga-mx",
-      "clubCount": 63
+      "clubCount": 64
     },
     {
       "slug": "moldova",
@@ -1608,5 +1608,5 @@
       "clubCount": 1
     }
   ],
-  "contentHash": "830557183b2523d0"
+  "contentHash": "fc4a98d057e0006e"
 }

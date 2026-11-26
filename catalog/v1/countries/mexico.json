@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T16:56:57.517Z",
+  "generatedAt": "2026-11-26T16:34:42.610Z",
   "country": {
     "slug": "mexico",
     "iso2": "MX",
@@ -407,6 +407,12 @@
         "league": "liga-mx",
         "name": "Purépechas FC",
         "hash": "2ba4e4af"
+      },
+      "tigres-de-alica-fc": {
+        "slug": "tigres-de-alica-fc",
+        "league": "liga-mx",
+        "name": "Tigres de Álica FC",
+        "hash": "3979d58a"
       }
     }
   }

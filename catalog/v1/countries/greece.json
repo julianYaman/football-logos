@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T16:56:57.517Z",
+  "generatedAt": "2026-11-26T16:34:42.610Z",
   "country": {
     "slug": "greece",
     "iso2": "GR",
@@ -666,6 +666,18 @@
         "league": "super-league-1",
         "name": "Souli Paramythia",
         "hash": "3bd8e75b"
+      },
+      "ao-thiva": {
+        "slug": "ao-thiva",
+        "league": "super-league-1",
+        "name": "AO Thiva",
+        "hash": "09d18c28"
+      },
+      "pamisos-messini": {
+        "slug": "pamisos-messini",
+        "league": "super-league-1",
+        "name": "Pamisos Messini",
+        "hash": "54dca320"
       }
     }
   }

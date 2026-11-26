@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T16:56:57.517Z",
+  "generatedAt": "2026-11-26T16:34:42.610Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -14866,6 +14866,24 @@
           "league": "bundesliga",
           "name": "TSV Hertha Walheim",
           "hash": "669ee368"
+        },
+        "chemnitzer-psv": {
+          "slug": "chemnitzer-psv",
+          "league": "bundesliga",
+          "name": "Chemnitzer PSV",
+          "hash": "65b66fcf"
+        },
+        "spvg-schonnebeck": {
+          "slug": "spvg-schonnebeck",
+          "league": "bundesliga",
+          "name": "SpVg Schonnebeck",
+          "hash": "2c22f59f"
+        },
+        "tsv-altenholz": {
+          "slug": "tsv-altenholz",
+          "league": "bundesliga",
+          "name": "TSV Altenholz",
+          "hash": "c08cce3e"
         }
       }
     },
@@ -15751,6 +15769,18 @@
           "league": "super-league-1",
           "name": "Souli Paramythia",
           "hash": "3bd8e75b"
+        },
+        "ao-thiva": {
+          "slug": "ao-thiva",
+          "league": "super-league-1",
+          "name": "AO Thiva",
+          "hash": "09d18c28"
+        },
+        "pamisos-messini": {
+          "slug": "pamisos-messini",
+          "league": "super-league-1",
+          "name": "Pamisos Messini",
+          "hash": "54dca320"
         }
       }
     },
@@ -21501,6 +21531,12 @@
           "league": "liga-mx",
           "name": "Purépechas FC",
           "hash": "2ba4e4af"
+        },
+        "tigres-de-alica-fc": {
+          "slug": "tigres-de-alica-fc",
+          "league": "liga-mx",
+          "name": "Tigres de Álica FC",
+          "hash": "3979d58a"
         }
       }
     },
@@ -33582,5 +33618,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "830557183b2523d0"
+  "contentHash": "fc4a98d057e0006e"
 }
