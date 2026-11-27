@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-11-27T16:20:25.369Z",
   "country": {
     "slug": "south-africa",
     "iso2": "ZA",
@@ -139,6 +139,12 @@
         "name": "Lerumo Lions",
         "hash": "9847f262",
         "league": ""
+      },
+      "cape-town-city": {
+        "slug": "cape-town-city",
+        "league": "premier-soccer-league",
+        "name": "Cape Town City",
+        "hash": "777b4795"
       }
     }
   }

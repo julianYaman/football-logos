@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:34:42.610Z",
+  "generatedAt": "2026-11-27T16:20:25.369Z",
   "country": {
     "slug": "germany",
     "iso2": "DE",
@@ -2440,6 +2440,12 @@
         "league": "bundesliga",
         "name": "TSV Altenholz",
         "hash": "c08cce3e"
+      },
+      "tsv-kornburg": {
+        "slug": "tsv-kornburg",
+        "league": "bundesliga",
+        "name": "TSV Kornburg",
+        "hash": "4d14d2fb"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:16:27.145Z",
+  "generatedAt": "2026-11-27T16:20:25.369Z",
   "country": {
     "slug": "turkey",
     "iso2": "TR",
@@ -37,6 +37,11 @@
         "slug": "turkish-cup",
         "name": "Turkish Cup",
         "hash": "4a2b9eb1"
+      },
+      "turkish-super-cup": {
+        "slug": "turkish-super-cup",
+        "name": "Turkish Super Cup",
+        "hash": "ac047a18"
       }
     },
     "clubs": {
@@ -657,6 +662,18 @@
         "league": "super-lig",
         "name": "Zeytinburnuspor",
         "hash": "8044208e"
+      },
+      "arsinspor": {
+        "slug": "arsinspor",
+        "league": "super-lig",
+        "name": "Arsinspor",
+        "hash": "a73c1a33"
+      },
+      "balikesirspor": {
+        "slug": "balikesirspor",
+        "league": "super-lig",
+        "name": "Balıkesirspor",
+        "hash": "5e3288e2"
       }
     }
   }

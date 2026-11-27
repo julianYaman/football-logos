@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:41:16.200Z",
+  "generatedAt": "2026-11-27T16:20:25.369Z",
   "country": {
     "slug": "russia",
     "iso2": "RU",
@@ -32,6 +32,11 @@
         "slug": "russian-cup",
         "name": "Russian Cup",
         "hash": "eaa901ca"
+      },
+      "russian-second-league": {
+        "slug": "russian-second-league",
+        "name": "Russian Second League",
+        "hash": "7bcf54f9"
       }
     },
     "clubs": {
@@ -310,6 +315,18 @@
         "league": "russian-premier-league",
         "name": "FC Tyumen",
         "hash": "d82ddeba"
+      },
+      "fnl": {
+        "slug": "fnl",
+        "league": "russian-premier-league",
+        "name": "Football National League",
+        "hash": "22eee6f7"
+      },
+      "alania-vladikavkaz": {
+        "slug": "alania-vladikavkaz",
+        "league": "russian-premier-league",
+        "name": "Alania Vladikavkaz",
+        "hash": "bb5027c0"
       }
     }
   }

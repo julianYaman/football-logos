@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:34:42.610Z",
+  "generatedAt": "2026-11-27T16:20:25.369Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": {
@@ -1330,6 +1330,12 @@
           "league": "argentina-primera-division",
           "name": "Atenas de Río Cuarto",
           "hash": "32560144"
+        },
+        "supercopa-argentina": {
+          "slug": "supercopa-argentina",
+          "league": "argentina-primera-division",
+          "name": "Supercopa Argentina",
+          "hash": "b6716dc0"
         }
       }
     },
@@ -1633,6 +1639,12 @@
           "league": "a-league",
           "name": "SD Raiders FC",
           "hash": "ede909ac"
+        },
+        "sutherland-sharks-fc": {
+          "slug": "sutherland-sharks-fc",
+          "league": "a-league",
+          "name": "Sutherland Sharks FC",
+          "hash": "2452730c"
         }
       }
     },
@@ -4703,6 +4715,12 @@
           "league": "brazilian-serie-a",
           "name": "Santa Cruz-AC",
           "hash": "1f03a7fa"
+        },
+        "club-athletico-paulistano": {
+          "slug": "club-athletico-paulistano",
+          "league": "brazilian-serie-a",
+          "name": "Club Athletico Paulistano",
+          "hash": "6003593b"
         }
       }
     },
@@ -6056,6 +6074,12 @@
           "name": "HNK Segesta Sisak",
           "hash": "88e364ba",
           "league": ""
+        },
+        "cibalia": {
+          "slug": "cibalia",
+          "league": "croatian-football-league",
+          "name": "Cibalia",
+          "hash": "de2840a0"
         }
       }
     },
@@ -14884,6 +14908,12 @@
           "league": "bundesliga",
           "name": "TSV Altenholz",
           "hash": "c08cce3e"
+        },
+        "tsv-kornburg": {
+          "slug": "tsv-kornburg",
+          "league": "bundesliga",
+          "name": "TSV Kornburg",
+          "hash": "4d14d2fb"
         }
       }
     },
@@ -19406,6 +19436,48 @@
           "league": "serie-a",
           "name": "ASD Ugento",
           "hash": "8bb812b4"
+        },
+        "pomigliano": {
+          "slug": "pomigliano",
+          "league": "serie-a",
+          "name": "Pomigliano",
+          "hash": "e44d2430"
+        },
+        "real-bacoli-sibilla": {
+          "slug": "real-bacoli-sibilla",
+          "league": "serie-a",
+          "name": "Real Bacoli Sibilla",
+          "hash": "6d1e661b"
+        },
+        "atletico-uri": {
+          "slug": "atletico-uri",
+          "league": "serie-a",
+          "name": "Atletico Uri",
+          "hash": "d70600fa"
+        },
+        "iglesias-calcio": {
+          "slug": "iglesias-calcio",
+          "league": "serie-a",
+          "name": "Iglesias Calcio",
+          "hash": "3dc5d156"
+        },
+        "ossese": {
+          "slug": "ossese",
+          "league": "serie-a",
+          "name": "Ossese",
+          "hash": "dc798a29"
+        },
+        "polisportiva-gricignano": {
+          "slug": "polisportiva-gricignano",
+          "league": "serie-a",
+          "name": "Polisportiva Gricignano",
+          "hash": "945caca9"
+        },
+        "puteolana-1902": {
+          "slug": "puteolana-1902",
+          "league": "serie-a",
+          "name": "Puteolana 1902",
+          "hash": "44427b36"
         }
       }
     },
@@ -21108,7 +21180,14 @@
           "code": "MR"
         }
       },
-      "clubs": {}
+      "clubs": {
+        "fc-nouadhibou": {
+          "slug": "fc-nouadhibou",
+          "league": "mauritania-national-team",
+          "name": "FC Nouadhibou",
+          "hash": "b90ba5c2"
+        }
+      }
     },
     "mauritius": {
       "slug": "mauritius",
@@ -21537,6 +21616,12 @@
           "league": "liga-mx",
           "name": "Tigres de Álica FC",
           "hash": "3979d58a"
+        },
+        "tritones-vallarta-mfc": {
+          "slug": "tritones-vallarta-mfc",
+          "league": "liga-mx",
+          "name": "Tritones Vallarta MFC",
+          "hash": "8b8d08a2"
         }
       }
     },
@@ -22771,7 +22856,14 @@
           "code": "NC"
         }
       },
-      "clubs": {}
+      "clubs": {
+        "as-magenta": {
+          "slug": "as-magenta",
+          "league": "new-caledonia-national-team",
+          "name": "AS Magenta",
+          "hash": "683a4ec2"
+        }
+      }
     },
     "new-zealand": {
       "slug": "new-zealand",
@@ -24044,6 +24136,12 @@
           "league": "peruvian-primera-division",
           "name": "Universidad San Martín",
           "hash": "dc3054cf"
+        },
+        "deportivo-binacional": {
+          "slug": "deportivo-binacional",
+          "league": "peruvian-primera-division",
+          "name": "Deportivo Binacional",
+          "hash": "0aacc076"
         }
       }
     },
@@ -24406,6 +24504,11 @@
           "slug": "portuguese-football-federation",
           "name": "Portuguese Football Federation",
           "hash": "1a0b6707"
+        },
+        "taca-da-liga": {
+          "slug": "taca-da-liga",
+          "name": "Taça da Liga",
+          "hash": "7f77b59c"
         }
       },
       "clubs": {
@@ -25980,6 +26083,11 @@
           "slug": "russian-cup",
           "name": "Russian Cup",
           "hash": "eaa901ca"
+        },
+        "russian-second-league": {
+          "slug": "russian-second-league",
+          "name": "Russian Second League",
+          "hash": "7bcf54f9"
         }
       },
       "clubs": {
@@ -26258,6 +26366,18 @@
           "league": "russian-premier-league",
           "name": "FC Tyumen",
           "hash": "d82ddeba"
+        },
+        "fnl": {
+          "slug": "fnl",
+          "league": "russian-premier-league",
+          "name": "Football National League",
+          "hash": "22eee6f7"
+        },
+        "alania-vladikavkaz": {
+          "slug": "alania-vladikavkaz",
+          "league": "russian-premier-league",
+          "name": "Alania Vladikavkaz",
+          "hash": "bb5027c0"
         }
       }
     },
@@ -26477,6 +26597,11 @@
           "slug": "saudi-first-division-league",
           "name": "Saudi First Division League SDL",
           "hash": "ebe12da1"
+        },
+        "saudi-super-cup": {
+          "slug": "saudi-super-cup",
+          "name": "Saudi Super Cup",
+          "hash": "b6e2868f"
         }
       },
       "clubs": {
@@ -27814,6 +27939,12 @@
           "name": "Lerumo Lions",
           "hash": "9847f262",
           "league": ""
+        },
+        "cape-town-city": {
+          "slug": "cape-town-city",
+          "league": "premier-soccer-league",
+          "name": "Cape Town City",
+          "hash": "777b4795"
         }
       }
     },
@@ -30422,6 +30553,11 @@
           "slug": "turkish-cup",
           "name": "Turkish Cup",
           "hash": "4a2b9eb1"
+        },
+        "turkish-super-cup": {
+          "slug": "turkish-super-cup",
+          "name": "Turkish Super Cup",
+          "hash": "ac047a18"
         }
       },
       "clubs": {
@@ -31042,6 +31178,18 @@
           "league": "super-lig",
           "name": "Zeytinburnuspor",
           "hash": "8044208e"
+        },
+        "arsinspor": {
+          "slug": "arsinspor",
+          "league": "super-lig",
+          "name": "Arsinspor",
+          "hash": "a73c1a33"
+        },
+        "balikesirspor": {
+          "slug": "balikesirspor",
+          "league": "super-lig",
+          "name": "Balıkesirspor",
+          "hash": "5e3288e2"
         }
       }
     },
@@ -32346,6 +32494,12 @@
           "league": "mls",
           "name": "LAFC2",
           "hash": "ce0f88cf"
+        },
+        "memphis-901-fc": {
+          "slug": "memphis-901-fc",
+          "league": "mls",
+          "name": "Memphis 901 FC",
+          "hash": "a9e2605d"
         }
       }
     },
@@ -33618,5 +33772,5 @@
       "clubs": {}
     }
   },
-  "contentHash": "fc4a98d057e0006e"
+  "contentHash": "8760454901cf692f"
 }

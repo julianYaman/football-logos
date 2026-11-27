@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T13:49:33.407Z",
+  "generatedAt": "2026-11-27T16:20:25.369Z",
   "country": {
     "slug": "usa",
     "iso2": "US",
@@ -643,6 +643,12 @@
         "league": "mls",
         "name": "LAFC2",
         "hash": "ce0f88cf"
+      },
+      "memphis-901-fc": {
+        "slug": "memphis-901-fc",
+        "league": "mls",
+        "name": "Memphis 901 FC",
+        "hash": "a9e2605d"
       }
     }
   }

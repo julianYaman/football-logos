@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T12:05:55.440Z",
+  "generatedAt": "2026-11-27T16:20:25.369Z",
   "country": {
     "slug": "peru",
     "iso2": "PE",
@@ -193,6 +193,12 @@
         "league": "peruvian-primera-division",
         "name": "Universidad San Martín",
         "hash": "dc3054cf"
+      },
+      "deportivo-binacional": {
+        "slug": "deportivo-binacional",
+        "league": "peruvian-primera-division",
+        "name": "Deportivo Binacional",
+        "hash": "0aacc076"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:09:28.863Z",
+  "generatedAt": "2026-11-27T16:20:25.369Z",
   "country": {
     "slug": "brazil",
     "iso2": "BR",
@@ -1678,6 +1678,12 @@
         "league": "brazilian-serie-a",
         "name": "Santa Cruz-AC",
         "hash": "1f03a7fa"
+      },
+      "club-athletico-paulistano": {
+        "slug": "club-athletico-paulistano",
+        "league": "brazilian-serie-a",
+        "name": "Club Athletico Paulistano",
+        "hash": "6003593b"
       }
     }
   }

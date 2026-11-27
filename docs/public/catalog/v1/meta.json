@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:34:42.610Z",
+  "generatedAt": "2026-11-27T16:20:25.369Z",
   "defaultSize": 512,
   "assetBase": "https://assets.football-logos.cc/logos",
   "countries": [
@@ -65,7 +65,7 @@
       "iso2": "AR",
       "name": "Argentina",
       "defaultLeague": "argentina-primera-division",
-      "clubCount": 141
+      "clubCount": 142
     },
     {
       "slug": "armenia",
@@ -86,7 +86,7 @@
       "iso2": "AU",
       "name": "Australia",
       "defaultLeague": "a-league",
-      "clubCount": 29
+      "clubCount": 30
     },
     {
       "slug": "austria",
@@ -205,7 +205,7 @@
       "iso2": "BR",
       "name": "Brazil",
       "defaultLeague": "brazilian-serie-a",
-      "clubCount": 274
+      "clubCount": 275
     },
     {
       "slug": "british-virgin-islands",
@@ -366,7 +366,7 @@
       "iso2": "HR",
       "name": "Croatia",
       "defaultLeague": "croatian-football-league",
-      "clubCount": 16
+      "clubCount": 17
     },
     {
       "slug": "cuba",
@@ -548,7 +548,7 @@
       "iso2": "DE",
       "name": "Germany",
       "defaultLeague": "bundesliga",
-      "clubCount": 395
+      "clubCount": 396
     },
     {
       "slug": "ghana",
@@ -702,7 +702,7 @@
       "iso2": "IT",
       "name": "Italy",
       "defaultLeague": "serie-a",
-      "clubCount": 297
+      "clubCount": 304
     },
     {
       "slug": "jamaica",
@@ -898,7 +898,7 @@
       "iso2": "MR",
       "name": "Mauritania",
       "defaultLeague": "mauritania-national-team",
-      "clubCount": 0
+      "clubCount": 1
     },
     {
       "slug": "mauritius",
@@ -912,7 +912,7 @@
       "iso2": "MX",
       "name": "Mexico",
       "defaultLeague": "liga-mx",
-      "clubCount": 64
+      "clubCount": 65
     },
     {
       "slug": "moldova",
@@ -996,7 +996,7 @@
       "iso2": "NC",
       "name": "New Caledonia",
       "defaultLeague": "new-caledonia-national-team",
-      "clubCount": 0
+      "clubCount": 1
     },
     {
       "slug": "new-zealand",
@@ -1115,7 +1115,7 @@
       "iso2": "PE",
       "name": "Peru",
       "defaultLeague": "peruvian-primera-division",
-      "clubCount": 29
+      "clubCount": 30
     },
     {
       "slug": "philippines",
@@ -1178,7 +1178,7 @@
       "iso2": "RU",
       "name": "Russia",
       "defaultLeague": "russian-premier-league",
-      "clubCount": 46
+      "clubCount": 48
     },
     {
       "slug": "rwanda",
@@ -1318,7 +1318,7 @@
       "iso2": "ZA",
       "name": "South Africa",
       "defaultLeague": "premier-soccer-league",
-      "clubCount": 20
+      "clubCount": 21
     },
     {
       "slug": "south-korea",
@@ -1472,7 +1472,7 @@
       "iso2": "TR",
       "name": "Turkey",
       "defaultLeague": "super-lig",
-      "clubCount": 103
+      "clubCount": 105
     },
     {
       "slug": "turkmenistan",
@@ -1528,7 +1528,7 @@
       "iso2": "US",
       "name": "United States",
       "defaultLeague": "mls",
-      "clubCount": 99
+      "clubCount": 100
     },
     {
       "slug": "uruguay",
@@ -1608,5 +1608,5 @@
       "clubCount": 1
     }
   ],
-  "contentHash": "fc4a98d057e0006e"
+  "contentHash": "8760454901cf692f"
 }

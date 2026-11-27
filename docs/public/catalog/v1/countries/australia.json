@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T17:39:20.607Z",
+  "generatedAt": "2026-11-27T16:20:25.369Z",
   "country": {
     "slug": "australia",
     "iso2": "AU",
@@ -193,6 +193,12 @@
         "league": "a-league",
         "name": "SD Raiders FC",
         "hash": "ede909ac"
+      },
+      "sutherland-sharks-fc": {
+        "slug": "sutherland-sharks-fc",
+        "league": "a-league",
+        "name": "Sutherland Sharks FC",
+        "hash": "2452730c"
       }
     }
   }

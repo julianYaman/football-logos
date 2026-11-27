@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-11-27T16:20:25.369Z",
   "country": {
     "slug": "saudi-arabia",
     "iso2": "SA",
@@ -27,6 +27,11 @@
         "slug": "saudi-first-division-league",
         "name": "Saudi First Division League SDL",
         "hash": "ebe12da1"
+      },
+      "saudi-super-cup": {
+        "slug": "saudi-super-cup",
+        "name": "Saudi Super Cup",
+        "hash": "b6e2868f"
       }
     },
     "clubs": {

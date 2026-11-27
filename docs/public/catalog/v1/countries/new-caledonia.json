@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T07:45:35.461Z",
+  "generatedAt": "2026-11-27T16:20:25.369Z",
   "country": {
     "slug": "new-caledonia",
     "iso2": "NC",
@@ -14,6 +14,13 @@
         "code": "NC"
       }
     },
-    "clubs": {}
+    "clubs": {
+      "as-magenta": {
+        "slug": "as-magenta",
+        "league": "new-caledonia-national-team",
+        "name": "AS Magenta",
+        "hash": "683a4ec2"
+      }
+    }
   }
 }
